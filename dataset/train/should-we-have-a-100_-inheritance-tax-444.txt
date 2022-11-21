@@ -1,0 +1,170 @@
+Discussion Name: Should we Have a 100% Inheritance Tax?
+
+1. There should be a 100% inheritance tax on all inherited wealth above 1 million Euros.
+1.1. Con: A 100% inheritance tax on all inherited wealth above 1 million euros undermines property rights.
+1.1.1. Pro: Taxation should be kept to a minimal. A 100% inheritance tax on all wealth above 1 milllion euros does not meet this ideal.
+1.1.1.1. Pro: Inheritance taxes are not minimalistic taxes as that which is inherited has often already been taxed through other forms of taxation such as income tax.
+1.1.1.1.1. Con: Although that income may have been taxed previously, the taxation was applied when the property belonged to another individual. It is rightful to tax the same property again when it has come under new ownership.
+1.1.1.2. Pro: -> See discussion #7734: Taxation is theft
+1.1.2. Con: Property rights [belong to a person](https://www.investopedia.com/terms/p/property_rights.asp). These rights do not apply to property that is being transferred to other persons.
+1.1.2.1. Con: Part of ownership of property is the right to choose where that property ends up.
+1.1.3. Pro: The state needs to justify the taking of property. The individual does not need to justify why they should be allowed to keep their property.
+1.1.3.1. Pro: [Article 39](https://magnacarta.cmp.uea.ac.uk/read/magna_carta_1215/Clause_39) of Magna Carta 1225 guarantees the right to hold property.
+1.1.3.2. Pro: It is immoral to take money from others by force or threat of force.
+1.1.3.3. Con: If any of this happens after one's death, no one is alive for their property rights to be infringed upon. You would be taxing property of a deceased person before it arrives at the person about to inherit it.
+1.1.3.4. Pro: Inheritance is a private transfer of ownership. Government has no business taking anything from it.
+1.1.4. Con: Rights on property can be restricted by law.
+1.1.4.1. Con: Even if rights on property can be restricted by law, this does not make the restrictions of these rights a morally permissable action.
+1.1.4.2. Pro: Most countries have restrictions on property rights through some form of [taxation](https://worldpopulationreview.com/country-rankings/highest-taxed-countries).
+1.1.5. Pro: It's difficult to quantify wealth and the precise threshold of when 1 million euros has been met.
+1.1.5.1. Pro: There are many assets whose [market value cannot be determined accurately](https://www.brookings.edu/opinions/putting-a-tax-on-wealth-means-we-first-must-measure-it/).
+1.1.5.1.1. Pro: There are many assets that are highly volatile. In these cases, making an accurate and fair valuation can be difficult.
+1.1.5.1.1.1. Pro: Cryptocurrencies are highly [volatile](https://www.forbes.com/sites/nicolelapin/2021/12/23/explaining-cryptos-volatility/).
+1.1.5.2. Con: All that is required to measure wealth is an agreed upon metric.
+1.1.5.2.1. Con: Even if the metric is defined, it may be that many people don't accept the given definition as acceptable.
+1.1.5.3. Con: Wealth is already measured in one way or another to facilitate existing taxation.
+1.2. Pro: A 100% inheritance tax on inherited wealth above €1 million would be beneficial from a macroeconomic perspective.
+1.2.1. Con: A 100% inheritance tax will lead to less capital entering and remaining in the country.
+1.2.1.1. Pro: Capital entering the country would increase the housing prices and therefore the rents for average and poor people.
+1.2.1.2. Con: This can be avoided by forming tax unions and/or abolishing national states.
+1.2.1.2.1. Con: The task of abolishing states would entirely change the composition of political organisation internationally. Therefore, this would not be easy.
+1.2.1.3. Con: You would have to abandon your nationality in order to evade your country's fiscal administration, thus increasing the stakes for leaving.
+1.2.1.4. Con: The tax could be based on nationality and not residence, thus closing any offshore tax evasion loopholes
+1.2.1.4.1. Con: Taxation based on nationality would not be a reasonable solution for those with multiple nationalities.
+1.2.1.4.2. Con: In many cases, those looking to avoid unfavourable tax laws will be willing to switch nationalities.
+1.2.1.4.2.1. Con: Governments can introduced measures such as a tax penalty for those switching nationalities to help offset some of the lost tax revenue.
+1.2.1.4.2.2. Pro: Many countries will be [willing to give wealthy investors citizenship in their country.](https://www.theguardian.com/world/2018/jun/02/citizenship-by-investment-passport-super-rich-nationality)
+1.2.1.5. Pro: Many people and businesses have moved to other countries for tax reasons. Making tax laws less favourable for business is likely to increase this tendency.
+1.2.1.5.1. Pro: A 100% inheritance tax would encourage businesses to establish tax residency in countries with more favourable tax laws.
+1.2.1.5.1.1. Pro: If businesses move to other locations, government loses out on more revenue through taxation.
+1.2.1.5.1.2. Pro: Movement of capital to elsewhere reduces economic activity in the country where the capital is moving from.
+1.2.1.5.1.3. Con: There are always drawbacks to a solution. Counter-measures can be introduced to help mitigate the effect of them.
+1.2.1.5.2. Con: -> See 1.2.1.4.
+1.2.2. Pro: A 100% inheritance tax would encourage wealth creation.
+1.2.2.1. Pro: The public benefits from productive citizens. If people inherit less, they will have to work more.
+1.2.2.2. Pro: People who earn their wealth tend to invest and spend it more than those who inherit their wealth.
+1.2.2.2.1. Pro: Those who have accumulated their wealth are more comfortable risking their money as risking money was required of them to accumulate their wealth.
+1.2.2.2.1.1. Con: Someone may have taken risks to accumulate wealth and then have less of a tolerance to risk at a later point.
+1.2.2.2.2. Pro: 39% of earners are moderate or risky investors while almost half as many, 21% of heirs do the same. [-Forbes](https://www.forbes.com/sites/moneybuilder/2012/04/20/most-wealthy-individuals-earned-not-inherited-their-wealth-2/#71401e221bac)
+1.2.2.2.3. Con: Money-related decisions are a private matter; as such, what a person chooses to do with their money, regardless of whether it is earned or inherited, should not determine tax policy.
+1.2.2.3. Con: Large-scale entrepreneurship often requires a vast financial upfront investment, which may be denied to people under a 100% inheritance tax.
+1.2.2.3.1. Con: Venture capital usually comes from banks and successful entrepreneurs, not inherited wealth. - [Forbes](https://www.investopedia.com/terms/v/venturecapital.asp).
+1.2.2.4. Pro: People generally want to be wealthy. If inheritance was not a road to wealth, then the easiest way to become wealthy would be through entrepreneurship \(Assuming a generally uncorrupt government\).
+1.2.2.4.1. Con: According to a [study](https://www.fa-mag.com/news/most-millionaires-self-made--study-says-14565.html), only 8% of millionaires inherited their wealth.
+1.2.2.5. Con: Knowing that your company could be given away through taxation after you pass away disincentivizes entrepreneurship.
+1.2.2.5.1. Con: Many people are likely to continue working due to the satisfication they derive from it.
+1.2.2.5.1.1. Con: While wealthy and productive people might not stop working and creating value altogether, many of them would be likely to do so to much less of a degree, and spend their time in leisure instead.
+1.2.2.5.2. Pro: The company founder is unable to have as strong a legacy if the company is sold for tax purposes after their death.
+1.2.2.5.2.1. Con: The founder will still always be associated with the founding of the company, regardless of how the company develops over time.
+1.2.2.5.2.2. Pro: Many people who think in legacy terms, as in leaving a legacy for future generations, think in wealth accumulation.
+1.2.2.5.2.3. Pro: The company will exist for a shorter period and thus the company founder will likely have a less enduring legacy.
+1.2.3. Con: Business ownership would transfer to governments. Governments with significant oversight of businesses in the past, have often struggled \(see: [USSR](https://www.history.com/topics/russia/history-of-the-soviet-union) and [US postal service](https://www.pbs.org/newshour/nation/u-s-postal-service-marks-11-straight-years-of-financial-loss)\).
+1.2.4. Pro: A 100% inheritance tax above 1 million euros would heavily incentivize private consumption and provide a strong economic stimulus.
+1.2.4.1. Con: A 100% tax after 1 million euros could heavily deincentivize saving which would mean a lot less investment in the economy and therefore lower growth.
+1.2.4.1.1. Con: 1 million euros provides a both a sufficient financial safety net and enough disposable capital to encourage spending.
+1.2.4.1.2. Pro: Instituting a 100% inheritance tax would incentivize consuming all your savings, which would in turn worsen consumerism and the problems that come with it.
+1.2.4.2. Con: Not all consumption is desirable. People may be incentivized to spend large sums of money during their lifetime in ways that are wasteful.
+1.2.4.2.1. Pro: This incentivizes people to spend all their money before death. It would not be logical to die with money to your name.
+1.2.4.3. Pro: If earnings cannot be passed on after death, it would be reasonable to plan so that one spends all their income above 1 million euros before their death.
+1.3. Con: A 100% inheritance tax on wealth above 1 million euros will result in wealth and businesses not being passed on to family members.
+1.3.1. Pro: Inheriting family members may lose control of the business.
+1.3.1.1. Con: Even if they have children, the primary motivation for entrepreneurs to start businesses is not to pass the business on to them.
+1.3.1.1.1. Pro: When starting a business, most are thinking about making it succeed in the moment, changing the world and/or making money.
+1.3.1.1.1.1. Pro: It is a bit premature for somebody starting a business to already assume that it will succeed and be then passed on for generations.
+1.3.1.1.2. Pro: Very few large companies are ran today by those linked to the founding family of the company.
+1.3.1.1.2.1. Pro: Especially if a business spans over multiple generations, most of the times there are too many heirs in order for any single part of the family to control the business and thus they do not act as a founding family.
+1.3.1.1.2.2. Pro: Very often individual heirs want to liquidate their assets and diversify into other asset classes.
+1.3.1.1.3. Pro: Very few rich people are rarely motivated by wanting to pass on a lot to their children, see [e.g. Warren Buffet or Bill Gates](https://www.cnbc.com/2016/09/26/warren-buffett-bill-gates-have-similar-ideas-on-how-much-money-to-leave-kids.html).
+1.3.1.1.3.1. Pro: Many people that are self-made do not want their children to become spoiled and therefore do not wish to leave their children with a fortune.
+1.3.1.1.3.2. Pro: Running a business is a difficult job. Many do not want their children to have to go through this.
+1.3.1.1.3.3. Con: According to the source linked, both are still passing on sizeable amounts to their children.
+1.3.1.2. Pro: In case of death any of family member, another family member could only inherit wealth amounting to 1 million euros. In a company worth significantly more, the inheriting family member would therefore likely lose control of a large portion of the company.
+1.3.1.3. Con: Stopping businesses from being passed down over generations is a positive as it helps level the economic playing field.
+1.3.1.4. Pro: It is unfair to strip people of the ability to pass on wealth by passing on their businesses to their family members.
+1.3.1.4.1. Pro: Individuals exist in circumstances partly created for them by their family members. Thus, in some cases favourable circumstances are the result of hard work.
+1.3.1.4.1.1. Pro: An individual is a temporary instantiation of their family, nation and civilization, which persist even though individuals die, and shape their members through their values, beliefs, tradiations, institutions, and material wealth.
+1.3.1.4.1.2. Pro: An individual is brought into existence by a particular set of circumstances, meaning that any specific individual could not have come into existence at any other place or time or in a different state of affairs than was actually the case.
+1.3.2. Pro: Individuals should be given the capacity to pass on wealth and businesses to their family members.
+1.3.2.1. Con: That is exactly what an inheritance tax over "x value" does. It allows you to transfer 1 million euros to your children without being taxed.
+1.3.2.2. Con: Inheriting wealth is no guarantee of prosperity. The provision of wealth inhibits the preogress of young people and their ability to stand on their own feet.
+1.3.2.3. Pro: Passing on wealth to offspring or family members satisfies the desire for long-term consumption over instant gratification.
+1.3.3. Con: When taking ownership of a business through a proposed inheritance tax, the government could appoint the most competent individuals in leadership positions. This is a more favourable outcome for the company than being run by a family member.
+1.3.3.1. Con: Allowing the government to create laws which permit it to assume ownership over private business enterprises is essentially equivalent of forceful nationalization.
+1.3.3.1.1. Pro: The government has no such intrinsic right to value created by private individuals.
+1.3.3.2. Pro: The company remains as an entity, and the government sells it to claim the tax.
+1.3.3.3. Con: In practice, it's unclear how the government would behave if given control over a company. They may instead liquidate the company and take the subesequent proceeds as taxation. Or they may appoint a leader based on some other criteria than competence
+1.3.3.3.1. Pro: Families and governments tend to have different motivations. Therefore, we cannot expect governments to behave as we would expect companies to behave.
+1.3.4. Pro: -> See 1.2.2.5.
+1.3.5. Con: Companies could be made non-profits and still be passed down to family members.
+1.3.5.1. Con: Many companies have little purpose other than generating revenue and profit for shareholders. In these cases, it is difficult to see how they could be made into non-profit companies.
+1.3.5.1.1. Con: If shareholders are bought out the goals of the company could be changed so that they better align with one of a non-profit company.
+1.3.5.1.2. Con: Zeiss is e.g. held by a non-profit foundation
+1.3.6. Con: Nothing prevents inheritors from purchasing family-run companies with their own wealth \(or by taking on debt\) to ensure that they are passed on to the next generation.
+1.3.6.1. Pro: An individual who believes that they would effectively run a family business and could make it grow should have no issue in paying for that opportunity.
+1.3.6.2. Pro: With their existing wealth and inheritance from the first million euros, individuals should have plenty of collateral to leverage into retaining a family business.
+1.3.6.2.1. Con: Many businesses are valued at significantly over a million euros.
+1.3.6.2.2. Con: People may not want to spend all or much of their inheritance on acquiring the business.
+1.3.6.3. Pro: People will be willing to pay a higher price for items and businesses with sentimental, personal, or individual value - thus a transaction done at market rates would still be positive.
+1.3.6.4. Con: People will effectively be paying for something they are entitled to as part of inheritance, in the first instance.
+1.3.7. Pro: Some companies have brands that are strongly linked to a 'family name'. In these cases, appointing a non-family member in leadership may end up being detrimental to the business.
+1.4. Pro: A 100% inheritance tax above 1 million euros would make society more meritocratic and better ensure equality of opportunity.
+1.4.1. Pro: Capitalist societies are built upon the idea of [meritocracy](https://www.merriam-webster.com/dictionary/meritocracy). Inheriting large amounts of money gives some people significant advantages in life, without having to work for it. This undermines the ideal of working hard to get ahead.
+1.4.1.1. Con: Taking inheritance and using it to build or achieve something still requires hard work.
+1.4.1.2. Pro: Individuals will view a 100% inheritance tax above 1 million euros as an indication that there is equality of opportunity in society and it is meritocratic. This is likely to make them more productive.
+1.4.1.2.1. Con: An inheritance tax would disincentivise people from working throughout their life.
+1.4.1.2.1.1. Pro: People would have little incentive to earn beyond a certain point as they would be unable to pass on their earnings to their children.
+1.4.1.2.1.1.1. Con: People could spend additional earnings on charitable causes that have personal meaning to them.
+1.4.1.2.2. Pro: If individuals believe society is meritocratic, they will be more incentivised to work harder.
+1.4.2. Con: The meritocratic nature of society does not have to be viewed in an individualistic sense. Instead, a family can work to earn its success over time, across individuals and over generations.
+1.4.2.1. Pro: Being born into a wealthy familiy is unlikley merely the result of luck. Instead, it occurs because family members have worked hard in the past.
+1.4.2.2. Con: The work of one family member does not justify reward for another family member.
+1.4.3. Con: Tax policy should not seek to punish those who are fortunate but should instead provide opportunities for the less fortunate to improve their cirumstances.
+1.4.3.1. Con: Redistributive tax is all about taking from the richer and giving it to the poor. The parent claim would apply to almost any tax funding the welfare state.
+1.4.4. Pro: An individual who inherits wealth has not achieved something personally and thus should not reap the rewards of the hardwork of their family members.
+1.4.4.1. Pro: Ownership of property should only come about as a result of producing something.
+1.4.4.1.1. Con: Inheritance is equivalent to a gift, because the decedent has either outlined their wishes in a will, or has implicitly consented to the default distribution of the legal system. If they wanted their property to go to the state, they could have arranged for it.
+1.4.4.1.2. Con: Inheritance is also a voluntary transfer. It is voluntarily earmarked to be given to a particular person, persons, cause or institutions by the giver while they are alive, and is accepted voluntarily as well.
+1.4.4.1.2.1. Pro: Particularly those whom this issue specifies \(those giving an inheritance over 1 million euros\) will likely have voluntarily specified what is to be done with their possessions in a will.
+1.4.4.1.3. Pro: People should be able to have a choice about where their money goes, even after death.
+1.4.5. Con: Regardless of policy on inheritance tax, meritocracy and equality of opportunity is not an achievable goal as there are many dimensions which cannot be equalised.
+1.4.5.1. Pro: Many people are born with advantages that make them more likely to be successful.
+1.4.5.1.1. Pro: IQ is a [strong predictor of life outcomes](https://www.vox.com/2016/5/24/11723182/iq-test-intelligence#:~:text=\(IQ%20often%20beats%20personality%20when,%2C%20depending%20on%20the%20study.\)) and are not equally distributed.
+1.4.5.1.2. Pro: [Tall people are more likely to be successful](https://www.independent.co.uk/life-style/health-and-families/health-news/tall-people-more-likely-to-be-successful-in-life-study-find-a6919431.html).
+1.4.5.2. Pro: [Personality traits vary](https://www.verywellmind.com/the-big-five-personality-dimensions-2795422) across individuals and yet these can be [strong predictors for life outcomes](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00356/full).
+1.4.5.3. Con: Even if it's not possible to make society perfectly meritorcratic, it is possible to make society more meritocratic. In this view, an inheritance tax policy would still be worthwhile.
+1.4.5.4. Pro: Some will have access to more '[cultural capital](https://early-education.org.uk/cultural-capital/)', than others, effectively increasing their prospects for success.
+1.4.5.4.1. Pro: Children of wealthy paents will have unfair socio-cultural advantages such as a higher quality of education, introductions to favourable networks and more job opportunities through nepotism.
+1.4.6. Con: If meritocracy is the primary concern, all amounts of inheritance would be outlawed, as these rewards would not be the product of hard work.
+1.4.6.1. Con: The degree to which meritocracy has been undermined and how problematic that is, can vary.
+1.5. Pro: A 100% inheritance tax will help reduce inequality in society.
+1.5.1. Con: An inheritance tax does nothing to directly improve the circumstances of those lower in the economic distribution.
+1.5.1.1. Con: Revenue generated from taxation can be redistributed toward public services that aim to help those lower on the economic distribution.
+1.5.2. Con: People would still be able to claim 1 million euros before the inheritance tax is applicable, putting them far above average in terms of wealth.
+1.5.2.1. Con: €1 million is not sufficient to ensure a good quality of life for inheritors.
+1.5.2.1.1. Con: The amount of money it takes to maintain an adequate standard of living is a subjective metric.
+1.5.2.1.1.1. Pro: People should have the freedom to determine what standard of living is sufficiently satisfactory to them.
+1.5.2.1.1.2. Con: The notion of what is considered adequate is a minimalistic criteria that can be objectively determined.
+1.5.2.1.2. Pro: The purchasing power of 1 million euros is likely to vary based on location.
+1.5.2.1.2.1. Pro: The purchasing power of 1 million euros is likely to go down over time due to inflation. Countries with higher rates of inflation will experience this effect more.
+1.5.2.1.2.2. Con: Any variance in purchasing power is likely to be minimal as the sum in question is euros, which is a global and generally stable currency.
+1.5.2.1.3. Con: 1 million euros is a sufficient sum to invest and live from the interest.
+1.5.2.1.3.1. Pro: Investing with 1 million euros would likely result in a yearly [payout between 40,000 euros and 100,000 euros](https://lendedu.com/blog/how-much-money-do-you-need-to-live-off-interest/).
+1.5.2.1.3.2. Con: 1 million euros cannot generate enough income at today's interest rates and price level to comfortably retire. At 3% interest, 1 million euros can only generate 30,000 euros in income per year, and that's before tax. At 2% it's 20,000 euros a year, and so on.
+1.5.2.1.3.3. Con: Interest rates and dividend payments vary across time and depending on the specific investments.
+1.5.2.1.3.3.1. Pro: As dividend payments can vary there is no guaranteed return from investing.
+1.5.2.1.3.3.2. Pro: Investments can end up becoming worthless, no matter how low the likelihood of this occuring is.
+1.5.2.2. Con: An inheritance tax that only applies after the threshold of 1 million euros is met, would still likely reduce inequality more than if the policy were not in effect.
+1.5.3. Pro: If financial inequality is reduced, we can expect socio-political inequality to reduce as a consequence.
+1.5.3.1. Pro: The reduction in financial inequality would result in less people who possess political influence due to their financial position.
+1.5.3.2. Pro: Those with significant economic resources [tend to participate more in politics](https://ifs.org.uk/inequality/themes/political-economy/).
+1.5.3.3. Con: A reduction in finanical inequality would not immediately change the composition of political institutions.
+1.5.3.4. Pro: A 100% inheritance tax will likely reduce instances where families wield large degrees of socio-economic power inter-generationally.
+1.5.4. Con: Individuals can choose to donate the wealth they've earned to charity if they wished it to be distributed for the greater good. This decision should not be made for them by governments.
+1.5.5. Pro: An inheritance tax would provide government with more investment to tackle social issues.
+1.5.5.1. Con: An inheritance tax that is only applicable after 1 million euros will not effect the majority of the population. This severely constrains the ability to generate revenue form the tax.
+1.5.5.2. Pro: An inheritance tax is a more paltable means of raising funds, than through raising income tax.
+1.5.5.2.1. Con: For those likely to receive a significant inheritance, a tax targeting inheritance is unlikely to be more palatable.
+1.5.5.2.2. Pro: Taxation of inheritance would provide scope for reducing other taxes, such as income tax.
+1.5.5.2.3. Pro: Increasing income tax would directly take funding away from a larger portion of people than an inheritance tax that is applied after a certain threshold.
+1.5.5.3. Con: Taxation goes to the state and is not necessarily redistributed to the poor.
+1.5.5.3.1. Con: The Gini coefficient \(which measures inequality\) can be evaluated before or after redistribution coming from taxes. You [can see](https://en.wikipedia.org/wiki/List_of_countries_by_income_equality) that in all cases, it goes down \(lower values\) after redistribution, often dramatically.

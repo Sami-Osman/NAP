@@ -1,0 +1,78 @@
+Discussion Name: Are the Hunter Biden emails as released by the New York Post authentic?
+
+1. The Hunter Biden emails as released by the New York Post are authentic.
+1.1. Con: There are doubts about the quality of evidence upon which claims of authenticity are based on.
+1.1.1. Con: The FBI and the DOJ have confirmed that [they believe the emails are authentic](https://www.washingtonexaminer.com/news/fbi-and-doj-do-not-believe-hunter-biden-laptop-part-of-russian-disinformation-campaign) and are not part of a disinformation campaign.
+1.1.2. Con: [Secret service travel records](https://justthenews.com/sites/default/files/2020-10/2020-10-20%20CEG%20RHJ%20to%20Secret%20Service%20%28Hunter%20Biden%20Travel%20Records%20Follow-Up%29%20.pdf) superficially match up with Biden's travel as described in some of the messages.
+1.1.2.1. Con: Since Biden's travel records are public knowledge, faking them would not be even mildly difficult.
+1.1.3. Con: Alongside the emails, photos of Hunter \(some family pics, some of him in compromising positions\), and text messages between various members of the family were found, which lends credence to the "found on a lost PC" story.
+1.1.3.1. Con: It is possible this data was sourced from an earlier hack of Hunter's online accounts or from some other source.
+1.1.4. Pro: The emails as published take the form of PDF screenshots, which cannot be properly authenticated.
+1.1.4.1. Con: Cybersecurity expert Robert Graham [has verified](https://dailycaller.com/2020/10/29/cybersecurity-expert-authenticates-hunter-biden-burisma-email/) the DKIM headers on at least one of the messages in the original NYPost story. This proves authenticity mathematically, and beyond any reasonable doubt.
+1.1.4.2. Pro: The refusal of the news sources with access to the emails to post any of the raw messages \(which would contain cryptographic headers validating the messages have not been tampered with or fabricated\) is suspicious.
+1.1.4.2.1. Con: Any such release could possibly be held back for political impact, not because they are inauthentic.
+1.1.4.3. Con: It would be reasonable for a newspaper to create PDF printouts of files they have access to for presentation purposes.
+1.1.5. Pro: The story surrounding how the emails were found \(left on an abandoned laptop at a PC repair shop\) is implausible.
+1.1.5.1. Con: 20 minutes after the New York Post story broke, a lawyer for Hunter contacted the PC repair shop owner to request the hard drives containing the emails back. This tends to confirm that the laptop was owned or used by Hunter.
+1.1.5.2. Pro: A reasonable person does not skip on an $85 repair bill and lose a laptop containing vast quantities of personal information.
+1.1.5.2.1. Pro: This is especially true for someone with such high level contacts and security concerns as Hunter Biden.
+1.1.5.2.2. Con: Hunter has known substance abuse issues, which would affect his mental state and cause him to do irrational things.
+1.1.5.3. Pro: The PC shop owner is legally blind and could not confirm the identity of the person who left the laptop.
+1.1.5.4. Pro: As Hunter lives in California, it is unreasonable for his laptop to wind up in a Delaware repair shop.
+1.1.5.4.1. Con: Delaware is Joe's home state, and it is plausible that Joe or someone working for him had possession of the laptop, as both parties travel extremely regularly.
+1.1.5.5. Pro: At no point was a proper chain of custody observed for the email data, or the hard drive they were supposedly contained on.
+1.1.5.5.1. Pro: The emails were allegedly already available and circulating in Ukraine for a year. This puts into question, [Giuliani's claim](https://time.com/5902557/hunter-biden-rudy-giuliani-ukraine/) that they were obtained from a laptop in Delaware.
+1.1.5.5.2. Con: The PC shop owner was the recipient of an [FBI subpoena](https://nypost.com/wp-content/uploads/sites/2/2020/10/Subpoena-GrandJury-redacted.jpg?quality=90&strip=all&w=720) for the laptop which supposedly contained the emails, confirming its existence.
+1.1.5.5.2.1. Con: This only validates the existence of the laptop, not its contents.
+1.1.6. Pro: The metadata in the files released by the NYP are suspicious, showing [file creation times many months after the report was made.](https://twitter.com/RidT/status/1316441781043712005?s=20)
+1.1.6.1. Con: -> See 1.1.4.1.
+1.1.6.2. Con: The files released are, in part, PDF printouts from the Mac OS Mail app. These would show a creation time of when the PDFs were made, which is irrelevant to when the emails were actually sent.
+1.1.6.3. Con: -> See 1.1.4.3.
+1.1.7. Con: Neither Hunter nor Joe have contested the authenticity of the emails.
+1.1.7.1. Pro: A spokeswoman for the Biden campaign, Jenna Arnold, was [interviewed about the emails](https://www.theblaze.com/news/biden-surrogate-hunter-biden-admission), and said "I don't think anybody is saying they are inauthentic."
+1.1.7.2. Con: Joe Biden's campaign has indicated that the meetings mentioned in the emails were never on his official schedule.
+1.1.7.2.1. Con: As the emails could be considered evidence of criminal wrongdoing, any such meeting would likely have been covert and not included on any official schedule.
+1.1.7.2.1.1. Con: Hunter and Joe would have been under secret service observation in 2014/2015 when these emails were supposedly sent, making it unlikely that any covert meeting took place.
+1.1.7.2.1.1.1. Con: The secret service has not stated that they do not have records of this meeting, nor has Biden asked them to deny it, which would clear this whole thing up.
+1.1.7.2.2. Con: This is a typical non-denial of the meeting happening, while alluding to it being unlikely. If the meeting had not happened they would state as much and not make statements about it being in the official schedule or not.
+1.1.7.2.2.1. Pro: Such a specific denial is a form of lie by omission, and makes the campaign look suspicious. A categorical denial would have been reasonable.
+1.1.7.2.3. Con: It's normal for not every private meeting to being noted down in official schedules.
+1.1.7.2.4. Con: Whether the meeting was in his official schedule or not is quite irrelevant, whether the meeting happened or not is relevant.
+1.1.7.2.5. Con: They could have used his schedule to clear this up, and would have if they could, by stating that this meeting could not have happened because he was busy with something else or at another geographic location, but they chose to not do so.
+1.1.7.2.6. Con: The campaign later clarified that [it would not rule out](https://www.politico.com/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486) that the two had met each other.
+1.1.7.2.6.1. Con: The same article says "any encounter would have been cursory"
+1.1.7.2.6.1.1. Con: This is a claim about the length of the meetings, not their content.
+1.2. Con: The controversy surrounding Hunter Biden's emails seems to have been created out of partisan bias for political reasons.
+1.2.1. Pro: The emails as released were published in a purely partisan way \(via Trump friends and conservative news sources\).
+1.2.1.1. Con: The current political climate almost guarantees that only opposing partisan sources would carry such a story.
+1.2.2. Con: Any attack on someone related to a politician can be spun as partisan; even if the information is purely legitimate.
+1.2.3. Pro: It is already evident Joe Biden did not engage in any wrongdoing and only carried out actions in line with the [US policies towards Ukraine](https://edition.cnn.com/2020/10/16/politics/russian-disinformation-investigation/index.html). There is suspicion that these emails are put out to create a false narrative about Biden being involved in wrongdoing
+1.2.3.1. Pro: Standard disinformation practice would be to salt any fake messages with real ones, or vice versa. Even if some, or most, of the emails are legitimate, any falsehoods could be used to construct an incorrect narrative.
+1.2.3.2. Pro: Some people affiliated with the Republican party [reportedly](https://edition.cnn.com/2020/10/16/politics/russian-disinformation-investigation/index.html) conspired with the Ukranian government to establish a story of collusion involving the Bidens.
+1.2.3.2.1. Con: The director of national intelligence [has explicitly refuted the idea that the emails are a part of a Russian disinformation campaign](https://www.dailywire.com/news/breaking-director-of-national-intelligence-confirms-hunter-biden-laptop-not-part-of-some-russian-disinformation-campaign)
+1.2.3.2.2. Con: -> See 1.1.1.
+1.2.3.2.3. Pro: -> See 1.2.3.1.
+1.3. Pro: The emails can be [cryptographically verified](https://github.com/robertdavidgraham/hunter-dkim) as sent on the claimed date and free of tampering.
+1.3.1. Con: The signature only verifies that the email came from the account given in the from address; it does not verify that the purported sender was in control of the account at the time.
+1.3.1.1. Pro: There are [known Russian government attacks on Gmail users](https://www.vice.com/en/article/mbqzq8/russian-hackers-are-using-googles-own-infrastructure-to-hack-gmail-users), including Ukrainian political figures.
+1.3.1.1.1. Con: There is no evidence to suggest that Hunter had lost control of his account that the time of the emails being sent.
+1.3.1.1.1.1. Pro: Nobody involved in the email discussion has claimed that the emails were sent by someone who had control over their accounts.
+1.3.1.2. Con: -> See 1.3.1.1.1.
+1.4. Pro: In the aftermath of NY Post report, [US federal agencies](https://www.nbcnews.com/politics/national-security/feds-examining-if-alleged-hunter-biden-emails-are-linked-foreign-n1243620) are currently investigating the Hunter Biden emails. This suggests that there is at least prima facie suspicion of wrongdoing.
+1.4.1. Pro: The [subpoena for the laptop](https://nypost.com/wp-content/uploads/sites/2/2020/10/Subpoena-GrandJury-redacted.jpg?quality=90&strip=all&w=720) was for a grand jury; these are only convened once criminal proceedings have already begun.
+1.4.2. Pro: It is [confirmed](https://abc3340.com/news/nation-world/tony-bobulinksi-i-have-now-put-myself-in-huge-risk-for-the-sake-of-the-american-people) that Hunter Biden has been under FBI investigation for money laundering since 2019.
+1.5. Con: The New York Post is a tabloid and has a history of poor fact-checking and sourcing.
+1.5.1. Con: Articles should be evaluated primarily on whether their claims are factual, not the publisher of the article.
+1.5.2. Pro: The New York Post has a history of [bias](https://mediabiasfactcheck.com/new-york-post/), sensationalizing stories, and [false](https://www.snopes.com/fact-check/planet-destroy-earth/) reporting.
+1.5.3. Pro: At least two different experts \([1](https://twitter.com/RidT/status/1316363540421316609), [2](https://twitter.com/justinjm1/status/1316488261968318464)\) on foreign disinformation have raised serious concerns about the authenticity of the NY Post report.
+1.5.3.1. Con: -> See 1.2.3.2.1.
+1.5.3.2. Con: -> See 1.1.1.
+1.5.4. Pro: Alongside the emails, NY Post also published claims that were already [debunked](https://www.cnn.com/2020/01/27/politics/fact-check-joe-biden-burisma-pam-bondi/index.html) before. This further undermines the veracity of their work.
+1.5.5. Con: The New York Post is not the only organization with access to the emails, they merely broke the story first. [Fox News](https://www.foxnews.com/politics/hunter-biden-china-email-source-verifies.amp) also received the data.
+1.5.6. Pro: Facebook and Twitter had taken steps to [slow down](https://edition.cnn.com/2020/10/16/politics/russian-disinformation-investigation/index.html) the spread of the article; suggesting that the article flouts norms of fact-checking and sourcing.
+1.5.6.1. Con: Mark Zuckerberg [claimed on a recent interview](https://twitter.com/minds/status/1562927481945980928?s=20&t=S03hJE5R6Ly8krWXPt0Q0Q) that Facebook's censorship of the article was undertaken at the behest of the FBI.
+1.5.6.2. Con: Arguably, Facebook and Twitter have an ideological bias towards the Democratic party, and their steps are motivated by political concerns.
+1.5.6.2.1. Pro: Twitter's policy against hacked documents, [cited in their reasoning for restricting posting of the article](https://twitter.com/TwitterSafety/status/1316525305796980737), was not followed for Trump's leaked tax returns.
+1.5.6.2.1.1. Pro: The hacking policy would not apply in this case anyways. If the emails are legitimate, then they were the property of the shop owner to post. If the emails were not legitimate, then they were not hacked in the first place.
+1.5.6.2.2. Pro: Twitter CEO Jack Dorsey [admits that conservative employees don't feel safe to express their opinions in the company](https://www.vox.com/2018/9/14/17857622/twitter-liberal-employees-conservative-trump-politics)
+1.5.6.2.3. Pro: Despite telling Congress that "[Twitter doesn't shadowban](https://www.washingtonexaminer.com/tag/donald-trump?source=%2Fbusiness%2Fjack-dorseys-personal-message-to-congress-twitter-doesnt-shadowban)", later [leaked screenshots](https://reclaimthenet.org/twitter-panel-blacklist-search-trends/) of Twitter's admin dashboard show various types of shadowban functionality.

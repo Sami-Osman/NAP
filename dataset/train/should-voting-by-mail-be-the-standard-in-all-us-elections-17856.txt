@@ -1,0 +1,134 @@
+Discussion Name: Should voting by mail be the standard in all US elections?
+
+1. [Voting by Mail](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results) should be the standard in all US elections.
+1.1. Pro: It would be more secure from hacking.
+1.1.1. Con: Blockchain, using a decentralized ledger and encryption, is a more efficient way of protecting votes from hacking.
+1.1.1.1. Con: With the advances in Quantum computers expected in the next few decades, and the ability of quantum computers to hack a block chain, we would be setting our selves up for disaster. Paper is much harder to edit than any kind of digital bit.
+1.1.1.2. Con: This argument is besides the point. This debate is not about what would be the most secure voting system, it is saying voting by mail would be more secure than the current voting system we have in place.
+1.1.2. Con: Because voting takes place in private residences, it is far more vulnerable to social engineering exploits and voter manipulation.
+1.1.2.1. Pro: Votes completed at home can be subject to physical or emotional force in a way votes in a polling place can never be, due to the presence of officials and other members of the public. A plausible example is an abusive partner saying "our ballots arrived today - let's do them together. You've voting for \<x\>, right?" In the light of previous abuse the voter may not be willing to vote otherwise, and may not be in a safe situation to refuse to make their vote known.
+1.1.2.2. Con: Voting doesn't have to only take place in private residences. We can have a system to register how we wish to vote, either in a polling place or by mail. If you forsee problems at home just register to vote at the polls and say you prefer the traditional way to vote. It would be just like registering to your party.
+1.1.3. Pro: Having a physical mail in ballot counted by hand is more secure because you don't have a machine to hack.
+1.1.4. Con: Having a physical in-place ballot counted by hand is equally secure in a non-mail situation as well. The same ballot system could be used in both situation, and so there is no reason to find one inherently more or less hack-proof than the other.
+1.1.5. Con: Votes sent via mail could easily be intercepted and altered.
+1.1.5.1. Con: The security surrounding the transportation of mail-in votes would likely be very high specifically to prevent interference and altering.
+1.1.5.1.1. Pro: The magnitude of the scale and importance of the national elections means that security would receive top priority.
+1.1.5.1.2. Con: A single letter carrier delivers and picks up ballots, just as an ordinary pile of letters. There is no double checking or chain of custody verification of that process.
+1.1.5.2. Pro: The address and envelope will make ballots easy to identify, meaning that anyone who wants to interfere with election results will be able to do so without too much difficulty.
+1.1.5.2.1. Pro: For example, someone could bribe postal workers to remove as many ballots as possible from circulation in order to ensure that they're never counted. This could be accomplished easier if the ballot envelopes were easily identifiable.
+1.1.5.2.2. Pro: Any measures to make the ballot stand out so it is not discarded as junk mail will also make the ballot more vurnable to malicious actors.
+1.1.5.2.2.1. Pro: Sending sensitive personal information such as one's SSN via mail increases the risk of becoming a victim of identity theft.
+1.1.5.3. Con: It would be far more time consuming and tedious to intercept and alter mass amounts of hard copy ballots than to hack and alter mass amounts of virtual ballots.
+1.1.5.3.1. Con: This is an argument for paper ballots at polling stations, not an argument for mail-in ballots.
+1.1.5.4. Pro: Most voters receive political solicitations in the mail that have correctly guessed their party affiliation. The letter carrier thus knows the likely vote at most addresses. That letter carrier could easily "lose" or delay a ballot either coming or going. Compound that by the letter carriers' union endorsing a particular candidate.
+1.1.5.5. Pro: -> See 1.1.5.2.2.
+1.1.6. Con: Anyone trying to hack the election could just hack the USPS, all mail is sorted by machines.
+1.1.6.1. Pro: -> See 1.1.5.
+1.1.6.2. Con: -> See 1.1.5.3.
+1.1.6.3. Con: But USPS does not have any incinerators. It is a physical ballot, the mail would end up somewhere, with a high probability it gets sent in to be counted even if it were rerouted. The mail would not just disappear.
+1.1.6.4. Con: If the USPS were hacked, the mail would end up being sent somewhere since it is a physical ballot. It would be obvious there was a hack. The authorities could investigate, if the hack were wide spread enough, the vote count could be delayed until all ballots were accounted for.
+1.2. Con: People should not be confined to one type of voting but should have access to a variety of options so that they may choose which is most suitable to them.
+1.2.1. Pro: Not everyone has an address. Homeless individuals deserve a voice.
+1.2.1.1. Con: You can set up a place to pick up a ballot and submit it for people that dont have a home. US post offices would be perfect for this because they are located in central locations across most US towns, and it is where the vote goes.
+1.2.1.1.1. Pro: In [Oregon](https://sos.oregon.gov/voting/Pages/homeless-confidential.aspx), homeless individuals can various types of addresses for their registration and pick up their ballot from the county clerk's office.
+1.2.1.2. Con: Homeless people [already have to face](https://people.howstuffworks.com/homeless-americans-can-vote-but-it-isnt-easy.htm) several obstacles to successfully registering and voting at the polls because they do not have an address.
+1.2.1.3. Con: Government offices could provide mail-in ballots that homeless people could carry away and deposit into mail or collection boxes.
+1.2.2. Pro: Vote by mail does not support blind voters. Voting machines in the polling place can accommodate blind voters and preserve their privacy.
+1.2.2.1. Con: [Special technology](https://www.nass.org/sites/default/files/2018-07/democracy-live-white-paper-nass-summer18.pdf) \(which disabled individuals already have\) and [other methods](https://www.verifiedvoting.org/resources/voting-equipment/alternate-format-ballot/) of increasing accessibility of reading material can be used to vote remotely, ensuring disabled individuals can vote but still maintain privacy.
+1.2.3. Con: The same could be said in favor of voting by mail, it should be one of the options to vote.
+1.3. Pro: It would be more convenient having your ballot right in front of you and ready to be filled out while doing research.
+1.3.1. Pro: You would have your ballot in front of you for days rather than only a few minutes while you vote at the voting station. This allows you to really think about and research your ballot. You could use the entire internet to learn about the issues not just a simple voteing guide.
+1.3.2. Con: You can always look on the internet at whats on the ballot and do your research that way.
+1.3.2.1. Con: You could easily get confused and go to the wrong \(misleading\) website that tries to push you one way or the other on issues, or misrepresents or omits things on the ballot. There is no replacment for having the ballot right in front of you..
+1.3.3. Pro: Mailing ballots to all registered voters would increase voter participation since voting days typically occur during the work week and many cannot take time off work to vote on that day.
+1.3.4. Con: Vote by mail typically requires sending in the ballot ahead of election day, thereby actually decreasing the amount of time a voter has to consider options.
+1.3.4.1. Con: Vote by mail will also allow you to [bring the mail ballot to a polling place](https://lavote.net/home/voting-elections/voting-options/vote-by-mail/vbm-ballot-drop-off) instead of mailing it. So sending ahead is not required; no decrease in time to consider.
+1.3.4.2. Con: The deadline is for many places that the ballot is [postmarked on election day](https://www.vote.org/absentee-ballot-deadlines/), so sending ahead is not required; no decrease in time to consider. All places could easily implement this rule.
+1.4. Con: Voting by mail is less secure.
+1.4.1. Pro: Voting by mail removes the concept of a secret ballot.
+1.4.1.1. Pro: Maintenance of the integrity of an individual's vote is an important element of any voting system.
+1.4.1.2. Pro: Coercion at home is not the only potential problem. Experience overseas indicates social expectations can be applied to larger social entities, such as the city level.[Secrecy and Publicity in Votes and Debates](https://books.google.com.au/books?id=uTnjCQAAQBAJ&pg=PA42&lpg=PA42&dq=gdr+public+ballot&source=bl&ots=PvsthOyEx1&sig=O9iT56qRRTLIOn7x7ZmF7Gs2nB0&hl=en&sa=X&ved=2ahUKEwjChpS998DeAhUfS48KHdfOD44Q6AEwE3oECAgQAQ#v=onepage&q=gdr public ballot&f=false)
+1.4.1.3. Con: You can always provide stations in the post office for secret balloting and anyone can choose to use it. Making secret and secure ballots optional.
+1.4.1.3.1. Con: Experience in the German Democratic Repuiblic shows that where secret ballots are requested where the culture is for public ballots, the voter is viewed with suspicion. There is unlikely to be a different result for threatened individuals
+1.4.1.3.2. Con: Secure and secret ballots should not be optional in a well-designed voting system.
+1.4.1.3.3. Pro: Introducing widely spread and numerous polling places acts as a simple means to increase voter participation.
+1.4.1.4. Con: You can report any coercive individuals or groups to the police or postal servise. The postal servise has an investigative branch that can be tasked with investigating voter coercion.
+1.4.1.4.1. Con: Requesting an investigation by federal authorities is unlikely to add to the safety of a threatened individual.
+1.4.1.4.1.1. Con: For voter coercion to be affective it must be acting upon multiple individuals, therefore any coercive network would not know the single individual who reports the group.
+1.4.1.4.1.2. Pro: Treating coercion at a systemic level, and ignoring coerced individuals, effectively disenfranchises vulnerable voters.
+1.4.1.5. Con: Voting by mail can be as secure as you want it to be. America is a free society, we dont like the government to do everything for us nor tell us what to do, thus we dont need the government to help us keep our ballot secret. Leave it up to the individual.
+1.4.1.6. Pro: The government has a legitimate role in protecting the integrity of the government.
+1.4.1.6.1. Pro: The way in which the votes are made has a direct impact on how well the election reflects the will of the electorate. As such, the people as a whole cannot delegate \(through their government\) the way in which votes are made to individuals.
+1.4.1.6.2. Con: How the vote is carried out affects the result of the vote \(more or less people voteing or even the example of curruption of the vote in private\), thus it should be up to the individual to choose how their vote is carried out. The governmental default should not be having a secret ballot at the expense of easier voting, the individual should be given the choise to weigh the potential risks in their situation of having or not having a secret ballot and choose accordingly.
+1.4.1.7. Con: The benefits to lowering the barrier to vote thus involving more of society out weigh the cons of potentially removing the principle of the guaranteed secret ballot.
+1.4.1.7.1. Con: Barriers to voting can be lowered by alternate means, without compromising the principle of the secret ballot. Examples include but are not limited to moving the day of the election to a weekend where people are less likely to have employment commitments, spreading the election over more than one day to minimise potential clashes, enforcing mandated time off to vote, appointing an independent board to oversee the electoral roll to prevent suppression, and increasing the number of polling places.
+1.4.1.7.2. Pro: Every other thing you can do requires a lot of time, legislative focus, money, bipartisan ship, and resources, more than our states possess. All those examples are state and local level solutions, voting by mail can be a federal solution.
+1.4.1.8. Con: When it is stated voteing by mail should be standard in all US elections, It is not implied that we should get rid of all polling places or get rid of polling stations as a means to vote. There are numerous ways voteing by mail could be incorperated as a standard to vote supplimented with other means to vote for any given situation.
+1.4.1.8.1. Pro: You can have a Choice system where when you register to vote you choose to vote by mail or at a polling station. Thus you can include more voters by lowering the barriers to voteing while maintaining the secret ballot, and give the registered voter the choise of what way suits their individual situation best.
+1.4.1.9. Pro: Domineering or abusive family members, or others in a position of power over the voter, may require votes to be completed in front of them, applying social or physical pressure to ensure votes are completed a certain way. This is not possible in a traditional voting booth where secrecy is guaranteed by the government.
+1.4.1.9.1. Con: If a family member or someone else close to the voter is so domineering and abusive that they apply pressure to ensure mail-in ballots are completed in a certain way, that person is also probably so abusive that they would either exert that pressure even at the voting booth or simply prevent the person from going to the voting booth in the first place.
+1.4.2. Pro: Votes sent by mail could easily get lost in delivery.
+1.4.2.1. Con: In addition to getting the ballot by mail, you could get a reciept by mail to let you know your vote was counted. The reciept could also inform you of the outcome of the elections and ballot measures.
+1.4.2.2. Con: Mail would not just get lost, it would end up being sent somewhere, and there is a high probability \(specially if it were a law\) someone will send it in to be counted.
+1.4.2.3. Pro: There is a chance that votes will be tossed out as Junk mail.
+1.4.2.3.1. Pro: -> See 1.1.5.2.2.
+1.4.2.3.2. Con: You could easily mark ballots to be eaisly identified. Such as covering the entire envelope with a print of the state flag, or just a bright colored envelope.
+1.4.2.3.2.1. Con: -> See 1.1.5.2.2.
+1.4.2.4. Con: Votes sent by mail would be registered and carefully tracked in order to ensure that they were not lost.
+1.4.2.5. Pro: Physical damage to postboxes or transit vehicles could result in the accidental or intentional destruction of votes.
+1.4.3. Con: The [penalty for voter fraud](https://www.aiga.org/globalassets/migrated-pdfs/021_e_info_binder) would still apply, making it financially burdensome to do so.
+1.4.4. Pro: The bipartisan 2005 report of the Commission on Federal Election Reform [concluded that](https://www.wsj.com/articles/heed-jimmy-carter-on-the-danger-of-mail-in-voting-11586557667) "\[a\]bsentee ballots remain the largest source of potential voter fraud."
+1.4.5. Pro: The Pennsylvania state Supreme Court [ruled that](https://www.politico.com/news/2020/10/23/pennsylvania-court-ballot-signatures-431794) ballots in the state cannot be rejected because of signature comparisons, i.e. mail-in ballots are less secure simply because identity is not verified.
+1.4.6. Pro: A credible accusation was made on an informal audit that Missoula lost [7%](https://montanafreepress.org/2021/04/02/citizens-allege-election-discrepancy/) of its mail-in envelopes, rendering a verified-vote recount impossible.
+1.4.7. Pro: Voting by mail provides greater opportunity for corruption.
+1.4.7.1. Pro: Mail in ballots are subject to fraud via "ballot harvesting".
+1.4.7.1.1. Pro: Mail in ballots [in California](https://www.wsj.com/articles/vote-fraud-shouldnt-be-easy-1544225839) are being collected by going door to door, asking the ballot be signed, then being filled out by the collector, or if already filled out discarding those the collector doesn't like.
+1.4.7.1.1.1. Con: The government can educate people about this fraud and make it a crime to let other people not in your household mail in your ballot to discourage this kind of fraud.
+1.4.7.2. Con: Voting by mail offers a standard paper trail independent of the vote-counting system implementation.
+1.4.7.3. Pro: Since there is no way to verify your identity anyone in your house could fill out your ballot.
+1.4.7.3.1. Pro: With e-ballots people would have to sign using [e-signature](https://en.wikipedia.org/wiki/Electronic_identification) which only they would know.
+1.4.7.3.2. Con: Ballots are signed. They can be, and are, matched against the signature on the registration.
+1.4.7.3.3. Pro: Relatives could coerce a family member to sign a vote they've filled in for them.
+1.4.7.4. Con: To prevent voter fraud the ballot could include an identity confirming section that requires you to input your information like your drivers license number, SSN, birth date, mothers maiden name, etc.
+1.4.7.4.1. Pro: In California, [mail-in ballots are identity-verified by signature-matching](https://www.sos.ca.gov/elections/voter-registration/vote-mail/).
+1.4.7.4.2. Con: -> See 1.1.5.2.2.1.
+1.4.7.4.3. Con: Adding more personally identifiable inforation to the ballot inceases the opportunites for a particular to be tied back to a voter, obviating the purpose of the secret ballot.
+1.4.7.5. Pro: When voting by mail, it is possible for unscrupulous politicians to simply pay people for their votes. With traditional voting, a voter cannot provide proof that they voted for a particular politician, making vote buying non practical. With Vote-by-Mail, a representative can either buy the ballot itself, mark and mail it, or watch as the voter marks the ballot, seals the envelope and mails it, making it easy to verify the voter held up their end of the bargain.
+1.4.7.5.1. Con: For many reasons it is not cost effective to buy an election by paying for votes, and it has been for almost a century. There are more practical cheaper and legal ways to manipulate an election.
+1.4.7.5.1.1. Pro: Millions of people vote in [U.S. elections](https://guides.libraries.psu.edu/post-election-2016/voter-turnout). Purchasing that many individuals' votes would be costly.
+1.4.7.5.1.2. Con: It is currently not cost effective to buy votes one reason is the result of the verification issue. I can sell my vote to one canidate, then go and pull the lever for another, and nobody can verify who I actually voted for.
+1.4.7.5.1.2.1. Con: The risks associated with buying votes don't out weight the benefits of committing the crime. We are talking about American Democracy. A Fraud of this scale is easy to catch and the politician would be crucified if not arrested, just look at Trump's Russia problem.
+1.4.7.5.1.2.1.1. Con: Most election fraud is done small scale, at the local level to tip a local election. The risks are more manageable.
+1.4.7.5.2. Con: -> See 1.4.7.5.1.2.1.
+1.4.7.6. Con: In the case the ballot has a direct economic value to the voter it is likely more people will participate. With more people voteing the price to buy an election by paying voters for votes goes up as there are more ballots to buy. It is a self defeating argument to say opertunities for fraud increase with voteing by mail, for many reasons it is ineffective to buy an election by paying for votes, and it has been for almost a century. There are more practical cheaper ways to manipulate an election.
+1.5. Con: Voting by mail disadvantages people with disabilities and the homeless.
+1.5.1. Pro: -> See 1.2.1.
+1.6. Pro: Lowering the barriers to voting would enable more people to vote.
+1.6.1. Pro: With more people voting the policies debated and legislation passed would be representitive of more people and less on the extremes.
+1.6.1.1. Pro: Non-voters have [notably different](http://www.people-press.org/2014/10/31/the-party-of-nonvoters-2/) views than likely voters on issues such as social welfare, which would be better represented in politics if turnout increased.
+1.6.1.2. Con: Those who cannot muster the effort to go and vote really don't care enough about the issues to have meaninful input. They are either voting on irrelevant factors \(My Daddy voted Whig, so I vote Whig\), or as sheep \(Everyone else is voting Federalist, so should I\).
+1.6.1.2.1. Con: Suggesting that only those who are indifferent to issues fail to vote is a form of affirming the consequent, and a form of causal reductionism.. A voter's ability to overcome obstacles is orthogonal to their interest in issues, or stances on those issues - uninterested people may vote, and those passionate may be unable to navigate a sufficiently obstructive electoral system.
+1.6.2. Pro: It would cost less to vote. You wouldn't have to drive to the voting station so you save on gas.
+1.6.3. Pro: You wouldn't have to wait in long lines.
+1.6.4. Pro: In areas of low income where you have longer lines, you would not have a suppressed voter turnout.
+1.6.4.1. Pro: Voter turnout currently [correlates](https://www.demos.org/data-byte/voter-turnout-income-2008-us-presidential-election) strongly with income, giving the wealthy more influence over politics.
+1.6.5. Pro: [In a system with near-universal voting, politicians might take into account a wider array of interests](https://www.theatlantic.com/politics/archive/2015/09/why-non-voters-matter/405250/), thus making the policies cater to more people and less on the extremes and catering to fewer people.
+1.6.6. Con: A better option would be to just make more places you can vote and next to that spot have a place where you can make an ID so it is easier for people to get an ID to vote.
+1.6.7. Pro: With more people voting, the policies enacted would be more centered.
+1.6.8. Pro: Older people who find it difficult to travel to the polling station would be able to vote more easily.
+1.6.9. Pro: -> See 1.6.1.1.
+1.6.10. Pro: [Studies](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/identifying-the-effect-of-allmail-elections-on-turnout-staggered-reform-in-the-evergreen-state/3725E51B9B7F331D77DC9B49130D7F7D) from Washington State vote by mail system have shown more turnout for lower-participating registrants than for frequent voters. This reduces turnout disparities between the frequent and consistent voters and lower-participating voters.
+1.6.10.1. Con: Higher turnout by non-engaged citizens can result in results that are best characterized as "bandwagon" voters, not thoughtful voters who have taken the time to understand the issues upon which they are voting. Higher turnout is not per-se a benefit.
+1.7. Con: Going to the polls is a tradition in America.
+1.7.1. Con: Traditions can be changed.
+1.7.2. Con: Tradition is not as important as common sense, and it's common sense that more Americans will strengthen the democracy.
+1.7.3. Con: Traditions can harmful and an obstacle to progress.
+1.7.4. Con: Voter turnout has averaged at around [55%](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections) for the past century, which indicates that going to the polls is certainly not a tradition for nearly half of the country's eligible population.
+1.7.5. Con: Large numbers of people [already](https://www.eac.gov/documents/2017/10/17/eavs-deep-dive-early-absentee-and-mail-voting-data-statutory-overview/) vote by post.
+1.8. Pro: Studies have shown that Voting by mail can [save the local government as much as 40%](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results).
+1.8.1. Con: The [cost of running an all mail voting system](https://novbm.wordpress.com/2007/01/24/vote-by-mail-not-cheaper-no-suprise/) can cost just as much as a traditional voting system.
+1.8.2. Pro: Municapilities would not have to staff polling stations, or Provision traditional voteing machines. All of which costs a signifigant ammount of money. Paper and mail is much cheaper.
+1.9. Con: Voting by mail can slow the vote counting process. Elections that allow the ballot to be valid if it is post - marked by election day can delay the count by a few days.
+1.9.1. Con: A delayed vote total can be a positive thing. Taking time before announcing a decision from a poll can prevent mistakes from occurring, the way they did in the [2000 vote](https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida).
+1.9.2. Con: That the official result may not be clear for a few days \(assuming that is true\) has no real impact.
+1.9.3. Con: It is a non-goal to make voting faster. We currently need to wait weeks to count all votes due to absentee ballots.

@@ -1,0 +1,265 @@
+Discussion Name: The US should adopt a better voting system (for elected bodies)
+
+1. The US should change its elected body voting system to...
+1.1. Mixed-Member Proportional [Representation](https://www.youtube.com/watch?v=QT0I-sdoSXU) \([MMP](https://en.wikipedia.org/wiki/Mixed-member_proportional_representation)\).
+1.1.1. Pro: This system is relatively immune to [gerrymandering](http://www.cgpgrey.com/blog/mixed-member-proportional-representation-explained.html).
+1.1.2. Pro: MMP is already successfully used by multiple countries.
+1.1.2.1. Pro: MMP is [used by](https://en.wikipedia.org/wiki/Electoral_system_of_Germany) the federal parliament of Germany as well as most German state parliaments.
+1.1.2.2. Pro: New Zealand has [used MMP](https://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand) to elect its House of Representatives since 1996.
+1.1.3. Con: MMP forces all candidates to affiliate themselves with a political party \(no independents\)
+1.1.3.1. Con: Political parties help guide voters. Without them we get fuzzy [factions](https://www.jstor.org/stable/2110593?seq=1#page_scan_tab_contents) which shift constantly, and whose allegiances are unclear.
+1.1.3.1.1. Con: "Party Agnostic" does not mean the end of parties. It means that the system functions with any mix of parties and independents.
+1.1.3.2. Pro: By joining a party, a candidate signs up to party manifestos and is open to party discipline. This make it easier for voters to know what they're voting for, as opposed to trying to learn about individual candidates' various stances.
+1.1.3.3. Pro: Party discipline reduces the number of political choices available. Instead of candidates who might have original ideas, you are limited to two party lines.
+1.1.4. Con: Because a significant amount of the seats are elected under FPTP, most of the legislature is still controlled by two big political parties \(ex: [New Zealand Parliament](https://en.m.wikipedia.org/wiki/New_Zealand_Parliament#/media/File%3ANew_Zealand_House_of_Representatives_-_Layout_Chart.svg)\).
+1.1.5. Pro: This system prevents [minority rule](http://www.cgpgrey.com/blog/mixed-member-proportional-representation-explained.html).
+1.1.5.1. Con: Minorities can rule in MMP systems by compromising and forming a coalition with other minority parties [\(p. 83-85\)](https://unbscholar.lib.unb.ca/islandora/object/unbscholar%3A7093/datastream/PDF/view?).
+1.1.6. Pro: [MMP is the preferred choice of electoral system experts.](http://dx.doi.org/10.1080/13689880500064544)
+1.1.7. Con: Implementing an effective MMP system in the United States at the federal level would likely require a constitutional amendment to address constitutional constraints regarding the apportionment of Representatives in the US House of Representatives.
+1.1.7.1. Pro: Implementing this system would change more than just the voting system, but also require redistricting or an increased [number of Representatives](https://www.theglobalist.com/need-u-s-constitutional-reform/).
+1.1.8. Pro: If MMP were implemented using regions, it could allow a greater degree of connection between the MMP congressperson and local voters, allowing for collaboration between regional congressmen and local congressmen in addressing regional issues.
+1.1.9. Pro: It is [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.1.9.1. Pro: Voting systems that are not precinct-summable take longer to count because all ballots must be [physically moved to a central location](https://www.electionscience.org/library/approval-voting-versus-irv/).
+1.1.9.1.1. Con: It is not necessary to move ballots to a central location. All that is required is that the counters at each precinct communicate.
+1.1.9.1.2. Pro: The [summability criterion](https://electowiki.org/wiki/Summability_criterion) addresses implementation logistics. Election methods with lower summability levels are substantially easier to implement with integrity than methods with higher summability levels or methods that are non-summable.
+1.1.9.1.2.1. Con: While election methods with low summability levels are fairly easy to implement, some election methods with higher summability are very easy to implement and some are not.
+1.1.10. Pro: MMP more accurately reflects the full spectrum of constituents' political beliefs compared to FPTP and other variations of winner-take-all.
+1.1.11. Con: Any system that can result in coalition governments could sometimes allow extremist parties enough leverage to win [policy concessions](https://www.theguardian.com/politics/2017/jun/26/tories-and-the-dup-reach-deal-to-prop-up-minority-government) and [influence](https://www.ushmm.org/learn/timeline-of-events/1933-1938/hitler-appointed-chancellor).
+1.2. The US should continue electing its representatives individually using [Simple Plurality](https://en.wikipedia.org/wiki/Plurality_voting) / [FPTP](https://en.wikipedia.org/wiki/First-past-the-post_voting).
+1.2.1. Con: FPTP is easily [gerrymandered](https://en.wikipedia.org/wiki/First-past-the-post_voting#Gerrymandering).
+1.2.2. Con: FPTP serves to entrench an existing 2 party system \(which is generally regarded as an undesirable thing\).
+1.2.2.1. Con: Outside the United States, FPTP voting has [no tendency](https://blogs.lse.ac.uk/politicsandpolicy/duvergers-law-dead-parrot-dunleavy/) at all to produce two party politics.
+1.2.2.2. Pro: Two party systems have the chance to produce long years of deadlock. Or big changes when one party dominates. They may encourage people to be extremely partisan and think in terms of parties more than about the best resolution for issues.
+1.2.2.3. Pro: The congress chosen by FPTP has [consistently low job approval ratings](http://news.gallup.com/poll/1600/congress-public.aspx).
+1.2.3. Con: This system results in [wasted votes](https://en.wikipedia.org/wiki/Wasted_vote).
+1.2.3.1. Con: Most voting systems in majoritarian elections contain a [threshold](https://en.wikipedia.org/wiki/Election_threshold) too.
+1.2.3.2. Pro: The limit of FPTP systems can have as little as 1 meaningful vote.
+1.2.4. Con: It falls victim to the [vote splitting](https://en.wikipedia.org/wiki/Vote_splitting), where a third party candidate will weaken/draw votes from the most similar strong party.
+1.2.4.1. Pro: Which can lead to the [spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect), where the 2nd place candidate would have won, had the third party candidate not run.
+1.2.4.1.1. Pro: The spoiler effect combined with Plurality voting results in a party with much less than a majority of votes winning seats, and potentially gaining an overwhelming majority of seats in a legislature.
+1.2.5. Con: The FPTP system encourages [strategic](https://en.wikipedia.org/wiki/First-past-the-post_voting#Tactical_voting) or [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting).
+1.2.6. Con: US Congressional elections discriminate against minority groups without sufficient concentration in a regional election to achieve representation in the final elected government.
+1.2.6.1. Pro: If every district had 49% of party A and 51% of party B, all members of government would be from party B, which is a poor reflection of the population.
+1.2.7. Pro: A multi-winner system may not work very well in states that only have one representative. The current system is consistent across states.
+1.2.7.1. Con: Some systems, like STV and Asset, work in 1-2 winner races.
+1.2.7.2. Con: For those states / municipalities, it is sufficient to use the leading single winner voting method.
+1.2.8. Pro: Present rhetoric aside, this system has resulted in over a century of [consecutive peaceful transfers](https://www.aol.com/article/news/2017/01/20/why-a-peaceful-transition-of-power-is-such-a-hot-topic-right-now/21659561/?guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAEtakln7FAsBVU5-WrX8DtJaBa_-bAWRo3NYBhRo1bCZrv6BwPtr1TfUu9H6mpbMZ85j3JoXq0ekD5WUrSUelZTkBjo6Cqin0fBlW4QadBgLv71G2amxzxDBaRFPwyu034Jje0ikiLCemGnO58fvl3iuCDTodoxmtOlNc77VyXAU&guccounter=2) of power.
+1.2.8.1. Con: According to the [Duverger's law](https://en.wikipedia.org/wiki/Duverger's_law), this system can be [linked](https://theconversation.com/extreme-political-polarization-weakens-democracy-can-the-us-avoid-that-fate-105540) to long periods of extreme polarization in a country.
+1.2.8.2. Con: It has also resulted in [mistrust](https://www.pewresearch.org/fact-tank/2019/07/22/key-findings-about-americans-declining-trust-in-government-and-each-other/) in the governments and in other organizations.
+1.2.9. Pro: -> See 1.1.9.
+1.2.10. Pro: It is extremely [simple](https://www.thehindu.com/opinion/op-ed/what-is-first-past-the-post-system/article26502467.ece) and intuitive.
+1.2.10.1. Pro: FPTP is simple. It involves casting one vote for one candidate, which is the simplest way to vote. The votes are then counted and plurality wins - the votes are thus also counted in the simplest way possible.
+1.2.11. Con: A candidate winning with less than 50% of the vote is a possibility, meaning that over 50% of the populace voted against the winning candidate.
+1.3. [Proportional Star Voting](http://www.equal.vote/pr) \(SRV-PR\)
+1.3.1. Con: It is not [precinct summable](https://electowiki.org/wiki/Summability_criterion).
+1.3.1.1. Pro: -> See 1.1.9.1.
+1.3.2. Con: If voters vote for their preferred candidate, they can get a worse outcome than the outcome that would have occurred if they hadn't even voted at all.
+1.3.3. Con: If voters vote for their preferred candidate, they can get a worse outcome than the outcome that would have occurred if they voted for another candidate. It fails the [favorite betrayal criterion](http://wiki.electorama.com/wiki/Favorite_Betrayal_criterion).
+1.3.3.1. Con: This is a [very restrictive property](http://ifaamas.org/Proceedings/aamas2018/pdfs/p1549.pdf) that is impossible for any proportional deterministic voting method that elects candidates with equal voting weight in the legislature or parliament to pass.
+1.3.3.1.1. Pro: The original Favorite Betrayal definition was vague and useless, so it was [changed](https://wiki.electorama.com/wiki/Favorite_Betrayal_criterion) to one that is too tightly restrictive.
+1.3.3.2. Pro: The mechanism of this failure is as follows: You want A to win but you also vote for B. If it turns out that B wins, then your vote for A turns into only a half vote in the second round and A loses as a result.
+1.3.4. Con: When all voters exist on a 2D political spectrum between the far left and far right, and the center of the distribution of political views shifts in one direction, it is possible for the outcome that is produced to shift in the opposite direction. This phenomenon is most common when only two candidates are elected in each district.
+1.3.5. Con: This system is not truly proportional.
+1.3.5.1. Pro: Under this system, it is possible for no democrats to be elected [even though 49%](https://groups.google.com/forum/#!searchin/electionscience/srv$20proportional%7Csort:date/electionscience/aOMyxkoey4Q/KepDTrY7AwAJ) of voters are democratic.
+1.3.6. Pro: STAR voting encourages candidates to appeal to a wide range of voters.
+1.3.6.1. Pro: Because being given a 2 instead of a 0 is just as useful as being given a 9 instead of a 7, a candidate can gain more ground, potentially, by convincing opposed voters that they aren't terrible, than by energizing voters who agree with them.
+1.3.7. Con: Under this system, elected officials are not tied to specific districts. It therefore undermines local representation.
+1.3.8. Pro: No votes are [wasted](https://en.wikipedia.org/wiki/Wasted_vote) under this voting system.
+1.3.8.1. Con: Voting for a losing candidate isn't necessarily a waste. Participatory democracy is wholly dependent on submission to majority opinion, and depends on minority losers accepting the will of the majority. They play an essential role in the process.
+1.3.9. Pro: It is party agnostic, meaning that voters vote for individual candidates \(not party lists\) and those individual candidates are elected independently of their party affiliations \(if they have any\).
+1.3.9.1. Con: -> See 1.1.3.1.
+1.3.9.2. Pro: Candidates should always be free to run independently, as this helps good, less-known candidates win.
+1.3.9.3. Con: -> See 1.1.3.2.
+1.4. [The Random Ballot](https://en.wikipedia.org/wiki/Random_ballot) \(Single Stochastic [Lottery Voting](http://www.drmaciver.com/2013/09/towards-a-more-perfect-democracy/); implemented using cryptography and a pseudo-random number generator\)
+1.4.1. Con: Random ballot only leads to proportional representation over a long-term aggregate of many elections, but political attitudes change on a much shorter time-scale.
+1.4.1.1. Con: It immediately results in a proportional result at the national level as can be seen in [simulations](https://www.reddit.com/r/ukpolitics/comments/6hit6j/i_ran_100000_simulations_of_the_2017_general/). No system can be proportional at the single-constituency level over a single election.
+1.4.2. Con: The mechanics of Random Ballot undercut the popular democratic ideal of personal [political efficacy](https://en.wikipedia.org/wiki/Political_efficacy).
+1.4.3. Pro: It uses single-member constituencies, so it preserves localism and requires no changes to boundaries.
+1.4.4. Pro: Elections can be audited \(unlike the other popular form of random ballot voting: a sortition\)
+1.4.5. Pro: Gerrymandering has a higher chance to fail as even in that chance that a seat is gerrymandered, there is still a possibility that the random vote picked is not from the pool for the overwhelming favorite.
+1.4.6. Pro: The chance of winning is exactly proportional to the percentage of votes received.
+1.4.7. Pro: -> See 1.1.9.
+1.4.8. Con: Every single election, there is a small chance that the country could devolve into an authoritarian regime because an extremist party got really lucky. In order to accept random ballot voting, you have to accept this very undesirable possibility.
+1.4.8.1. Con: Voters don't need to worry about this possibility if only one of our two legislative bodies is elected through the random ballot.
+1.4.8.1.1. Pro: The US constitution makes it impossible for a proportional voting system to be implemented in the US Senate \(It is [unconstitutional](https://www.heritage.org/constitution/#!/constitution#essay-131) to even pass an amendment that deprives states of their equal suffrage in the Senate\), so ideally, the US Senate would be the deterministically elected legislative body so voters would not have to worry about this.
+1.4.8.2. Con: Even for a small house such as the senate, with 100 seats, and a large extremist party with 1/3rd the vote, the chance of them achieving a majority is only 1 in 5027.
+1.4.9. Pro: [Simulations](https://www.reddit.com/r/ukpolitics/comments/6hit6j/i_ran_100000_simulations_of_the_2017_general/) show it produces proportional results at the national level
+1.4.9.1. Con: This simulation is an average of 100,000 random selections which should produce proportional results. It does not show that the random selection will always produce proportional results.
+1.4.10. Pro: -> See 1.3.9.
+1.5. [Place voting](https://medium.com/\@jameson.quinn/place-voting-explained-129e65cbb625): a partially-delegated proportional method able to use existing ballots and districts.
+1.5.1. Pro: PLACE maintains most of the benefits of FPTP.
+1.5.1.1. Pro: It maintains local representation.
+1.5.1.1.1. Con: Because of the way votes are transferred, many representatives with less support in their constituency will get elected due to votes that were transferred from outside of their constituency. As a result, representatives will be accountable to voters outside their constituencies as well as voters inside them, which is not the same kind of local accountability that we are familiar with.
+1.5.2. Con: Ballots under this system are [more complicated](https://cdn-images-1.medium.com/max/720/1*ADBNNVCUS7lMtLQKB_-30w.png) than in FPTP.
+1.5.2.1. Con: The ballots are still [not that complicated](https://cdn-images-1.medium.com/max/1000/1*ADBNNVCUS7lMtLQKB_-30w.png).
+1.6. [Sortition](https://en.m.wikipedia.org/wiki/Sortition) \(Lottery Voting\). Each "voter" at the "polls" goes to collect an electoral lottery ticket, and on the next day, 1 lottery ticket number would be randomly selected from each district and the owners of those lottery tickets would be elected.
+1.6.1. Pro: Under this system, it is extremely easy to count votes as their is just a single ballot selection per elected seat.
+1.6.1.1. Pro: It's O\(1\). You can't have a voting system that is more summable than that.
+1.6.2. Con: Elections cannot be audited.
+1.6.2.1. Con: Sortition can easily be reformed to respond to certain limitations without affecting its more integral characteristics. For example, in order to preserve the integrity of the election, a pseudo random number generator could be used to determine the winning lottery number. Such a pseudo random number generator would be seeded by every state's house and senate majority and minority leaders, as well as one election administrator per district.
+1.6.2.1.1. Con: The average person may not be easily convinced that a pseudo-random number generator is not rigged.
+1.6.2.1.1.1. Con: Pseudo-random number generators don't have to be complicated. If everyone's commitment values were large enough, a really simple pseudo random number generator could just equate to adding up all of the committed values after they have been revealed. I'm sure every voter at least understands addition. If a simple PRNG is used, the complicated part of the random number generation process that many voters may not understand, wouldn't be the PRNG, but rather the commitment scheme seeding it.
+1.6.2.1.1.2. Con: The code can be published. The seeds provided by the different independent sources can also be published. Anybody who has a little technical competence can run the code and get the same result. To cheat requires all parties who provide seeds to coordinate their efforts to cheat together. And they have to know the number of the person they want to win.
+1.6.3. Pro: Congress would be composed of average citizens instead of the corrupt people of the old system.
+1.6.3.1. Con: The average citizens elected under Lottery Voting may end up becoming corrupt, and there is nothing to hold them accountable.
+1.6.4. Con: Representatives cannot be held accountable for their actions by voters since the representative is "elected" at random.
+1.6.4.1. Con: You can tell a legislator how you feel about his choices, or smear his reputation, or whatever. You can do everything to hold him accountable that you can anybody else, except to vote for or against him.
+1.6.4.2. Pro: With other voting systems, if you don't like what an elected representative does, you can vote against him next time. But when legislators are chosen at random, you never did vote for them and you can't vote for or against them later. They will hardly ever be re-elected, and if so it will be by random chance.
+1.6.5. Pro: There is no need to campaign, which means that corporations and the wealthy elite are no longer able to influence our elections
+1.6.6. Con: Once a winning lottery number is announced, somebody might try to forge a ticket with that number. If they were successful, the election results would be in question.
+1.6.6.1. Pro: Such forgery could be used to rig an election if the individuals who forged a ticket were in kahoots with the individuals responsible for determining whether or not a ticket is forged.
+1.6.6.1.1. Pro: Even mere speculation on whether undemocratic schemes like this one are even possible undercut the popular democratic ideal of personal [political efficiency](https://en.m.wikipedia.org/wiki/Political_efficacy).
+1.6.7. Pro: A sortition system holds a certain amount of historical prestige as it was the system of voting used by the inventors of democracy: [Ancient Athens](https://en.wikipedia.org/wiki/Sortition#Ancient_Athens).
+1.6.7.1. Con: The Athenians sometimes chose who would take up a post by lot in the same way juries are chosen today.  They did not choose by lot the voter who would then elect someone else.
+1.7. [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) \(STV\)
+Also described here: [youtube.com](https://www.youtube.com/watch?v=l8XOZJkozfI)
+And here: [Extended example](https://www.youtube.com/watch?v=Ac9070OIMUg)
+1.7.1. Con: -> See 1.3.1.
+1.7.2. Con: -> See 1.3.2.
+1.7.3. Con: -> See 1.3.3.
+1.7.4. Con: A system which relies on ranked ballots does not capture any information about the voters' degree of preference for candidates.
+1.7.5. Pro: [Wasted votes](https://en.wikipedia.org/wiki/Wasted_vote) are minimized under STV.
+1.7.5.1. Con: It only minimises wasted votes as ballots with only sure winners and/or sure losers won't necessarily contribute to the final winners.
+1.7.6. Pro: It is already [used by many countries](https://en.wikipedia.org/wiki/History_and_use_of_the_single_transferable_vote#Use_by_country) throughout the world. These countries can be a blueprint for how to implement it in the US.
+1.7.7. Con: This system has no built in method for dealing with special elections \(also known as by-elections in other countries\).
+1.7.8. Con: This system would require redistricting or a change in the number of representatives from each district.
+1.7.9. Con: STV is vulnerable to [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting#Single_transferable_vote), but less so than FPTP.
+1.7.9.1. Pro: It is highly vulnerable to [Woodall Free Riding](http://9mail-de.spdns.de/m-schulze/schulze2.pdf)
+1.7.9.1.1. Con: Woodall Free Riding described in the link is a problem with a specific \(incorrect\) implementation of STV, not the actual STV system.
+1.7.9.1.2. Pro: It is not [monotonic](https://en.wikipedia.org/wiki/Monotonicity_criterion).
+1.7.10. Con: STV fails to achieve [independence of irrelevant alternatives](https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives) from [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).
+1.7.11. Con: This system can result in a candidate being elected who [did not reach](https://youtu.be/Ac9070OIMUg?t=239) the quota.
+1.7.12. Con: STV is very complicated to calculate and administer. It can be difficult for voters to understand the results.
+1.7.13. Pro: STV is generally quite proportional \(dependent on the [number of representatives](https://en.wikipedia.org/wiki/Single_transferable_vote#Degree_of_proportionality) in a constituency\).
+1.7.13.1. Con: STV does not guarantee proportional representation.  [That it often produces proportional results is a side effect, not something it's designed to do.​](https://tryingtoreason.wordpress.com/2011/11/12/on-stv-and-proportionality/)
+1.7.14. Pro: -> See 1.3.9.
+1.8. [Alternative Vote Plus](https://www.electoral-reform.org.uk/voting-systems/types-of-voting-system/alternative-vote-plus/) \(AV+\) \(aka [Alternative Vote Top-up](http://wiki.electorama.com/wiki/Alternative_vote_top-up)\)
+1.8.1. Pro: The proportional part of AV+ has most of the advantages of MMP.
+1.8.1.1. Con: AV doesn't solve the diversity of opinion problems in an elected Congress. Each regional election is still "winner takes all", and minority groups don't achieve representation after the campaigns have finished. MMP voting systems address this better.
+1.8.1.2. Pro: -> See 1.1.5.
+1.8.2. Con: The proportional part of AV+ has most of the disadvantages of MMP.
+1.8.2.1. Pro: -> See 1.1.3.
+1.8.2.2. Pro: -> See 1.1.7.1.
+1.8.3. Con: The single constituency elections of AV+ exhibit all the disadvantages of IRV.
+1.8.3.1. Pro: AV+ is biased in favor of [extremists over moderate](http://rangevoting.org/IrvExtreme.html) candidates.
+1.8.3.2. Pro: There is a video that demonstrates how off the rails IRV can go. Check timestamp at 4:40 [youtu.be](https://youtu.be/-4FXLQoLDBA?t=4m39s) or watch the whole video.
+1.8.3.3. Pro: IRV is non-monotonic, meaning that increasing your support for a candidate can cause them to lose, and vice versa.
+1.8.3.3.1. Pro: This is projected to occur in at least [15% of 3-candidate elections](https://link.springer.com/article/10.1007/s11127-013-0118-2), increasing with the number of candidates.
+1.8.3.3.2. Con: It is good for a voting system to be non-monotonic, because this makes [strategic voting much harder](https://www2.cs.duke.edu/courses/fall06/cps296.2/stv_hard.pdf) to do. Strategic voting in STV, which usually includes IRV, is often complex and instance-specific, making it difficult to realistically implement.
+1.8.3.4. Pro: Some people will find it confusing.
+1.8.3.4.1. Pro: The Alternative Vote has a very high ballot error rate which excludes a large portion of the electorate [Spoilage Rates](http://rangevoting.org/SPRates.html).
+1.8.3.4.1.1. Pro: [Evidence shows no decline in ballot error](http://www.sbs.com.au/news/article/2014/11/12/australias-rate-informal-votes-highest-decades) over time, indicating that Australia's attempts to educate voters are not sufficient to explain the complexities of the system.
+1.8.3.4.2. Con: This is easily solved by explaining the system very clearly at polling locations, and by teaching how the system works in school. The same way everyone learned how first past the post works.
+1.8.3.4.3. Pro: Alternative Voting systems are more complicated than simply separating ballots into various piles and seeing which stack is bigger.  Voters are unlikely to trust "Alternative Voting" at first and will blame the system\(s\) rather than the candidate\(s\).
+1.8.3.5. Pro: [IRV "neuters" third parties](https://www.cato-unbound.org/2016/12/09/jason-sorens/false-promise-instant-runoff-voting) by giving their votes to mainstream parties, making them no longer a threat to the mainstream parties, who can get their votes without making concessions to their voters.
+1.8.3.6. Pro: -> See 1.3.1.
+1.8.3.7. Pro: -> See 1.7.4.
+1.8.3.8. Con: The single constituency elections of AV+ exhibit all of the advantages of [IRV](https://www.kialo.com/the-us-should-adopt-a-better-voting-system-for-single-winner-elections-4650/4650.0=4650.1).
+1.8.3.8.1. Pro: The alternate vote provides more opportunity for moderate candidates to be elected because the electorate can vote their first choice without fear of losing their vote.
+1.8.3.8.1.1. Pro: Candidates from existing parties will have an incentive to adopt more moderate policies because they will be competing with moderate candidate in addition to polar opposites.
+1.8.3.8.1.2. Con: AV could lead to people voting for more extreme candidates, rather than more moderate candidates.
+1.8.3.8.1.2.1. Pro: -> See 1.8.3.1.
+1.8.3.8.2. Pro: -> See 1.3.8.
+1.8.3.8.3. Con: AV+ legitimizes political parties, it makes them an intimate and necessary part of the system. So it does not have all the advantages of IRV.
+1.9. [Harmonic Voting](http://scorevoting.net/QualityMulti.html) \(with an approval ballot to significantly simplify the voting system\)
+1.9.1. Pro: This system is [monotonic](https://en.wikipedia.org/wiki/Monotonicity_criterion).
+1.9.2. Con: -> See 1.3.3.
+1.9.3. Pro: Unlike the score ballot version of harmonic voting, the approval version of harmonic voting is actually really simple.
+1.9.3.1. Pro: In constituencies that elect with 3 winners, each possible outcome gets 1 point from each voter that approves of 1 candidate in that outcome, 1 + 1/2 points for every voter that approves of 2 candidates in that outcome, and 1 + 1/2 + 1/3 points for every voter that approves of all 3 candidates in that outcome.
+1.9.4. Pro: By voting honestly, a voter can never get a worse result \(unless how much a voter likes a specific election result does not closely match the sum of how much they like all the candidates in that outcome\), so it basically passes the [participation criterion](https://en.wikipedia.org/wiki/Participation_criterion).
+1.9.4.1. Pro: More specifically, it passes the following version of the participation criterion: if you prefer X to Y, by voting honestly, you can't cause Y to win and not X \(as long as all of the other winners remain the same\). This is a VERY restrictive property that VERY few deterministic proportional voting methods pass.
+1.10. [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV) \(a monotonic version of STV that is a multiwinner adaptation of the [Schulze Condorcet method](https://en.wikipedia.org/wiki/Schulze_method) instead of the  [IRV](https://m.youtube.com/watch?list=PL3kfKzpcsmD-dbPosOQ8pxQuh9YAhjfaN&params=OAFIAVgE&v=RmP81NW9_O0&mode=NORMAL) method\)
+1.10.1. Con: -> See 1.3.1.
+1.10.2. Con: -> See 1.3.2.
+1.10.3. Pro: It is immune to [Woodall Free Riding](http://ithurtstonotbreathe.blogspot.com/2011/01/woodall-free-riding.html?m=1), a type of strategic voting based on the fact that in some instances it is beneficial for a voter to rank their first preference candidates second on their ballot paper.
+1.10.4. Con: -> See 1.3.3.
+1.10.5. Con: -> See 1.7.4.
+1.10.6. Pro: This system would allow us to do away with the primary system. It would allow us to say I support "any of these candidates" over the rest, which is arguably a much more powerful choice.
+1.10.7. Con: Schulze STV is a very complicated voting system
+1.10.8. Pro: Unlike traditional STV, the winning election outcome is produced by comparing every single possible election outcome to every other possible election outcome. As a result, there is no order associated with the winning candidates; \(In traditional STV, there is a 1st winner, a 2nd winner, etc.\), which means that Schulze STV can do a better job at optimizing the amount of the support each winner gets
+1.11. [Dual Member Proportional \(DMP\)](https://dmpforcanada.files.wordpress.com/2016/01/dmp-report-updated-april-4-2016.pdf): A [form of MMP](https://dmpforcanada.com/) using solely local representatives apportioned to two-member districts. Candidates run in two-person partisan tickets in each district, with the first member in a district elected directly by voters, while the second member is elected from among the first-seat losers using an algorithm that gives priority to strong-performing losers to produce a proportional legislature.
+1.11.1. Con: The algorithm used to assign second seats can produce results that may seem counterintuitive to voters, like a candidate placing 3rd or 4th in a district being awarded that district's second seat.
+1.11.2. Pro: The 50-50 split between first \(directly elected\) and second \(proportional\) seats allows a high margin of error for parties in winning seats without fear of losing seats due to another party getting overhang seats.
+1.11.2.1. Pro: A party, in order to get overhang seats, would have to win a share of first seats greater than twice its share of the regional vote.
+1.11.3. Pro: DMP uses local representatives, so there can still be a strong link between representatives and constituents.
+1.11.3.1. Pro: DMP would not require seats to be set aside for regional or national congressmen unlike "standard" MMP; all seats would be local. The nation would be divided solely into two-member districts.
+1.11.4. Pro: Having two members for each district would increase political representation for the vast majority of districts. The proportionality part would mean that both the left and the right can have a representative each in the district.
+1.11.5. Con: If the size of the US House would be kept nearly the same \(the dual-member district means the size of the House needs to be changed to either 436 or 434 to keep the same amount of representation\), the districts would have to be 2x larger, which may weaken the link between the representatives and their constituents.
+1.12. Reweighted Representative: Gives Representatives unequal vote strength in the house proportional to the share of the vote they received.
+1.12.1. Con: Under this system, there may be too many representatives to realistically fit inside the legislature.
+1.12.1.1. Con: Most legislative work takes place in committees.
+1.12.1.2. Con: The less popular representatives can participate from home via communications network. They could still have rights to sit in the chamber sometimes on a rotation.
+1.12.1.3. Con: This system can be combined with Asset Voting with a very low threshold to limit the candidates to a reasonable number.
+1.12.1.3.1. Pro: It could be the top X candidates are automatically elected with vote weights, and the remainder of votes can be reshuffled and weighted with Asset, with or without time limit.
+1.12.2. Pro: Changing to reweighted representatives would be much more cost efficient than some of the other proposed changes as it requires no change to be made to the current way that Americans vote.
+1.12.3. Pro: This system is perfectly representative.
+1.12.3.1. Pro: Each voter is represented by a legislator they voted for.
+1.12.3.2. Pro: Each voter gets one vote, and that vote counts every time the representative, they voted for, votes in congress.
+1.12.4. Con: This system makes votes in the house more complicated.
+1.12.4.1. Con: It's cheap and easy these days to set up a computer system to tally the weighted votes in the house. Such a system would handle the slight additional complexity of using weighted representatives in a way that minimizes the complexity's effect on humans.
+1.12.4.2. Pro: Instead of just counting the number of delegates who vote for, against, or abstain, you must look up each delegate's vote weight and add those big numbers instead.
+1.13. [Asset voting](https://rangevoting.org/Asset.html) \(similar to STV but candidates holding the votes are in control of who votes are transferred to\)
+1.13.1. Pro: This system allows people to use current plurality ballot, ordinal, or cardinal ballots.
+1.13.1.1. Con: Asset Voting, in order to be fair, requires that a vote be a cardinal vector whose entries sum to a constant \(unlike Approval and Score\). Board-like ordinal ballots could work but they are sub-optimal.
+1.13.1.1.1. Con: Asset can be used with Score and Approval ballots by dividing points or votes given to each candidate by total points or votes given to all candidates in that race, and using this to determine what fraction of a voter's vote goes to each candidate.
+1.13.2. Pro: -> See 1.3.8.
+1.13.3. Pro: Candidate-controlled transfer means there's no transfer algorithm nor the peculiarities that come with them.
+1.13.4. Pro: This system gives non-winning candidates some negotiation power as a reward for the votes they did secure.
+1.13.5. Pro: This system allows for the maintenance of single-member constituencies.
+1.13.5.1. Con: Asset voting is only a proportional voting system when it is used in multiwinner constituencies
+1.13.5.1.1. Con: All voting systems are only proportional when used in multiwinner constituencies.
+1.13.5.1.2. Pro: Asset voting advocates do not recommend asset voting for single winner constituencies because there are better single winner voting methods \(like approval voting\) that give voters more control over the process. Asset's voting's strength is in multiwinner elections because unlike other forms of PR, asset voting is immune to free riding.
+1.13.6. Pro: This system can use the fairer and simpler Hare Quota rather than the Droop Quota.
+1.13.6.1. Pro: [The greater fairness](http://blog.opavote.com/2016/06/guest-post-rethinking-stv-fundamentals.html) of the Hare Quota is undermined by the rest of STV's algorithm. This is not the case for Asset Voting as there is no algorithm.
+1.13.7. Con: Deal-making around vote transfer could lead to corruption.
+1.13.7.1. Con: Bribery is already a crime.
+1.13.7.2. Con: Voters, journalists, and investigators will be paying close attention during the negotiations, making it nearly impossible for corruption not to be caught and punished.
+1.13.7.3. Con: Corruption would be hard to hide under an Asset system, because it would be happening in the public eye during a high-interest event \(the elections\).
+1.13.7.4. Pro: Candidates with no chance of winning could run purely to be corrupt and benefit themselves.
+1.13.8. Con: Candidate-controlled vote transfer could lead to candidates ignoring voters' desires in favour of party loyalty.
+1.13.8.1. Con: This becomes less of an issue with more candidates. Voters can safely vote for third parties in Asset.
+1.13.8.1.1. Pro: It can be immune to spoilers if enough candidates run and their positions match that of the voters.
+1.13.8.2. Con: Political parties aren't necessary for a candidate to run in Asset, meaning voters can choose candidates who are pro or anti-party loyalty.
+1.13.9. Pro: -> See 1.3.9.
+1.14. Approval List Voting: An [open list](https://en.wikipedia.org/wiki/Open_list) version of [party list voting](https://ballotpedia.org/Party_list_voting_system) where lists are determined through [approval voting](https://www.youtube.com/watch?v=rCWjioIlVis) among the individuals voting for that party on election day.
+1.14.1. Pro: It is the most proportional voting method that still preserves the equal weight of seats in congress.
+1.14.1.1. Con: Random ballot is more proportional on average.
+1.14.1.1.1. Pro: If one were to run multiple 100 seat elections where Party A gets 50.7% of the vote and Party B get 49.3%, under approval-list the average result is 51 seats to 49 seats, while under random ballot the average result is 50.7 seats to 49.3 seats.
+1.14.2. Con: Approval voting is [highly vulnerable](https://d3n8a8pro7vhmx.cloudfront.net/fairvote/pages/2298/attachments/original/1449512865/ApprovalVotingJuly2011.pdf) to strategic voting in contested elections because it violates the later-no-harm criterion \(p. 1\). The later-no-harm criterion comes into play when a voter's indication of support for a lesser choice can help defeat the voter’s most preferred candidate.
+1.14.2.1. Pro: [Nicolaus Tideman](https://en.wikipedia.org/wiki/Nicolaus_Tideman) ranked approval voting [last](https://d3n8a8pro7vhmx.cloudfront.net/fairvote/pages/2298/attachments/original/1449512865/ApprovalVotingJuly2011.pdf) among 25 systems in its lack of resistance to strategic voting.
+1.14.2.2. Pro: A study [found](https://mpra.ub.uni-muenchen.de/32200/1/MPRA_paper_32200.pdf) that approval list voting was most vulnerable to strategic voting \(p. 35\).
+1.14.3. Con: Approval List Voting systems may result in the candidate who the majority prefers to be [denied office](https://d3n8a8pro7vhmx.cloudfront.net/fairvote/pages/2298/attachments/original/1449512865/ApprovalVotingJuly2011.pdf). This candidate could lose to a candidate who is not the first choice of even a single voter, but who wins after securing a large number of lesser votes of approval from backers of other candidates \(p. 3\).
+1.15. Simple plurality, but expand the House to a representation ratio of 1:30,000 as per the [US Constitution](https://constitution.congress.gov/browse/article-1/section-2/clause-3/)(The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative).
+1.15.1. Pro: The other proposals are a big change and would require amending the Constitution. They are unlikely to succeed.
+1.15.2. Pro: Much smaller districts would make the fight over redistricting less important, reducing a key source of corruption in the system.
+1.15.3. Con: Such small districts would be constantly in flux, and would change drastically every 10 years.
+1.15.4. Pro: A smaller constituency means that each representative will be under closer scrutiny and have an incentive to listen to their constituents.
+1.15.5. Con: Having a 12,000 person house of representatives will be complex and the voting process and rules of order will need to change.
+1.16. \(Sequential\) [Proportional Approval Voting](https://m.youtube.com/watch?v=Gnsgo3z8UIg)
+1.16.1. Pro: -> See 1.9.1.
+1.16.2. Pro: -> See 1.10.3.
+1.16.3. Con: -> See 1.3.4.
+1.16.4. Con: The [system](https://en.wikipedia.org/wiki/Sequential_proportional_approval_voting) disadvantages minority groups who share some preferences with the majority.
+1.16.5. Con: Under this system, voting for the candidate you want to win can backfire.
+1.16.5.1. Pro: -> See 1.3.2.
+1.16.5.2. Pro: -> See 1.3.3.
+1.16.6. Con: When we want a proportional result, choosing winners one at a time makes it harder for the later winners to be selected by a proportional method.
+1.16.6.1. Pro: Instead of optimizing votes, proportional approval voting chooses winners sequentially \(meaning that there is a 1st winner, a 2nd winner, etc.\). The algorithm is unable to work efficiently because it cannot predict what happens after the first set of winners are chosen. Redistributing, say, a 2% remainder \(which will not impact the elections\) would be wasteful.
+1.16.7. Pro: -> See 1.3.9.
+1.16.8. Pro: It is simpler than [many other proportional voting methods](https://en.wikipedia.org/wiki/Comparison_of_electoral_systems#Compliance_of_non-majoritarian_party_agnostic_multi-winner_methods) such as STV, Schulze STV, Re-weighted Range, Least Squares, Monroe's method, etc.
+1.17. [Re-weighted Range Voting​](http://rangevoting.org/RRV.html) \(RRV\)
+1.17.1. Pro: -> See 1.9.1.
+1.17.2. Pro: RRV is immune to the [spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect).
+1.17.2.1. Pro: Cardinal Voting systems have a [Nursery Effect](http://rangevoting.org/NurseryEffect.html) that helps 3rd Parties become viable.
+1.17.2.2. Pro: Because of this, 3rd party candidates aren't discouraged from participating.
+1.17.3. Pro: It is more expressive then proportional approval voting and the approval version of harmonic voting because it allows one to mark the strength of their preferences on the ballot paper.
+1.17.3.1. Pro: Marking the strength of one's preferences on the ballot paper allows voters to fully express their political voice, as they can independently score each candidate.
+1.17.3.1.1. Pro: [Paradox of voting](https://en.wikipedia.org/wiki/Paradox_of_voting) shows that voters go to the polls for self-expression not self-interest, so using a voting system that maximises expression is imperative.
+1.17.3.1.2. Pro: These following studies indicate that voters use the expressiveness of a cardinal ballot to its fullest. [French2007studies](http://rangevoting.org/French2007studies.html) [OrsayTable](http://rangevoting.org/OrsayTable.html) [electology.org](https://electology.org/blog/honest-voters-had-preference-2016)
+1.17.3.2. Pro: -> See 1.7.4.
+1.17.4. Con: -> See 1.3.1.
+1.17.5. Con: -> See 1.3.2.
+1.17.6. Con: -> See 1.3.3.
+1.17.7. Con: -> See 1.3.4.
+1.17.8. Con: In scenarios where factions have multiple candidates to be seated that are scored near-uniformly \(Party List, or ranges comparable to the number of factions rather than number of candidates\), RRV trends majoritarian. In a [real world party list scenario](https://groups.google.com/d/msg/electionscience/tyQFDrD3GR8/Qyw-71mnAAAJ), the minor parties each have at least one [Hare Quota](https://en.wikipedia.org/wiki/Hare_quota) supporting them, but get zero seats under RRV
+1.17.8.1. Con: In those scenarios, every voter's average satisfaction of all of the candidates is still *better the outcome that STV spits out \[*with a tiny exception for the voters that voted F\>E\>D\>C\>B\>A\]. The benefit of PR over majoritarian representation is that the minority is more represented, and every group of voters \(including the minority\) is more represented under the RRV result.

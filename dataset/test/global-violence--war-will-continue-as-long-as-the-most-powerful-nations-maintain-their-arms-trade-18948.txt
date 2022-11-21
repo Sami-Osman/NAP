@@ -1,0 +1,102 @@
+Discussion Name: Global violence & war will continue as long as the most powerful nations maintain their arms trade
+
+1. Arms trade provide countries & nonstate actors with the ability to perpetuate violence.
+1.1. Pro: Arms trade is a very big business and stopping it is almost impossible.
+1.1.1. Con: We will not know if ending the arms trade is impossible until it is attempted.
+1.1.2. Con: Many countries have halted their arms trade with others. There is no reason why this could not be extended to their whole arms trade.
+1.1.2.1. Pro: Following a [Court of Appeal ruling](https://www.hrw.org/news/2019/06/20/uk-arms-sales-saudis-suspended-after-landmark-ruling), the UK suspended arms sales to Saudi Arabia.
+1.1.2.2. Pro: Many countries have [suspended](https://www.politico.eu/article/turkey-kurds-assault-eu-to-suspend-arms-exports/) their arms trade with Turkey due to its treatment towards Kurds.
+1.1.3. Pro: The arms trade creates its own market by facilitating both sides so that conflicts are more drawn out than they otherwise would be.
+1.1.3.1. Pro: As one side acquires more powerful weaponry, the other side is forced to at least match it in order to negate the other side's material advantage. Thus, for every arm sold, the arms trade generates a second customer.
+1.1.4. Pro: SIPRI estimates that the total value of the global arms trade in 2017 was at least [$95 billion](https://www.amnesty.org/en/latest/news/2019/08/killer-facts-2019-the-scale-of-the-global-arms-trade/).
+1.1.5. Pro: Arm trade comprises of a large part of many countries' exports.
+1.1.5.1. Pro: This is a big part of the export for most members of the UN Sec Council.
+1.1.5.2. Con: It is estimated that the [U.S accounts for 34% of all global arms sales](https://www.bbc.com/news/business-43873518), which means that a few countries'exports rely on arm trade.
+1.1.5.3. Pro: Between 2014-2018 Saudi Arabia was the main recipient of US Arms Exports, accounting for [22% of its exports](https://www.sipri.org/sites/default/files/2019-03/fs_1903_at_2018.pdf).
+1.1.5.4. Pro: From [2014-2018](https://www.sipri.org/sites/default/files/2019-03/fs_1903_at_2018_0.pdf), India was the biggest consumer of Russian arms, which amounted to 27% of Russia's exports.
+1.1.5.4.1. Pro: There has always been some party that benefits from conflict.
+1.1.6. Pro: A large and thriving part of international arms trade takes place on the [dark web](https://www.rand.org/randeurope/research/projects/international-arms-trade-on-the-hidden-web.html).
+1.1.6.1. Pro: A study found that the overall value of arms trade on the dark web, based on the 12 cryptomarkets, was estimated to be [$80,000 USD per month](https://www.rand.org/randeurope/research/projects/international-arms-trade-on-the-hidden-web.html), with firearms generating nearly 90% of all revenue.
+1.1.6.2. Pro: The dark web is a place for better performing and, at times, cheaper weapons than the ones available in [physical black markets](https://www.rand.org/randeurope/research/projects/international-arms-trade-on-the-hidden-web.html).
+1.2. Con: Nations could eventually learn to deal with conflict nonviolently rather than preventing the means of conflict.
+1.2.1. Con: Many theorists/researchers argue that [humans have a biological imperative for violence](https://www.sapiens.org/evolution/human-violence-evolution/). If this is true, then it is unlikely that we could eventually learn to be nonviolent.
+1.2.1.1. Pro: Biological anthropologists have found evidence that violent conflict is "[ancient and primal, a vestige of our pre-Homo ancestry.](https://www.discovermagazine.com/the-sciences/are-humans-inherently-violent-what-an-ancient-battle-site-tells-us)"
+1.2.1.2. Con: Even if a propensity towards violence proves to be innate, this does not mean that we can't learn to be nonviolent. It is possible to learn to constrain our impulses.
+1.2.1.2.1. Pro: Virtue [ethics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217385/) emphasizes that we can develop habits as a way of learning new patterns of behavior.
+1.2.2. Con: If a single nation were willing to carry out acts of violence via the acquisition of arms, this would encourage other nations to build up their arms as a means of self-defense.
+1.2.2.1. Pro: This idea is backed up by many approaches in the academic field of International Relations which see state behavior as [animated by fear](https://www.e-ir.info/2020/11/01/fear-in-international-relations/), and especially the fear of attack by others.
+1.2.3. Con: It is even possible that an increase in potential for violence can actually promote peace insofar as it balances out the power of various groups, increasing the harm of doing violence to others.
+1.2.3.1. Pro: As part of the nuclear standoff during the Cold War, the doctrine of [Mutually Assured Destruction](https://en.wikipedia.org/wiki/Mutual_assured_destruction) was supposed to increase the likelihood of peace by making the cost of war more costly to all parties.
+1.2.3.1.1. Con: The idea of mutually assured destruction relies on nuclear weapons. That makes its applicability narrow since only a few countries are in possession of them or allowed to [develop and/or acquire them](https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons).
+1.2.4. Pro: Nations can opt for [mediation](https://www.glo-be.be/en/articles/how-does-international-community-deal-conflicts) as an instrument to deal with conflict nonviolently.
+1.2.4.1. Pro: [Mediation](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/CSSAnalyse211-EN.pdf) is a proven method to manage and resolve conflict, which has been used from 1946 in "about half of all civil and inter-state conflicts". \(p. 1\)
+1.2.5. Pro: In situations of conflict, countries can [prioritize protecting the most vulnerable](https://www.glo-be.be/en/articles/how-does-international-community-deal-conflicts), such as by transferring them to safe havens in neighboring countries or developing refugee camps.
+1.3. Con: People and governance is the problem - not the weapons.
+1.3.1. Pro: The United States supplied weapons to armed groups in order to [fight Assad and, later, ISIS](https://www.cato.org/blog/arms-sales-pouring-gas-fires-conflict). However, they landed in the hands of ISIS and helped amplify their military capacity. This proves that the problem is not with supplying weapons, but with how those weapons are handled by the people.
+1.3.2. Con: Without a thriving arms trade, it is likely that the level of violence undertaken would reduce, even if there was a strong intention to act out that violence.
+1.3.3. Pro: People are naturally violent.
+1.3.3.1. Pro: According to Thomas Hobbes, in the state of nature, prior to the development of civil society, life is "[nasty, brutish and short](https://www.theperspective.com/debates/living/humans-inherently-violent/)".
+1.3.3.2. Pro: Distinguishing features of males, such as a greater physical strength could be a [consequence of evolutionary adaptation to inter-group fighting.](https://www.theperspective.com/debates/living/humans-inherently-violent/)
+1.3.3.3. Con: Even if humans have some natural inclination toward violence, the fact that not everyone is violent shows that human behaviour is not necessarily dictated by what is "natural".
+1.3.4. Pro: Since the USA is the [largest arms exporter](https://www.cato.org/publications/policy-analysis/risky-business-role-arms-sales-us-foreign-policy), and has moved to [withdraw](https://www.npr.org/2019/04/26/717547741/trump-moves-to-withdraw-u-s-from-u-n-arms-trade-treaty) from the [United Nations' Arms Trade Treaty](https://www.armscontrol.org/factsheets/arms_trade_treaty), it is unlikely that the arms trade will significantly reduce.
+1.3.5. Con: Even if weapons are not the problem, giving them to people and governments with violent intentions is likely to perpetuate conflict.
+1.4. Pro: Arms trade provides countries with the ability to perpetuate violence.
+1.4.1. Con: If all countries are aware that others have the ability to retaliate, then this might deter them from initiating violence in the first place.
+1.4.1.1. Con: Any such deterrence factor would rely on mutual knowledge about each other's arms capacity. However, states will not necessarily be privy to this information.
+1.4.1.2. Con: Powerful countries don't have to worry about retaliation from countries that are less powerful.
+1.4.1.2.1. Pro: During the [Gulf War](https://en.wikipedia.org/wiki/Gulf_War) from 1990 and 1991 as well as the [Iraq War](https://en.wikipedia.org/wiki/Iraq_War) from 2003 onwards, the United States was able to invade Iraq without having to worry about retaliation.
+1.4.2. Pro: Definitely
+1.4.3. Pro: For many governments/leaders, perpetuating violence is a means to retain power.
+1.4.4. Con: States would need weapons to use [legitimate force](https://www.britannica.com/topic/state-monopoly-on-violence) in order to maintain order and control. This proves that not every exercise of force is necessarily bad.
+1.4.4.1. Con: Most countries don't rely on military-grade weapons to maintain their monopoly on violence at home.
+1.4.4.1.1. Pro: Arms-exporting countries like Germany, therefore, [differentiate](https://www.auswaertiges-amt.de/en/aussenpolitik/themen/aussenwirtschaft/-/231416#content_1) between weapons for civilian and military purposes \(as well as dual-use weapons\).
+1.4.5. Pro: Saudi Arabia is using [US-supplied arms](https://www.nytimes.com/2018/12/25/world/middleeast/yemen-us-saudi-civilian-war.html) to perpetuate violence in Yemen.
+1.4.5.1. Con: The country would likely be able \(or will be able in the future\) to perpetuate violence even if it couldn't import arms as illustrated by its progress in developing a [domestic arms industry](https://www.csis.org/analysis/indigenous-defense-industries-gulf).
+1.4.5.1.1. Con: These efforts by the Saudi Arabian government have been [labeled as](https://www.csis.org/analysis/indigenous-defense-industries-gulf) pointless with there being "virtually no way to waste money more effectively". It is unlikely that Saudi Arabia could sustain its current policies without arms imports.
+1.4.5.2. Pro: The Saudi-led coalition in Yemen has displaced more than [3 million](https://www.bbc.com/news/world-middle-east-34011187) people.
+1.4.6. Pro: Arms trade has accelerated [global armed conflict](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139041/), which has caused massive destruction.
+1.4.6.1. Pro: Arms trade indirectly disproportionately harms [women and children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139041/).
+1.4.7. Pro: If arms trade provides countries with the ability to carry out violence, stopping that arms trade would be effective at decreasing that violence.
+1.4.7.1. Pro: Stopping arms trade acts as an [effective signal of dissatisfaction](https://warontherocks.com/2019/05/the-case-for-suspending-american-arms-sales-to-saudi-arabia/) to the actors who carry out violence using those arms. As a result, the perpetrator is likely to re-think their actions.
+1.4.7.2. Con: [Enforcing embargoes](https://issafrica.org/iss-today/how-can-arms-embargoes-be-made-more-effective) is difficult, thereby decreasing their effectiveness at stopping conflict.
+1.4.7.2.1. Pro: Arms suppliers are able to circumvent embargoes by exploiting "[weak legislation and corrupt governments](https://issafrica.org/iss-today/how-can-arms-embargoes-be-made-more-effective)".
+1.4.7.2.2. Con: Steps can be taken to help states build [capacities](https://www.swp-berlin.org/en/publication/implementing-and-enforcing-un-arms-embargoes/) necessary to enforce arms embargoes.
+1.4.7.2.3. Pro: [Intervening states](https://theconversation.com/libya-why-enforcing-an-arms-embargo-is-so-hard-130254) tend to breach arms embargoes by supplying weapons to local proxy groups they support.
+1.4.7.2.4. Pro: From 1996 to 2006, [13 UN arms embargoes](https://gsdrc.org/document-library/un-arms-embargoes-an-overview-of-the-last-ten-years/) have been placed. However, none have stopped the flow of weapons to countries or armed groups.
+1.4.7.2.5. Pro: Many countries lack the [political will](https://www.researchgate.net/publication/227809924_Can_UN_arms_embargoes_in_Africa_be_effective) to enforce embargoes.
+1.4.7.2.6. Con: Regional cooperation among states can help establish measures to monitor member states' borders for violations of arms embargoes. This could make it likelier that arms embargoes are not violated. \([p. 1](https://media.africaportal.org/documents/policybrief92.pdf)\)
+1.4.8. Pro: Arms transfers can increase [the probability of war](https://journals.sagepub.com/doi/abs/10.1177/0022343302039006003).
+1.4.8.1. Con: A [study](https://journals.sagepub.com/doi/10.1177/0022343398035001002) concluded that, for some states, arms transfers encourage more conflictual foreign policies. However, arms trade also leads to arms transfer dependence, which decreases this tendency. Hence, it cannot be conclusively proven that arms trade increases the probability of conflict.
+1.4.8.2. Pro: Even though arms transfers may not directly cause conflict, they increase the [probability of conflict](https://journals.sagepub.com/doi/10.1177/0022343317740417) occuring in countries that are conducive to it.
+1.5. Pro: Without the arms, these leaders are left only with rhetoric.
+1.5.1. Con: It has been argued that [war rhetoric](https://thefederal.com/opinion/rhetoric-an-effective-arm-of-the-war-machinery/) can be even more devastating than wars.
+1.5.1.1. Pro: [War rhetoric](https://www.panoramas.pitt.edu/news-and-politics/war-rhetoric-and-%E2%80%9Cstrong-man%E2%80%9D-politics-americas) is a form of psychological propaganda that is used to convince people that war is necessary.
+1.5.1.1.1. Con: And used to later justify going to war \("I told you this might happen..."_\)
+1.5.2. Pro: The [Aristotelian rhetoric](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1107&context=law_jurisprudence) could bring numerous benefits to avoid conflict and the use of arms. \(p.1\)
+1.5.2.1. Pro: When leaders use rhetoric to justify and pre-program their foreign policies, it seems to benefit the [diplomatic prevention of armed conflicts](https://www.diplomacy.edu/resources/general/leaders-rhetoric-and-preventive-diplomacy-issues-we-are-ignorant-about).
+1.5.2.1.1. Pro: So long as not war rhetoric
+1.5.3. Con: [Numerous countries](https://en.wikipedia.org/wiki/Arms_industry#World's_largest_arms_exporters), among them major players like the US and China, would have plenty of arms left even without arms trade since they produce them at home.
+1.6. Pro: There is clearly money to be made; foreign aid is tied to arms purchases \(directly or indirectly\).
+1.6.1. Pro: Throughout the centuries, money is near the root of this issue.
+1.6.2. Con: If there is an economic interest behind the trade of arms, it could contradict its ability to perpetuate violence, as countries would seek to reach agreements.
+1.6.2.1. Pro: The [European Union Arms Treaty](https://ec.europa.eu/growth/sectors/defence/arms-trade-treaty_en) aimed to provide common international standards for "the import, export, and transfer of conventional weapons."
+1.6.3. Pro: Some say the arms industry has such a "yes" in the US Congress it hardly needs lobbyists
+1.6.4. Pro: Arms sales \(internal and external\) are based on fear and much of news/politics is fear based
+1.6.4.1. Pro: Arms may be perceived as necessary to protect oneself from danger or threat.
+1.6.4.2. Con: Rising tensions between countries in volatile regions is the reason why arms sales have been on a rise.
+1.6.4.2.1. Pro: Growing tensions in the Gulf region in the last decade has resulted in a [huge spike in arms import](https://studies.aljazeera.net/en/reports/2018/01/growing-arms-deals-gulf-existential-fear-politics-180122092552473.html).
+1.6.4.3. Pro: Fear based news generates more public interest and thus is [more profitable for the industry](https://www.psychologytoday.com/us/blog/two-takes-depression/201106/if-it-bleeds-it-leads-understanding-fear-based-media).
+1.6.4.3.1. Pro: Fear may equal willingness to pay taxes to support arms
+1.6.4.3.2. Pro: Defense spending is not challenged
+1.6.4.4. Pro: [Fear of authoritarian governments](https://www.thesun.co.uk/news/10522854/billion-pound-spike-arms-sales-uncertain-world-sparks-fears-new-global-war/) have resulted in a billion-pound spike in arms sales around the globe.
+1.6.4.4.1. Pro: Arm sales and fear go together.
+1.6.4.4.2. Pro: In [2019](https://www.thesun.co.uk/news/10522854/billion-pound-spike-arms-sales-uncertain-world-sparks-fears-new-global-war/), data released by the Stockholm International Peace Research Institute \(SIPRI\) revealed that sales of arms and military services have risen by a whopping 47% since 2002.
+1.6.4.4.2.1. Pro: One might think that as arms get more destructive, the fear of using them would be reduced. That does not seem to be the case.
+1.6.5. Con: Even if countries that import arms monetarily benefit from the trade, they also economically suffer from it due to increased armed violence.
+1.6.5.1. Pro: According to Oxfam, armed violence costs Africa approximately [$18 billion per year](http://oxfam.org/en/why-we-need-global-arms-trade-treaty#:~:text=The%20poorly%20regulated%20arms%20trade,Africa%20%2418%20billion%20per%20year.&text=Violence%20and%20instability%2C%20and%20the,they%20contribute%2C%20discourage%20outside%20investment.).
+1.6.5.1.1. Pro: And funds/resources are very much needed for other purposes
+1.7. Con: Sometimes stated as the issue is not weapons but the way we think.
+1.7.1. Con: Perhaps at a deeper level that is true.
+1.7.2. Pro: The intention to carry out acts of violence against others is what drives the violence. Weapons are of secondary importance.
+1.7.2.1. Pro: In order to produce safety, it is first important to understand all the [reasons that drive violence](https://www.commonjustice.org/to_produce_safety_we_must_understand_what_drives_violence).
+1.7.2.1.1. Pro: Violence can be caused by many different variables such as [political instability and violent extremism](https://www.oecd-ilibrary.org/sites/9789264267213-6-en/index.html?itemId=/content/component/9789264267213-6-en).

@@ -1,0 +1,78 @@
+Discussion Name: The USA Should Have National ID Cards
+
+1. United States government should issue national identity cards
+1.1. Pro: More states are requiring [some form of ID at voting booths](http://www.ncsl.org/research/elections-and-campaigns/voter-id.aspx), despite many people not having them. Having a National ID system would guarantee that everyone who wishes to vote can do so.
+1.1.1. Pro: National ID cards would make compiling voter rosters easier and eliminate the need to register to vote.
+1.1.1.1. Con: Countries that issue ID cards [\(for example, France\)](https://en.wikipedia.org/wiki/National_identity_card_%28France%29) still [require registration](https://en.wikipedia.org/wiki/Elections_in_France) to vote.
+1.1.2. Pro: [Not everyone](https://www.npr.org/2012/02/01/146204308/why-millions-of-americans-have-no-government-id?t=1563359432125) has sufficient ID.
+1.1.2.1. Pro: For [some groups of people](https://rewire.news/ablc/2014/10/16/well-actually-pretty-hard-people-get-photo-id-just-vote/) it can be challenging to get a photo ID.
+1.1.2.2. Pro: Many of the [variety](https://en.wikipedia.org/wiki/Identity_documents_in_the_United_States) of ID documents that exist are not given out for free and so are only accessible to people who can afford to buy them.
+1.1.2.2.1. Con: Most states will issue free or "at cost" [identification cards](https://en.wikipedia.org/wiki/Identity_documents_in_the_United_States#State-issued_driver's_license/ID_card) to minors and individuals [who do not drive](https://dmv.ny.gov/id-card/bget-non-driver-id-card-ndid).
+1.1.2.2.1.1. Pro: Some states \([like Wisconsin](https://bringit.wi.gov/how-do-i-get-free-state-id-card)\) issue free state ID cards.
+1.2. Con: Introducing a national ID card could help future US governments become more totalitarian.
+1.2.1. Pro: There are many historical example of tyrannical governments using ID cards as a way to facilitate political repression. For example, [the Vichy regime was the 1st french government to introduce mandatory ID cards in France. Those ID cards facilitated and accelerated the identification and arrestation of 76 000 jews](https://en.m.wikipedia.org/wiki/National_identity_card_\(France\))
+1.2.2. Con: Plenty of countries have such an ID card and aren't totalitarian.
+1.2.2.1. Con: Even if ID cards do not guarantee that a country becomes totalitarian, it still makes it easier for them to do so.
+1.2.2.2. Pro: [Many](https://en.wikipedia.org/wiki/List_of_national_identity_card_policies_by_country) countries have identification cards. For example, South Africa, Greece and Argentina. These are democratic countries.
+1.2.3. Con: There is little to nothing a national ID can do to aid totalitarianism that is not already done by the existing patchwork of mechanisms for identification.
+1.2.3.1. Pro: In the US, there already exist identification documents that make a national ID unnecessary.
+1.2.3.1.1. Pro: [225 million Americans](https://www.statista.com/statistics/191653/number-of-licensed-drivers-in-the-us-since-1988/) have a drivers license, which is used as [a form of ID](https://en.wikipedia.org/wiki/Driver%27s_licenses_in_the_United_States#Use_as_identification_and_proof_of_age).
+1.2.3.1.1.1. Con: A significant number of Americans do not have a driver's license.
+1.2.3.1.1.1.1. Con: -> See 1.1.2.2.1.
+1.2.3.1.2. Pro: People can acquire ID cards issued by their state.
+1.2.3.1.2.1. Con: Different aspects of state issued ID cause confusion or general lack of acceptance outside of the state that issued the ID. A non-exhaustive list of some of those aspects include: quality of the plastic, quality of the lamination, quality and use of holograms, presence of barcodes and information on the backside of the ID, and layout of the information on the ID.
+1.2.3.1.2.2. Pro: -> See 1.1.2.2.1.
+1.2.3.1.3. Pro: Social security cards could act as a de facto national ID.
+1.2.3.1.3.1. Con: There is [no photo](https://duckduckgo.com/?q=social+security+card&t=ffab&iax=images&ia=images&iai=https%3A%2F%2Fwww.gannett-cdn.com%2F-mm-%2F199bf52be1a2770a0fb76dba430afac85e136479%2Fc%3D0-26-580-352%26r%3Dx803%26c%3D1600x800%2Flocal%2F-%2Fmedia%2F2017%2F09%2F14%2FUSATODAY%2Fusatsports%2Fsocial-security-card_gettyimages-513633811_large.jpg) of the owner on the social security card.
+1.2.3.1.3.2. Con: Originally, social security cards were not intended for identification purposes.
+1.2.3.1.3.2.1. Pro: On the old social security cards the [tagline](https://www.ssa.gov/history/ssn/ssnversions.html) "For social security and tax purposes - not for identification" is present
+1.2.3.1.3.3. Con: There are [yet to be](https://money.cnn.com/2017/09/13/technology/social-security-number-identification/index.html) biological identifiers \(e.g. finger prints\) that link a person to their social security card.
+1.2.3.1.3.4. Con: Social security cards are too insecure to be used as the standard national ID card.
+1.2.3.1.3.4.1. Pro: It is possible to guess the social security number of a person, if the social security card was issued before 2011
+1.2.3.1.3.4.1.1. Pro: Old Social Security numbers follow a [predictable pattern](https://en.wikipedia.org/wiki/Social_Security_number#Historical_structure), such as indicating, where the Social Security card was issued.
+1.2.3.1.3.4.1.1.1. Pro: The last 4 digits of a social security number were given [sequentially](https://en.wikipedia.org/wiki/Social_Security_number#Historical_structure).
+1.2.3.1.4. Con: -> See 1.1.2.
+1.2.3.2. Con: Currently a person told to show ID can plausibly claim not to have one; this would no longer be plausible if a national ID card were issued.
+1.2.3.2.1. Con: In most of the countries with a national ID you are [not required](https://en.wikipedia.org/wiki/Stop_and_identify_statutes#Other_countries) to identify yourself, unless it is required by police.
+1.2.3.2.1.1. Pro: Police are only entitled to ask for identification if they reasonably believe you have committed a crime or are going to commit one.
+1.2.4. Con: It is improbable the the United States, a country that is regarded as [democratic](https://en.wikipedia.org/wiki/Democracy_Index), will become a fully fledged totalitarian government merely because they collect more information about their citizens.
+1.2.4.1. Con: The fact that the USA is \(for now\) a relatively democratic country doesn't change the fact that ID cards could be used as a way to repress political opponents and minorities in the future.
+1.2.4.2. Con: The United States in 2016 was recognised by the [Democratic Index](https://infographics.economist.com/2017/DemocracyIndex/) as a 'flawed democracy', rather than a 'full democracy'.
+1.2.5. Pro: There is a potential thats future governments could manipulate or use the national ID card database in ways that are inconsistent with its intended purpose.
+1.2.5.1. Pro: The information collected could be used to spy on citizens.
+1.2.5.1.1. Pro: National ID cards risk having the government track movements within the country, thereby capturing additional information about a person.
+1.2.5.1.1.1. Con: National ID cards do not need to have a GPS system built in it.
+1.2.5.1.1.2. Con: Our cell phones [already](https://www.techwalla.com/articles/how-to-track-a-cell-phone-and-show-its-location) do that.
+1.2.5.1.2. Con: The information collected is not changing over time as \(e.g. your birth date stays the same through out your life\). Thus, ID cards cannot be used to spy on citizens.
+1.2.5.2. Con: The database is already in place via Social Security Cards.
+1.2.5.2.1. Con: Social security cards do not include photographs, physical descriptions, addresses, or any other such information; they only assign a unique number to each person.
+1.2.5.3. Pro: A national ID card may record information on citizen's religious association, which could be used to discriminate against certain individuals who are members of a certain religious group when government makes policy.
+1.2.5.3.1. Con: There is no reason to believe religious affiliation would be included on a national ID card registry if introduced in the US.
+1.2.5.3.2. Con: This is unlikely. The United States has an explicit [separation between church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state_in_the_United_States).
+1.3. Con: -> See 1.2.3.1.
+1.4. Con: The US [legally recognises](https://constitution.laws.com/right-to-privacy) a right to privacy and national ID cards [threaten](https://thefederalist.com/2017/10/19/creating-national-id-system-threaten-americans-privacy-security/) this right.
+1.4.1. Con: The protection of US citizens' right to privacy has already been compromised.
+1.4.1.1. Con: This is not an argument against the further violation of provacy rights by creating ID cards. It is just the statement that the US government already violentes its citizens' rights to privacy.
+1.4.1.2. Pro: The protection of the right to privacy has already been compromised by the social security system.
+1.4.1.2.1. Pro: -> See 1.2.3.1.3.4.1.
+1.4.1.3. Pro: The [NSA surveillance](https://en.wikipedia.org/wiki/Edward_Snowden#Global_surveillance_disclosures) Edward Snowden unveiled showed that the government is already violating citizens' privacy.
+1.4.2. Con: "The United States government should issue national identity cards" does not imply there would not be an opt-out of the national ID card for anyone wishing to live off the grid.
+1.4.3. Pro: Streamlining identification documents into 1 ID could create greater use of that private identification, i.e. replacing Facebook logins for tech applications, voter registrations, credit statements. These uses have very loose privacy regulations, making the likelihood of your data being released increase.
+1.4.4. Con: Many countries that mention a right to privacy [in their constitutions](https://www.constituteproject.org/search?lang=en&key=privacy) also [have a national ID card](https://en.wikipedia.org/wiki/List_of_national_identity_card_policies_by_country).
+1.4.4.1. Con: These countries may be failing to protect the right to privacy even if they mention it in their consititution
+1.4.5. Con: The government [already has](https://privacy.net/us-government-surveillance-spying-data-collection/) all the information, that can be found on a national ID \(e.g. name, date of birth, fingerprint\). If this does not violate the right to privacy it is not clear why an ID card system would.
+1.4.6. Con: The right to privacy in the US is arguably [tied to citizenship](https://www.livescience.com/37398-right-to-privacy.html). Guaranteeing everyone an identification which makes clear their citizenship could therefore help strengthen their ability to protect their right to privacy.
+1.4.6.1. Con: It is possible to prove your citizenship without an ID cards. In the USA, a birth certificate is as much a proof of citizenship as an ID card.
+1.5. Pro: The lack of a national ID makes stealing a person's identity easier.
+1.5.1. Pro: Lacking a secure ID card system is part of the reason the US has the [highest identity theft rates](http://www.waronidtheft.org/highest-rate-of-identity-theft/) in the world.
+1.5.2. Pro: ID cards prevent identity fraud. If everyone had an ID card, individuals could be made to show it in all circumstances before it is accepted that they are who they say they are.
+1.5.2.1. Con: By the same token, if you were a sophisticated identity fraudster and capable of creating duplicate identity cards, you will have a much easier time at stealing the identity of another person.
+1.5.2.2. Con: Biometrics \(e.g. DNA, fingerprint, facial/voice recognition\) are [rapidly replacing](http://www.m2sys.com/blog/workforce-management/the-top-seven-advantages-of-a-biometric-identification-management-system/) the need for identity cards of any kind and far more difficult to fake.
+1.6. Pro: A national ID will [help combat](https://www.washingtonpost.com/opinions/the-case-for-a-national-id-card/2013/02/02/49d4fb80-6cb5-11e2-ada0-5ca5fa7ebe79_story.html?utm_term=.a02da16452d1) illegal immigration.
+1.6.1. Pro: Introducing a National ID card would [make it easier](https://www.washingtonpost.com/opinions/the-case-for-a-national-id-card/2013/02/02/49d4fb80-6cb5-11e2-ada0-5ca5fa7ebe79_story.html?utm_term=.2fd5c05fa385) for companies to detect and reject undocumented job applicants. This would make it much harder than now for illegal immigrants to get jobs, thus disincentivising them from coming to the US.
+1.6.1.1. Pro: Seeing a National ID could be a requirement to get hired for a job if IDs were introduced.
+1.7. Con: It would be extremely expensive to issue everyone with identity cards.
+1.7.1. Pro: It is estimated that establishing a biometric employment card would cost [almost $40 billion](https://www.law.berkeley.edu/files/Believe_Report_Final.pdf) at the outset, with ongoing maintenance costs of at least $3 billion per year.
+1.7.2. Con: Implementing a National IDs could help to pay for itself by leading to less welfare fraud and reducing the administrative overhead of verifying citizenship.
+1.8. Pro: Issuing national identity cards would help streamline and optimise some of society's essential activities.
+1.8.1. Pro: A national ID system could aid in conducting census and demographic analysis, which could optimize public services.

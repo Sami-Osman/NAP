@@ -1,0 +1,96 @@
+Discussion Name: The use of Lethal Autonomous Weapon Systems (LAWs) will be beneficial to society
+
+1. The use of Lethal Autonomous Weapon Systems \(LAWs\) will be beneficial to society
+1.1. Pro: Unlike humans, robots could be custom built for specific tasks, granting them superhuman abilities that humans are incapable of achieving on their own with any amount of training.
+1.1.1. Pro: The US Navy [Sea Hunter](https://www.naval-technology.com/features/sea-hunter-inside-us-navys-autonomous-submarine-tracking-vessel/) is an unmanned trimaran capable of tracking submarines, locating mines, navigating by GPS and staying at sea for at least 90 days, all things which humans can not do without the proper stores and equipment.
+1.1.2. Pro: Boston Dynamics has created robots capable of running at up to [28.3 MPH](https://www.youtube.com/watch?v=chPanW0QWhA) for extended periods of time, slightly faster than the fastest human.
+1.1.3. Con: LAWs will only be useful in simple security tasks and law enforcement where automation is easiest and immediately beneficial.
+1.1.3.1. Pro: LAWs will be capable of securing boarders and aiding military personnel, but due to the technological challenges will be unable to fight alongside soldiers.
+1.1.3.1.1. Pro: It is possible that a border or zone may be secured indefinitely by LAWs, thus allowing for intervention where it was previously impossible.
+1.1.3.2. Con: There is no reason in known science that the technology needed to develop LAWs is impossible.
+1.1.4. Pro: LAWs could secure a border or location for extensive periods of time without need to eat, sleep, or require relief.
+1.1.5. Pro: This will reduce the risk to those in law enforcement.
+1.1.6. Pro: LAWs can be used to subdue targets peacefully.
+1.2. Con: Even our most effective machines can never be perfect and will still be prone to collateral damage and accidental civilian death, because they would lack human judgement and not abide by core principals of war
+1.2.1. Con: Human judgement is a poor way to measure something's ability to follow rules
+1.2.2. Con: LAWs could decrease collateral damage.
+1.2.3. Pro: The biggest issue that exists with LAWs is the impracticality of coding an efficient Identify Friend/Foe \(IFF\) program that doesn't involve the weapon firing on wildlife and civilians that wander into the "kill zone."
+1.2.3.1. Con: Technological challenges do not necessarily indicate impossibility.
+1.2.3.2. Con: Solving these issues can have potential civilian applications that will ultimately benefit society, such as identifying sick people in public, tracking wildlife, and locating criminals
+1.2.3.3. Pro: Current neural networks are notorious for being slow, inefficient, and prone to false positives and other mistakes that would be of critical detriment in a combat scenario.
+1.2.4. Con: Robots do not disobey orders and they do not rape, pillage, or desert. Thus warfare could be overall less chaotic and more civil.
+1.2.4.1. Pro: Soldiers [are](http://www.bbc.co.uk/ethics/war/overview/crimes_1.shtml) generally only tried for war crimes if they are on the losing side - this creates an atmosphere of impunity during war that worsens suffering for civilians.
+1.2.4.2. Pro: During war and armed conflict, rape is [frequently used](https://en.wikipedia.org/wiki/Wartime_sexual_violence) as a means of psychological warfare in order to humiliate the enemy; this will not be the case if wars are fought predominantly by lethal autonomous weapons.
+1.2.5. Con: The U.S. government [argues](https://www.lawfareblog.com/lethal-autonomous-weapons-systems-recent-developments) that LAWS help countries meet international humanitarian law requirements due to their increased accuracy and efficiency.
+1.2.5.1. Con: If LAWs are more effective at combat when compared to current war technology, they may give an advantage to those fighting wars within the parameters of the just war theory.
+1.2.5.2. Pro: If LAWs are more effective at combat when compared to current war technology, they may give an advantage to those fighting wars outside of the parameters of the just war theory.
+1.2.5.3. Pro: Lethal Autonomous Weapons can [reduce causalities in conflict](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/) by removing human war fighters from dangerous missions.
+1.2.5.4. Pro: Robots follow their orders [exactly as they are issued](https://www.vox.com/2019/6/21/18691459/killer-robots-lethal-autonomous-weapons-ai-war), as opposed to humans who may deliberately target innocents or kill people who've surrendered because they are stressed or confused.
+1.2.6. Pro: There is a lot of grey areas relating to the laws of war that robots can not understand.
+1.2.6.1. Con: While they can't now, there is no reason they won't be able to match or [even exceed](https://global.oup.com/academic/product/superintelligence-9780199678112?cc=au&lang=en&) human-level understanding in the future.
+1.2.6.2. Con: Programming difficulties can be attributed to the vagueness of the rules of war, not the LAWs themselves
+1.2.6.3. Pro: Whilst the laws of war [do not prohibit soldiers](https://www.vox.com/2019/6/21/18691459/killer-robots-lethal-autonomous-weapons-ai-war) from shooting children if they are aiding the enemy, many human soldiers would know not to because they understand moral codes as well as legal codes.
+1.2.7. Pro: LAWs might [suffer malfunctions](https://www.economist.com/special-report/2018/01/25/autonomous-weapons-are-a-game-changer), such as badly written code or because of cyber attack.
+1.3. Con: If these types of weapons fell into the wrong hands, they would be significantly more dangerous than traditional weapons, and could be used directly on population centers in terrorist attacks.
+1.3.1. Pro: LAWs will make it [easier for governments](https://www.vox.com/2019/6/21/18691459/killer-robots-lethal-autonomous-weapons-ai-war) to oppress populations.
+1.3.1.1. Con: Modern day armies are already sufficiently armed to do this.
+1.3.2. Con: Once the technology required to build LAWs is available, there is little stopping the use of LAWs except for other LAWs.
+1.3.3. Pro: The cheap nature of LAWS makes them [easy to mass-produce](https://futureoflife.org/open-letter-autonomous-weapons/?cn-reloaded=1) for the black market.
+1.3.4. Pro: Lethal Autonomous Weapons may be programmed to indiscriminately kill all human targets
+1.3.5. Con: Such concerns would surely be taken into account during the construction of LAWs, and as such, counter-measures, such as an automatic kill switch or something similar, would be implemented to make sure this doesn't happen.
+1.3.5.1. Con: No army would use weaponry that could be turned off by the opposition.
+1.3.6. Pro: Unlike with conventional weapons, LAWs are removed by distance from the user making it difficult if not impossible to identify the perpetrator.
+1.3.6.1. Pro: [Both](https://www.armscontrol.org/act/2016-09/features/stopping-%E2%80%98killer-robots%E2%80%99-why-now-time-ban-autonomous-weapons-systems) the U.S. Long Range Anti-Ship Missile and the UK Brimstone - long-range military technologies - are capable of autonomous targeting during terminal flight phase.
+1.4. Con: Loss of life is a tertiary concern for the military. Break down of obedience in the face of unethical orders is the primary concern. LAWs will not have this issue and therefore will undoubtedly be used to implement unethical orders the regular military is incapable of performing.
+1.4.1. Con: Modern weapons already allow a small number of people to inflict significant damage without the need to be autonomous.
+1.4.2. Con: The secretive structure of the military leaves each soldier with little information about what they are doing. Thus they will be generally unaware if they are doing something unethical, because they will only have a small part in it.
+1.4.3. Pro: LAWs are unlikely to be built with abstract reasoning capability because it isn't necessary. This will give them an inherent lack of regard for human life.
+1.5. Con: Without the risk of losing human lives, the decision to go to war would be far easier and lead to greater civilian death and increased human suffering.
+1.5.1. Pro: The use of LAWs would remove the human factors from warfare, by removing the person who might chose to show mercy where a heartless machine will not.
+1.5.1.1. Pro: Unlike humans, robots are also incapable of showing compassion or [mercy](https://www.cracked.com/article_19550_the-5-most-mind-blowing-acts-battlefield-mercy-in-history.html).
+1.5.1.2. Pro: Serious questions [have been raised](https://www.lawfareblog.com/lethal-autonomous-weapons-systems-recent-developments) over the ability of LAWs to respect human life and comply with international humanitarian law.
+1.5.1.3. Pro: Humans are motivated to treat each other humanely because they feel compassion and empathy for their fellow humans. LAWs do not feel such emotions.
+1.5.1.4. Con: Decision to go to war will still be made by human beings, such as military general and civilian leaders.
+1.5.2. Con: Impersonal conflict resolution will reduce animosity between adversaries, making resolution easier.
+1.5.3. Pro: LAWs will enable hegemony because a LAWs arms race is less likely to stabilize into a mutually assured destruction standoff.
+1.5.4. Con: Autonomous weapons will shift the focus from conflict between people to conflict between machines, reducing human casualties.
+1.5.4.1. Pro: In a conflict where each side uses autonomous weapons, greater supremacy is achieved by destroying the other’s autonomous weapons than by killing their military personnel or civilians.
+1.5.5. Pro: Most people possess an innate resistance to war due to the understanding of the impact of loss of life. If leaders are not risking human lives, but the loss of robots, they might be more willing to engage in war.
+1.5.5.1. Pro: By 1967, an increasing majority of Americans were [against](https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War) the war in Vietnam.
+1.5.5.2. Pro: Only 37% of the British public [say](https://yougov.co.uk/topics/politics/articles-reports/2015/06/03/remembering-iraq) they believed military action against Saddam Hussein was right at the time.
+1.6. Con: It is unclear who, if anyone would be held responsible for war crimes committed by fully autonomous machines.
+1.6.1. Pro: The fact that LAWS are [vulnerable to cyber threats](https://www.cfr.org/blog/laying-down-laws-strategizing-autonomous-weapons-governance) and lack human overhead may cause potential accountability gaps.
+1.6.2. Pro: LAWS also [push the boundaries of international humanitarian law](https://www.cfr.org/blog/laying-down-laws-strategizing-autonomous-weapons-governance).
+1.6.2.1. Pro: The [principle](https://www.asser.nl/about-the-institute/asser-today/blog-who-is-responsible-for-the-war-crimes-of-killer-robots/) of individual criminal responsibility for war crimes is one of the core principles of international humanitarian law \(IHL\). It is unclear who the individual would be in this case.
+1.6.2.2. Pro: LAWs potentially violate the core principles of distinction and proportionality.
+1.6.2.3. Pro: LAWs may violate the [principle of distinction](https://www.cfr.org/blog/laying-down-laws-strategizing-autonomous-weapons-governance) as they are not always able to distinguish between civilians and military target.
+1.6.2.4. Pro: LAWs potentially violate the [principle of proportionality](https://www.cfr.org/blog/laying-down-laws-strategizing-autonomous-weapons-governance) as they can not necessarily refrain from attacks that would cause excessive civilian harm in relation to anticipated military gains.
+1.6.3. Pro: The programmer, the manufacturer, the commander, or the machine itself could all be held accountable for the machines actions.
+1.6.3.1. Con: Once the algorithm is complicated enough it will be unclear how the machine reached a certain decision.
+1.6.3.2. Con: There is little evidence that manufacturers of technologies such as cluster bombs have ever been held responsible for the damages the technology caused.
+1.6.3.3. Con: The machine cannot be held responsible, considered that it is not a moral agent and cannot be persecuted by law.
+1.6.3.3.1. Con: The machine can increase the scale of harm to an unacceptable extent.
+1.7. Pro: Warfare has bred technological advancements all throughout human history, and those advancements eventually have civilian uses.
+1.7.1. Pro: The development of the World Wide Web [originated](https://www.pocket-lint.com/gadgets/news/143526-how-military-tech-changed-our-lives) in 1977 in the form of its forefather the Advanced Research Projects Agency Network \(ARPANET\), a communications network developed by the US Military.
+1.7.2. Pro: Satellite systems used by the US Government for keeping soldiers safe on the battlefield, identifying targets, tracking plane trajectories and more, [evolved](https://www.pocket-lint.com/gadgets/news/143526-how-military-tech-changed-our-lives) into the modern-day GPS system.
+1.7.3. Pro: The core systems could be used in civil situations, such as police, fire fighting, work in hostile environments, or even disaster relief.
+1.8. Pro: Autonomous weapon systems are overall better suited for stressful conditions of combat than humans.
+1.8.1. Pro: According to Air Force Maj, Jason S. DeSon, the physical strain required of fighter pilots makes them [prone to fatigue and exhaustion](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/). Robot pilots on the other hand don't face these physiological and mental constraints.
+1.8.2. Con: Without significant advances in AI, LAWs will not be able to adapt to rapidly changing combat conditions.
+1.8.2.1. Con: It is very likely that there will be significant advances in AI in the future.
+1.8.2.2. Con: While being significantly autonomous, it is not outside the realm of possibilities to have human supervision in active combat situations to guide the efforts of theses weapons.
+1.8.3. Pro: Humans have a tendency towards ['scenario fulfillment',](https://www.popularmechanics.com/military/research/a23133118/us-ai-robots-warfare/) or seeing what we expect to see and ignoring contradictory data in stressful situations. This can cause serious accidents, such as accidentally shooting civilians. Robots however, do not face such problems.
+1.8.4. Pro: Robots [do not suffer](https://science.howstuffworks.com/robots-replacing-soldiers2.htm) from some of the emotional and mental issues that human soldiers face working in difficult situations, such as anxiety and PTSD.
+1.8.4.1. Pro: [1 in 8 US soldiers](http://www.nbcnews.com/id/5334479/ns/health-mental_health/t/returning-soldiers-suffers-ptsd/#.XXPT7HvTU2w) suffer from PTSD.
+1.8.4.2. Pro: Unlike human soldiers, machines [never get angry](https://www.vox.com/2019/6/21/18691459/killer-robots-lethal-autonomous-weapons-ai-war) or seek revenge.
+1.8.5. Con: Because LAWs base their actions on pre-programmed algorithms, they [struggle in complex and unpredictable situations](https://www.hrw.org/report/2018/08/21/heed-call/moral-and-legal-imperative-ban-killer-robots).
+1.9. Pro: The military spends a significant portion of its time and budget on its personnel. This cost could be greatly reduced, allowing more tax dollars to be spent on social programs benefiting the country's citizens.
+1.9.1. Pro: Every injured soldier costs on average [$2 million](https://www.businessinsider.com/it-will-cost-2-million-for-each-injured-us-soldier-from-iraq-and-afghanistan-2013-5).
+1.9.2. Pro: The use of LAWs in warfare can cut down on unecessary military personnel loss. Instead of sending humans into the battlefield where they are subject to stress and will possibly die, LAWs can do so with more precision and no risk of human deaths\( On the military using the LAW's side.\)
+1.9.3. Con: This argument implies that the money spent on military will be used for social programs and not for other purposes.
+1.9.3.1. Pro: A decrease in cost per weapon may lead to an increase in the number of weapons and an overall larger military instead of cutbacks on military spending.
+1.9.4. Pro: US Department of Defense [figures](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/) show that whilst ''each solider in Afghanistan costs the Pentagon roughly $850,000 per year'', the TALON robot which is a small LAW, ''outfitted with weapons, costs $230,000.''
+1.9.5. Con: The risks associated with cheap weapons can often outweigh the benefits.
+1.9.5.1. Pro: If weapons such as LAWS are cheap, it makes it [easier for terrorist groups](https://www.vox.com/2019/6/21/18691459/killer-robots-lethal-autonomous-weapons-ai-war) to proliferate them for harmful means.
+1.9.5.2. Pro: -> See 1.3.3.
+1.9.5.3. Con: While costs are expected to go down in the long term, LAWS are prohibitively expensive.

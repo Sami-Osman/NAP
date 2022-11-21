@@ -1,0 +1,149 @@
+Discussion Name: Increasing Water Supply in Water-Scarce Southern California
+
+1. How can water supplies in Southern California be increased?
+1.1. Recycle our wastewater.
+1.1.1. Pro: Harvest a plentiful, unwanted resource: sewage and stormwater.
+1.1.1.1. Pro: Globally, 80% of wastewater [flows back into the ecosystem without being reused.](https://www.unwater.org/water-facts/quality-and-wastewater/)
+1.1.1.2. Con: Wastewater \(sewage\) Treatment Systems are [expensive](https://www.samcotech.com/cost-wastewater-treatment-system/).
+1.1.1.2.1. Pro: Equipment for a wastewater treatment system can be anywhere from [$200,000–$700,000](https://www.samcotech.com/cost-wastewater-treatment-system/), depending on the level of contaminants in relation to the local discharge regulations.
+1.1.1.3. Pro: Wastewater treatment processes are [improving as new techniques are developed](https://homeguides.sfgate.com/benefits-wastewater-treatment-79609.html). This can thus prove to be an efficient water source.
+1.1.2. Pro: Regulations can be implemented to ensure that recycled water is of acceptable quality.
+1.1.2.1. Pro: The Australian government have published [guidelines for water recycling](https://www.waterquality.gov.au/guidelines/recycled-water).
+1.1.2.2. Pro: In the US, the [EPA](https://www.epa.gov/regulatory-information-topic/regulatory-information-topic-water#wastewater) regulates the discharge and treatment of of wastewater under the Clean Water Act \(CWA\).
+1.1.2.3. Pro: The World Health Organisation has published [guidelines for using wastewater safely.](https://www.who.int/water_sanitation_health/sanitation-waste/wastewater/wastewater-guidelines/en/)
+1.1.3. Con: Recycling water [can be expensive](https://www3.epa.gov/region9/water/recycling/) initially.
+1.1.3.1. Con: Recycling water can be more cost effective than other methods [in the long-term](https://www.nbsgov.com/blog/2016/09/29/recycled-water-pricing-alternatives/).
+1.1.3.2. Con: According to a [report from the San Diego Public Utilities Department](https://www.kpbs.org/news/2013/mar/20/final-report-says-recycling-water-not-so-expensive/), the cost of recycling water would be the same as the cost of importing water.
+1.1.3.3. Pro: In regions where fresh water is plentiful, producing recycled water can be less cost effective than other methods.
+1.1.3.3.1. Con: Southern California has a [history of droughts](https://en.wikipedia.org/wiki/Droughts_in_California) and thus do not have an abundance of fresh water.
+1.1.3.4. Pro: Recycled water costs about [$1,100](https://www.seametrics.com/blog/water-recycling-facts/) an acre-foot to produce.
+1.1.3.5. Pro: A permanent water recycling plant in San Diego would cost an estimated [$369 million](https://www.kpbs.org/news/2013/mar/20/final-report-says-recycling-water-not-so-expensive/).
+1.1.4. Con: Recycled wastewater cannot be used for all purposes.
+1.1.4.1. Pro: Recycled water is [generally not used for drinking purposes](https://www3.epa.gov/region9/water/recycling/).
+1.1.4.2. Con: Advanced treatment technologies can be [used to produce safe drinking water.](http://www.recycledwater.com.au/index.php?id=63)
+1.1.5. Con: Recycling sewerage is a good alternative, but storm water has oils and heavy metals from road surfaces that are difficult and costly to remove, compared to sewerage treatment.
+1.1.5.1. Con: A [study](https://nature.berkeley.edu/classes/es196/projects/2001final/Hoehn.pdf) showed that while storm water filters and remediation techniques are already used in California, there exist more cost-efficient alternatives that could be used instead.
+1.1.6. Con: It will be difficult to persuade people to drink recycled water.
+1.1.6.1. Pro: Even though recycling systems are in place in many locations, [people tend not drink recycled water.](https://www.apa.org/monitor/2011/10/recycled-water)
+1.1.6.2. Con: The commonly made association between water and sewage can be deconstructed.
+1.1.6.2.1. Pro: People can be educated on how water is recycled and why the filtration process means recycled water is safe to drink.
+1.1.6.2.2. Pro: According to one survey, when respondents were asked whether they were willing to drink cycled water, [38% said they were willing and 49% were uncertain](https://www.apa.org/monitor/2011/10/recycled-water).
+1.1.6.3. Con: In a 2013 poll conducted for the Guardian, [63%](https://theconversation.com/its-public-attitudes-to-recycled-sewage-that-need-better-treatment-not-the-water-29735) of respondents said they would drink recycled sewage water.
+1.1.7. Pro: Prevent drains from draining into the ocean, i.e. water reclamation.
+1.1.7.1. Pro: Drain water effluent is an abundant source of water that is generally [co-located](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/) with population centers. This can fulfill water needs of many people without incurring high transportation costs.
+1.1.7.1.1. Pro: Effluent water can be passed through a power plant as a [source of coolant](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/).
+1.1.7.1.1.1. Pro: [Austin, Texas](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/), has set up an extensive purple-piping network that brings effluent from the wastewater treatment plant to downtown Austin, where it is available for cooling.
+1.1.7.1.1.2. Pro: In [2010](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/), there were already 46 power plants in the U.S. that used reclaimed water for cooling tower makeup.
+1.1.7.1.1.3. Pro: [Nuclear power plants at Palo Verde in Arizona](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/) use the municipal wastewater from Phoenix and other cities nearby as injected pressure at geothermal fields and as boiler feed-water.
+1.1.7.1.2. Pro: Drain water can be used to as a resource for [irrigating crops](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/).
+1.1.7.1.2.1. Pro: In Austin, Texas, customers of effluent water include [local golf courses](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/) that use the water for their extensive irrigation requirements.
+1.1.7.1.3. Pro: The effluent water can be used within buildings for non-potable purposes, such as [toilet flushing](https://www.scientificamerican.com/article/stop-flushing-water-down-the-drain-excerpt/).
+1.1.8. Con: The wastewater plants can't be placed everywhere, as the reverse osmosis filters need a minimum water level to work and without a large population for that, it kind of stops working.
+1.1.9. Con: Recycling wastewater is a nice idea, but using composting toilets would remove the intermediary needs of filtering the water by just not needing to use it.
+1.1.10. Con: Recyling water [may not be suitable for the climate](https://sciencing.com/pros-cons-of-recycling-water-5502383.html).
+1.1.10.1. Pro: Recycling wastwater [uses up a lot of energy.](https://www.choice.com.au/food-and-drink/drinks/water/articles/recycled-drinking-water)
+1.1.10.1.1. Con: Other strategies of improving the supply of water might use more energy than recycling wastewater.
+1.1.10.1.1.1. Pro: Strategies for increasing water supply such as desalination, which involves treating seawater by reverse osmosis to make it suitable for drinking, uses [more energy](https://www.choice.com.au/food-and-drink/drinks/water/articles/recycled-drinking-water) than recycled wastewater.
+1.1.10.1.2. Con: Wastewater recycling facilities can be used for energy production.
+1.1.10.1.2.1. Pro: Wastewater facilities with an anaerobic digester can use biogas generated by the digester to produce heat, and in many cases electricity as well. \([p. 4](https://www.epa.gov/sites/production/files/2015-08/documents/wastewater-guide.pdf)\)
+1.1.10.1.2.1.1. Pro: Each million gallons per day of wastewater flow can generate enough biogas in an anaerobic digester to produce 26 kilowatts of electric capacity and 2.4 million Btu per day of thermal energy. \([p. 4](https://www.epa.gov/sites/production/files/2015-08/documents/wastewater-guide.pdf)\)
+1.1.10.1.3. Con: Wastewater recycling plants can adopt several energy saving measures to reduce their energy consumption.
+1.1.10.1.3.1. Pro: Wastewater recycling plants can set up energy-efficient blowers to reduce their energy usage. \([p. 4](https://www.epa.gov/sites/production/files/2015-08/documents/wastewater-guide.pdf)\)
+1.1.10.1.3.1.1. Pro: The Wisconsin Metropolitan Sewerage District have installed new energy-efficient blowers which [reduce their electricity consumption by 50% and save 2,144,000 kWh/year](https://www.epa.gov/sites/production/files/2015-08/documents/wastewater-guide.pdf)—enough energy to power 126 homes. \(p. 4\)
+1.1.10.1.3.2. Pro: Micro-turbine CHP systems at wastewater treatment facilities can save thousands of dollars in annual energy costs.
+1.1.10.1.3.2.1. Pro: The Albert Lea Waste Water Treatment has developed a 120-kW mictroturbine CHP system, which saves the plant about $100,000 in annual energy costs. \([p. 4](https://www.epa.gov/sites/production/files/2015-08/documents/wastewater-guide.pdf)\)
+1.1.11. Pro: After it has gone through treatment processes, [recycled wastewater is cleaner than regular drinking water](https://www.choice.com.au/food-and-drink/drinks/water/articles/recycled-drinking-water).
+1.1.11.1. Pro: Recycled wastewater is of such a high standard that, theoretically, it could be used in hospitals for [kidney dialysis](https://www.choice.com.au/food-and-drink/drinks/water/articles/recycled-drinking-water).
+1.1.12. Pro: Recycled water tastes [similar to](https://www.bbc.com/future/article/20160105-why-we-will-all-one-day-drink-recycled-wastewater), or better than any other drinking water.
+1.1.12.1. Pro: Recycled water [tastes better](https://www.bustle.com/p/recycled-wastewater-tasted-better-than-tap-water-in-one-study-heres-what-that-means-for-the-future-of-toilet-to-tap-8483491) than tap water.
+1.1.12.1.1. Pro: A study from the University of California [found](https://www.eurekalert.org/pub_releases/2018-03/uoc--tgt030918.php) that recycled wastewater tastes better than tap water.
+1.1.13. Pro: Recycling wastewater will help [diversify](https://www.bettermeetsreality.com/pros-cons-of-water-recycling-reuse-reclamation/) the regions water supplies.
+1.1.14. Pro: Water recycling is [usually conducted locally](https://www.bettermeetsreality.com/pros-cons-of-water-recycling-reuse-reclamation/). This provides more control over the water than water that is sourced externally.
+1.2. Increase our supply of water.
+1.2.1. Con: Industry will use up the extra water for profit.
+1.2.1.1. Pro: Bottled water companies, which use the extra water and sell it at high prices, [swim in profits](https://www.thestar.com/opinion/2007/11/29/bottled_water_companies_just_swimming_in_profits.html) at the expense of the general public.
+1.2.1.2. Con: If people can make money off of green initiatives of saving water to increase the water supply, even if the people saving water don't benefit from it, then there will be a profit motivation to saving water and will encourage even the top wealthy people to join in on saving water.
+1.2.2. Con: It is [expensive](https://www.nytimes.com/2017/11/10/climate/water-pipes-plastic-lead.html) to create pipelines.
+1.2.2.1. Con: The potential negative repercussions are dangerous, and expensive to fix.
+1.2.3. Pro: This could be done by importing water from other states.
+1.2.3.1. Pro: There are already a few established water-import mechanisms from other states to Southern California. They can be expanded to import more water.
+1.2.3.1.1. Pro: The State Water Project \(SWP\) includes a 444-mile-long aqueduct that [carries water](https://dpw.lacounty.gov/landing/wr/watersupply/importedWater.cfm) from the Delta through the San Joaquin Valley to Southern California.
+1.2.3.2. Con: Importing water has a lot of [associated costs](https://www.sandiegouniontribune.com/sdut-true-price-imported-water-2010aug06-story.html).
+1.2.3.2.1. Pro: The Metropolitan Water District of Southern California has experienced that the price of importing water has risen more than [96%](https://www.ocregister.com/2012/04/15/imported-water-prices-up-96-percent-since-2006-2/) since 2006.
+1.2.3.2.2. Pro: Transporting water in large quantities from other states will require costly investments in transportation facilities.
+1.2.3.2.2.1. Pro: Water transportation facilities will have to secure against contamination, increasing overall costs.
+1.2.3.2.2.1.1. Pro: A survey conducted by the U.S. Environmental Protection Agency estimated that water systems might need [$12.1 billion in investment](https://www.researchgate.net/publication/248879997_Cost_Models_for_Water_Supply_Distribution_Systems) to protect against microbiological contamination.
+1.2.3.3. Con: Given that the climate is not improving, this would be a costly and unsustainable solution .
+1.2.3.3.1. Pro: As climate change leads to global warming, water supply will become a more scarce thing in other states as well. This will make it increasingly expensive and more difficult to import water.
+1.2.3.4. Con: California should have an independent water supply instead of mooching off of other states that are also just trying to survive.
+1.2.4. Pro: Grab it from the air or synthesize it.
+1.2.4.1. Pro: Given that Southern California enjoys [humid weather](https://www.pe.com/2019/09/03/hot-and-humid-weather-will-linger-through-thursday/), it will be easy to extract water from humid ambient air via [atmospheric water generators \(AWG\)](https://en.wikipedia.org/wiki/Atmospheric_water_generator).
+1.2.4.2. Pro: Due to the continuous water cycle, the possibility of using air to produce water is promising.
+1.2.4.2.1. Pro: Water vapor amounts to about "[10,000 billion litres in the bottom kilometere of air around the world](https://science.howstuffworks.com/environmental/earth/geophysics/manufacture-water1.htm)." The replacement of water every few hours as part of the water cycle ensures the possibility of continuous extraction.
+1.2.4.3. Con: Air-to-water generation machines are expensive and not widely available.
+1.2.4.3.1. Pro: The AquaMagic machine, which produces purified water from air, costs about [$28,000 per unit](https://science.howstuffworks.com/environmental/earth/geophysics/manufacture-water1.htm).
+1.2.4.3.2. Pro: The Whisson Windmill costs about [$43,000 per unit](https://science.howstuffworks.com/environmental/earth/geophysics/manufacture-water1.htm).
+1.2.4.3.3. Con: Many affordable variants of the the device are also available.
+1.2.4.3.3.1. Pro: Atmospheric Water Generator in India, an indigenous and inexpensive machine, produces drinking water at an [affordable price of Rs 2 per litre](https://www.thebetterindia.com/147303/atmospheric-water-generator-hyderabad-news/).
+1.2.4.3.4. Con: Technological innovation causes technology to become [less expensive over time](https://www.weforum.org/agenda/2015/10/why-is-tech-getting-cheaper/).
+1.2.4.4. Pro: Devices that can generate clean drinking water out of thin air have the possibility of [producing large amounts of water](https://www.treehugger.com/clean-technology/waterseer-can-produce-11-gallons-day-clean-drinking-water-air.html). This can fix the water shortage in Southern California.
+1.2.4.4.1. Pro: Each unit of WaterSeer is said to be able to produce up to [11 gallons per day](https://www.treehugger.com/clean-technology/waterseer-can-produce-11-gallons-day-clean-drinking-water-air.html), even in arid regions.
+1.2.4.4.2. Pro: Skysource/Skywater Alliance's creation, called "WeDew," can produce at least [2,000 liters of water per day from each unit](https://www.businessinsider.com/device-that-harvests-water-from-air-wins-xprize-2018-10), which would satisfy the needs of a hundred people daily.
+1.2.5. Pro: Planting trees helps the ground retain water better as well as creating micro-climates with humidity and rain.
+1.2.6. Pro: Use balls \(like what was used in LA\) to cover reservoirs to prevent water evaporation from them.
+1.2.7. Pro: One strategy to increase the supply of water is by [building dams](http://www.coolgeography.co.uk/gcsen/CRM_Water_Strategies_Increase_Supply.php).
+1.2.7.1. Con: Not only is it expensive to build dams, but the project ends up costing much more than expected costs.
+1.2.7.1.1. Pro: The average cost overrun of dams is [56%](https://www.internationalrivers.org/economic-impacts-of-dams). This means that when a dam is predicted to cost $1 billion, it ends up costing $1.56 billion.
+1.2.7.2. Con: Hydroelectric mega-projects such as dams have large scale [environmental costs](https://news.mongabay.com/2018/11/mega-dam-costs-outweigh-benefits-global-building-spree-should-end-experts/).
+1.2.7.2.1. Pro: The dam wall itself [blocks fish migrations](https://www.internationalrivers.org/environmental-impacts-of-dams), which completely separates spawning habitats from rearing habitats.
+1.2.7.2.2. Pro: The dam storage area [traps sediments](https://www.internationalrivers.org/environmental-impacts-of-dams), which are critical for maintaining physical processes and habitats downstream of the dam.
+1.2.7.2.3. Pro: Dam reservoirs in tropical areas, due to their slow-movement, serve as [breeding grounds](http://www.arch.mcgill.ca/prof/sijpkes/arch374/winter2001/dbiggs/enviro.html) for mosquitoes, snails, and flies.
+1.2.7.2.4. Pro: Construction and operation of dams increase noise pollution in the area. \([p. 47](https://www.researchgate.net/publication/325224066_Evaluating_Negative_Environmental_Impacts_Caused_by_Dam_Construction)\)
+1.2.7.2.4.1. Pro: With the introduction of machinery and devices used for construction of the dam during the construction phase, the noise level in the region increases sharply. \([p. 47](https://www.researchgate.net/publication/325224066_Evaluating_Negative_Environmental_Impacts_Caused_by_Dam_Construction)\)
+1.2.7.2.5. Pro: The construction of a dam itself can contribute to the [degradation of its catchment](https://theconstructor.org/structures/environmental-impacts-of-dams/236/).
+1.2.7.2.5.1. Pro: Degraded catchments can result in [erratic water flows](https://theconstructor.org/structures/environmental-impacts-of-dams/236/), threatening the safety of the dam.
+1.2.8. Pro: The [frequent droughts](https://www.eurekalert.org/pub_releases/2020-01/uoa-wda011020.php) in Southern California indicate that the current supply of water is insufficient.
+1.2.9. Con: Increasing water supply will not address the issue of wasteful water use.
+1.2.9.1. Pro: If water supply increases, each individual may start to use more water, which may mean that the impact of the increase becomes negligible.
+1.2.9.2. Pro: Following the end of one of California's drought emergency, [wasteful water use](https://www.scpr.org/news/2018/04/02/81967/californians-go-back-to-wasting-as-much-water-as-b/) became common again.
+1.2.9.3. Con: Increasing water supply and reducing water usage are not mutually exclusive. Both solutions should be implemented together.
+1.2.10. Con: The supply of water cannot be increased indefinitely because fresh water is a [finite resource](https://www.thegreenage.co.uk/tech/water-as-a-finite-resource/).
+1.2.10.1. Pro: Fresh water makes up [under 3%](https://blog.harnrosystems.com/how-much-water-on-earth-is-drinkable) of all water on Earth.
+1.2.10.2. Pro: [65%](https://blog.harnrosystems.com/how-much-water-on-earth-is-drinkable) of drinkable water is tied up in glaciers.
+1.2.11. Pro: This would plan for the needs of a growing population.
+1.2.12. Pro: Systems could be implemented to capture and use rainwater.
+1.2.12.1. Pro: Rainwater collection by residents for there own uses \(like they're given a filter or it's embedded into homes to make that possible\).
+1.2.12.2. Pro: [Most rainwater in California is wasted](https://www.latimes.com/local/lanow/la-me-rainwater-lost-wet-winter-california-20190220-story.html).
+1.2.12.3. Pro: In 2019, there was a [record amount of rain](https://www.dailynews.com/2019/03/07/rain-and-rainfall-records-keep-falling-in-southern-california/) Southern California.
+1.2.12.3.1. Pro: In [2019](https://www.dailynews.com/2019/03/07/rain-and-rainfall-records-keep-falling-in-southern-california/), Riverside experienced 12.53 inches of rainfall, compared to 4.25 inches in 2018.
+1.2.12.3.2. Pro: Santa Ana produced [16.64 inches of rain](https://www.dailynews.com/2019/03/07/rain-and-rainfall-records-keep-falling-in-southern-california/) in 2019 compared to just 2.66 inches of rain in 2018.
+1.2.13. Pro: Water supply can be increased if methods are developed to tap into the [drinkable water frozen in glaciers and icebergs.](https://www.industrytap.com/tapping-90-of-earths-fresh-water-frozen-in-glaciers-and-icebergs/2607)
+1.2.13.1. Pro: -> See 1.2.10.2.
+1.2.13.2. Pro: The bottled water brand, [Iceberg Water](https://www.fastcompany.com/3024601/the-wild-world-of-iceberg-harvesting-scams-schemes-and-startups), extracts water from icebergs across the world.
+1.2.14. Con: Extra water will used up, and not be conserved as the population grows. More is needed.
+1.3. Reduce usage.
+1.3.1. Con: The shortage is extensive and needs focused work, not stopgap solutions.
+1.3.2. Con: It is difficult to effectively regulate water usage without significantly restricting people's fundamental freedom and right to access necessities.
+1.3.2.1. Con: Encouraging the reduction of water use would not apply to necessities but toward wasteful uses of water.
+1.3.3. Pro: Reduce unnecessary and wasteful water consumption.
+1.3.3.1. Pro: Providing education about water sourcing/treatment on the best methods, analysis, usage, etc. to get children/adults to appreciate and value the little water they have and find better methods to acquire water would be simple, easy, and feasible for reducing water consumption.
+1.3.4. Pro: [Moving people out](https://www.cnbc.com/2014/07/31/california-drought-worsens-may-have-to-migrate-people.html) of Southern California is something that has support behind it by experts.
+1.3.5. Pro: Farming could done more efficiently \(like [vertically](https://www.kialo.com/vertical-farming-is-the-future-of-agriculture-7487) instead of horizontally and on the basis of air \([aeroponics](https://en.wikipedia.org/wiki/Aeroponics)\) instead of water \([hydroponics](https://en.wikipedia.org/wiki/Hydroponics)\) and soil\).
+1.3.6. Con: [www.kialo.com](https://www.kialo.com/in-california-residents-were-told-to-save-water-due-to-a-drought-and-the-response-was-so-good-that-the-reservoir-31294.322?path=31294.0~31294.67_31294.201_31294.243_31294.322). So even if we try to save water, it won't work
+1.3.7. Pro: Using filtered tap water instead of disposable water bottles saves on water used to make the bottle \(which is 3x more than tap water, plus a bottle of oil\).
+1.3.8. Con: There is only so much that can be reduced.
+1.3.8.1. Pro: Water is essential for a number of regular activities such as showering, washing the dishes or doing the laundry.
+1.3.9. Pro: Reducing water use is the most cost-effective method for increasing water availability in Southern California.
+1.3.9.1. Pro: Residents of Southern California can make [small lifestyle changes](https://www.easyturf.com/2016/07/14/ways-reduce-water-bill-southern-california/) to reduce their water usage.
+1.3.9.1.1. Pro: [80%](https://www.easyturf.com/2016/07/14/ways-reduce-water-bill-southern-california/) of water usage in Southern California is attributed to outdoor use. Reducing the frequency of using water in outdoor activities like frequent car washing can reduce consumption.
+1.3.9.1.1.1. Pro: Residents who have gardens can invest in [mulch](https://en.wikipedia.org/wiki/Mulch) to reduce how much water their plants need. Mulch [helps plants retain more water](https://www.easyturf.com/2016/07/14/ways-reduce-water-bill-southern-california/), and reduces the amount of water required by flowerbeds.
+1.3.9.1.1.2. Pro: With lawn and garden maintenance attributing to nearly [60%](https://www.easyturf.com/2016/07/14/ways-reduce-water-bill-southern-california/) of household water use n Southern California, residents can start investing in artificial turf, which requires little to no water.
+1.3.9.1.2. Pro: Residents can install effective plumbing in their homes to reduce the volume of water used.
+1.3.9.1.2.1. Pro: Replacing normal toilets with ones that [use a fraction of the water per flush](https://www.latimes.com/opinion/editorials/la-ed-water-efficiency-standards-20170831-story.html) to get the job done will help reduce water wastage.
+1.3.9.1.2.2. Pro: Household leaks use up to [16 gallons of household water each day](https://www.easyturf.com/2016/07/14/ways-reduce-water-bill-southern-california/). Ensuring regular plumbing checks and maintenance will help conserving water resources for future.
+1.3.10. Con: It is unlikely that a large number of people can be persuaded to reduce their water usage.
+1.3.11. Con: As the [population of Southern California increases](https://calmatters.org/environment/2019/05/future-of-california-water-supply/) there are likely to be shortages even if water usage decreases.
+1.3.11.1. Pro: According to the U.S. Census Bureau, the population of Southern California increased by [over 82,000](https://www.pe.com/2018/03/21/how-and-why-southern-californias-population-grew-so-much-in-one-year/) between 2016 and 2017.
+1.3.12. Pro: Reduce-reuse-recycle: this is the most efficient manner of increasing supply. No costs other than "getting the word out."
+1.3.12.1. Pro: It is also a green choice, that helps for the better
+1.3.12.1.1. Con: This solution relies on individual behaviors, instead of addressing the collective problem.

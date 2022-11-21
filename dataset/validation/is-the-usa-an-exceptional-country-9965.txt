@@ -1,0 +1,112 @@
+Discussion Name: Is the U.S.A. an exceptional country?
+
+1. The United States of America is not an exceptional country.
+1.1. Pro: Large parts of the U.S. population have been left behind and are in no superior or exceptional position relative to the rest of the world.
+1.1.1. Pro: Income inequality is [extremely high](http://www.oecd.org/social/inequality.htm) in America.
+1.1.1.1. Con: An unequal distribution of wealth does not mean that the country as a whole is not rich or that anyone isn't well-off in absolute terms.
+1.1.1.1.1. Con: GDP alone is [not a relevant indicator](https://www.khanacademy.org/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-limitations-of-gdp/a/how-well-gdp-measures-the-well-being-of-society-cnx) to establish whether a society is developed. To understand the well-being of a country, it is necessary to take into account other indicators, such as the [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient).
+1.1.1.1.1.1. Con: Gini coefficient [has been criticized](https://en.wikipedia.org/wiki/Gini_coefficient#Limitations_of_Gini_coefficient) as it is unable to discern the effects of structural changes in population
+1.1.2. Con: America has [one of the highest GDP per capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_\(nominal\)_per_capita) worldwide and is only bested by much smaller nations.
+1.1.2.1. Con: If you account for the [extreme income inequality](https://www.census.gov/library/visualizations/2015/demo/distribution-of-household-income--2014.html), the per capita figures means nothing as it is bias because of some individuals extreme wealth. The link shows how the distribution is far from normal.
+1.1.3. Pro: The U.S. has yet to solve pronounced contradictions in its society, such as the fact that over [500,000 people are homeless](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-report/) while [millions of homes remain empty](https://www.citylab.com/equity/2018/07/vacancy-americas-other-housing-crisis/565901/).
+1.1.3.1. Con: As a proportion of the population, there are more homeless people in [France](https://ourworldindata.org/homelessness) than in the US.
+1.1.3.2. Pro: Compared to other OECD countries adopting similar definitions of homelessness, the US has unacceptably high rates: [6.2%](https://ourworldindata.org/homelessness) of its population has been homeless at least once.
+1.2. Con: America is a global leader in science and technology.
+1.2.1. Pro: America leads the world in [Nobel laureates](https://www.telegraph.co.uk/news/worldnews/northamerica/usa/11926364/Nobel-Prize-winners-Which-country-has-the-most-Nobel-laureates.html).
+1.2.1.1. Con: Unfortunately, [per capita](https://en.wikipedia.org/wiki/Nobel_laureates_per_capita), the US has a far less impressive tally. When corrected for population, once again, the claim of US superiority is flawed.
+1.2.1.1.1. Con: Extremely small countries with less than a million in population top those statistics, the top two countries having a combined total of 3 Nobel laureates, implying that ranking 15th isn't that bad.
+1.2.1.1.1.1. Pro: The sample size of the top countries is too small for the statistics on them to be a reliable way of determining how effective they are at generating Nobel laureates per capita.
+1.2.2. Pro: The US was the first country on the moon.
+1.2.2.1. Con: The Moon Landing took place half a century ago. Even if the US may have been exceptional at the time, this does not have to tell us anything about its present situation.
+1.2.2.2. Pro: The US space program was more technologically advanced than lesser developed nations like the Soviet Union. Putting the first man on the moon was not achieved by the Soviets nor at any time by the USSR with a manned landing.
+1.2.2.2.1. Con: In the same manner, the US has never sent a probe which can withstand Venus atmospheric difficulties. The USSR was the only country in history to [take pictures](https://en.wikipedia.org/wiki/Venera_7) of the Venus surface.
+1.2.2.3. Con: The US brought the first human to the moon, but was not the first to reach the moon. The USSR [was first](https://en.wikipedia.org/wiki/Luna_2).
+1.2.3. Pro: America's leading companies [spend the most on research and development.](https://www.ideatovalue.com/inno/nickskillicorn/2019/08/top-1000-companies-that-spend-the-most-on-research-development-charts-and-analysis/#countries)
+1.2.3.1. Pro: Amazon, an [American multinational corporation](https://en.wikipedia.org/wiki/Amazon_\(company\)), had the [highest spending on research and development in](https://www.ideatovalue.com/inno/nickskillicorn/2019/08/top-1000-companies-that-spend-the-most-on-research-development-charts-and-analysis/) 2018.
+1.2.4. Con: America is leading in pure number of publications produced, but the quality of these publications falls behind other countries which have greater numbers of citations per paper. In this regard, America ranks [15th](https://www.scimagojr.com/countryrank.php?order=cd&ord=desc) for the years 1996-2017. In 2016, it was ranked 101st and in 2017 it was ranked 78th.
+1.2.4.1. Pro: A high number of citations per paper is indicative of [scientific excellence and top performance](http://help.prod-incites.com/inCites2Live/indicatorsGroup/aboutHandbook/usingCitationIndicatorsWisely/highlyCitedPapers.html) within research fields.
+1.2.5. Con: The quality of science education in the US is [well behind international standards](http://www.pewresearch.org/fact-tank/2017/02/15/u-s-students-internationally-math-science/).
+1.2.5.1. Con: These studies only address primary and secondary school students. The US dominates [top ten](https://www.topuniversities.com/university-rankings/university-subject-rankings/2018/natural-sciences) [lists](https://www.timeshighereducation.com/student/best-universities/best-universities-physics-chemistry-and-maths-degrees#survey-answer) for best science universities in the world.
+1.2.6. Pro: American [inventions](https://bestlifeonline.com/american-inventions/) have had a [greater](https://mashable.com/2013/07/04/badass-american-inventions/?europe=true) [impact](https://blog.cheapism.com/best-american-inventions-17046/) on the [world](https://owlcation.com/humanities/10-American-Inventions-That-Changed-The-World) than any other single country over the past [100+](https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions) years.
+1.2.6.1. Pro: The first workable prototype of the internet was [funded by the US Department of Defence.](https://www.history.com/news/who-invented-the-internet)
+1.3. Pro: The [USA](http://news.bbc.co.uk/2/shared/spl/hi/uk/06/prisons/html/nn2page1.stm) has the [highest](http://news.bbc.co.uk/2/shared/spl/hi/uk/06/prisons/html/nn2page1.stm) [incarceration](https://www.prisonpolicy.org/global/2018.html) [rate](https://www.usnews.com/news/best-countries/articles/2019-05-13/10-countries-with-the-highest-incarceration-rates) in the [world](http://www.prisonstudies.org/highest-to-lowest/prison_population_rate?field_region_taxonomy_tid=All).
+1.3.1. Con: The US having a high incarceration rate shows that the government is willing to protect citizens from danger.
+1.3.1.1. Con: [52% of federal prosecutions in 2012 were drug offenses, less than a quarter of which involved a weapon.](https://www.bjs.gov/content/pub/pdf/dofp12.pdf) If most drug offenses thus don't really involve violence, the incarceration of many of these individuals isn't really protecting anyone.
+1.3.1.1.1. Pro: The fact that a large number of federal prosecutions were for non-violent drug offences shows that the criminal justice system in the United States is in need of serious reform.
+1.3.2. Pro: The trying of underage criminals as adults is unjust and is done to seek the maximum sentence not rehabilitation.
+1.3.2.1. Con: If a criminal demonstrates appropriate mens rea they should be charged with the appropriate statute regardless of age.
+1.3.2.1.1. Con: Mens rea typically isn't the appropriate standard. Courts usually examine age and criminal history when determining sentencing.
+1.3.2.2. Pro: There is no evidence to suggest that sentencing minors to adult sentences is successful in terms of rehabilitation
+1.4. Pro: Social freedoms are lacking for a so called country that boasts about freedom, e.g. the legal age of drinking.
+1.4.1. Pro: Many states don't allow smoking in public places, nor near a doorway.
+1.4.1.1. Con: This is considered progress in many places, not a lack of social freedom.
+1.4.1.2. Con: Smoking has been proven so many times to be harmful to health and so is second hand smoking. Smoking represents a huge cost to society and should be confined to private places.
+1.4.2. Pro: Open alcohol containers are restricted in many states.
+1.4.2.1. Con: Public intoxication increases the chance of accidents happening \(e.g. running into the middle of the street\) therefore present a cost to society
+1.4.3. Pro: [Walking](https://en.wikipedia.org/wiki/Jaywalking) on the [road](https://www.rockylawfirm.com/2015/08/28/never-walk-along-the-highway-or-attempt-to-cross-a-highway/) is often an offense.
+1.4.3.1. Con: Walking on the roads increases the chances of accidents and represents a cost to society.
+1.4.4. Con: According to the Human Freedom index \(2019\), the United States is one of the [top 15 ranked countries](https://www.fraserinstitute.org/sites/default/files/human-freedom-index-2019-rev.pdf) \(p.9\) for human freedom.
+1.4.5. Pro: The right to abortion is not [protected anymore](https://www.bbc.com/news/world-us-canada-54513499).
+1.4.6. Con: Freedom of speech is exceptionally good in the US.
+1.4.6.1. Con: Not where it matters. Snowden showed the unconstitutional actions of the government that mattered, and he was hunted. Snowden first of all was loyal to the constitution first and to the secret government institution second. [reuters.com](https://www.reuters.com/article/us-usa-nsa-spying-idUSKBN25T3CK)
+1.5. Con: The United States is exceptional in the degree of soft power it possesses.
+1.5.1. Con: Producing culture that is consumed around the world does not mean that a particular culture is better than other cultures.
+1.5.2. Con: The [UK](https://www.independent.co.uk/arts-entertainment/tv/features/why-british-tv-rules-the-world-9590481.html) also produce a large portion of the media that is consumed by the world.
+1.5.2.1. Pro: The BBC provides News and Entertainment to [large swaths of the world](https://en.wikipedia.org/wiki/BBC_World_Service#Availability).
+1.5.3. Pro: [Hollywood](https://en.wikipedia.org/wiki/Cinema_of_the_United_States) is the oldest and most influential film industry in the world.
+1.6. Pro: Americas infatuation with guns is a source of mirth in civilized countries elsewhere in the world.
+1.6.1. Pro: American identity is strongly linked to a strong [pro-gun culture](https://www.thejournal.ie/readme/americas-gun-culture-3877087-Mar2018/).
+1.7. Con: America has an exceptionally strong economy.
+1.7.1. Con: America's economy isn't [growing quickly](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?cid=GPD_30&year_high_desc=true).
+1.7.1.1. Con: [Sustainable GDP](https://www.thebalance.com/what-is-the-ideal-gdp-growth-rate-3306017) growth is roughly 2-3%, on average the US is doing fine \(there are natural peaks and troughs\).
+1.7.2. Pro: As of February 2020, the US economy has [record-low unemployment](https://www.thebalance.com/how-is-the-economy-doing-3306046).
+1.7.3. Con: The debt type economy is not strong. It is the same as the "south sea company" that left England in debt that it managed to pay only after 200 years. [en.wikipedia.org](https://en.wikipedia.org/wiki/South_Sea_Company)
+1.7.4. Con: The performance of big business is not a sufficient indicator of economic performance.
+1.7.5. Con: The United States leads neither in [real GDP](https://knoema.com/nwnfkne/world-gdp-ranking-2017-gdp-by-country-data-and-charts) nor [GDP per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?year_high_desc=true).
+1.7.6. Con: America's labor force participation rate is [lagging](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?year_high_desc=true).
+1.7.7. Con: -> See 1.1.1.
+1.7.8. Con: America doesn't boast [the freest economy](https://www.heritage.org/index/ranking).
+1.7.8.1. Con: The strength of the American economy is not dependent on America having the freest economy. It ranks among the countries with the freest economies, which is sufficient.
+1.7.8.2. Pro: According to the [2019 index of economic freedom](https://www.heritage.org/index/ranking), America is not even in the top 10 of countrys ranked as having the most economic freedom.
+1.7.9. Pro: America's GDP accounts for [about a quarter](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_\(nominal\)) of the world's total economic output. No other nations comes close. China, though on the second rank, accounts for only about 15%.
+1.7.9.1. Con: Having the worlds largest economy is not the same as having a strong economy. When it comes to many other factors that are important to determine the overall [wellbeing](https://qz.com/879092/the-us-doesnt-look-like-a-developed-country/) of a nation's economy, the US is doing poorly compared to other rich countries.
+1.8. Pro: The US has failed to achieve the status of 'Full Democracy' on the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index#Democracy_Index_by_country_\(2018\)) for the 2nd year in a row. There are over 20 countries that are considered to be better in that regard.
+1.8.1. Con: [To generate the democracy index](https://en.wikipedia.org/wiki/Democracy_Index#Criticism), the weighted average of answers made by various experts are used to decide ranking. However, the final report does not reveal the background of these experts and thus do not reveal any biases they may have.
+1.8.2. Con: A country can be fail to live up to certain democratic standards yet still be exceptional in other ways, particularly given that democracy is rarely the metric by which most measure exceptionality.
+1.9. Pro: The US has [no functional ID system](https://en.wikipedia.org/wiki/Identity_documents_in_the_United_States) and as such can not even effectively account for it citizenry.
+1.9.1. Con: The fact there exists no automatic ID system is testament to the USA's exceptional respect for liberty.
+1.9.1.1. Pro: ID cards make it easier for states to [monitor citizens' movements](https://www.computerworld.com/article/2583871/five-reasons-why-national-id-cards-are-a-bad-idea.html) by operating as internal passports.
+1.9.2. Pro: The overwhelming [majority of countries](https://www.worldprivacyforum.org/2017/07/national-ids-around-the-world/) have national identity cards.
+1.10. Pro: The US is the only Industrialized Nation to not [provide Universal Healthcare](http://factmyth.com/factoids/the-us-is-the-only-very-highly-developed-country-without-universal-healthcare/).
+1.10.1. Pro: As a result of - or because of - the lack of universal healthcare, healthcare is extremely expensive.
+1.10.1.1. Pro: Per capita, the US spends [more than double](https://dpeaflcio.org/programs-publications/issue-fact-sheets/the-u-s-health-care-system-an-international-perspective/) the average of all OECD countries.
+1.10.1.2. Pro: Many low-income Americans [cannot access proper healthcare](https://dpeaflcio.org/programs-publications/issue-fact-sheets/the-u-s-health-care-system-an-international-perspective/) due to these prohibitive costs.
+1.10.1.3. Pro: The United States could introduce a [two-tier healthcare](https://en.wikipedia.org/wiki/Two-tier_healthcare) system where everyone is provided with basic healthcare and others can choose to pay more for improved quality care.
+1.10.2. Con: Having a competitive private healthcare system encourages medical innovation.
+1.10.2.1. Pro: The US is the [world leader in medical innovation.](https://www.forbes.com/sites/gracemarieturner/2012/05/23/though-the-u-s-is-healthcares-world-leader-its-innovative-culture-is-threatened/#7b94d1e077eb)
+1.10.2.2. Pro: A competitive private healthcare system [generates increased profit](https://www.nytimes.com/2017/10/09/upshot/can-the-us-repair-its-health-care-while-keeping-its-innovation-edge.html), allowing for more investment into research and development.
+1.11. Con: The US has the strongest military in the world.
+1.11.1. Con: The superior strength of the US military is only a good thing if it is put to good use, which is not always the case.
+1.11.1.1. Con: The US military is the only military capable of undertaking large scale [humanitarian relief](https://www.wearethemighty.com/articles/xx-largest-humanitarian-missions-in-military-history) efforts around the world.
+1.11.1.1.1. Con: The US is not the only country capable of undertaking [humanitarian relief](https://en.wikipedia.org/wiki/Search_and_rescue#By_nation).
+1.11.1.1.1.1. Pro: The Canadian army is more recognized for its [search and rescue](https://en.wikipedia.org/wiki/Search_and_rescue#Canada) operation than any offensive operations. They tend to stay longer to [help](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/haiti.aspx?lang=eng) after a [natural disaster](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/earthquakes-tremblements_nepal.aspx?lang=eng), too.
+1.11.1.1.2. Con: US foreign aid represents a minimal fraction of the [military budget](https://earthbound.report/2008/05/13/military-spending-vs-foreign-aid-a-post-about-priorities/).
+1.11.1.2. Con: The support the US military gave to the allies in [WWII](https://www.nationalreview.com/2015/05/why-america-was-indispensable-allies-winning-world-war-ii-victor-davis-hanson/) helped win the war.
+1.11.1.3. Pro: America has waged war on numerous occasions without sufficient cause.
+1.11.1.3.1. Pro: The Iraq War and War in Afghanistan \(2001\) are both examples. The failure of the Iraq War effectively created the Islamic State of Iraq and the Levant \(ISIS\), who split from al-Qaeda, and we're still fighting in Afghanistan with no distinct objective.
+1.11.1.3.1.1. Pro: According to The Intercept, ISIS was the [blowback](https://theintercept.com/2018/01/29/isis-iraq-war-islamic-state-blowback/) from the Iraq War. The former U.K. Prime Minister, Tony Blair, partially [admitted](https://www.theguardian.com/world/2015/oct/25/tony-blair-is-right-without-the-iraq-war-there-would-be-no-isis) the Iraq War was a mistake and had created ISIS.
+1.11.1.3.1.2. Pro: [Many of the top ranks](https://www.washingtonpost.com/world/middle_east/the-hidden-hand-behind-the-islamic-state-militants-saddam-husseins/2015/04/04/aa97676c-cc32-11e4-8730-4f473416e759_story.html) in ISIS were originally from Saddam Hussein's former Ba'athist army.
+1.11.1.3.1.3. Pro: The Washington Post recently released the [Afghanistan Papers](https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-confidential-documents/), where it found that U.S. officials had no real game plan for the War in Afghanistan. In detail, they were lying to the American people and misleading the public about the war.
+1.11.1.3.2. Pro: The US military's role in the [Vietnam war](https://www.history.com/topics/vietnam-war/vietnam-war-history) was unjustified.
+1.11.1.3.2.1. Pro: During the war, the US [bombed neutral Laos](https://www.history.com/topics/vietnam-war/vietnam-war-history) so excessively that it became the most heavily bombed country per capita in the world. This was unnecessary and disproportionate.
+1.11.1.3.3. Pro: It is morally wrong to engage in wars without sufficient cause.
+1.11.1.3.3.1. Pro: Wars [tend to have a significant number of casualties](https://abcnews.go.com/Health/Healthday/story?id=5207645&page=1) and thus countries should only engage with sufficient cause.
+1.11.1.3.4. Con: America has a history of being a key player in just wars, for example the two World Wars.
+1.11.2. Pro: The US has 24 aircraft carriers, as many as the rest of the world [combined](https://www.globalfirepower.com/navy-aircraft-carriers.asp).
+1.11.3. Pro: The US has by far the largest military [budget](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures) in the world.
+1.11.3.1. Pro: The 2020 DoD budget [includes](https://federalnewsnetwork.com/defense-main/2019/03/dod-2020-budget-puts-heavy-emphasis-on-development-of-emerging-technologies/) $104 billion for research, development, test and evaluation \(RDT&E\), with an emphasis on emerging technologies.
+1.11.4. Pro: The US Air Force is far superior in [number](https://www.globalfirepower.com/aircraft-total.asp) and [ability](https://www.airforce-technology.com/features/feature-world-most-advanced-fighter-aircraft-f35/) than any other nation.
+1.12. Con: The US distributes more [foreign aid](https://www.weforum.org/agenda/2016/08/foreign-aid-these-countries-are-the-most-generous/) than any other country.
+1.12.1. Con: The US' foreign aid budget is not well-spent, making its apparently exceptional generosity largely irrelevant in practice.
+1.12.1.1. Pro: [Only 30%](https://www.globalcitizen.org/en/content/making-sense-of-us-foreign-aid/) of US foreign aid goes to the poorest countries in the world; most of it is received by middle-income countries.
+1.12.2. Con: When compared to GDP, U.S. foreign aid is lower than that of other countries.

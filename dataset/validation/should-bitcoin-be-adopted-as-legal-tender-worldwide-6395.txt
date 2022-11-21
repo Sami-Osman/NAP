@@ -1,0 +1,332 @@
+Discussion Name: Should Bitcoin Be Adopted As Legal Tender Worldwide?
+
+1. Bitcoin should be adopted as legal tender worldwide.
+1.1. Pro: Making Bitcoin legal tender [protects consumers](https://www.investopedia.com/terms/l/legal-tender.asp), allowing for legal regulation and public oversight.
+1.1.1. Pro: Bitcoin consumers are currently subject to [many categories of risk](https://www.researchgate.net/publication/326195399_Cryptocurrencies_legal_regulation) with no legal protection. \(p. 135\)
+1.1.1.1. Pro: Bitcoin consumers are subject to [security breaches and fraud](https://www.researchgate.net/publication/326195399_Cryptocurrencies_legal_regulation) as a result of the lack of regulation and public oversight. \(p. 135\)
+1.1.1.1.1. Pro: Lack of regulation and public oversight of Bitcoin has resulted in consumers falling victim to [a number of different scams.](https://www.thebalance.com/beware-of-these-bitcoin-scams-4158112)
+1.1.1.1.1.1. Pro: Consumers may fall victims to [pump and dump schemes](https://www.thebalance.com/warning-signs-of-bitcoin-pump-and-dump-scams-4160432).
+1.1.1.1.1.1.1. Pro: Unwitting investors are lured into pump and dump schemes by scammers [using](https://www.thebalance.com/warning-signs-of-bitcoin-pump-and-dump-scams-4160432) fake news stories and fake celebrity endorsements.
+1.1.1.1.1.1.2. Con: In the US, the Commodity Futures Trading Commission has issued a [guide](https://www.cftc.gov/sites/default/files/idc/groups/public/\@customerprotection/documents/file/customeradvisory_pumpdump0218.pdf) to make customers aware of pump and dump scams.
+1.1.1.1.1.1.3. Con: Pump and dump schemes involving Bitcoin are unlikely now as scammers have an incentive [to pick other cryptocurrencies with lower market capitalisation](https://en.bitcoinwiki.org/wiki/Pump_and_Dump), so buyers will have a more significant impact on the price.
+1.1.1.1.1.1.4. Pro: [Researchers](https://www.continentaltelegraph.com/business/youre-right-bitcoin-is-home-to-frauds-scams-pump-and-dumps/) identified [4,818 pump and dump attempts](https://www.bloomberg.com/news/articles/2018-12-19/crypto-market-rife-with-pump-and-dump-schemes-study-shows) between January and July of 2018, using data from cryptocurrency-based community apps.
+1.1.1.1.1.2. Pro: Customers may get scammed by [fake Bitcoin exchanges.](https://www.thebalance.com/beware-of-these-bitcoin-scams-4158112)
+1.1.1.1.1.2.1. Pro: The South Korean government and financial authorities [exposed a fake exchange](https://www.coinwire.com/south-korean-government-cracks-down-on-fraudulent-exchanges) called BitKRX in 2017, which had fraudulently named itself after the large Korean exchange KRX.
+1.1.1.1.1.2.2. Pro: At least $27m worth of BTC was stolen by fraudsters who were spoofing an unnamed "[popular online exchange](https://www.europol.europa.eu/newsroom/news/6-arrested-in-uk-and-netherlands-in-%E2%82%AC24-million-cryptocurrency-theft)", until their arrest in June 2019.
+1.1.1.1.1.3. Pro: People may end up buying [alternative fake cryptocurrencies](https://www.thebalance.com/beware-of-these-bitcoin-scams-4158112) where they either can't purchase Bitcoin or scammers lie about the profitability of such currencies.
+1.1.1.1.1.4. Pro: Consumers may [face malware attacks](https://www.thebalance.com/beware-of-these-bitcoin-scams-4158112), allowing hackers to gain access to their Bitcoin wallets.
+1.1.1.1.1.4.1. Pro: In May 2019, hackers [stole](https://www.bbc.com/news/technology-48199375#targetText=They%20deployed%20viruses%20and%20used,Binance's%20total%20crypto%2Dcurrency%20assets.) $41 million worth of Bitcoin from the Binance exchange by deploying viruses and using phishing attacks to get security information.
+1.1.1.1.1.5. Pro: Consumers may fall victim to [Ponzi schemes](https://www.thebalance.com/beware-of-these-bitcoin-scams-4158112).
+1.1.1.1.1.5.1. Pro: [MiningMax](https://bitcoinist.com/mining-max-pyramid-scheme-comes-crashing-down/) was a Ponzi scheme in which 14 fraudsters scammed $250 million worth of BTC before they were arrested in December 2017.
+1.1.1.1.1.5.2. Pro: In 2012, the owner of [Bitcoin Savings and Trust](https://www.justice.gov/usao-sdny/pr/texas-man-sentenced-operating-bitcoin-ponzi-scheme), a non-existent company, was arrested for running it as a Ponzi scheme. The company defrauded customers of at least 700,000 BTC \(valued then at around $4.5 million\).
+1.1.1.1.1.6. Pro: Users and businesses may fall victim to a "[double-spend](https://en.bitcoin.it/wiki/Irreversible_Transactions#Race_attack)" attack.
+1.1.1.1.1.6.1. Con: Most \(if not all\) "double-spend" attacks can be avoided by [waiting for at least 1 confirmation](https://99bitcoins.com/double-spending/#decentralized).
+1.1.1.1.1.6.2. Pro: In September 2018, 4 men were able to steal [over $195,000](https://www.msn.com/en-ca/news/canada/4-wanted-in-nationwide-bitcoin-atm-scam/ar-BBUGHX6) from Bitcoin ATMs using double-spend attacks to reverse their transactions once they'd withdrawn the cash.
+1.1.1.2. Pro: -> See 1.1.1.1.1.4.
+1.1.1.3. Pro: Bitcoin consumers are at risk of cyber theft.
+1.1.1.3.1. Pro: [$480 million](https://cointelegraph.com/news/cyber-criminals-netted-43b-from-crypto-related-crime-in-2019-study) was stolen from cryptocurrency exchanges in 2019.
+1.1.1.4. Pro: Users of a bitcoin mining pool could lose out due to the theoretical possibility of [block withholding](https://www.sciencedirect.com/science/article/pii/S0951832018310494).
+1.1.2. Con: [Regulation and oversight](https://cointelegraph.com/news/bitcoin-regulation-is-simple-in-theory-incredibly-complex-in-reality) of Bitcoin as a legal tender is extremely difficult.
+1.1.2.1. Pro: There are logistical hurdles to regulating Bitcoin as a legal tender worldwide.
+1.1.2.1.1. Pro: It is unclear whether Bitcoin should be regulated by [national governments or an international body](https://www.coindesk.com/information/is-bitcoin-legal).
+1.1.2.1.1.1. Con: The [Financial Action Task Force](https://www.fatf-gafi.org/) \(FATF\) have [already begun](https://cointelegraph.com/news/fatf-regulations-is-it-the-end-of-crypto-anonymity) to introduce KYC and ATL standards to Bitcoin exchanges, suggesting that it is feasible to regulate Bitcoin internationally.
+1.1.2.1.1.1.1. Pro: In 2019, the FATF ruled that all crypto exchanges must now [share customer data](https://www.coindesk.com/fatf-crypto-travel-rule) when transferring funds.
+1.1.2.1.1.2. Pro: 10 years after the introduction of Bitcoin national governments were still [struggling to figure out](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp) how they could regulate it.
+1.1.2.1.1.2.1. Pro: [Many countries](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp) still do not have explicit systems that restrict, regulate or ban the cryptocurrency.
+1.1.2.1.1.2.2. Pro: Introducing an international policy on regulation would take a lot of time and resources given many countries [don't even have a base level of regulation](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp) on Bitcoin or cryptocurrencies.
+1.1.2.1.1.2.2.1. Con: -> See 1.1.2.1.1.1.
+1.1.2.1.2. Pro: Bitcoin has [no head office or legal entity](https://www.forbes.com/sites/kenrapoza/2017/12/21/five-impediments-to-further-adoption-of-bitcoin/#1cad97a55398) making it difficult to regulate.
+1.1.2.1.3. Pro: Regulation will require [compliance procedures](https://www.forbes.com/sites/kenrapoza/2017/12/21/five-impediments-to-further-adoption-of-bitcoin/#1cad97a55398) that would reduce the privacy advantages associated with Bitcoin.
+1.1.2.1.3.1. Pro: Bitcoin exchanges and service providers [would be required](https://www.forbes.com/sites/kenrapoza/2017/12/21/five-impediments-to-further-adoption-of-bitcoin/#3ccfbbd65398) to conduct proper know-your-customer checks.
+1.1.2.1.3.1.1. Con: Some cryptocurrency exchanges might be forced to close down because of the [expense of compliance costs.](https://www.investopedia.com/news/how-sec-regs-will-change-cryptocurrency-markets/)
+1.1.2.1.3.1.2. Pro: BTC-e, a virtual currency exchange [was prosecuted](http://files.acams.org/pdfs/2018/Bitcoin_Risks_Rewards_and_Regulation_C_Rowland.pdf) for failure to prevent the use of its services for illicit purposes and, failing to report details about its customer base which contained criminals who had concealed and laundered proceeds from crimes such as ransomware, fraud, identity theft, tax refund fraud schemes, public corruption and drug trafficking.
+1.1.2.1.3.2. Pro: If the privacy advantages of Bitcoin were reduced, businesses and users [would resort to using](https://www.forbes.com/sites/kenrapoza/2017/12/21/five-impediments-to-further-adoption-of-bitcoin/#3ccfbbd65398) other cryptocurrencies.
+1.1.2.1.3.2.1. Con: Most cryptocurrencies can't be bought in the over the counter market and have to be [bought from an exchange](https://cointelegraph.com/news/what-crypto-exchanges-do-to-comply-with-kyc-aml-and-cft-regulations). Many countries have introduced regulations on exchanges so buying other cryptocurrencies may be subject to the same decrease in privacy as Bitcoin would be.
+1.1.2.1.3.3. Con: While privacy advantages may be reduced, crypto exhanges have found compliance procedures [useful for protecting against hacking](https://cointelegraph.com/news/what-crypto-exchanges-do-to-comply-with-kyc-aml-and-cft-regulations). This means compliance procedures also serve to protect Bitcoin users.
+1.1.2.1.3.4. Con: Bitcoin regulation could make the [market safer](https://www.thebalance.com/can-bitcoin-regulation-make-cryptocurrency-safer-4173836) which may cancel out any losses of privacy felt by investors.
+1.1.2.1.3.4.1. Pro: The reduction in privacy advantages could make the value of Bitcoin [more transparent](https://www.investopedia.com/news/how-sec-regs-will-change-cryptocurrency-markets/). This would benefit Bitcoin investors who would be able to make more informed decisions.
+1.1.2.1.3.4.1.1. Pro: An increase in transparency could result in a [reduction of volatility](https://www.investopedia.com/news/how-sec-regs-will-change-cryptocurrency-markets/) which would be good for investors.
+1.1.2.1.4. Con: -> See 1.1.2.1.1.1.
+1.1.2.2. Pro: Bitcoin fuels the underground economy by facilitating [illegal transactions](https://finance.yahoo.com/news/dark-side-coin-extent-illegal-072631643.html). This undermines legitimate businesses, tax systems and the state of the economy.
+1.1.2.2.1. Pro: Bitcoin is routinely used for transactions [on the dark web](https://www.thebalance.com/what-is-a-dark-market-391289).
+1.1.2.2.1.1. Pro: Bitcoin is projected to be used for transactions amounting to around [$1 billion](https://www.bloomberg.com/news/articles/2019-07-01/bitcoin-criminals-set-to-spend-1-billion-on-dark-web-this-year) on the dark web in 2019, according to a report.
+1.1.2.2.1.2. Pro: The dark web has been associated with [uses including](https://en.wikipedia.org/wiki/Dark_web#Content) terrorism financing, child pornography, and hacking, which makes it an extremely dangerous platform to use for any purpose.
+1.1.2.2.1.2.1. Pro: [Besa Mafia](https://www.riskbasedsecurity.com/2016/05/12/besa-mafia-dark-web-hitman-for-hire-site-takes-a-hit/) is an alleged "hitman-for-hire" site on the dark web, where individuals can pay to have a contract killing take place.
+1.1.2.2.1.2.2. Pro: According to [estimates](https://www.vice.com/en_us/article/j5qnbg/dark-web-gun-trade-study-rand), tens of thousands of dollars worth of illegal guns are sold on the dark web every month.
+1.1.2.2.1.3. Pro: Famous convicted Bitcoin criminal, Ross Ulbricht, [used](https://www.worldgovernmentsummit.org/observer/articles/how-bad-is-bitcoin-crime) Bitcoin for illegal drugs sales on the darknet site Silk Road and had a personal fortune of at least $28.5 million in Bitcoin that was later seized by the FBI.
+1.1.2.2.2. Pro: It was reported in 2018 that a significant amount of Bitcoin transactions \([roughly 44%](http://www.smallake.kr/wp-content/uploads/2018/01/SSRN-id3102645.pdf)\) are associated with illegal activity.
+1.1.2.2.2.1. Pro: As of July 2019, the amount of money estimated to have been spent on illicit activity this year thus far through the use of Bitcoin is [$515 million](https://cointelegraph.com/news/515-million-in-bitcoin-spent-on-illicit-activity-this-year-representing-1-of-total-btc-activity).
+1.1.2.2.3. Con: Adopting Bitcoin as legal tender would allow states to regulate it and take additional steps against illicit transactions, thereby [reducing](https://www.fxempire.com/education/article/can-bitcoin-used-crime-weapon-can-solved-512046) criminal activity.
+1.1.2.2.3.1. Con: Reducing Bitcoin's use within illegal trades is likely to contribute to a [fall in its value](https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-price-fall-criminals-blockchain-anonymous-cryptocurrency-zcash-monero-dash-a8174716.html).
+1.1.2.2.4. Con: Bitcoin exchanges may blacklist specific Bitcoin wallet addresses suspected of being involved in illicit activities, making any coins transferred to and from these addresses [difficult to exchange](https://themerkle.com/what-is-bitcoin-fungibility/).
+1.1.2.3. Con: Many countries have already managed to [legalise](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp) and [regulate](https://www.loc.gov/law/help/cryptocurrency/world-survey.php) Bitcoin.
+1.1.2.3.1. Pro: There are [very few countries](https://www.coindesk.com/information/is-bitcoin-legal) where Bitcoin is illegal.
+1.1.3. Pro: Adopting Bitcoin as legal tender may allow other cryptocurrencies to also be adopted, and thereby be regulated as well. This allows countries to protect vulnerable consumers from such cryptocurrencies.
+1.2. Con: -> See 1.1.2.1.
+1.3. Pro: People should be allowed to use any currencies they like, including Bitcoin.
+1.3.1. Con: [People can still use Bitcoin](https://www.coindesk.com/information/is-bitcoin-legal), even when it is not legal tender, unless it is illegal.
+1.3.1.1. Con: Bitcoin is illegal in [some countries.](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp)
+1.3.1.1.1. Con: -> See 1.1.2.3.1.
+1.3.1.2. Con: When Bitcoin is legal to use but is not legal tender consumers [can't guarantee that it will be accepted](https://centralbank.ie/consumer-hub/explainers/what-are-cryptocurrencies-like-bitcoin) as payment for goods and services. This means people don't really have full power to use it as they wish unless it is made legal tender.
+1.3.2. Pro: People have a right to use their money without it being traced.
+1.3.2.1. Con: As technology is developing, the ability to track Bitcoin has also been advancing.
+1.3.2.1.1. Pro: [Chainalysis](https://bitcoinist.com/yes-your-bitcoin-transactions-can-be-tracked-and-here-are-the-companies-that-are-doing-it/) is a company that monitors Bitcoin wallets in association with the [dark web](https://www.investopedia.com/terms/d/dark-web.asp), and has successfully linked transactions to identities of people in the past.
+1.3.2.1.2. Pro: [CipherTrace](https://bitcoinist.com/yes-your-bitcoin-transactions-can-be-tracked-and-here-are-the-companies-that-are-doing-it/) has been successful in [tracking](https://cointelegraph.com/news/ciphertrace-detects-major-uptick-in-cross-border-payments-to-offshore-crypto-exchanges) Bitcoin payments to off-shore cryptocurrency exchanges in the past.
+1.3.2.1.3. Pro: The FBI [has had success](https://www.sciencemag.org/news/2016/03/why-criminals-cant-hide-behind-bitcoin) finding the locations of criminals who are using Bitcoin for transactions.
+1.3.2.2. Pro: Bitcoin offers greater privacy and security than other currencies.
+1.3.2.2.1. Con: -> See 1.1.2.1.3.
+1.3.2.2.2. Pro: Bitcoin allows for its users to remain [virtually anonymous](https://coinsutra.com/anonymous-bitcoin-transactions/), with little risk of one's identity being compromised.
+1.3.2.2.2.1. Con: Every Bitcoin transaction is [recorded](https://bitcoin.org/en/you-need-to-know) on the blockchain.
+1.3.2.2.2.1.1. Con: Bitcoin addresses are anonymous when they are created.
+1.3.2.2.2.1.1.1. Con: If you know an individual's Bitcoin address, you can easily view all their previous transactions.
+1.3.2.2.2.1.1.2. Pro: You can use individual addresses for single transactions, changing to a new address after each transaction.
+1.3.2.2.2.2. Con: -> See 1.3.2.1.
+1.3.2.2.3. Con: Bitcoin's fungibility is [under debate.](https://medium.com/\@maitrehub/the-debate-on-the-fungibility-of-bitcoin-bbcd101581c9)
+1.3.2.2.3.1. Pro: -> See 1.1.2.2.4.
+1.3.2.2.3.2. Con: In most cases, Bitcoin is considered to be [very fungible.](https://hackernoon.com/why-bitcoin-is-the-purest-form-of-money-to-date-a-history-of-money-2c6613f7bcfc)
+1.3.2.2.3.3. Pro: Some buyers avoid ‘dirty’ Bitcoin, which causes it to be [worth less](https://hackernoon.com/why-bitcoin-is-the-purest-form-of-money-to-date-a-history-of-money-2c6613f7bcfc) compared to ‘clean’ or ‘virgin’ Bitcoin.
+1.3.2.2.3.3.1. Pro: "Clean" BTC is [worth slightly more](https://themerkle.com/what-is-bitcoin-fungibility/) than other BTC, as it has no easily identifiable link between the BTC to a specific wallet address.
+1.3.2.2.4. Con: Bitcoin can be [more traceable](https://cryptforensic.com/2019/07/04/cryptocurrency-forensic-accounting-how-crypto-assets-are-tracked/) than cash as there are [more factors](https://cryptforensic.com/2019/01/08/how-anonymous-are-cryptocurrencies/) reducing privacy and anonymity.
+1.3.2.2.5. Pro: Bitcoin is [located on the blockchain](https://www.avg.com/en/signal/is-bitcoin-safe), which is virtually impossible to compromise.
+1.3.2.2.5.1. Pro: The blockchain makes Bitcoin transactions [immutable](https://hackernoon.com/why-blockchain-immutability-matters-8ce86603914e), meaning that it has integrity \(both in its normal and technical definitions\).
+1.3.2.2.5.2. Con: The Bitcoin blockchain will always face the threat of a [51% attack](https://www.investopedia.com/terms/1/51-attack.asp), which could cause irreparable harms to the cryptocurrency.
+1.3.2.2.5.2.1. Con: A 51% attack has [never](https://en.bitcoin.it/wiki/Majority_attack) successfully been executed on the Bitcoin network.
+1.3.2.2.5.2.1.1. Pro: As Bitcoin's hash rate has been consistently increasing, reaching an [all-time-high in August 2019](https://decrypt.co/8860/bitcoins-hash-rate-reaches-highs-of-84-quintillion-hashes-per-second), a 51% attack is virtually impossible in the foreseeable future.
+1.3.2.2.5.2.2. Pro: [Other cryptocurrencies](https://telegra.ph/Blockchains-Once-Feared-51-Attack-Is-Now-Becoming-Regular-06-08) have been subject to 51% attacks. As hacker knowledge is always increasing, this means an attack against Bitcoin cannot be ruled out.
+1.3.2.2.5.3. Pro: Blockchain acts as a transparent distributed database of Bitcoin transactions, making them [near-impossible to falsify](https://medium.com/cryptolinks/working-paper-blockchain-and-transparency-in-trade-1-e637f4a3206c).
+1.3.2.2.5.3.1. Pro: In 2017, analysts predicted that it would cost approximately [$30 billion](https://steemit.com/bitcoin/\@streetstyle/usd30-billion-dollars-to-make-1-fake-bitcoin-the-power-of-peer-to-peer-bitcoin-blockchain-technology-bitcoin) to counterfeit 1 BTC.
+1.3.2.2.5.4. Pro: Bitcoin's blockchain technology allows people the [possibility](https://medium.com/lumiwallet/bitcoin-smart-contracts-b3ae6a4b3041) of entering into [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract#targetText=A%20smart%20contract%20is%20a,transactions%20are%20trackable%20and%20irreversible.) - which are much more secure than regular contracts.
+1.3.2.2.5.4.1. Pro: Smart contract platforms secured by the Bitcoin network allows for [a more transparent contract system](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479), allowing citizens to monitor the way in which state funds are being utilised.
+1.3.2.2.6. Pro: Bitcoin may [prevent](https://www.newscientist.com/article/mg22530041-100-can-bitcoin-outgun-the-abuses-of-big-data/) corporations from mining consumer data - which corporations use to exploit consumers in a number of harmful ways.
+1.3.2.2.6.1. Pro: Corporations may use the personal information of consumers to adopt [persuasion strategies](https://crackedlabs.org/dl/CrackedLabs_Christl_DataAgainstPeople.pdf) aimed at coercing consumers into buying products they may not need or otherwise purchase \(p. 29\). Bitcoin may prevent that.
+1.3.2.2.6.2. Pro: Corporations are able to carry out behavioural profiling of consumers through the mined data and, thus, practice [price discrimination against them](https://www.ftc.gov/system/files/documents/public_comments/2014/08/00015-92370.pdf) \(p. 1\). Bitcoin may prevent that.
+1.3.2.3. Con: [All money is traced](https://www.telegraph.co.uk/finance/personalfinance/tax/11697816/What-does-the-taxman-know-about-you-your-finances-and-your-lifestyle.html) to a certain degree, this is part of how taxes and anti-money laundering regulations are enforced.
+1.3.3. Pro: Holding money in multiple currencies has [many benefits](https://www.telegraph.co.uk/money/transferwise/multi-currency-account-guide/), such as protecting the individual from hyperinflation and negating costly fees and commission when dealing with the foreign exchange market.
+1.3.3.1. Pro: Cryptocurrencies, such as Bitcoin, can help contain [hyperinflation](https://medium.com/\@Digix/think-piece-fighting-hyperinflation-with-cryptocurrencies-a08fe86bb66a) that can be associated with fiat currencies.
+1.3.3.1.1. Pro: Bitcoin is finite and progressively harder to create, unlike fiat currencies. A dramatic increase in currency supply is the [leading cause](https://www.thebalance.com/what-is-hyperinflation-definition-causes-and-examples-3306097) of hyperinflation.
+1.3.3.1.1.1. Pro: Bitcoin protocol is that the total number of bitcoins is [capped at 21 million](https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/).
+1.3.3.1.1.2. Con: As Bitcoin is finite, it is subject to long-term [deflation](https://www.investopedia.com/terms/d/deflation.asp). This has several disadvantages.
+1.3.3.1.1.3. Con: Bitcoin is still being mined, which means it will continue to suffer from short-term inflation.
+1.3.3.1.1.4. Pro: The Bitcoin mining difficulty [regulates](https://learnmeabitcoin.com/guide/difficulty) the amount of time it takes for miners to add new blocks of transactions to the blockchain, thereby controlling the supply rate of new BTC mined.
+1.3.4. Con: Currencies are sanctioned by governments, and people have to abide by it.
+1.3.4.1. Pro: Abiding by government monetary policy is in the [interest of citizens.](https://swiftmoney.com/blog/how-does-fiscal-and-monetary-policy-impact-your-personal-finance/)
+1.3.5. Con: Bitcoin [facilitates crime](https://www.ccn.com/bitcoin-crime/) and activity that harms society. As a result, governments are justified in restricting its use in their countries.
+1.3.5.1. Pro: In 2015, Ali Shukri Amin [pled guilty](http://www.fatf-gafi.org/media/fatf/documents/reports/Emerging-Terrorist-Financing-Risks.pdf) to using Twitter for provided instructions to ISIS supporters on how to use Bitcoin to fund the organisation \(p. 38\).
+1.3.5.2. Con: Cash is also [used in criminal activity](https://www.europol.europa.eu/newsroom/news/cash-still-king-criminals-prefer-cash-for-money-laundering) but its use is not restricted.
+1.3.5.2.1. Pro: -> See 1.3.2.2.4.
+1.3.5.3. Pro: The [harm principle](https://en.wikipedia.org/wiki/Harm_principle) holds that people's actions can be restricted when they put others at risk.
+1.3.5.3.1. Con: The harm principle stands for only restricting an action where it [causes harm to others](https://en.wikipedia.org/wiki/Harm_principle). Not every Bitcoin transaction causes harm to others so the harm principle only justifies restricting the use of Bitcoin for criminal activity or other similarly harmful acts.
+1.3.6. Pro: People's right to use Bitcoin can not be actualised unless it is a legal tender.
+1.3.6.1. Pro: Given the right of individuals to [the freedom of contract](https://en.wikipedia.org/wiki/Freedom_of_contract), it is the responsibility of the state to adopt Bitcoin as legal tender, giving it legal validity like they do with other contracts. This is because Bitcoin is a privately-issued currency, transacted on a peer-to-peer network, between two [mutually consenting and willing parties](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2115203).
+1.3.6.1.1. Con: Since Bitcoin is sometimes used in illegal transactions, freedom to contract [would not](https://www.coindesk.com/murder-censorship-and-syria-crypto-and-the-future-of-uprisings) be recognised in those scenarios.
+1.3.6.1.2. Con: In countries [where Bitcoin is illegal](https://www.escapeartist.com/blog/countries-banned-bitcoin/) Bitcoin transactions are not enforceable using contract law because contracts relating to illegal goods are [not legally enforceable](https://www.legalmatch.com/law-library/article/illegal-contract-lawyers.html).
+1.4. Pro: Bitcoin offers inherent benefits as a currency.
+1.4.1. Con: Bitcoin is too [volatile](https://www.investopedia.com/articles/investing/052014/why-bitcoins-value-so-volatile.asp) to be accepted as legal tender.
+1.4.1.1. Con: The regulation of Bitcoin is likely to [stabilize the price](https://www.thebalance.com/can-bitcoin-regulation-make-cryptocurrency-safer-4173836) of the cryptocurrency much more than it is at present.
+1.4.1.1.1. Pro: Regulation provides legitimacy to the cryptocurrency, which [increases its demand](https://www.coindesk.com/regulation-help-bitcoin).
+1.4.1.2. Pro: Bitcoin has [no intrinsic value](https://www.forbes.com/sites/jasonbloomberg/2017/06/26/what-is-bitcoins-elusive-intrinsic-value/#194bc8217194). Other currencies are backed and guaranteed by the countries that issue them.
+1.4.1.2.1. Pro: Bitcoin is not a stable store of value.
+1.4.1.2.1.1. Con: Bitcoin [has intrinsic value](https://blockpublisher.com/bitcoin-has-intrinsic-value-in-accordance-with-the-first-law-of-economics/) in accordance with the first law of economics because it is scarce, useful and capable of being owned.
+1.4.1.2.1.2. Pro: The [value](https://www.investopedia.com/articles/investing/052014/why-bitcoins-value-so-volatile.asp) of Bitcoin [fluctuates](https://www.cliffsnotes.com/study-guides/economics/money-and-banking/functions-of-money) over time.
+1.4.1.2.1.2.1. Con: If Bitcoin gains the levels of adoption and liquidity which are near the level of usage of dominant government-issued currencies, it's price will become much [more stable](https://cryptonews.com/guides/will-bitcoin-ever-be-stable.htm).
+1.4.1.2.1.2.2. Con: Unlike fiat currencies which undergo annual inflation and lose value, [Bitcoin’s inflation](https://cryptonews.com/guides/why-do-bitcoins-have-value.htm) is limited and controlled. It's value over time is, therefore, only likely to increase.
+1.4.1.2.1.2.3. Pro: Bitcoin has had several large [surges and slumps](https://99bitcoins.com/bitcoin/historical-price/) in value in recent years.
+1.4.1.2.1.2.3.1. Pro: Between October and December 2017, the [price of Bitcoin](https://www.statista.com/statistics/326707/bitcoin-price-index/) almost tripled from $4,353 to $13,860, before sharply falling again to $6,387 only six months later.
+1.4.1.2.1.2.4. Con: Despite several surges and drops, Bitcoin has shown a [general upward trend](https://en.bitcoinwiki.org/wiki/Bitcoin_history) in value since its inception in 2009.
+1.4.1.2.1.3. Pro: Bitcoin’s declining value has made mining less profitable and so [diminishes the incentives](https://www.smartcompany.com.au/finance/reasons-value-bitcoin-keep-falling/) for miners to update the public ledger and validate transactions. This threatens Bitcoins existence as a stable system.
+1.4.1.2.1.4. Con: Store of value is an [intuitive analogy](https://news.bitcoin.com/putting-an-end-to-the-bitcoin-store-of-value-fallacy/). No money really has store of value.
+1.4.1.2.1.4.1. Pro: Fiat currencies also have [no intrinsic value](https://www.wired.com/story/bitcoin-has-no-intrinsic-value-neither-does-a-dollar1-bill/) as it is [not backed by any tangible asset.](https://whatis.techtarget.com/definition/fiat-money-fiat-currency#targetText=A%20fiat%20money%20is%20a,such%20as%20gold%20or%20silver.&targetText=When%20applied%20to%20paper%20money,the%20government%20says%20it%20does.)
+1.4.1.2.1.5. Pro: There is [no floor](https://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/) on the value of Bitcoin.
+1.4.1.2.2. Con: Bitcoin not having any intrinsic value makes it [uniquely beneficial](https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-great-e6994adbfe0f#targetText=Bitcoin%20Has%20No%20Intrinsic%20Value%20%E2%80%94%20and%20That's%20Great.&targetText=Intrinsic%20Value.,intrinsic%20value%20as%20a%20commodity.) as it allows individuals the ability to store wealth free from the opportunity cost inherent in storing commodities.
+1.4.1.2.3. Con: -> See 1.4.1.2.1.1.
+1.4.1.2.4. Con: According to JPMorgan, Bitcoin has intrinsic value derived from its [cost of production](https://cryptonews.com/news/a-surprise-from-jpmorgan-bitcoin-has-intrinsic-value-3896.htm) \(i.e. the estimated computational power, hardware energy efficiency, electricity expense, etc.\)
+1.4.1.2.5. Con: -> See 1.4.1.2.1.4.1.
+1.4.1.3. Con: Data shows that Bitcoin's [volatility](https://www.longhash.com/news/data-shows-bitcoins-price-volatility-has-been-declining-over-its-10-year-history) has been steadily declining over its 10 year history.
+1.4.1.3.1. Con: Bitcoin suffered around a $3000 overnight drop in [June 2019](https://www.cnbc.com/2019/06/27/bitcoin-shows-its-volatility-again-plunges-1500-in-less-than-24-hours-after-exchange-outage.html), showing that its volatility is still questionable.
+1.4.1.3.2. Pro: Bitcoin's volatility had [dropped 98%](https://www.coindesk.com/bitcoin-price-volatility-is-down-98-year-on-year) in January 2019 compared to the same time the previous year.
+1.4.1.4. Con: Fiat currencies used as legal tender are based on the [credit of the economy and](https://www.fxempire.com/education/article/the-difference-between-fiat-money-and-cryptocurrencies-520616), as such, provide no protection themselves against value volatility and fluctuation.
+1.4.1.5. Con: The gold standard has also been volatile in the past.
+1.4.1.5.1. Pro: Gold prices [more than doubled](https://coinweek.com/bullion-report/bitcoin-vs-gold-10-crystal-clear-comparisons/) during the two years immediately following the global financial crisis in 2009 before giving back more than a third of those gains in the following economic cycle.
+1.4.1.5.2. Pro: Gold’s volatility [approached 90%](https://www.cnbc.com/2017/07/07/strategist-tom-lee-weighs-sees-bitcoin-going-as-high-as-55000.html) from 1971 to 1980 as the U.S. abandoned the gold standard.
+1.4.1.6. Pro: A significant contributor to Bitcoin's value is [speculation](https://cointelegraph.com/news/chainalysis-research-speculation-remains-bitcoins-primary-use-case), which is extremely variable.
+1.4.1.6.1. Pro: Bitcoin is unlikely to ever become a store of value as it is impossible [to control supply](https://money.usnews.com/investing/cryptocurrency/articles/analyst-exposes-fatal-flaw-in-bitcoin) in response to drops in demand.
+1.4.1.6.2. Pro: Bitcoin's value can be effected by investors [hoarding or flooding the market](https://www.bloomberg.com/opinion/articles/2019-08-09/bitcoin-and-gold-are-monuments-to-irrationality).
+1.4.1.6.3. Con: All currencies are [affected by speculation.](https://www.trtworld.com/business/what-is-currency-speculation-anyway-25692)
+1.4.1.6.4. Con: Research suggests that one reason for Bitcoin's rising costs is because [criminals are using it for illegal trades](https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-price-fall-criminals-blockchain-anonymous-cryptocurrency-zcash-monero-dash-a8174716.html). If it were regulated, it may no longer be as expensive.
+1.4.1.6.5. Pro: Bitcoin has been criticized for being a [speculative bubble](https://medium.com/datadriveninvestor/on-the-precipice-is-bitcoin-a-bubble-and-when-will-it-burst-b506acfca72b) which could "burst" at any moment, and cause its value to decrease significantly.
+1.4.1.6.5.1. Pro: Stephen Roach, a Yale University senior fellow, [labelled Bitcoin](https://www.cnbc.com/2017/12/04/bitcoin-is-a-dangerous-speculative-bubble-yale-expert-says.html) as a "dangerous speculative bubble".
+1.4.2. Pro: -> See 1.3.3.1.1.
+1.4.3. Pro: -> See 1.3.2.2.
+1.4.4. Pro: Bitcoin is easier to transport and exchange than other currencies.
+1.4.4.1. Con: Bitcoin's [transaction processing speed](https://blocksplain.com/2018/02/28/transaction-speeds/) is slow and unpredictable.
+1.4.4.1.1. Pro: Individual transactions can take [anywhere from ten minutes to many days](https://blocksplain.com/2018/02/28/transaction-speeds/) to be confirmed.
+1.4.4.1.2. Pro: Bitcoin [processes](https://blocksplain.com/2018/02/28/transaction-speeds/) about 7 transactions per second, VISA processes 24,000 transactions a second.
+1.4.4.1.3. Con: Bitcoin’s developer community has come up with solutions to its transaction speed problem.
+1.4.4.1.3.1. Pro: The [SegWit](https://www.coindesk.com/bitcoin-core-releases-software-upgrade-full-segwit-support) update increased the volume of possible transactions in a block.
+1.4.4.1.3.1.1. Pro: SegWit [reduces the “weight” of transactions](https://www.coindesk.com/bitcoin-core-releases-software-upgrade-full-segwit-support), which creates more room in any given block.
+1.4.4.1.3.1.2. Pro: SegWit supports [lower transaction fees.](https://www.coindesk.com/bitcoin-core-releases-software-upgrade-full-segwit-support)
+1.4.4.1.3.2. Pro: The [Lightning Network](https://medium.com/novamining/introduction-on-lightning-networks-and-off-chain-transactions-75bda590a84e) allows transactions to happen off-chain.
+1.4.4.1.3.2.1. Pro: This eliminates the [need for approval](https://medium.com/novamining/introduction-on-lightning-networks-and-off-chain-transactions-75bda590a84e), increasing transaction speed.
+1.4.4.1.4. Con: If the [block size is raised](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/) from the original 1MB limit more transactions can be processed per block.
+1.4.4.1.4.1. Con: If the block size is raised, mining can only be done by [extremely powerful computers.](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/)
+1.4.4.1.4.2. Con: To raise the block size [would require consent](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/) from the millions of people in the Bitcoin community.
+1.4.4.1.4.3. Con: The small block size acts as a technical security parameter to [prevent network flooding](https://medium.com/\@gifted_products/cryptocurrencies-with-tim-ferriss-nick-szabo-and-naval-ravikant-51a99d037e04).
+1.4.4.1.4.3.1. Pro: Nodes need to validate blocks before accepting them. If blocks were larger [it would take longer](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/) to validate or invalidate them before accepting them.
+1.4.4.1.4.3.1.1. Pro: [Invalid blocks](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/) would take longer to process, wasting time.
+1.4.4.1.4.3.1.2. Pro: There would be [long delays](https://www.freecodecamp.org/news/future-of-bitcoin-cc6936ba0b99/) for valid blocks to be processed.
+1.4.4.1.4.3.2. Pro: A [denial of service attack](http://A denial of service attack can essentially be orchestrated by repeatedly publishing insanely large invalid blocks to the network) could be orchestrated by repeatedly publishing large invalid blocks to the network.
+1.4.4.1.4.4. Con: No amount of max block size would support all the world's [future cryptocurrency transactions](https://en.bitcoin.it/wiki/Block_size_limit_controversy) on the main blockchain.
+1.4.4.1.5. Pro: The amount of transactions the Bitcoin network can process are limited in size and frequency therefore Bitcoin [may not be scalable](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) in the long run.
+1.4.4.1.6. Con: [Lightning network](https://lightning.network/) is a consolided solution in Bitcoin network to allow massive, speedy and cheap transactions.
+1.4.4.2. Pro: Bitcoin makes transferring money across [international borders](https://research.stlouisfed.org/publications/page1-econ/2018/03/01/bitcoin-money-or-financial-investment) easier.
+1.4.4.2.1. Con: Bitcoin [facilitates](https://reason.com/2018/02/06/governments-hate-bitcoin-and-cash-for-th/) tax evasion.
+1.4.4.2.1.1. Pro: The anonymous nature of Bitcoin transactions makes it hard for authorities to [tax cryptocurrency trading profits](https://www.nytimes.com/2018/01/22/opinion/irs-bitcoin-fear.html).
+1.4.4.2.2. Pro: Bitcoin is a cost-effective method of transferring money internationally.
+1.4.4.2.2.1. Pro: Family members who are employed as migrant workers in developed countries may send money to their families with [reduced remittance costs.](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479)
+1.4.4.2.2.1.1. Pro: According to the World Bank, the recorded remittance to developing countries in 2016 was about [$441 billion](https://www.worldbank.org/en/research/brief/migration-and-remittances). That is more than half of the total recorded global remittance.
+1.4.4.2.2.1.2. Pro: In many developing countries, [blockchain-powered remittance platforms](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479) are now being used in addition to intermediary services.
+1.4.4.2.2.1.2.1. Pro: [SureRemit](https://sureremit.co/) is a Nigerian based blockchain-powered remittance system that offers zero-cost, cross-border transactions.
+1.4.4.2.2.1.2.2. Pro: [Rebit](https://rebit.ph/) is a Philippines based platform which allows users to send money, using Bitcoin, at a much lower rate than conventional money transfer services.
+1.4.4.2.2.2. Pro: Bitcoin [nearly eliminates](https://www.finder.com/how-bitcoin-compete-money-transfer-market) expensive intermediary fees associated with international transactions.
+1.4.4.2.3. Pro: When international transactions are easier, this [creates more opportunities](https://www.investopedia.com/insights/what-is-international-trade/) for [FDI](https://en.wikipedia.org/wiki/Foreign_direct_investment) and increased economic efficiency through specialisation.
+1.4.5. Con: Bitcoin can be easily lost.
+1.4.5.1. Pro: Bitcoin can remain [dormant forever](https://bitcoin.org/en/faq#is-bitcoin-anonymous) if the private keys are lost.
+1.4.5.1.1. Pro: [£145m worth of BTC](https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-exchange-quadrigacx-password-cryptocurrency-scam-a8763676.html) was lost in 2019 when the only person who knew the private keys passed away.
+1.4.5.2. Con: There are an increasing [number of methods](https://news.bitcoin.com/bitcoin-lost-the-heroic-and-maddening-world-of-crypto-wallet-recovery/) for recovering corrupt Bitcoin wallets.
+1.4.6. Pro: Unlike most currencies, Bitcoin amounts are [highly divisible](https://medium.com/\@EricGrill/the-divisibility-of-bitcoin-fc1bcb40dd52) which gives its users [a lot more freedom.](https://hackernoon.com/why-bitcoin-is-the-purest-form-of-money-to-date-a-history-of-money-2c6613f7bcfc)
+1.4.6.1. Pro: A bitcoin can be divided down to [8 decimal places.](https://en.bitcoin.it/wiki/Help:FAQ#How_divisible_are_bitcoins.3F) This means 0.00000001 BTC is the smallest amount that can be handled in a transaction. In other words, they are literally able to be divided into 100 million pieces.
+1.4.6.2. Pro: The protocol and related software can be modified to handle even smaller amounts [if necessary.](https://en.bitcoin.it/wiki/Help:FAQ#How_divisible_are_bitcoins.3F)
+1.4.6.3. Pro: Highly divisible units, such as the Satoshi, are able to [facilitate](https://hackernoon.com/why-bitcoin-is-the-purest-form-of-money-to-date-a-history-of-money-2c6613f7bcfc) small micropayments which are becoming an increasingly popular payment system in the digital age.
+1.4.6.3.1. Con: Micropayments cannot currently be sent at regular intervals as they 'bloat the system', which can make [micro transactions very slow](https://99bitcoins.com/understanding-micropayments-and-bitcoins-role/).
+1.4.6.3.2. Pro: Micropayments using credit cards are often [financially unfeasible](https://www.businessinsider.com/micropayments-report-2017?r=US&IR=T) for small merchants to use regularly due to hefty transaction fees. SInce its fees are much lower, using Bitcoin for these transactions can be significantly cheaper.
+1.4.6.3.2.1. Pro: The amount one pays as their transaction [fee is \(largely\) optional](https://www.coindesk.com/pros-cons-bitcoin-merchants-view), meaning that smaller businesses are able to choose to reduce the fees paid in exchange for a slightly longer processing time.
+1.4.6.3.3. Pro: Micropayments are becoming increasingly [popular.](https://www.businessinsider.com/micropayments-report-2017)
+1.4.7. Pro: Bitcoin is [decentralised](https://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp), meaning it cannot be controlled by parties who are corrupt or solely motivated out of self-interest.
+1.4.7.1. Con: Realistically, Bitcoin is not as decentralized as it claims to be.
+1.4.7.1.1. Pro: Practices such as the use of [mining pools](https://bitcoinchaser.com/bitcoin-mining-centralization-effects) have made Bitcoin more centralized over the years.
+1.4.7.1.1.1. Con: [As of 2019](https://www.coindesk.com/bitcoin-is-becoming-more-decentralized-indicates-new-research), no single mining pool controls more than 20% of Bitcoin's hashrate.
+1.4.7.2. Pro: FIAT currencies, which are largely owned and regulated by banking groups, have too much power.
+1.4.7.2.1. Con: Fiat currencies have public oversight.
+1.4.7.2.1.1. Pro: The Federal Reserve is ultimately [controlled by the US Congress](https://www.federalreserve.gov/faqs/about_14986.htm).
+1.4.7.3. Con: Our [economies and financial systems rely on](https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/) the central bank’s control of the currency. As Bitcoin is decentralised, our economy would be at risk if we become reliant on it.
+1.4.7.3.1. Pro: Without the central bank controlling the currency, inflation and deflation will occur and nothing can stop or control it.
+1.4.7.3.2. Pro: Without the central bank controlling the currency, recessions and depressions will occur and nothing can stop or control them.
+1.4.7.3.3. Pro: When central banks control the currency [they can](https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/) help manage the business cycle, fight unemployment, and deal with financial crises.
+1.4.7.3.4. Pro: Banks would be [unable to provide liquidity](https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/) in times of crisis.
+1.4.7.3.4.1. Pro: Banks can't print more Bitcoin the way they print money.
+1.4.7.3.4.1.1. Con: Banks would be able to build up a reserve of Bitcoin they could use in times of emergency.
+1.4.7.3.4.1.2. Pro: -> See 1.3.3.1.1.1.
+1.4.7.3.5. Con: Central banks have been criticized for being [unnecessary](https://www.investopedia.com/articles/investing/050715/can-bitcoin-kill-central-banks.asp) and harmful.
+1.4.7.3.5.1. Pro: Central banks [are susceptible to](https://www.investopedia.com/articles/investing/050715/can-bitcoin-kill-central-banks.asp) corruption and external influence, while technological currencies are not.
+1.4.7.3.5.2. Pro: The adoption of Bitcoin will reduce the need to rely on central banks, whose policies have been criticized for "[making the rich richer](https://www.ft.com/content/4c53586a-6114-11e5-9846-de406ccb37f2)".
+1.4.7.3.6. Con: Bitcoin banks are [on the rise](https://www.privateinternetaccess.com/blog/2019/01/bitcoin-banks-are-coming-wave-goodbye-to-your-privacy/).
+1.4.7.3.6.1. Con: The concept of a Bitcoin [bank](https://bitcoincryptobank.com/) engaged in fractional reserve banking and/or investments seems to present some fundamental problems.
+1.4.7.3.6.1.1. Pro: Bitcoin banks can't be regulated, because that would defeat the fundamental purpose of Bitcoin. This means Bitcoin banks will engage in unregulated fractional reserve banking and/or investment, which has a range of problems.
+1.4.7.3.6.1.1.1. Pro: Historically speaking, bankers will almost certainly fail to self-regulate. This means bigger risks will be undertaken until the bank fails and everyone's capital is lost. This outcome is likely to be the same with every Bitcoin bank.
+1.4.7.4. Pro: As Bitcoin is decentralised, the users hold all the power. It is near-impossible for any single group to influence it significantly.
+1.4.7.4.1. Con: With Bitcoin, the power rests with those who hold the most of it. This makes it susceptible to "[whales](https://www.bloomberg.com/news/articles/2017-12-08/the-bitcoin-whales-1-000-people-who-own-40-percent-of-the-market)" who can create a monopoly on the market.
+1.4.7.5. Pro: Bitcoins may [reduce reliance](https://www.forbes.com/sites/darrynpollock/2019/07/25/the-future-of-banking-is-it-all-bitcoin-and-blockchain/#24dcf55431eb) on the current banking system by making their function as an intermediary [obsolete](https://hackernoon.com/what-would-be-the-future-for-banking-in-a-cryptocurrency-dominated-world-62f2df32f096) and thus leading to a wealth of benefits.
+1.4.7.5.1. Pro: Bitcoins help in [avoiding banking fees](https://www.newcurrencyfrontier.com/2017/09/14/why-will-bitcoin-saving-140-billion-in-bank-fees/) resulting in consumers saving money.
+1.4.7.5.1.1. Pro: In [a 2016 report](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/A%20mixed%202015%20for%20the%20global%20payments%20industry/Global-Payments-2016.ashx) on Global Payments by McKinsey & Company, it was estimated that blockchain technology could save the world $140 billion in banking fees \(p. 24\).
+1.4.7.5.2. Pro: Bitcoin [helps](https://btcpop.co/home.php) consumers in adopting [peer-to-peer lending \(P2P\) solutions](https://www.investopedia.com/terms/p/peer-to-peer-lending.asp) - enabling them to obtain a loan directly from another individual.
+1.4.7.5.3. Con: Bitcoin may jeopardise the livelihood of many people by causing massive unemployment of bank employees around the world by making their jobs redundant.
+1.4.7.5.3.1. Con: [One employment website](https://www.cnbc.com/2017/10/29/weve-seen-an-82-percent-jump-in-bitcoin-related-jobs-says-employment-website-ceo.html) has noted an increase of 82% in Bitcoin-related jobs.
+1.4.7.5.4. Pro: Transactions previously handled by banks may now be handled by Bitcoin miners, which is more beneficial for consumers.
+1.4.7.5.4.1. Pro: The [competitive element](https://cointelegraph.com/news/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows) associated with Bitcoin mining incentivises miners to work effectively.
+1.4.7.5.4.1.1. Pro: Rivalry [increases productivity](https://www.psychologicalscience.org/news/minds-business/the-upside-of-rivalry-higher-motivation-better-performance.html) which stimulates the economy.
+1.4.7.5.4.2. Pro: The payoff for Bitcoin miners in terms of [the block reward and transaction fees](https://medium.com/\@craig_10243/bitcoin-is-all-about-incentives-72894518f6b5) incentivises them to work effectively.
+1.4.7.5.5. Pro: French bank BNP Paribas - one of the world's biggest banks - [admitted](https://www.businessinsider.com/bnp-paribas-bitcoin-blockchain-securities-firms-redundant-2015-7) that the technology underpinning Bitcoin has the potential to make existing banks redundant.
+1.4.7.5.6. Pro: Bitcoin prevents reversal of transactions - which are otherwise made possible due to intermediaries - by making them [computationally impractical](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2115203_code1872738.pdf?abstractid=2115203&mirid=1) \(p. 11\).
+1.4.7.5.6.1. Pro: Transactions that cannot be reversed protect sellers [from fraud](https://bitcoin.org/bitcoin.pdf) \(p. 1\).
+1.4.7.5.6.2. Pro: Preventing reversal of transactions allows automated escrow mechanisms to replace intermediaries thus [protecting buyers](https://bitcoin.org/bitcoin.pdf) from fraud \(p. 1\).
+1.4.8. Con: Bitcoin transactions [cannot easily be reversed](https://bitcoin.org/en/you-need-to-know) in the manner credit transactions are, meaning retailers may struggle to process refunds. This makes them an unsuitable currency for business.
+1.4.8.1. Con: -> See 1.4.7.5.6.
+1.5. Con: -> See 1.4.4.1.
+1.6. Pro: Adopting Bitcoin as a legal tender would have several positive impacts on the economy.
+1.6.1. Pro: Though the exact figures are difficult to determine, Bitcoin transactions have a [positive impact](https://medium.com/\@ObsidianWealth/bitcoins-contribution-to-gross-domestic-product-gdp-181fcd7e0f67) on a country's GDP.
+1.6.1.1. Con: Bitcoin is regarded by many as an [asset](https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/) rather than a currency.
+1.6.1.1.1. Con: The number of Bitcoin transactions [have increased](https://www.coindesk.com/bitcoins-2019-price-run-driven-by-real-transaction-growth-analysis-shows) in 2019, which suggests that Bitcoin is increasingly being used as a currency.
+1.6.1.1.1.1. Pro: Some of the worlds largest retailers have started accepting [Flexa](https://flexa.network/) as a means for consumers to [pay for products](https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-stores-spend-where-starbucks-whole-foods-crypto-a8913366.html) using Bitcoin.
+1.6.1.1.1.2. Pro: Thousands of [small and independent](https://www.lifewire.com/big-sites-that-accept-bitcoin-payments-3485965) retailers around the world now accept Bitcoin.
+1.6.1.1.2. Pro: The majority of Bitcoin expenditure is speculative investment in non-produced assets. Therefore, it [would not contribute](https://medium.com/\@ObsidianWealth/bitcoins-contribution-to-gross-domestic-product-gdp-181fcd7e0f67) to GDP on an annual basis.
+1.6.1.2. Con: -> See 1.6.1.1.2.
+1.6.2. Pro: -> See 1.4.4.2.
+1.6.3. Con: Bitcoin helps fuel the underground economy.
+1.6.3.1. Pro: -> See 1.1.2.2.
+1.6.3.2. Pro: -> See 1.4.4.2.1.
+1.6.3.3. Con: -> See 1.1.2.2.3.
+1.6.3.4. Pro: Bitcoin facilitates [money laundering](https://digitalcommons.lasalle.edu/cgi/viewcontent.cgi?article=1041&context=ecf_capstones). \(p. 9\)
+1.6.3.4.1. Con: Money laundering in cryptocurrencies is facilitated by the use of [unregulated exchanges](https://thenextweb.com/hardfork/2018/11/26/bitcoin-money-laundering-2/). Regulation would allow authorities to crack down on this practice.
+1.6.3.4.1.1. Pro: -> See 1.1.2.2.3.
+1.6.4. Con: -> See 1.4.7.3.
+1.6.5. Pro: Bitcoin, if adopted as a legal tender, has the potential to reduce financial inequality.
+1.6.5.1. Pro: Bitcoin, [due to](https://medium.com/predict/how-bitcoin-solves-the-problem-of-the-worlds-unbanked-poor-ad2f76d7e368) its ease of access, allows for greater levels of financial inclusivity.
+1.6.5.1.1. Pro: Individuals can easily set up and access cryptocurrency wallets through their [smartphones](https://medium.com/predict/how-bitcoin-solves-the-problem-of-the-worlds-unbanked-poor-ad2f76d7e368).
+1.6.5.1.2. Pro: Greater financial inclusivity means that even individuals who do not have access to financial institutions [can amass wealth](https://medium.com/predict/how-bitcoin-solves-the-problem-of-the-worlds-unbanked-poor-ad2f76d7e368).
+1.6.5.1.3. Pro: Bitcoin can increase the financial inclusivity of people living in [the developing world.](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479)
+1.6.5.1.3.1. Pro: -> See 1.4.4.2.2.1.
+1.6.5.1.3.2. Pro: [Lack of access to banking instruments](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479) prevents working age adults from effectively participating in global commerce. Bitcoin offers an alternative solution to that problem.
+1.6.5.1.3.2.1. Pro: According to the World Bank, majority of the world's unbanked population [comes from](https://globalfindex.worldbank.org/) developing countries.
+1.6.5.1.3.2.2. Pro: In many developing countries, mobile-based cryptocurrency services are enabling millions of unbanked people to finally get access to banking services and financial instruments through [mobile phone apps.](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479)
+1.6.5.1.3.2.2.1. Pro: -> See 1.6.5.1.1.
+1.6.5.1.3.2.2.2. Pro: [BitPesa](https://en.wikipedia.org/wiki/BitPesa) is a cryptocurrency-based, digital foreign exchange, and payment platform that allows citizens to buy Bitcoins and make related transactions.
+1.6.5.1.3.3. Pro: The blockchain technology of Bitcoin can help [increase accountability](https://hackernoon.com/how-cryptocurrency-can-help-developing-countries-2aacda7b0479) on corrupt state functionaries by making sure funds aren't misappropriated and are spent for the welfare of citizens.
+1.6.5.1.3.3.1. Pro: -> See 1.3.2.2.5.4.1.
+1.6.5.1.3.3.2. Pro: In Zimbabwe, after the collapse of the financial system because of [corruption-induced](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe#Causes) hyperinflation, people started using Bitcoin [for savings](https://blockonomi.com/cryptocurrencies-developing-countries/#targetText=Cryptocurrencies%20have%20the%20potential%20to,economy%20and%20escape%20from%20poverty.) because it is far less vulnerable to state manipulation.
+1.6.5.1.3.4. Con: There are still a number of countries which have little or no [access to the internet](https://www.worldatlas.com/articles/are-there-countries-without-internet-access.html). This would preclude them from trading in Bitcoin and thus exclude them from participating in this part of the global economy.
+1.6.5.1.3.4.1. Con: [New methods](https://news.bitcoin.com/no-internet-no-problem-how-to-send-bitcoin-by-amateur-radio/) of trading Bitcoin without the need for an internet connection are emerging.
+1.6.5.2. Pro: Adopting Bitcoin could reduce [inequality in income](https://offthechain.substack.com/p/bitcoin-can-put-a-dent-in-income).
+1.6.5.2.1. Pro: Inflationary monetary systems [benefit the rich](https://offthechain.substack.com/p/bitcoin-can-put-a-dent-in-income). Bitcoin's deflationary monetary system will significantly reduce inequality in income.
+1.6.5.2.1.1. Con: [Deflation leads to](https://www.investopedia.com/articles/personal-finance/030915/why-deflation-bad-economy.asp) lower demand for products, more unemployment and less money available for loans. This will also harm the people negatively affected by income inequality.
+1.6.5.2.1.2. Pro: -> See 1.6.5.1.3.3.2.
+1.6.5.3. Con: Bitcoin, [due to](https://digiconomist.net/bitcoin-raises-inequality) its limited transaction capacity and rising costs, has been criticized for increasing financial inequality rather than decreasing it.
+1.6.5.3.1. Con: -> See 1.4.1.6.4.
+1.6.5.3.2. Pro: -> See 1.6.5.1.3.4.
+1.6.5.3.3. Pro: Currently, the Bitcoin market is dominated by men, with only [3.43%](https://www.cbc.ca/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) of engaged users being female. Unless this balance is addressed, the increased use of Bitcoin in the economy will only widen the gap in [financial literacy](https://www.oecd-ilibrary.org/finance-and-investment/women-and-financial-education/gender-differences-in-financial-literacy_9789264202733-5-en) between genders.
+1.6.5.3.4. Pro: Over 50% of the world's Bitcoin nodes are run between [only three countries](https://thenextweb.com/hardfork/2019/02/27/3-countries-50-perecent-bitcoin-network/).
+1.6.5.3.4.1. Pro: [The FBI](https://www.wired.com/2013/12/fbi-wallet/) - in the US - holds the world's largest individual Bitcoin wallet.
+1.6.5.3.5. Con: [Three out of the five](https://coinify.com/news/countries-interested-in-bitcoin-google/) countries showing further interest in Bitcoin are considered 'developing' countries, suggesting that its usage is not limited to seemingly richer nations.
+1.6.5.3.6. Pro: Despite living in the [world's largest economy](http://worldpopulationreview.com/countries/countries-by-gdp/), 10% of [Americans](https://www.pewresearch.org/fact-tank/2019/04/22/some-americans-dont-use-the-internet-who-are-they/) do not use, or have no access to the internet: a necessary tool for trading in Bitcoin.
+1.6.5.4. Pro: -> See 1.4.7.3.5.2.
+1.6.6. Pro: If Bitcoin is adopted as legal tender, other cryptocurrencies would compete to join it. This creates competition which could improve the economy and/or society.
+1.6.7. Pro: -> See 1.4.7.5.
+1.6.8. Pro: A global currency could have a hugely positive impact on the [global economy and trade](https://www.babypips.com/news/a_world_currency_pros_and_cons).
+1.6.8.1. Con: Bitcoin is not the best choice for a global currency.
+1.6.8.1.1. Pro: Bitcoin is flawed and not viable as a major currency. Newer digital currencies have been developed to replace it.
+1.6.8.1.2. Pro: Special Drawing Rights \(SDR\) would make a [better global currency.](https://www.weforum.org/agenda/2019/04/is-it-time-for-a-true-global-currency) The SDR is a basket of currencies created by the IMF. Its value moves in line with that of the underlying currencies: the U.S. dollar, Japanese yen, euro, British pound and Chinese renminbi.
+1.6.8.2. Con: Political and economic differences mean that a global currency could create tension between states.
+1.6.8.2.1. Pro: States wouldn't be able to adjust the interest rate in [times of recession or inflation](https://www.babypips.com/news/a_world_currency_pros_and_cons) as there would one global interest rate.
+1.6.8.2.2. Pro: A global currency would [infringe on the sovereignty](https://www.babypips.com/news/a_world_currency_pros_and_cons) of states where the global currency limited their ability to make decisions in the interest of their nation.
+1.6.8.2.3. Pro: Political and economic disagreements often [lead to tension](http://www.psychologydiscussion.net/essays/essay-on-international-tension-among-countries/1420) between states.
+1.6.8.3. Pro: A blockchain-based global currency like Bitcoin may allow buyers and sellers [more autonomy](https://www.ibm.com/downloads/cas/KJDPQKBE) by enabling them to transact more directly, without the need to rely on third party intermediaries for costly financing facilities - such as letter of credits \(p. 37\).
+1.7. Con: -> See 1.6.3.
+1.8. Con: Bitcoin is new and barely understood. Adopting it as legal tender without knowing more about it is too presumptive.
+1.8.1. Pro: The [ECB President commented](https://www.coindesk.com/ecb-president-bitcoin-not-mature-enough-to-be-regulated) that Bitcoin is not mature enough to consider adopting as legal tender.
+1.8.2. Con: Bitcoin is already used as an alternative means of payment in [several industries](https://www.hongkiat.com/blog/places-to-spend-bitcoins/) around the world with great success.
+1.8.2.1. Pro: Microsoft has allowed Bitcoin as a form of payment for the purchase of items on the [Microsoft Store](https://www.lifewire.com/big-sites-that-accept-bitcoin-payments-3485965).
+1.8.2.2. Pro: Overstock, an online retailer that competes with Amazon, [currently uses Bitcoin](https://money.cnn.com/2017/12/18/news/companies/overstock-ico-ceo-byrne/index.html) as a form of payment.
+1.8.2.3. Pro: Cryptocurrencies are ideal for industries which rely on a network of multinational freelancers, such as the [global translation market](https://blog.stepes.com/why-crypto-currencies-like-bitcoin-and-ripple-are-ideal-for-the-global-translation-market/).
+1.8.3. Con: Cryptocurrencies are consistently being researched by analysts and organizations all around the world.
+1.8.3.1. Pro: [Digital Asset Research](https://www.digitalassetresearch.com/about/) is a dedicated research platform designed specifically for the research of cryptocurrency like Bitcoin.
+1.8.3.2. Pro: The [Cryptocurrency Research Group](https://www.crunchbase.com/organization/cryptocurrency-research-group#section-overview) is an organization that is focused on studying cryptocurrencies like Bitcoin and other decentralized consensus technologies.
+1.8.4. Pro: The [nature of Bitcoin](https://www.coindesk.com/information/is-bitcoin-legal) at present - whether it is a commodity, currency, or legal tender - is still unknown and under debate.
+1.8.5. Pro: Many ordinary consumers have no, or limited, understanding of how it works; it is difficult to ask people to adopt a system that they have no understanding of.
+1.8.5.1. Pro: A [2017 survey](https://www.coindesk.com/whats-blockchain-hsbc-survey-finds-59-consumers-dont-know) found that 59% of consumers had never heard of Blockchain. 80% of those who had heard of Blockchain don't understand how it works.
+1.8.6. Pro: It is unknown who holds the majority of Bitcoin and whom we are feeding power to as a result.
+1.8.6.1. Pro: Satoshi Nakamoto, the anonymous founder of Bitcoin, [is estimated to hold 980,000 BTC](https://qz.com/1159188/bitcoin-price-approaches-20000-making-satoshi-nakamoto-worth-19-4-billion/). This would make him one of the 50 richest people in the world if Bitcoin returns to its ATH of $20,000.
+1.8.7. Pro: If Bitcoin is adopted as a universal primary currency and a fundamental flaw is discovered, it will crash the global economy.
+1.8.7.1. Con: Any currency that becomes a global reserve could crash the global economy. This comes [down to security](https://link.medium.com/4hcm1DEzaY).
+1.9. Con: There are concerns that Bitcoin's energy consumption is [not scalable](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036).
+1.9.1. Con: The [proof-of-stake algorithm](https://coincentral.com/could-proof-of-stake-mend-bitcoins-energy-costs/) is being researched for Bitcoin as an alternative to [proof-of-work](https://cointelegraph.com/explained/proof-of-work-explained), which could significantly reduce its energy consumption.
+1.9.1.1. Pro: Moving from proof-of-work to proof-of-stake will cut energy consumption by [ninety-nine percent](https://www.ccn.com/inside-ethereums-plan-to-reduce-energy-consumption-by-99/).
+1.9.2. Pro: One Bitcoin transaction requires the same amount of electricity as powering [21.1 American households](https://web.archive.org/web/20190824111206/https://digiconomist.net/bitcoin-energy-consumption) for one day, as of August 2019.
+1.9.3. Pro: Bitcoin's current proof-of-work algorithm costs [several million dollars](https://www.bitdegree.org/tutorials/proof-of-work-vs-proof-of-stake/) a day in energy.
+1.9.3.1. Con: -> See 1.9.1.
+1.9.4. Con: [74%](https://cointelegraph.com/news/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy) of Bitcoin mining is powered by renewable energy sources.
+1.9.4.1. Pro: [BitcoinClean](https://medium.com/\@bitcoinclean/what-is-bitcoinclean-60306b8b07b7) mines Bitcoin using 100% renewable energy, using its proof-of-greenness algorithm.
+1.9.4.2. Con: Using existing renewable energy farms to power Bitcoin mining forces other consumers to source their energy from [less sustainable sources](https://www.wired.com/story/bitcoins-climate-impact-global-cures-local/).
+1.9.5. Pro: The [CO2 footprint](https://www.reuters.com/technology/how-big-is-bitcoins-carbon-footprint-2021-05-13/) of mining Bitcoin is on course to equal that of one million transatlantic flights per year.
+1.9.6. Pro: Bitcoin mining around the world consumes [more energy](https://www.theverge.com/2019/7/4/20682109/bitcoin-energy-consumption-annual-calculation-cambridge-index-cbeci-country-comparison) than Switzerland.
+1.9.7. Con: [Statistics from July 2019](https://www.inverse.com/article/57389-bitcoin-mining-s-incredible-energy-waste-has-been-captured-in-new-research) show that Bitcoin's energy consumption amounts to around only 0.25% globally.
+1.9.8. Con: Energy consuption isnt correlated with scalability. Bitcoin network can process same ammount of transactions with 1% of actual energy consuption.
+1.10. Con: The concept of designating some asset as "legal tender" is somewhat coercive. It implies that vendors and service providers MUST accept this form of payment \("for all debts public and private"\). Forced adoption is antithetical to Bitcoin's ethos.

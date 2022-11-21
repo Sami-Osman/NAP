@@ -1,0 +1,439 @@
+Discussion Name: Is capitalism good?
+
+1. Capitalism is good.
+1.1. Con: Capitalism explicitly prioritizes profits over the wellbeing of others, as the wellbeing of others can be incompatible with maximizing profits. Hence, capitalism will inevitably come at the expense of human wellbeing, which is unethical.
+1.1.1. Pro: Countries with more socialist, instead of capitalist, policies tend to have higher citizen well-being.
+1.1.1.1. Pro: Countries that [rank highest on citizen well-being](https://en.wikipedia.org/wiki/World_Happiness_Report#2019_World_Happiness_Report) have [more socialist policies](https://www.usnews.com/news/best-countries/articles/2018-01-25/denmarks-social-policies-generally-remain-a-model-say-experts) and [stricter market regulation](https://www.eubusiness.com/europe/denmark/environmental-rules/).
+1.1.1.1.1. Con: The most successful left wing countries, for example, Norway [which has higher GDP per capita than the USA](https://www.worldometers.info/gdp/gdp-per-capita/) and is [is one of the most equal societies by GINI coefficient](https://www.indexmundi.com/facts/indicators/SI.POV.GINI/rankings), are still capitalist states, defined by free markets and private ownership, despite general left wing policies of high taxation and public spending.
+1.1.1.2. Pro: Using tax dollars to protect the environment for collective benefit is a socialist policy, and countries with [the least environmental regulation](https://www.telegraph.co.uk/travel/maps-and-graphics/most-and-least-environmentally-friendly-countries/) provide a worse standard of living than countries with the most environmental regulation.
+1.1.1.2.1. Con: Environmental regulation is the result of high standards of living, not the cause of them.
+1.1.1.2.1.1. Pro: Environmental policies can be [too expensive or too advanced](https://issues.org/greenspan/) for the developing countries to implement.
+1.1.1.3. Pro: In the 20th century socialism, women had a better [work-life balance](https://www.nytimes.com/2017/08/12/opinion/why-women-had-better-sex-under-socialism.html).
+1.1.1.4. Pro: What is considered happiness in a society [depends on the prevailing economic system](https://www.vox.com/science-and-health/2018/9/4/17759590/happiness-fantasy-capitalism-culture-carl-cederstrom). Thus, comparing happiness across economic systems is difficult.
+1.1.1.4.1. Con: There are people that had been subject to both capitalism and communism. Opinions of migrants or former citizens of USSR, SFRY and GDR can be used to get around the difficulties of happiness comparison across economic systems.
+1.1.1.5. Pro: The concept of happiness promoted by capitalism makes people feel [empty inside](https://www.vox.com/science-and-health/2018/9/4/17759590/happiness-fantasy-capitalism-culture-carl-cederstrom).
+1.1.1.6. Con: Studies suggest [\[1\]](https://www.sciencedirect.com/science/article/abs/pii/S0305750X13001150) [\[2\]](https://business.fau.edu/images/business/our-college/deans-office/dean_groppers_publications/Economic-Freedom-and-Happiness.pdf) [\[3\]](https://www.ndsu.edu/centers/pcpe/news/detail/30586/), there is a positive correlation between economic freedom and happiness. Since economic freedom is a key factor in capitalism, people will be happier in more capitalistic countries.
+1.1.2. Pro: Capitalism incentivizes exploitation when it's profitable.
+1.1.2.1. Pro: Companies tend to pay low wages to their workers in comparison to the work they do.
+1.1.2.1.1. Con: Companies are incentivized to pay their workers fairly.
+1.1.2.1.1.1. Pro: [Staff turnover](https://www.terrastaffinggroup.com/resources/blog/long-term-effects-underpaid-employees/) is likely to increase if employees are being underpaid. If companies do not want to incur the [harms](https://smallbusiness.chron.com/negative-impacts-high-turnover-rate-20269.html) caused by employees leaving, they are likely to pay them well.
+1.1.2.1.1.2. Con: Since unemployment rates are [high](https://worldpopulationreview.com/countries/unemployment-by-country/) in many countries, many people find it difficult to get jobs. The supply of labor is likely to be higher than the demand, allowing employers to get away with hiring workers at [low wages](https://opentextbc.ca/principlesofeconomics/chapter/4-1-demand-and-supply-at-work-in-labor-markets/).
+1.1.2.1.1.3. Pro: The existence of trade unions increases the bargaining power of workers.
+1.1.2.1.1.4. Pro: Employee motivation, and consequently their productivity, are likely to [decrease](https://www.efrontlearning.com/blog/2017/03/causes-of-demotivation-employee-dissatisfaction.html) as employees are underpaid. Therefore, companies have an incentive to pay fair remuneration to employees for their services.
+1.1.2.1.2. Pro: Since firms are profit-maximizing, they have an incentive to cut down the cost of labor. One way to do that is to lower wages.
+1.1.2.1.3. Con: Companies must pay lower wages in comparison to the value of its employees' work. If a company pays high wages, its marginal revenue becomes negative and such a company goes bankrupt. That would limit its ability to employ more people.
+1.1.2.2. Pro: Companies are likely to provide poor or dangerous working conditions to their employees if it lowers their costs.
+1.1.2.3. Pro: [There are more slaves today than at any point in history](https://www.alternet.org/2015/01/there-are-more-slaves-today-any-time-human-history/), the [majority of which are forced to labor for the profit of their oppressor](https://www.theguardian.com/news/2019/feb/25/modern-slavery-trafficking-persons-one-in-200).
+1.1.2.4. Con: Capitalism generates economic growth, which tends to benefit the poor.
+1.1.2.4.1. Con: They are poor in the first place because of capitalism.
+1.1.2.4.1.1. Pro: For example, they may live in a country like Bangladesh or Vietnam which was exploited by Western imperialism for centuries, which rendered the population effectively serfs to the colonizers.
+1.1.2.4.1.2. Pro: For example, they may live in the American Rust Belt which was hollowed out by aggressive industrialization and subsequent outsourcing.
+1.1.2.4.2. Pro: Capitalism took out [millions and millions](https://www.clucerf.org/2013/09/13/economic-history-of-the-world/) of families that were in [poverty worldwide](https://blogs.callutheran.edu/cerf/files/2013/09/ehotw2.jpg) since the middle ages.
+1.1.2.4.2.1. Con: These families were only in poverty \(e.g. the thousands of serfs\) because those in power used that power to their own advantage and benefit rather than the common good. One pressed into slavery should not be expected to thank one's slave-driver for being somewhat nicer today than the day before.
+1.1.2.4.3. Con: Inequality of ownership prevents economic growth from benefiting the poor.
+1.1.2.4.4. Pro: Countries that have experienced economic growth have reduced income inequality.
+1.1.2.4.4.1. Con: The [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) measures economic inequality \(zero=maximum equality, one=maximum inequality\). In developing areas, the Gini coefficient increases, thus development leads to more inequality.
+1.1.2.4.4.1.1. Pro: The Gini coefficient rose in [China](https://www.researchgate.net/figure/China-Gini-Coefficient-1978-2000_fig1_26465812) since the 70s.
+1.1.2.4.4.1.2. Pro: The Gini coefficient of [India](https://www.indexmundi.com/facts/india/indicator/SI.POV.GINI) has risen since the 80s.
+1.1.2.4.4.2. Pro: From 1978 to 2017, due to rapid economic growth, China has been able to lift over [700 million](http://www.xinhuanet.com/english/2018-04/23/c_129857170.htm) people out of poverty in the country.
+1.1.2.4.4.3. Pro: Economic growth in rural areas has significantly helped alleviate poverty in [India](https://www.wider.unu.edu/publication/poverty-reduction-and-economic-growth).
+1.1.2.4.5. Pro: Research has show that a 10% increase in a country’s average income will reduce the poverty rate by approximately 20-30% in the country. \([p.3](https://www.oecd.org/derec/unitedkingdom/40700982.pdf)\)
+1.1.2.4.6. Con: The poor are only able to reap extremely limited benefits of economic growth.
+1.1.2.4.6.1. Pro: In [Mozambique](https://www.worldbank.org/en/news/opinion/2016/12/21/picking-up-the-pace-of-poverty-reduction-in-mozambique), for each percentage point of economic growth between 1996 and 2009, poverty only reduced by 0.26 percentage points.
+1.1.2.4.7. Pro: Economic growth leads to job creation.
+1.1.2.4.7.1. Con: They don't have jobs because of capitalism.
+1.1.2.4.7.2. Pro: Once [aggregate demand](https://www.economicshelp.org/blog/50/unemployment/aggregate-demand/) is high in an economy, more companies are set up. As a result, they require people to work in them to produce goods and services.
+1.1.2.4.8. Con: Capitalism is not the only way to achieve economic growth.
+1.1.2.4.8.1. Pro: If all humanity truly wanted to, we could achieve economic growth in a far more efficient and fair way than by capitalism.
+1.1.2.4.8.1.1. Pro: Capitalism is explicitly directed toward a maximization or optimization of profit, not economic growth. If we instead used a system that did explicitly try to maximize or optimize economic growth, such a system would by definition see more economic growth than a system that didn't explicitly seek economic growth.
+1.1.3. Con: Companies make a profit because they provide something that people prefer to the other goods that people could get for the money they give for that good. So making a profit is serving the wellbeing of others.
+1.1.4. Con: It is an error in logic to conclude that sacrificing human well being is inevitable from the premise that well being is possibly incompatible with maximizing profits.
+1.1.5. Con: Companies in a capitalist system produce goods and services that are important for the consumers' well being.
+1.1.5.1. Con: While their products may assist with wellbeing \(like food, medicine\), the activity of the company itself will not. For example, it is exploiting its workers or producing pollution.
+1.1.5.2. Pro: Science has been able to find [cures](https://www.mnn.com/health/fitness-well-being/photos/8-deadly-diseases-cured-by-modern-science/smallpox#top-desktop) to many deadly diseases and pharmaceutical companies have mass-produced multiple vaccines and treatments to contain their spread.
+1.1.6. Con: Individuals should be free to pursue profit without regard to the well-being of others.
+1.1.6.1. Pro: Individuals are not inherently responsible for the well-being of others.
+1.1.6.1.1. Pro: The fact that some people have much less than others is not a problem of justice - it is simply [unfortunate](https://www.washington.edu/omad/ctcenter/projects-common-book/mountains-beyond-mountains/moral-obligation/). Individuals should not be morally obligated to care for those less fortunate than them.
+1.1.6.1.2. Con: Individuals who want to live in a peaceful society must accept some level of responsibility for the well-being of others.
+1.1.6.1.3. Pro: The overall happiness of humans is improved if they don't need to be responsible for the well-being of others.
+1.1.6.1.3.1. Con: Caring for others can increase [happiness](https://www.psychologicalscience.org/publications/observer/obsonline/caring-for-others-can-bring-benefits.html).
+1.1.6.2. Con: If one accepts that everyone is allowed to pursue profit regardless of the impact on others, one accepts harm that may come to them when someone else profits at their expense.
+1.1.7. Pro: The well-being of sentient creatures is more important than capital.
+1.1.7.1. Con: While this claim is true in principle, it does not refute the preceding claim that capitalism explicitly prioritizes profits over wellbeing.
+1.1.7.2. Pro: Capital derives its value from its ability to impact the well-being of users. Since resources are only as valuable as they are useful to our well-being, it is illogical to value resources over the well-being of people.
+1.1.7.2.1. Pro: A currency that can only be traded for toxic materials would be less valuable than one that can be traded for food, as food is more important to the users well-being.
+1.1.7.2.2. Pro: Real estate properties that are perceived as unsafe are less valuable.
+1.1.7.2.2.1. Pro: Properties lose value if they are subject to flooding.
+1.1.7.2.3. Pro: [Intrinsic values have precedence over instrumental values.](https://en.wikipedia.org/wiki/Instrumental_and_intrinsic_value)
+1.1.8. Pro: The largest companies in several industries have repeatedly demonstrated unethical behavior.
+1.1.8.1. Pro: Private prisons are unethical.
+1.1.8.1.1. Pro: Privatized prisons are incentivized to [increase recidivism](https://www.inthepublicinterest.org/wp-content/uploads/ITPI-Recidivism-ResearchBrief-June2016.pdf).
+1.1.8.1.2. Pro: Private prisons [lobby for increased incarceration.](https://www.washingtonpost.com/posteverything/wp/2015/04/28/how-for-profit-prisons-have-become-the-biggest-lobby-no-one-is-talking-about/)
+1.1.8.1.3. Pro: Private prisons are incentivized to [provide as little for their prisoners as possible.](http://www.justicepolicy.org/news/12006)
+1.1.8.2. Pro: Tobacco companies are unethical.
+1.1.8.2.1. Pro: Tobacco companies [deliberately](https://www.cbsnews.com/news/big-tobacco-kept-cancer-risk-in-cigarettes-secret-study/) hid [information](https://abcnews.go.com/Health/tobacco-companies-hid-evidence-radiation-cigarettes-decades/story?id=14635963) about the [dangers](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm) of their products.
+1.1.8.2.2. Pro: Tobacco companies [designed their products to be more addictive.](https://www.cancer.org/latest-news/us-tobacco-companies-tell-the-truth-about-addictive-products.html)
+1.1.8.3. Pro: Pharmaceutical companies are unethical.
+1.1.8.3.1. Pro: Purdue Pharma [aggressively marketed and sold Oxycontin](https://www.statnews.com/2019/01/15/massachusetts-purdue-lawsuit-new-details/) despite [knowing the dangers of the drug](https://www.nytimes.com/2018/05/29/health/purdue-opioids-oxycontin.html) that eventually[caused the death of over 400,000 Americans.](https://www.cbsnews.com/news/purdue-pharma-settlement-oxycontin-maker-reaches-tentative-deal-opioid-crisis-today-2019-09-11/)
+1.1.8.4. Pro: Banks are unethical.
+1.1.8.4.1. Pro: Banks have helped their customers [evade taxes](https://www.nytimes.com/2019/02/20/business/ubs-france-tax-evasion.html).
+1.1.8.4.2. Con: Banks are an important service that people freely seek out and purchase. Whenever they commit crimes we should punish them, but that doesn't mean that they are unethical as an activity/industry.
+1.1.8.5. Pro: Fossil fuel companies are unethical.
+1.1.8.5.1. Pro: The world's largest fossil fuel companies have [ignored data on climate change](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) and [contributed majority of the carbon emissions](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change) while [lobbying against environmental efforts](https://www.theguardian.com/business/2019/mar/22/top-oil-firms-spending-millions-lobbying-to-block-climate-change-policies-says-report).
+1.1.8.5.2. Con: The fossil fuel companies are merely providing a necessary service for the world. Regardless of whether the data on climate change is conclusive or not, there is still a giant demand for oil in the world. Even if it were true that using fossil fuels was unethical, the people who are demanding it are the ones to be held responsible.
+1.1.8.6. Con: That statement serves exclusively to prove that the people running these companies are not perfect. It does not prove that capitalism is unethical.
+1.1.9. Con: If capitalism prioritized profit over well-being, it would incentivize theft. Since all countries that embrace capitalism also legislate against theft, capitalism does not incentivize theft, and therefore does not prioritize profit over well-being.
+1.1.9.1. Con: Theft and robbery are not profitable to the main beneficiaries of capitalism, the rich elite, because they can be the targets.
+1.1.9.2. Con: A boss receiving a big share of the production value of its employees and then paying them a fraction of that value can be considered theft in and of itself. This is the norm in capitalist systems.
+1.1.9.3. Con: [Wage theft](https://www.gq.com/story/wage-theft) is one of the biggest forms of theft and [bears no legal consequence for employers.](https://www.msn.com/en-us/news/politics/trumps-labor-department-walks-away-from-wage-theft/ar-BB16aMX1)
+1.1.9.4. Con: It does not follow that because countries legislate against theft, capitalism does not incentivize theft.
+1.1.9.4.1. Pro: Many negative actions incentivized by capitalism are legislated against \(e.g. pollution of the air and water, abuse of workers, fraud, etc\).
+1.1.10. Con: Capitalism only facilitates the ability to choose higher profit over well-beings of others, it’s human beings themselves that choose to do so. Exploitation is a human choice rather than an inherent fault of the system.
+1.1.10.1. Con: Just because people might choose not to exploit others doesn't change the fact that capitalism does promote exploitation.
+1.1.10.2. Con: Even though capitalism supposedly gives people the choice to perform exploitation of humans in favor of profit, it also encourages and values it as a form of success, and thus supporting it in its current state \(using the United States as a reference\) is unethical.
+1.1.10.3. Con: Capitalism punishes choosing well-being over profits.
+1.1.10.3.1. Pro: Companies that give more money to charities that maximize well-being will have less money to compete against other companies with.
+1.1.10.3.2. Con: Organizations that choose profits over well-being tend to run out of workers and go out of business or see lower overall profits. [usatoday.com](https://www.usatoday.com/story/money/personalfinance/2013/02/19/treating-employees-well-stock-price/1839887/) [smallbusiness.chron.com](https://smallbusiness.chron.com/happens-organization-bad-management-34749.html)
+1.1.11. Con: [Societal marketing](https://en.wikipedia.org/wiki/History_of_marketing#Societal_marketing_concept) is a modern strategy adopted by corporations that both strives for the well-being of others and, at the same time, is beneficial to the company in terms of branding.
+1.1.12. Con: It is not unethical for the economic system implemented by a society to prioritize efficiency and profit, because that is its purpose, rather than overall well-being, which is not. That should be the role of the individuals themselves and other institutions.
+1.1.12.1. Con: The purpose of economy is to fullfill the needs of consumers - neiter profits nor efficiency.
+1.1.13. Con: As part of fulfilling their [corporate social responsibility](https://www.investopedia.com/terms/c/corp-social-responsibility.asp), companies tend to invest in welfare programs that benefit a vast number of people.
+1.1.13.1. Con: CSR programs are a [tax dodge](https://www.sciencedirect.com/science/article/abs/pii/S0155998210000244).
+1.1.13.2. Pro: In 2018, Fortune 500 companies spent approximately [$200 billion](https://hbr.org/2018/01/stop-talking-about-how-csr-helps-your-bottom-line) on their CSR programs, which included activities such as charitable donations and sustainability initiatives.
+1.1.13.3. Con: Corporate social responsibility programs are tactics used by companies to prevent from criticizing them for their [unethical practices](https://baierle.files.wordpress.com/2007/11/behind-mask.pdf).
+1.2. Con: Capitalism encourages greed.
+1.2.1. Pro: As capitalism prioritizes the acquisition of capital, greed is fundamentally incentivized.
+1.2.2. Con: Capitalism promotes [cooperation](https://blogs.cfainstitute.org/investor/2012/07/16/capitalism-it-is-as-much-about-cooperation-as-competition/) between various actors.
+1.2.2.1. Con: A capitalist will always choose self-interest over cooperation whenever the two conflict.
+1.2.3. Pro: Capitalism promotes [consumerism](https://en.wikipedia.org/wiki/Consumerism), which focuses on accumulating goods and services. Consumerism can have detrimental impacts on society.
+1.2.3.1. Con: Consuming products might boost consumers' [self-esteem](https://www.hec.edu/en/knowledge/articles/buying-effect-self-worth-feelings-and-consumer-well-being-0), especially when their self-esteem has taken a hit.
+1.2.3.2. Pro: People are likely to have trouble paying off their [debts](https://www.apa.org/monitor/jun04/maxed) if they adopt consumerist lifestyles.
+1.2.3.3. Pro: Consumerists tends to be more [individualistic](https://link.springer.com/article/10.1007/s10551-009-0240-8). This means they are more likely to be selfish while spending money and less likely to consult [loved ones](https://www.fool.com/the-ascent/banks/articles/5-money-issues-that-could-ruin-your-relationship/) while making financial decisions.
+1.2.4. Pro: Capitalism discourages charity, as giving away wealth runs counter to the goal of acquiring capital.
+1.2.4.1. Con: Capitalism encourages the accumulation of capital, which increases disposable income, and enables more charitable donations.
+1.2.5. Con: Greed is good, because self-enrichment is the central economic incentive for productive activity.
+1.2.5.1. Con: Self-enrichment can be unproductive.
+1.2.5.1.1. Pro: Inheriting wealth and not needing to ever work is both self-enrichment and counterproductive to economic output.
+1.2.5.1.1.1. Con: If the heir inherits money, they will probably invest it, which benefits society.
+1.2.5.1.1.1.1. Con: The heir may invest in unethical corporations, which is detrimental to society.
+1.2.5.1.1.1.1.1. Con: Since we are unaware of the heir's personality, they could also invest in ethical corporations. Therefore, this point is moot.
+1.2.5.1.2. Con: In a free market system, in order to become wealthy, one must provide a good or service to society at a higher quality and lower price than all the other suppliers. Therefore, there is no relevant distinction between self-enrichment and economic outuput/productivity.
+1.2.5.2. Pro: Self-enrichment is the incentive that causes people to take on risky investments, which creates new jobs, goods, and services for society at large.
+1.2.5.3. Pro: Where property rights are clearly defined, greed encourages mutually beneficial transactions which contribute to economic growth.
+1.2.5.3.1. Con: The property rights alone are not enough. Greed encourages abusing the workarounds of established property rights with little regard for the reciprocity.
+1.2.5.3.1.1. Pro: [Boilerplate language](https://en.wikipedia.org/wiki/Boilerplate_text#boilerplate_language) in contracts exists, making disclaimers of warranties sophisticated. While being perfectly legal from a property rights perspective, such contracts pursue the goal of luring out as much money as possible from unsuspecting clients.
+1.2.5.3.1.2. Pro: [Usury](https://en.wikipedia.org/wiki/Usury) exists, which abuses the poor with excessive interest rates, making them extremely high. From the property rights perspective, the loan sharks have the right to earn income, and the poor have the right to decline such contracts, but in reality, these rights seem to not be enough.
+1.2.5.4. Con: Under capitalism, greed leads to the exploitation of those who rely on shared resources when property rights over that resource are initially defined.
+1.2.6. Con: Capitalism encourages investments and excessive spendings, which is not greed.
+1.2.6.1. Con: People invest their money in order to get returns on it. If they get returns on their investment, it increases their wealth. Therefore, the decision to make investments is a greedy one.
+1.2.6.1.1. Con: If any effort to get returns on investments is a greedy one, then the grain sowing in the spring is also greed, because it has intent of harvesting more grain in the autumn. A distinction between greed and legitimate interest should be drawn.
+1.2.6.1.1.1. Pro: Investing money to get returns on it is not greed.
+1.2.6.1.1.1.1. Pro: Money and capital are not common resources, therefore they are not to be shared equally. Money is a tool of exchange, account, and value, and tools are not resources. Capital is one of the means of production, however, it is not a shared resource, and it is not needed equally by everyone.
+1.2.6.1.2. Pro: Enterprises are greedy if they are low-risk and high-reward. These gains are undeserved.
+1.2.6.1.3. Pro: Greed is benefitting oneself at others expense unnecessarily.
+1.2.6.1.3.1. Pro: Necessity derives from the utilitarian comparison of one's benefits to another's. If in a group one person has a surplus while other lacks bare minimum, a trade should be made to satisfy the needs at the costs of luxuries.
+1.2.6.1.3.1.1. Pro: Having surplus is immoral if it is not used to reduce suffering and prevent deaths from poverty.
+1.2.6.1.3.1.1.1. Con: Demanding for the reduction of another's surplus is [malicious envy](https://en.wikipedia.org/wiki/Envy), regardless of whether it is done for the sake of greater good or own needs. It is because one no longer aspires to be as good as the better-off, but wishes to even the status by bringing down the better-off instead.
+1.2.6.1.3.1.1.2. Con: Utilitarianism requires us to consider possible consequences of our moral decisions. It is not guaranteed that surplus redistribution will reduce the suffering, it can possibly be detrimental. And practice shows the harm of it can be extreme to the point of taking a form of [literal genocide](https://en.wikipedia.org/wiki/Cambodian_genocide).
+1.2.6.1.3.2. Pro: Greed, thrift and need are particular variants of the single continuum of greediness, which makes humans greedy to different extents. For example, billionaire buying a third home is much more greedy than a homeless person choosing to keep their excess food for himself.
+1.2.6.2. Con: Capitalism incentivizes investing in companies that harm others if it is profitable.
+1.2.6.2.1. Pro: -> See 1.1.
+1.2.6.3. Pro: Capitalism rewards risk taking and responsibility. Investing money in capital is favored more than conserving and hoarding it, and the latter is irresponsible.
+1.2.6.4. Pro: Greed is an unfair acquisition of a shared resource. Greed detection and opposition is a behavioural pattern that, historically, used to be beneficial to a group, but is no longer applicable to modern society concepts like investments or capitalism.
+1.2.6.4.1. Con: Greed opposition is extremely relevant in the modern world, where many live without necessary resources while others live with more than they could ever use.
+1.2.6.4.1.1. Pro: -> See 1.2.6.1.3.1.1.
+1.2.6.4.2. Pro: You can't blame capitalism for greed. To justify these accusations, there should be some shared resource that exists, that everyone in a group has an equal need for, but it was unfairly obtained by one individual or a smaller group. And the capital is not that kind of resource.
+1.2.6.4.2.1. Pro: -> See 1.2.6.1.1.1.1.
+1.2.6.5. Pro: Capitalism creates competition.
+1.2.6.5.1. Con: Cooperation among companies would produce more desirable outcomes than competition.
+1.2.6.5.1.1. Pro: [Wikipedia](https://www.wikipedia.org/) is a cooperative effort and more successful than [traditional encyclopedias](https://www.businessinsider.com/how-wikipedia-killed-encyclopedia-britannica-2012-3).
+1.2.6.5.1.2. Pro: Companies that share information with each other offer their researchers more information to work with, benefiting the research efforts.
+1.2.6.5.1.2.1. Con: Sharing research discourages R&D investment, in contrast, [patents promote it](https://www.alrc.gov.au/publication/genes-and-ingenuity-gene-patenting-and-human-health-alrc-report-99/2-the-patent-system/economic-benefits-of-the-patent-system/). This is because patents allow businesses to effectively monopolise that technology for a period of time, which increases the returns to investment.
+1.2.6.5.1.3. Con: By cooperating, companies have an incentive to create cartels and profit at the expense of the consumer. This occurs because firms agree not to compete in price and set prices at the maximum markup of cost. Effectively, the cooperating firms [act as a single monopolist.](https://www.cliffsnotes.com/study-guides/economics/monopolistic-competition-and-oligopoly/cartel-theory-of-oligopoly)
+1.2.6.5.1.4. Pro: Some competitive behavior among companies can interfere with actually serving the marketplace, emphasizing on the necessity of cooperative initiatives and stances.
+1.2.6.5.1.5. Con: Healthy competition allows companies to improve themselves and, consequently, advance the marketplace. As competition is meant to remind the participants about their short-comings, the whole industry or marketplace will advance as a result of collective improvement.
+1.2.6.5.1.5.1. Pro: Schumpeter considered [creative destruction](https://economics.mit.edu/files/1785#:~:text=run%20macroeconomic%20consequences.-,Creative%20destruction%20refers%20to%20the%20incessant%20product%20and%20process%20innovation,the%20essential%20fact%20about%20capitalism'.) \(p. 1\) of this kind to be "the essential fact about capitalism". Creative destruction suggests that, in a competitive market, less productive production units will be pushed out by more efficient innovations. "Over the long run, the process of creative destruction accounts for over 50 per cent of productivity growth."
+1.2.6.5.1.5.2. Con: "Advance in the marketplace" implies "at the expense of competitors." Rather than one person or firm doing well at the expense of others, they could both benefit and do even better if they joined forces, i.e. cooperated.
+1.2.6.5.2. Pro: Capitalism encourages the creation of companies who compete with one another.
+1.2.6.5.3. Con: Capitalism encourages the creation of monopolies.
+1.2.6.5.3.1. Pro: Firms use policies such as [predatory pricing](https://www.investopedia.com/terms/p/predatory-pricing.asp) to eliminate rival firms from the market.
+1.2.6.5.3.1.1. Con: Predatory pricing is good for consumers with their cheaper prices.
+1.2.6.5.3.2. Pro: Firms tend to [vertically integrate](https://www.investopedia.com/terms/v/verticalintegration.asp) in order to have an edge over their competitors.
+1.2.6.5.3.3. Con: Even in capitalist economies, [anti-trust laws](https://www.google.com/search?client=firefox-b-d&channel=crow2&q=many+countries+have+antitrust+laws&spell=1&sa=X&ved=2ahUKEwi1ru-OxurpAhUly4UKHZEpBDcQBSgAegQIDRAj&biw=1366&bih=626) exist in order to prevent the creation of monopolies.
+1.2.6.5.3.3.1. Con: Corporations can circumvent anti-trust laws by forming price fixing oligopolies, additionally these laws don't help with local monopolies which can occur with things like cable.
+1.2.6.5.3.4. Con: It is very rare for pure monopolies to exist, since the standards that have to be met by a firm to establish a monopoly are hard to meet. \([p.1](http://www.csun.edu/~lem50734/lecture_7.pdf)\)
+1.2.6.5.4. Con: Too much competition is bad.
+1.2.6.5.4.1. Pro: Too much competition could lead to duplicated efforts, whereby multiple companies or [institutes](https://www.nature.com/articles/35013247) try to cater to specific demands or solve problems which could easily be met or solved by fewer companies.
+1.2.6.5.4.2. Pro: Excessive competition makes the production of [standardized products](https://en.wikipedia.org/wiki/Standardization#Effect_on_firms) less likely. As a result, unnecessarily differentiated goods are produced, which are inconvenient for consumers as well as producers.
+1.2.6.5.4.3. Pro: In the history of humans, [cooperation and altruism](https://www.psychologytoday.com/us/blog/culture-mind-and-brain/201510/caring-others-is-what-made-our-species-unique) proved to be more beneficial than competition.
+1.2.6.5.5. Con: It is possible to have a competitive free-market system without the exploitative wage labour of capitalism, just look at market socialism.
+1.2.6.5.6. Pro: Competition promotes innovation.
+1.2.6.5.6.1. Con: Many companies protect their business secrets and use intellectual property rights. This [limits](https://hbr.org/2019/01/how-trade-secrets-hurt-innovation) [innovation](https://www.weforum.org/agenda/2015/03/do-patents-harm-innovation/) in the industry.
+1.2.6.5.6.2. Pro: Since firms in the same industry [compete](https://edisonawards.com/news/competition-drive-innovation/) against each other for greater profits, they have an incentive to come up with the best product, which consumers are likely to buy, in order to increase their sales.
+1.2.6.5.7. Con: Competition is wasteful, as it requires multiple groups to devise, build, maintain and protect independent systems. That is inherently inefficient.
+1.2.6.5.7.1. Pro: Trade secrets and copyrights prevent further innovation by restricting information access and the ability for modification.
+1.2.6.5.7.1.1. Pro: Inventing things costs time and energy and money. So inventing it twice \(e.g. if competing firms need to invent solutions for the same problem\) costs twice as much. Likewise with building/maintaining/protecting things \(imagine if each car company had to build and maintain its own separate roadways\).
+1.2.6.5.7.1.1.1. Pro: RnD can be very expensive, which incentivizes researchers keeping their findings as trade secrets to recoup investments. Trade secrets result in duplicative researches by competitors, which multiply overall RnD costs for economy as a whole.
+1.2.6.5.8. Con: The competition under Capitalism also incentivizes [unethical actions](https://www.smallbusinessbonfire.com/unethical-business-practices/) for both individuals and corporations to gain an advantage over their competitors.
+1.2.7. Con: Greed is part of human nature and [is not caused by capitalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722203/).
+1.2.7.1. Con: Even if not caused by capitalism, capitalism incentivizes and rewards greedy behavior and hence exacerbates a problem that could otherwise be reduced or even eliminated.
+1.3. Con: Capitalism is incompatible with democracy. \([p. 172](https://www.inclusivedemocracy.org/fotopoulos/english/brbooks/brtid/IDBook.pdf)\)
+1.3.1. Pro: The decision of what to produce is based on profitability rather than the needs of the people.
+1.3.1.1. Con: If the people are economically free to own property and allocate their capital however they please, there is no significant difference between profitability and the needs of the people. In order to make a profit, you must provide a good or service that people voluntarily buy at your price and produce it at a lower cost. In that sense, Capitalism is always rewarding the most efficient producers of the most demanded goods.
+1.3.2. Pro: Companies have greater [influence on politics](https://www.theguardian.com/politics/2014/mar/12/lobbying-10-ways-corprations-influence-government) than the average citizen.
+1.3.3. Con: General elections tend to take place in countries that are capitalist.
+1.3.4. Pro: Democracy might slowly [transform into an oligarchy](https://projects.iq.harvard.edu/files/mobilized_contention/files/merkel_-_is_capitalism_compatible_with_democracy.pdf) if the current form of capitalism is not regulated.
+1.4. Pro: Capitalism promotes meritocracy, which is a beneficial outcome.
+1.4.1. Pro: People who work hard tend to be rewarded in a capitalist system.
+1.4.1.1. Con: There is [little correlation](https://www.epi.org/publication/ib348-trends-us-work-hours-wages-1979-2007/) between hours worked and income.
+1.4.1.2. Con: Physical labor is typically compensated way less than white collar jobs per hours, CEOs take away sometimes 1.000 or even 10.000 times as much money per hour as their employees. No matter how hard you work, you can't bridge that gap.
+1.4.2. Con: Success under capitalism is determined in large part by luck, with entry into its uppermost echelons decided almost entirely by birth.
+1.4.3. Con: The promotion of "meritocracy" is discriminatory and detrimental.
+1.4.3.1. Pro: Meritocracy is used to [legitimise](https://theconversation.com/the-meritocracy-is-a-smokescreen-for-inherited-privilege-70948) [privilege](https://www.youtube.com/watch?v=kyl4EJhq47A) by diverting from inherited privilege.
+1.4.3.1.1. Con: While the means of obtaining meritocracy can differ based on inherited privilege, it’s still better than using inherited privilege alone for success. It’s possible to eliminate the current flaws in meritocracy, and make meritocracy legitimate by developing equality in opportunity for all.
+1.4.3.1.2. Con: Many people who have obtained meritocracy also come from under-privileged backgrounds. There are many examples in history, namely “success stories.”
+1.4.3.1.2.1. Con: Success stories citing meritocracy has a possibility that the successful individual is unaware of their privilege of having had easier means of obtaining meritocracy, and their public narratives only emphasize on meritocracy.
+1.4.3.1.2.2. Pro: Although he was born in poverty and orphaned at a young age, [Roman Abramovich](https://www.inc.com/business-insider/billionaires-who-went-from-rags-to-riches.html) became a successful business tycoon.
+1.4.3.1.2.3. Pro: Even though [Oprah Winfrey](https://www.inc.com/business-insider/billionaires-who-went-from-rags-to-riches.html) was born into poverty, her net worth is currently close to $3 billion.
+1.4.3.1.3. Con: Given privileged circumstances for an individual, not pursuing the means of obtaining meritocracy makes the individual even less deserving than the person who used their privilege effectively to obtain meritocracy.
+1.4.3.2. Pro: Meritocracy is an [ableistic](https://www.tandfonline.com/doi/abs/10.1080/09687599.2019.1613962) concept.
+1.4.4. Pro: Meritocracy facilitates motivation to develop real competence, and capitalism based on meritocracy provides the real rewards for competence.
+1.4.4.1. Con: Meritocracy would benefit from transparent salaries, objective criteria for evaluation and transparent results of evaluations. Instead salaries are negotiated in secrecy, and evaluations are inconsistent and intransparent, because that provides the employer with an advantage over the employee.
+1.4.5. Con: Meritocracy is a myth. The idea that solely ability and hard work gets anybody success is not true. It is a combination of other factors such as luck, connections, being middle/upper class, male, white, cisgender, heterosexual, abled and good-looking.
+1.4.6. Con: Capitalism today is very far from a meritocracy. In fact, this has always been the case, since medieval feudalism. Thus, it is false that capitalism promotes meritocracy.
+1.5. Pro: Capitalism incentivizes productivity among workers.
+1.5.1. Con: At times, the methods used by employers to increase productivity end up negatively impacting it.
+1.5.1.1. Pro: Many employees have to work overtime in order to complete their work. Since working overtime likely involves putting in more hours of work, the [productivity of employees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2960531) is likely to decrease.
+1.5.2. Con: The ways in which companies incentivize productivity among workers is detrimental to employees.
+1.5.2.1. Con: Companies that pay their team on a commission basis \(For instance, a salesman who gets a percentage of each sale he makes\) increases productivity in a way non-detrimental to employees.
+1.5.2.2. Pro: Some companies use invasive screen tracking softwares to ensure their employees are staying on task. This erodes the employees privacy.
+1.5.2.3. Pro: Many employees tend to work [overtime](https://news.gallup.com/poll/175286/hour-workweek-actually-longer-seven-hours.aspx). Working for long hours can increase [worker fatigue and poses health risks](https://www.cbc.ca/news/canada/british-columbia/working-overtime-here-s-how-it-affects-your-health-1.4011045) to employees.
+1.5.2.3.1. Con: Overtime doesn't incentivize productivity, rather it incentivizes hours worked.
+1.5.2.4. Con: Whether or not the incentives are detrimental to employees varies a lot depending on the person's situation. Therefore, it can't be defined as detrimental and each worker should be responsible for their own decisions and lives.
+1.5.3. Pro: Under capitalism, workers who do not earn enough capital to support themselves are left to die. The desire to live is therefore leveraged as an incentive for increased productivity.
+1.5.3.1. Con: The fact that people must work to live is harmful in and of it self. It is also the case that many people who are productive are still not able to live and suffer from extreme poverty while the top one percent lives without worry while not contributing anything to the labor of the society.
+1.5.4. Con: Capitalism as a system doesn't incentivize workers. Each employer offers different rewards that serve as incentives.
+1.5.4.1. Con: Capitalism incentivizes employers and employees in the same way: the pursuit of wealth. The employers tend to seek higher productivity for their businesses and the employees tend to work harder. Both are responding to the same fundamental incentive created by the Capitalist system.
+1.5.5. Pro: Productivity is incentivised because agents are entitled to ownership of the returns of their efforts, be that through wage labour or capital investment.
+1.5.5.1. Con: Wages are specifically set to be less than the value of the labor produced, therefore labor agents are not entitled to ownership of the returns of their efforts.
+1.5.5.1.1. Pro: Capitalism is fundamentally [opposed to the workers receiving the full value of their labor](https://plato.stanford.edu/entries/exploitation/). Thus, the productivity of the working class is mostly to the benefit of the capitalist and landowning classes.
+1.5.6. Pro: Alternative economic systems incentivize productivity less.
+1.5.6.1. Pro: -> See 1.5.3.
+1.5.6.2. Pro: Under planned economy, productivity is de facto discouraged despite being formally demanded.
+1.5.6.2.1. Con: This could be avoided by modifications to the organizational, management, or goal structure. Quotas need not be strict and a spirit of communal cooperation can be cultivated.
+1.5.6.2.1.1. Pro: Failing to meet a quota can be taken not as a sign of inadequacy but as a sign either of a problem to be remedied or of unreasonable expectations. Exceeding a quota can be interpreted as a sign of underestimation, to be adjusted for in the future, and workers who exceed their quotas can be given the freedom to do other work or to pursue leisure.
+1.5.6.2.1.2. Pro: If all the workers are working in good faith and in a spirit of cooperation rather than competition, errors in under- or over-production need not lead to animosity, or blame, but rather to better understanding and improvement.
+1.5.6.2.2. Pro: The main incentive of every enterprize under plan economy is meeting the production plan objectives put by ministry or other governing body. If a worker is more productive than planned, he either undermines the plan execution by overproduction and waste of material, or forces his co-workers to be less productive to avoid overall overproduction, meaning this worker gains an extra wage at his colleagues' expense.
+1.5.6.3. Pro: Under anarchy or feudalism, being productive is too risky because of insufficient private property protection. Any surplus should be either consumed or hidden so it can't be [taken away by mobs and overlords](https://www.versobooks.com/blogs/3449-was-there-a-general-crisis-of-feudalism#:~:text=To%20sum%20up%3A%20the%20stagnation,the%20crisis%20of%20feudal%20society).
+1.5.6.3.1. Con: Feudalism or complete anarchy are irrelevant alternatives to capitalism because no one who dislikes capitalism prefers those to the other alternatives to capitalism, such as social democracy, anarcho-syndicalism, etc.
+1.5.6.4. Pro: It is much safer to be unproductive under socialist economies compared to capitalism. Under socialism, many practices that hamper productivity are employed, ranging from welfare programs to enterprize prohibition.
+1.5.6.4.1. Con: Using personal safety as an incentive for productivity is unethical and detrimental.
+1.5.6.4.1.1. Pro: No society should require its members to be productive or starve. Rather, it should help it's members to be prosocial \(and thus productive in some way\) and help to correct any anti-social behaviors, but at no time by inflicting unnecessary harm on the person.
+1.5.6.4.2. Con: The [most productive nations](https://worldpopulationreview.com/country-rankings/most-productive-countries) all have [extremely strong welfare programs](https://en.wikipedia.org/wiki/List_of_countries_by_social_welfare_spending).
+1.5.6.4.3. Con: Socialism in itself relies on the workers contributing to their own success to having access to the quality of life they desire. Worker-owned businesses incentivize [greater productivity](https://www.amanet.org/articles/how-employee-ownership-benefits-executives-companies-and-employees/) because each worker faces personal monetary [benefit or loss](https://wol.iza.org/articles/does-employee-ownership-improve-performance/long#:~:text=Key%20findings&text=Employee%20ownership%20is%20linked%20to,unemployment%20in%20the%20overall%20economy.) based on performance.
+1.5.6.5. Pro: Under [communism](https://en.wikipedia.org/wiki/Communism), by definition, there is, or should be, no correlation between productivity and personal welfare in principle, [according to marxist notion of ideal economy](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs).
+1.5.6.6. Con: Capitalism only funds scientific research that can be turned into a profitable product and neglects other researches.
+1.5.6.6.1. Pro: For example, vaccine for covid19 will be researched by many companies because once done the vaccine will be lucrative. However, the research of vaccine/treatment for a rare diseases will not be funded as much because it is not profitable.
+1.5.6.6.2. Con: The research of covid 19 vaccine is for the public welfare.
+1.5.7. Con: Productivity should not be seen as an intrinsically valuable goal. Perhaps workers would be okay with being less productive if it meant they could have better working conditions or more time off.
+1.5.7.1. Con: In a work scenario where achieving a benchmark daily is the goal, higher productivity could allow workers to finish their daily goals faster, thus giving them more time off.
+1.5.7.2. Con: Less productive workers tend to generate less monetary value, which in turn will disincentivize or prevent an employer from allocating financial resources towards better working conditions for their workers.
+1.5.8. Con: The pursuit of productivity in Capitalism created many over-specialized jobs which are repetitive and alienating for the workers.
+1.5.9. Con: The productivity of the workers primarily benefits the capitalist and landowning classes, who reap most of the benefits from worker productivity. Thus, the fact that it incentivizes only the poorest and most desperate class to be productive is merely self-serving.
+1.6. Con: Capitalism violates the [human rights](https://www.un.org/en/sections/issues-depth/human-rights/) for social protection and an adequate standard of living, since the causes of poverty and hunger are [tied to globalized capitalism](https://blog.oup.com/2016/12/globalizing-capitalism-human-rights/).
+1.6.1. Pro: -> See 1.1.
+1.6.2. Con: Capitalism [decreases hunger](https://ourworldindata.org/food-supply#improving-food-supply-in-early-modernized-countries) and poverty.
+1.6.2.1. Pro: Science advances more with the extra competition and therefore scientists can now manage better hunger and poverty.
+1.6.2.2. Con: Capitalism hampers hunger and poverty reduction by not making the newest seeds, breeds and technologies freely available for everyone.
+1.6.2.3. Con: Capitalism leads to abuse of natural resources
+1.6.2.4. Con: Science, not the profit motive, has enabled improvements in living standards.
+1.6.2.4.1. Con: Capitalism put in place the institutions required for increased investment into research, which enabled this technological advancement. For example, it is argued that [Capitalism caused the Industrial Revolution](https://www.historycrunch.com/economics-in-the-industrial-revolution.html#/).
+1.6.2.4.2. Pro: Many scientists choose to make their findings available to the public rather than profit off of it, meaning profit was not the motivation for their work.
+1.6.2.4.3. Con: Before the industrial revolution, the world was locked in the [Malthusian Trap](https://en.wikipedia.org/wiki/Malthusian_trap), in which technological advances only resulted in population growth, with no effect on standard of living. Only the onset of the industrial revolution changed this \(Gregory Clark's [A Farewell to Alms](http://faculty.econ.ucdavis.edu/faculty/gclark/papers/FTA2006-1.pdf) pp 1-14\), which is considered to have been [caused by Capitalism](https://www.historycrunch.com/economics-in-the-industrial-revolution.html#/) and its profit motive.
+1.6.2.4.3.1. Con: Many inventions prior to the industrial revolution increased the standard of living.
+1.6.2.4.3.1.1. Pro: [The telescope](https://www.space.com/21950-who-invented-the-telescope.html) was invented in 1608 and made navigation safer and easier.
+1.6.2.4.3.1.2. Pro: [The pencil](https://enchantedlearning.com/inventors/1500.shtml) was invented prior to the industrial revolution, and increased standard of living by promoting access to writing.
+1.6.2.4.3.1.3. Pro: The first successful blood transfusion [was conducted in 1665](https://www.news-medical.net/health/History-of-Blood-Transfusion.aspx), leading to an increased standard of medical care.
+1.6.2.4.3.1.4. Pro: Alcohol was invented prior to the industrial revolution and improved the standard of living.
+1.6.2.4.3.1.5. Con: [Ashraf and Galor](https://web.williams.edu/Economics/wp/AshrafGalor-Malthus.pdf) show that technological advance had no effect on the standard of living between 1 and 1500 CE.
+1.6.2.4.3.1.5.1. Con: This study reduces living standards to income per capita, ignoring many other factors in quality of life such as knowledge, life-span, and happiness.
+1.6.2.4.3.1.5.2. Con: "A 3-point scale" that only measures "four sectors of the economy, including communications, industry \(i.e., ceramics and metallurgy\), transportation, and agriculture" is not a suitable index for standard of living.
+1.6.2.4.3.2. Pro: The Malthusian Trap theory contends that any increase in standard of living that was brought about in the short term by new inventions increased the limit of population that could be supported. As population grew to this new limit, wealth fell back to bare sustenance levels, precluding any increase in standard of living for the general populace over the long term.
+1.6.2.5. Con: There is [enough food](https://medium.com/\@jeremyerdman/we-produce-enough-food-to-feed-10-billion-people-so-why-does-hunger-still-exist-8086d2657539) for everyone. Scarcity of food is a mythos created by capitalism.
+1.6.2.5.1. Con: The problem is more complex when you have excess of food in one place and you have scarcity in the other it means you have transport problem there for a management problem.
+1.6.2.5.2. Pro: [World hunger is on the rise](https://www.weforum.org/agenda/2020/07/global-hunger-rising-food-agriculture-organization-report/) even though we have the technical abilities to produce [enough food](http://www.fao.org/sustainable-development-goals/goals/goal-2/en/) for everyone.
+1.6.2.5.2.1. Pro: The pandemic and capitalism [caused the rise of hunger](https://www.workers.org/2020/04/47914/) in the US.
+1.6.2.5.2.2. Pro: Capitalism is the [root cause of hunger](https://www.wsws.org/en/articles/2019/07/19/worl-j19.html).
+1.6.2.5.3. Pro: Capitalism has the tendency to [increase hunger](https://www.themoscowtimes.com/2011/03/02/link-between-capitalism-and-hunger-a5383) during crisis.
+1.6.2.6. Con: [Capitalism causes a inequality](https://evonomics.com/how-capitalism-actually-generates-more-inequality/). Some end up with a lot of resources and others are poor and hungry.
+1.6.2.7. Con: [Capitalism causes the climate crises](https://www.opendemocracy.net/en/oureconomy/fight-against-climate-change-fight-against-capitalism/) which will lead to to an increase of proverty and hunger for many people.
+1.7. Con: Capitalism leads to imperialism, which has resulted in devastating consequences for countries.
+1.7.1. Pro: Capitalism was a factor that [caused imperialism](https://en.wikipedia.org/wiki/Imperialism,_the_Highest_Stage_of_Capitalism) and resulted in many wars.
+1.7.1.1. Pro: The global "war on terror", which [took many innocent lives](https://www.psr.org/wp-content/uploads/2018/05/body-count.pdf), has been driven by an [imperialist agenda](https://mondediplo.com/2007/06/14terrorism).
+1.7.1.2. Con: Capitalism and imperialism are two [separate systems](https://www.learnliberty.org/videos/capitalism-not-imperialism/).
+1.7.1.2.1. Con: [Imperialism is the highest stage of Capitalism](https://www.marxists.org/archive/newbold/1917/02/22.htm). Capitalists need to expand, acquire new markets and resources, and the best way to do this is through Imperialism.
+1.7.1.3. Con: The [decline of imperialism](https://cmvtcivils.wordpress.com/2015/09/05/reasons-for-the-end-of-imperialism-decolonization-and-emergence-of-new-nation-states-and-its-impact/) has only come about after the growth of capitalism.
+1.7.1.3.1. Con: Traditional imperialism has not declined, but morphed into [Neoimperialism](https://en.wikipedia.org/wiki/Neocolonialism), which utilizes capitalism to exert control.
+1.7.1.3.1.1. Pro: [Economic sanctions](https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba) are one of the many examples of Neoimperialism.
+1.7.1.4. Con: Most empires predated capitalism.
+1.7.1.4.1. Con: The oldest known empire, [The Akkadian Empire](https://www.thoughtco.com/which-was-the-worlds-first-empire-121163), had Bronze Age markets, private ownership of land, and for-profit businesses.
+1.7.1.4.2. Con: Empires rise from cities that rise from markets and points of production, therefore capitalism predates empires.
+1.7.1.5. Pro: Capitalism has to acquire new resources through whatever means possible to sustain its inherently flawed structure. Imperialism is just one form of it.
+1.7.1.5.1. Pro: -> See 1.7.1.2.1.
+1.7.1.5.2. Pro: -> See 1.7.1.3.1.
+1.8. Pro: Capitalism promotes unregulated market forces which leads to more efficient production, compared to regulated or planned economies.
+1.8.1. Con: [Newest research](https://en.wikipedia.org/wiki/Socialist_calculation_debate#Contemporary_contributions) shows that planned economies \(central and decentral versions\) could work with today's technology.
+1.8.2. Con: Optimizing an economy for efficient production does not serve people's needs. Instead, economies should be optimized for environmental sustainability and human happiness.
+1.8.3. Con: Unregulated market forces pose danger to the public.
+1.8.3.1. Pro: Capitalism is an unstable system which often results in crises.
+1.8.3.1.1. Con: Economic cycles are a [result of government interference](https://mises.org/wire/ludwig-von-misess-circulation-credit-theory-trade-cycle) with the money supply, not capitalism.
+1.8.3.1.2. Pro: A few months of reduced economic activity [due to the Cornoavirus](https://www.bbc.com/news/business-52236936) can lead to an economic crisis.
+1.8.3.1.2.1. Con: The effect of coronavirus on the economy is not dependent on capitalism. Any economic system would be heavily impacted by subdued production.
+1.8.3.1.2.1.1. Con: Planned economies would [do better.](https://www.socialistalternative.org/2020/06/02/capitalism-and-covid-19-why-we-need-a-planned-economy/)
+1.8.3.1.2.2. Pro: There are unique frailties of capitalist systems, such as [financial institutions](https://www.weforum.org/agenda/2020/04/coronavirus-covid19-business-economics-society-economics-change), which make them particularly vulnerable to this kind of shock.
+1.8.3.1.3. Pro: The [Financial crisis of 2007–2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) shows that bankruptcy of some banks can trigger a global economic crisis.
+1.8.3.1.4. Pro: On a personal level, capitalism creates [fears](https://medium.com/reason-in-revolt/capitalism-is-dangerous-for-your-mental-health-b02fd8f56dfe) among people and worsens their mental health.
+1.8.3.1.4.1. Pro: Capitalism creates a [fear](https://www.forbes.com/sites/niallmccarthy/2020/01/23/where-people-are-losing-faith-in-capitalism-infographic) among people that they will lose their jobs.
+1.8.3.1.4.2. Pro: Capitalism creates a fear of becoming unemployed as unemployment feels [stressful](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1732534/pdf/v057p00557.pdf) to most people.
+1.8.3.1.4.3. Pro: Under capitalism, people are not guaranteed to have enough money for the daily necessities. This could increase debt levels, leading to higher stress levels, [fear, and panic](https://www.debt.org/advice/emotional-effects/).
+1.8.3.1.5. Pro: Capitalism can cause war and conflict.
+1.8.3.1.5.1. Con: Capitalism has made war [less profitable](https://www.vox.com/2015/6/4/8725775/pinker-capitalism). As a result, capitalist countries are unlikely to go to war.
+1.8.3.1.5.2. Pro: Economic crises are [inherent](https://en.wikipedia.org/wiki/Crisis_theory) to capitalism and have a multiplied negative [impact on developing countries](http://www.latinamerica.undp.org/content/dam/aplaws/publication/en/publications/poverty-reduction/poverty-website/the-financial-crisis-and-its-impact-on-developing-countries/PG-2009-001-discussion-paper-financial-crisis-Griffith-Jones_Ocampo.pdf). These economic crises increase the [likelihood of war](https://voxeu.org/article/conflicts-cause-poverty-or-it-vice-versa).
+1.8.3.1.6. Con: Capitalism is more stable than any other economic system.
+1.8.3.1.7. Pro: Capitalism is fundamentally unstable because it requires unlimited growth. When the tendency of the rate of profit falls, the system will inevitably unable to sustain itself.
+1.8.3.2. Pro: Companies polluted public water sources so often it necessitated the [Federal Water Pollution Control Act](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/federal-water-pollution-control-act-1948).
+1.8.3.3. Pro: Regulations banning [child labor](https://en.wikipedia.org/wiki/Child_labor_laws_in_the_United_States) are necessary for the well-being of children.
+1.8.4. Pro: [Land et al \(1994\)](https://www.sciencedirect.com/science/article/pii/0040162594900221?via%3Dihub) show empirically that market economies are significantly more efficient than planned economies. They use a sample of European market and planned economies in the late 70s.
+1.9. Pro: Capitalism has enabled unprecedented improvements in living standards.
+1.9.1. Con: -> See 1.1.1.
+1.9.2. Pro: Alongside the growth of capitalism ["in the past 200 years, extreme poverty has collapsed from a whopping 94% of the entire world population to less than 10% today."](https://www.theguardian.com/commentisfree/2019/feb/04/capitalism-is-having-an-identity-crisis-but-it-is-still-the-best-system)
+1.9.2.1. Con: 200 years ago, the markets were far less regulated. Over the years, more regulations and social programs have been introduced that have resulted in higher living standards at the expense of capitalism.
+1.9.2.2. Con: -> See 1.6.2.4.
+1.9.3. Pro: Capitalist policies, such as secure property rights, free markets, and easy market entry, are considered integral to economic development \(See slides 7-9 of [Acemoglu's Lecture](https://economics.mit.edu/files/6699), based on his book "Why Nations Fail"\)
+1.9.3.1. Pro: [Talbot and Roll](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=292140) demonstrate that property rights are the most significant positive determinant of GNI per capita internationally, with economic regulation damaging it. They conclude that "countries can develop faster by enforcing strong property rights, \[and\] dismantling burdensome regulation", which are central principles of capitalism.
+1.9.4. Con: The World Bank's international poverty line [statistics are deceiving](https://jacobinmag.com/2020/07/international-poverty-line-ipl-world-bank-philip-alston) - extreme poverty is not actually decreasing. The World Bank is drawing one hard line to define extreme poverty and using that same number for all countries. That number is ridiculously low as well.
+1.9.4.1. Con: This argument is fallacious because it is just "moving around the poverty line". If poverty is defined loosely and the poverty line is moved at a rate similar to the rate at which Capitalism makes people wealthier, statistically, poverty will never end. A correct analysis of the extreme poverty rate across the globe and across multiple decades/centuries must define a poverty line in purchasing power parity dollars and compare all data to that same line.
+1.9.5. Con: -> See 1.6.2.4.
+1.9.6. Pro: "[For 40 largest countries in the International Monetary Fund database, it is shown statistically that capitalism, between 2003 and 2012, is positively correlated significantly to economic growth.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2840425)"
+1.9.7. Con: Under capitalism, living standards have improved significantly for wealthy people, but not for those on low income or those living in poverty.
+1.9.8. Pro: Capitalism is a system aligned with human inherent condition to variate and innovate.
+1.9.8.1. Pro: [Capitalism](https://www.researchgate.net/publication/287938525_Technology_and_the_spread_of_capitalism) is a system that facilitates the [inherent human condition to innovate](http://www.machetemag.com/business-strategy/humans-inherently-innovative-consistently-iterative/#:~:text=Researchers%20recently%20discovered%20evidence%20of,years%20earlier%20than%20previous%20estimates.).
+1.9.9. Pro: -> See 1.1.2.4.
+1.9.10. Con: Early capitalism led to some of the worst living and working conditions that had ever been seen in human history \(specifically, in the [industrial revolution](https://www.historycrunch.com/working-conditions-in-the-industrial-revolution.html), but also in [developing regions](https://www.borgenmagazine.com/the-effects-of-capitalism/) generally\), including life- and health-threatening working conditions, 16 hour work days, child labor, below-subsistence-wages, etc.
+1.9.10.1. Pro: It is only through socialistic efforts like [unions](https://en.wikipedia.org/wiki/Trade_union#History) and [minimum wages](https://en.wikipedia.org/wiki/Minimum_wage) and [worker safety policies](https://en.wikipedia.org/wiki/Labor_rights) that the tendency of capitalism to use workers as slaves has been cut back.
+1.10. Pro: Capitalism allows freedom of choice.
+1.10.1. Con: Capitalism incentivizes production based on profitability, which can be detrimental to consumers.
+1.10.2. Con: US companies have [monopolized medication](https://openmarketsinstitute.org/explainer/high-drug-prices-and-monopoly/) and [made them inaccessible](https://hbr.org/2017/04/how-pharma-companies-game-the-system-to-keep-drugs-expensive) to [those that need them.](https://www.nationalmemo.com/americans-dying-cant-afford-medicine)
+1.10.3. Pro: Given that there are more and varied job opportunities than before, people have greater choice regarding where they wish to be employed.
+1.10.3.1. Con: Many people have little choice of what jobs are available to them.
+1.10.3.2. Con: The choice to not work is reserved for those with wealth.
+1.10.4. Pro: Companies produce a wide range of products and offer a myriad of services which consumers can choose from.
+1.10.4.1. Con: People are given [superficial choices](https://blogs.lse.ac.uk/politicsandpolicy/the-branding-of-superficial-market-choice/) as the vast majority of options are provided by a handful of companies.
+1.10.4.2. Pro: More choices are likely to provide consumers with products that accurately cater to their needs.
+1.10.5. Con: In order to remain price-competitive, producers and service providers are [forced](https://demeter.life/#revolution) to work in a cost-effective manner. This restricts their freedom of choice on how to work.
+1.10.5.1. Con: [Research](https://www.firstinsight.com/press-releases/quality-more-important-than-price-study#:~:text=June%2025%2C%202018%20%E2%80%93%20Quality%20is,retailers%20make%20product%20investment%20and) suggests that the quality of products is a more important factor for consumers to consider than prices of those products when deciding which goods to purchase. Since many consumers buy high-quality products, which could have high prices, producers could choose to produce them.
+1.10.5.2. Pro: With the [pressure to be efficient](https://www.eurasiareview.com/07112018-capitalism-is-killing-patients-and-their-physicians-oped/), care workers don't have enough [time](https://www.aafp.org/journals/fpm/blogs/gettingpaid/entry/patients_and_physicians_agree_not_enough_time_for_care.html) for their patients.
+1.10.6. Con: Capitalism only empowers the ones who benefit from the system and limit the choices of others who don't.
+1.10.6.1. Pro: People are forced to work to sustain themselves, thereby limiting the activities they can spend their time on.
+1.10.7. Con: The choice is very often illusory.
+1.10.7.1. Pro: Large companies own multiple brands.
+1.10.7.2. Pro: Many products differ in only superficial ways.
+1.10.7.3. Pro: Competitors often have nearly indistinguishable products.
+1.10.8. Con: Choice is not itself a good thing in general.
+1.10.8.1. Pro: Being required to discriminate between very similar products is a waste of time and mental energy and often results in feelings of foolishness or regret.
+1.11. Pro: Capitalism promotes equality.
+1.11.1. Pro: Capitalism creates equality when measured over time. Inequalities represented by exclusive access for the rich to certain goods and services have been eradicated by productive enterprise.
+1.11.1.1. Pro: Many goods that were once only available to the wealthiest and most well-connected members of society are now commonplace, [such as ice-cream](https://capx.co/from-palace-to-parlour-the-story-of-ice-cream-is-the-story-of-capitalism/).
+1.11.2. Con: Capitalism is premised on inequality, since the objective is acquiring more wealth whenever possible. For someone to have more, someone else must have less.
+1.11.2.1. Con: The premise that wealth acquisition under capitalism is a zero-sum game is known as the "Fixed Pie Fallacy", and is demonstrated false by the fact of [continuously rising absolute standards of living globally](https://ourworldindata.org/extreme-poverty).
+1.11.2.2. Pro: Workers' [real wages](https://www.forbes.com/sites/joshbersin/2018/10/31/why-arent-wages-keeping-up-its-not-the-economy-its-management/#62ba52e9397e) have barely increased, even though companies have experienced significant economic growth.
+1.11.2.3. Con: Capitalism is equitable by definition since it's based on trade - where two people agree to exchange their personal items for mutual benefit.
+1.11.2.3.1. Con: People are born into the capitalism system with unequal access to capital, meaning unequal advantages and disadvantages when trading. Such a system is inequitable.
+1.11.2.3.1.1. Pro: There are many gating mechanisms in Capitalism to generate inequality. One example is a school of ideas called "obscurantism", where knowledge is purposely presented in a confusing way, making access to knowledge hard to average people.
+1.11.2.3.1.2. Pro: There is a gating mechanism is expensive higher education. An average student born into a family that is struggling to put food on the table cannot afford such luxury. When education should be free.
+1.11.2.3.2. Con: A system based on trade is not equitable by definition, as trade can be inequitable.
+1.11.2.3.2.1. Pro: A profit is usually made with unequal access to resources or asymmetric availability of information.
+1.11.2.3.3. Con: When a third party manipulates or prevents trade \(by hindering what can be bought or sold, dictating prices, requiring a specific medium of exchange\), it causes persistent distortions in the market, moving prices to non-equilibrium levels, and preventing equality.
+1.11.2.3.3.1. Pro: The profit motive incentivizes third party manipulation of trade where profitable, ensuring the prevention of equality.
+1.11.2.3.3.2. Pro: The state intervenes into fair trade by implementing protectionist measures.
+1.11.2.3.3.3. Pro: Patenting, licensing and [IP](https://en.wikipedia.org/wiki/Intellectual_property) legislation hinders competitive trade by introducing [artificial monopolies](https://en.wikipedia.org/wiki/Legal_monopoly).
+1.11.2.4. Pro: Under a system of capitalism, wealth is acquired unjustly at the expense of others.
+1.11.2.4.1. Pro: Assuming a diminishing marginal product of labour, in a competitive labour market, companies receive the average value of labour whilst only paying a wage equal to the marginal product of labour, which is lower. The surplus of the average value of labour over its marginal value is extracted by the employer in profits, which is exploitative.
+1.11.2.4.2. Con: People are able to acquire wealth by executing business ideas which have significant utility. Therefore, they deserve their wealth.
+1.11.3. Con: Not even one single capitalist nation taxes inheritance like it taxes income from work. And in most capitalist nations people pay less tax on income from investment of capital than on income from employment. Therefore capitalism in practice obviously promotes inequality.
+1.11.4. Pro: Capitalism allows individuals to have equal decision-making power, through financial means, to groups, companies, and governments.
+1.11.4.1. Con: This relies on wealth, which is not equally \(or arguably fairly\) distributed. Using the logic that financial means enables decision-making power, capitalism causes inequality, by disproportionately empowering wealth. The accumulation of wealth only creates equality between wealthy groups, rather than in society as a whole.
+1.11.5. Pro: Capitalism promotes legal equality.
+1.11.5.1. Pro: Under capitalism, all people have the freedom to [own property](https://www.investopedia.com/terms/c/capitalism.asp).
+1.11.5.1.1. Con: Most of the property is owned by a small fraction of people. This is by definition not equality.
+1.11.5.2. Con: Corporations are often more protected by the law than consumers.
+1.11.5.2.1. Pro: [Corporations are fined](https://www.nydailynews.com/news/national/epa-fines-coal-producer-27-5-million-appalachian-pollution-article-1.1711885) for knowingly poisoning water sources, whereas [citizens face arrest.](https://abc7news.com/berkeley-ca-poisoning-poison-engineer/5230746/)
+1.11.5.2.2. Pro: A corporation with outstanding debt can declare bankruptcy, [dissolve](https://yourbusiness.azcentral.com/happens-debt-close-s-corporation-25927.html) and reform as a different company, whereas humans cannot change their identity to avoid their debts.
+1.11.5.2.2.1. Con: The unavailability of the personal bankruptcy procedure is a flaw of legislation, rather than economy system.
+1.11.5.2.2.1.1. Pro: There is personal bankruptcy in [USA](https://en.wikipedia.org/wiki/Bankruptcy_in_the_United_States#Personal_bankruptcy), [Israel](https://web.archive.org/web/20060915215559/http://www.law.fsu.edu/journals/transnational/vol101/Efrat.pdf), and [Russia](https://en.wikipedia.org/wiki/Insolvency_law_of_Russia).
+1.11.5.2.3. Con: The corporations usually pay way [higher fines](https://www.accc.gov.au/business/business-rights-protections/fines-penalties) than individuals.
+1.11.5.2.3.1. Con: As a fraction of total assets, the fines corporations pay are not higher.
+1.11.5.2.4. Pro: Corporations and wealthy people can afford more and better lawyers than poorer people, and thus have a huge advantage in the \(so-called\) justice system.
+1.11.5.3. Con: [Bail](https://www.nolo.com/legal-encyclopedia/bail-getting-out-of-jail-30225.html) is a mechanism that effectively jails those who cannot afford the price set for their freedom.
+1.11.5.3.1. Con: A bail policy is not determined by capitalism.
+1.11.5.3.1.1. Con: Bail is only possible in a capitalist justice system, as a justice system that totally excluded capitalism would not allow marketplace transactions such as bail within their justice system.
+1.11.5.3.1.1.1. Con: There is evidence that bail policies are possible in non-capitalist systems, which indicates that capitalism is not a requirement for bail policies. For example, [socialism still allows for private property](https://www.history.com/news/socialism-communism-differences#:~:text=Key%20Differences%20Between%20Communism%20and%20Socialism&text=Under%20communism%2C%20there%20is%20no,based%20on%20what%20they%20need.&text=By%20contrast%2C%20under%20socialism%2C%20individuals%20can%20still%20own%20property.), so market transactions are possible, and bail policies are not precluded on this basis. Furthermore, even communist countries such as [Laos](https://www.justice.gov/sites/default/files/pages/attachments/2017/03/06/dos-hrr_2016_laos.pdf), [Vietnam](https://www.vietnamlawmagazine.vn/getting-bail-under-vietnams-criminal-procedure-law-3988.html), and [China](https://www.justice.gov/sites/default/files/eoir/legacy/2013/11/08/Bail_China06-2013.pdf) have bail systems.
+1.11.5.3.1.1.1.1. Pro: It could be argued that the existence of bail is a capitalist element, but their presence in communist systems suggests that they are inherently useful to the justice system, and that they are independent of the nature of a state as capitalist or otherwise, and thus independent of the concept of capitalism more generally.
+1.11.6. Con: Many people are born into wealthy families and are able to have greater opportunities than others who are born into poorer families.
+1.11.6.1. Pro: They are able to inherit their wealth which they have done nothing to earn.
+1.11.6.2. Pro: People are able to study in the best schools and get treated at the best hospitals. This allows them to have greater life opportunities than others.
+1.11.7. Con: The current form of capitalism is causing a widening of the income inequality gap.
+1.11.7.1. Pro: Analysis by the [IFS](https://www.theguardian.com/news/2019/sep/09/inequality-is-it-rising-and-can-we-reverse-it) has shown the share of income going to the top 1% of richest households has nearly tripled in the past four decades, from 3% in the late 1970s to about 8% today.
+1.11.7.2. Pro: [Average chief executive pay](https://www.theguardian.com/news/2019/sep/09/inequality-is-it-rising-and-can-we-reverse-it) in the FTSE 100 in 2017 was 145 times higher than that of the average worker, up from just 47 times in 1998.
+1.11.7.3. Pro: According to the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/wealthingreatbritainwave5/2014to2016#total-wealth), the top 10% of households by income earn 6.8 times more than those on the lowest rung, but the wealthiest 10% have 290 times more in total assets than those at the bottom of the pile.
+1.11.7.4. Con: Under a system of capitalism, on average, the number of people living in extreme poverty declined by [47 million](https://ourworldindata.org/extreme-poverty) every year since 1990.
+1.11.7.4.1. Con: "Extreme poverty" is an arbitrary cutoff. The more appropriate measure is relative poverty. As the [wealth gap](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/) has only increased, the fraction of people in relative poverty has likewise increased.
+1.11.7.5. Con: Globally, between 1975 and 2010 “[relative](https://unu.edu/news/news/global-income-inequality-up-or-down.html)” global income inequality decreased substantially.
+1.11.7.5.1. Pro: As measured by the Gini coefficient, global inequality has been [declining steadily](https://unu.edu/news/news/global-income-inequality-up-or-down.html) from 0.74 in 1975 to 0.63 in 2010.
+1.11.7.5.2. Con: Even though relative global inequality has decreased, there has been a marked increase in [absolute](https://unu.edu/news/news/global-income-inequality-up-or-down.html) global inequality.
+1.11.8. Pro: Private companies are better than planned economy authorities at employing people equally.
+1.11.9. Pro: Capitalism promotes freedom of opportunity. Freedom is a necessary part of equality.
+1.11.9.1. Pro: Everyone can achieve success if they work hard. This is an integral part of the [American dream](https://www.investopedia.com/terms/a/american-dream.asp).
+1.11.9.1.1. Con: The United States [has demonstrated](https://www.alternet.org/2014/10/7-facts-show-american-dream-dead/) that hard work does not equal success under capitalism.
+1.11.9.1.1.1. Pro: Economic mobility is [not accessible](https://eig.org/dcieop) to most Americans.
+1.11.9.1.2. Con: Many people work hard for a company that goes bankrupt through no fault of their own, demonstrating that not everyone can achieve success by working hard.
+1.11.9.1.3. Con: Not everyone can achieve success by working hard under capitalism because success demands intelligence.
+1.11.9.1.4. Pro: [Bill Gates](https://www.inc.com/bill-murphy-jr/bill-gates-vacation-weekend-microsoft-success.html) is an example of a person who achieved great success by working hard.
+1.11.9.1.4.1. Con: Bill gates did not work harder than, say, a coal miner who worked a 12 hour shift every day for 40 years.
+1.11.9.2. Pro: Capitalism promotes equal opportunity. Per definition, free markets don't force people into careers or regulate what people consume against their will.
+1.11.9.2.1. Con: If only certain jobs are available in a certain place, the people who live there will be forced to take those jobs.
+1.11.9.2.1.1. Con: People can move geographic locations, opening up opportunities to choose between a wider variety of jobs.
+1.11.9.2.2. Con: The practice of issuing [vouchers](https://en.m.wikipedia.org/wiki/Scrip) to [company stores](https://en.wikipedia.org/wiki/Company_store) was common in many capitalist companies in the past, creating local [monopolies](https://en.m.wikipedia.org/wiki/Monopoly) and forcing workers into [debt](https://en.m.wikipedia.org/wiki/Debt_bondage).
+1.11.9.2.3. Con: Monopolies on necessary goods \(like water, food, housing, electricity or internet\) are common and thus force consumers to purchase certain goods from certain providers.
+1.11.9.2.4. Con: [Slavery was an institution under capitalism](https://www.forbes.com/sites/hbsworkingknowledge/2017/05/03/the-clear-connection-between-slavery-and-american-capitalism/?sh=1787ab217bd3), which forced people into careers.
+1.11.10. Con: Capitalism leads over time to increasing levels of inequality. Those who own capital will continue to gain wealth even without performing productive work.
+1.11.10.1. Pro: As shown by Thomas Piketty in [Capital in the Twenty-First Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century), the rate of return from capital is higher than the increase in wages over time. Therefore, the rich will continue to grow richer just from holding a random selection of investments with no further productive effort required.
+1.11.10.2. Con: It is possible for governments to tax capital gains so that returns on investments do not grow faster than the growth in the economy.
+1.12. Con: Capitalism has a negative impact on [science](https://www.jacobinmag.com/2018/07/capitalism-science-research-academia-funding-publishing).
+1.12.1. Con: Under non-capitalist systems whether a scientist gets resources depends on whether he has political pull, e.g. - Lysenko under the soviets. Under capitalism all you have to to is persuade somebody to give you funding and if your ideas are good you should be able to persuade somebody.
+1.12.2. Con: Under capitalism many people have enough prosperity and free time to do science without having to work for their subsistence.
+1.12.3. Con: Capitalist countries [invest the highest % of GDP on research and development](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?most_recent_value_desc=true) in the world.
+1.12.3.1. Con: There are no non-capitalist countries.
+1.12.3.2. Con: The top countries have socialist policies that run contrary to capitalism.
+1.12.3.2.1. Pro: 9 out of the top 10 nations listed have universal healthcare.
+1.12.3.2.2. Pro: The vast majority of the countries on the list subsidize education for their citizens, with 8 out of the top 10 subsidizing all the way to university.
+1.12.4. Pro: Science under capitalism does not pursue good ideas that are not marketable.
+1.12.4.1. Pro: Finland's government decided not to pursue the development of a patent-free anti-corona-vaccine as it [did not seem profitable](https://www.jacobinmag.com/2021/02/finland-vaccine-covid-patent-ip).
+1.13. Pro: -> See 1.2.6.5.
+1.14. Con: Capitalism is unsustainable.
+1.14.1. Pro: Capitalism is environmentally unsustainable.
+1.14.1.1. Pro: Capitalism tends to produce goods with [Planned Obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence), which means that they intentionally become dysfunctional early on. This leads to more resource consumption and more waste.
+1.14.1.1.1. Con: Consumers prefer products that last and mechanisms like online reviews maintain competition to provide incentives for producers to create products that last longer.
+1.14.1.1.1.1. Con: If most companies in an industry produced items with planned obsolescence, consumers would either not have better alternatives to turn to, or would not be aware of them.
+1.14.1.1.2. Con: Planned Obsolescence could be controlled under Capitalism with proper legislation like a [mandatory warranty period](https://www.digitaltrends.com/home/france-planned-obsolescence-law/).
+1.14.1.2. Con: The development of renewable resources is more likely with Capitalism since it is better at responding to ever-increasing [demand](https://www.iea.org/reports/renewables-2019) for renewable resources, making it a profitable market.
+1.14.1.2.1. Con: Capitalism is the cause of the environmental crises it is now trying to profit off of solving. It is a bad idea to use that which caused the problem as the solution.
+1.14.1.3. Pro: Capitalism tends to reward solutions to problems that are being experienced at the present moment. It is less rewarding to solutions to problems that we are projected to have in the future.
+1.14.1.4. Pro: Capitalism is bad for the environment by encouraging mass consumption of natural resources.
+1.14.1.5. Con: Since companies under capitalism must produce in the most efficient way to compete against others, the needed resources for the same amount of products decrease over time through innovation and waste is used efficiently in the production of other goods.
+1.14.1.6. Con: As long as we see the most famous climate change activists in the world living and/or [owning property near the coast](https://news.yahoo.com/climate-activists-invest-property-beaches-110000244.html), we should all be skeptical. If these people trully believed that we are destroying the environment and we are about to experience severe climate change sometime in the next 50 years, they wouldn't allocate their capital in this way.
+1.14.1.7. Con: We can freely ruin the environment and rebuild it to our liking as long as the humanity is sustained.
+1.14.2. Pro: -> See 1.8.3.1.
+1.14.3. Pro: Capitalism has built in contradictions that invalidate the benefits that are claimed by its proponents.
+1.14.3.1. Pro: Under capitalism, people are only as valuable as the labor they provide, while at the same time, capitalism does not work without the existence of the reserve army of labour \(people who are unable to find work\).
+1.14.3.1.1. Con: This argument has been [refuted](https://mises.org/library/austrian-perspective-history-economic-thought)(Section 13.4 \n\nBut how can there be a continuing army of the unemployed, when wages\nto the unemployed are zero? Why don't the unemployed starve to death\nbefore they can ever constitute a competitive threat to the employed prole-\ntariat? If Marx answers that the unemployed are rapidly absorbed into the\nemployed ranks, driving down wage rates thereby, then he abandons his\nrequirement for increasing impoverishment: the growth of a permanent, and\nexpanding, army of the unemployed. So how are they supported and how do\nthey continue in existence?).

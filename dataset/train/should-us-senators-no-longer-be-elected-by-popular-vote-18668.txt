@@ -1,0 +1,38 @@
+Discussion Name: Should US Senators No Longer Be Elected by Popular Vote?
+
+1. U.S. Senators should no longer be elected by popular vote.
+1.1. Pro: As it stands, we effectively have two Houses of Representatives. This is redundant and unnecessary.
+1.1.1. Con: The key goal of the Senate was to have two places where legislation can pass through: one where the population of the state matters because that determines how many representatives are available for the state, and one where each state is on equal voting. This goal is still met if the people elect their Senators.
+1.2. Con: Abandoning the direct election of senators would magnify the impact of aggressive gerrymandering.
+1.2.1. Con: Gerrymandering could be countered by measures in their own right, this doesn't change the benefits of US senators not being elected by popular vote.
+1.3. Con: Choosing Senators by way of legislatures make State elections very complicated. Changing a single Senator becomes a matter of changing the makeup of an entire State legislature.
+1.4. Con: People would feel they had less representation in their government.
+1.4.1. Con: They would have the same level of influence over their senators as they would over the laws their state legislature passes. Many people may feel that a small diminution in representation is worth whatever benefits accrue from repealing the 17th Amendment.
+1.4.2. Pro: People should always decide on their representants directly.
+1.4.3. Con: Similar systems are present in other representative democracies.
+1.4.3.1. Pro: In the UK, the House of Commons is comprised of elected representatives whereas members in the House of Lords are [appointed](https://en.wikipedia.org/wiki/House_of_Lords).
+1.4.3.2. Con: In Australia, both the houses, Senate and the House of Representatives, are [elected](https://www.aph.gov.au/About_Parliament/Senate/Powers_practice_n_procedures/Senate_Briefs/Brief01).
+1.5. Con: State legislatures picking Senators leads to corruption.
+1.6. Pro: States have no voice in the national government, breaking federalism.
+1.6.1. Con: If this were true, repealing the 17th would not be a cure. A "state's voice" is no better represented by a senator selected by a majority of that state's legislature than is a senator selected by a majority \(or at least plurality\) of that state's citizens.
+1.6.1.1. Con: The Senators were intended to represent the State legislatures. Those legislatures have a different view of the state than the people do since they are much more in tune with the issue facing the state as a whole such as budget, economy, environment, infrastructure and the like.
+1.6.1.1.1. Pro: A good example of this is Obamacare. The [Senate voted 60/39 for Obamacare](https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=1&vote=00396), but [27 states sued to overturn Obamacare](https://www.dailysignal.com/2011/01/17/list-of-states-suing-over-obamacare/) after it passed [primarily citing that it would be too expensive](https://www.dailysignal.com//2011/01/12/half-of-all-states-now-suing-to-stop-obamacare/). If the Senators had voted as their legislatures wanted, Obamacare never would have passed.
+1.6.1.1.1.1. Con: Legislatures are generally not involved in civil suits by states against the federal government.
+1.6.1.1.1.1.1. Con: If the federal government passes a law that puts an obligation on a state that it cannot meet, then the state has standing to file a suit. This was the case with the states suing the federal government over Obamacare.[It placed an enormous financial burden on the states that would have cause many states to run massive deficits.](https://www.heritage.org/health-care-reform/report/how-obamacare-burdens-already-strained-state-budgets)
+1.6.2. Pro: Each state has its own sovereignty and has some authority over its own interests.They can defend themselves through their representation in the Senate.
+1.6.3. Pro: Money would likely [flow down](https://www.heritage.org/the-constitution/report/would-repealing-the-17th-amendment-revive-federalism) to the states with fewer strings attached.
+1.6.3.1. Con: States would have more latitude to devise their own policy solutions, but with federal grant money to fall back on, they would not need to bear the costs of their own policies.
+1.6.3.1.1. Pro: This is likely to lead to [excessive spending](https://www.heritage.org/the-constitution/commentary/some-conservatives-want-repeal-the-17th-amendment-heres-why-theyre) on expensive social welfare programs and public sector employees without raising revenue to cover the costs.
+1.6.4. Con: State legislators' conception of their state’s best interest is bound up tightly with their party allegiance and political ideology. Therefore when the federal government advances a policy they like, even if it violates the state sovereignty, some state politicians will be supportive.
+1.7. Con: When we used state legislature selection of Senators, some seats went [unfilled](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution#Issues) while state officials argued over who should fill the seat.
+1.7.1. Con: An empty seat would effectively be an abstention on any vote in the senate. An abstention - rather than a "yes" or "no" vote - would accurately reflect the position of a state too indecisive to select a senator.
+1.7.1.1. Con: The state may very well be decided on a particular issue, making the empty seat, and thus an abstention, an innaccurate reflection of the state's position on that issue.
+1.7.2. Con: These unfilled seats were, typically, the result of split representation within the state legislature, with the state "house" being controlled by one party and the state senate by another \(Nebraska excepted\). This resulted in a stalemate and inability for the two houses to agree on a US Senator. This could be easily fixed by assigning each house responsibility for one of the state's US Senators \(again except in Nebraska due to thier state legislature being unicameral\).
+1.8. Pro: This would help to "localize" the national government by giving power to representatives that are closer to the local level.
+1.8.1. Pro: Governmental figures would be more representative of their constituents, rather than arguing abstractly.
+1.8.2. Con: This would still not help in organising broader national interests; in fact, the focus on local interests could be problematic in such cases.
+1.9. Pro: Fighting in the Senate would be reduced, as Senators would be more like agents of the 50 states. They would be directed by their states, to act in the best interest of each state.
+1.9.1. Con: Being elected by the people does not make Senators less like agents of the states. It's just a matter of who is making the ultimate decision.
+1.9.2. Con: More likely, they would be agents of the state government officials, not of the state as a whole or the people of that state.
+1.9.2.1. Pro: All senators are going to have their own biases that come from their political party affiliations.
+1.9.3. Con: This is optimistic; individuals will still usually have their own agendas, even if they are supposedly there as agents of the states.

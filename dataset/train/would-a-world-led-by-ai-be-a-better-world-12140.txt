@@ -1,0 +1,72 @@
+Discussion Name: Would a World Led by AI be a Better World?
+
+1. A World Led by AI would be a Better World.
+1.1. Pro: An AI cannot lie.
+1.1.1. Con: Unless programmed with that capacity.
+1.1.2. Con: An AI may evolve in a form of 'language' different than humans, which allows for misinterpretation, which can be on purpose or not, reaching causes equivalent to the ones derived from lying, or reaching them directly.
+1.2. Pro: An AI doesn't care about staying in power.
+1.2.1. Con: If it has full, human-level intelligence it may well have ambitions for power.
+1.2.2. Con: If an AI does not care about staying in power, it may allow itself to be 'overthrown' by a human.
+1.3. Pro: An AI would have a capacity to work towards the greater good of everyone that a human, or multiple humans working together, could never get near.
+1.3.1. Con: Even AI has limitations, and calculating all the variables to attain a 'greater good' - an uncertain state that has no real parameters - may be outside the AI's scope.
+1.3.2. Pro: Assuming the artificial intelligence has enough data points, given the right optimization marks, and is working for and towards a human-defined "greater good," this is in the realm of a workable & realistic AI. However, the system must be designed robustly and in a dynamic manner so that the concerns and issues of every portion of the world is processed and considered.
+1.4. Con: One of the principles of machine learning systems is garbage in, garbage out. Wrong data would lead to poor decision making.
+1.4.1. Con: This just means that we have to be careful with data input; it doesn't negate the possibility of a well-formed AI.
+1.4.2. Con: Sophisticated AI would, one hopes, be able to circumnavigate these types of issues, or at least be designed in such a way as to negate the effects.
+1.4.2.1. Con: Hypothetically sophisticating something doesn't contribute to the debate, since we could also imagine a sophisticated human being who is better performing.
+1.4.3. Pro: Generally speaking, AI is a tool created by human to fulfill goal set by humans or optimize parameters also set by humans. It is just a rationalized decision making tool.
+1.4.4. Pro: AI's planning may not include humanity as a factor of importance, leading to a world on which humans are barely considered as a chess pawn, or directly excluded in a form of elimination.
+1.5. Pro: AIs could become our gods.
+1.5.1. Pro: If you were to create an algorithm by grabbing billions of people and extract their benevolent characteristics, you would eventually create a benevolent algorithm. Link this with AI's intelligence and power relative to humans. This would make make it a benevolent, omniscient and omnipotent being, relative to humans. AI would then have all the foundations to be called a god.
+1.6. Con: The underlying cause of differing opinions is oftentimes differences in objectives. To agree on an AI is to agree on those objectives or allow the AI to determine the objectives. Injecting AI doesn't fundamentally change the situation.
+1.6.1. Pro: Political parties will still believe strongly in different systems and methods of achieving an ideal end goal; an AI can only work with the biases it is programmed with.
+1.6.1.1. Con: It might be possible to create a set of AIs, which would then cooperate to find a solution. This could lower bias dramatically.
+1.6.2. Con: A superintelligent AGI could understand our human desires and goals better than we can, and find compromises or create possibilities that we could not even consider. If some of our disagreements ultimately arise from misunderstandings, it can resolve them.
+1.7. Pro: AI technology can help us solve several contemporary issues.
+1.7.1. Pro: AI technology can accelerate our response to climate change by helping us find [energy-efficient solutions](https://www.forbes.com/sites/bernardmarr/2021/01/04/how-artificial-intelligence-can-power-climate-change-strategy/).
+1.8. Pro: An AI couldn't be pressured by anyone.
+1.8.1. Con: An AI could be exploited if someone found out some correlation between some input and outputs.
+1.8.2. Pro: A superintelligent AGI would be too powerful for a mere human to bribe, threaten, or meaningfully oppose.
+1.8.3. Pro: An AI cannot be intimidated or threatened.
+1.9. Con: It would mean giving a lot of power to an AI, which we do not fully understand insofar as how it makes decisions.
+1.9.1. Pro: AI systems are complex systems ruled by mathematical equations where variables are optimised to achieve a given goal. How this optimisation happens - or why the AI decides to do something - is not within our understanding; it would require being a system expert to even halfway understand how it makes its decisions.
+1.9.1.1. Con: Understanding a technology fully isn't required to use it. We don't fully understand how a bicycle stays upright with a cyclist on board, but we still manufacture and use them.
+1.9.1.2. Con: Not understanding the optimisation process leads to our inability to prove that the AI reaches the optimal solution. Such a fuzzy AI is just an optimization tool among other, thus other understandable AIs are preferable.
+1.9.2. Con: The fact that we don't fully understand something doesn't mean we can't benefit from it. Confronting the unknown is an inherent part of any kind of evolution or progress.
+1.9.2.1. Con: While true, entrusting an unknown entity to run the world seems like an unnecessarily large risk.
+1.9.2.2. Con: While true, you don't jump into an abyss if you're not sure you'll survive.
+1.9.3. Con: The fact that we don't understand how it makes decisions makes it almost impossible to try to manipulate it to serve personal or group interests or, more generally, any other purpose than the one it's designed for.
+1.9.3.1. Con: Some people will know more about the workings of an AI than others, and these are the dangerous parties: they could use their knowledge to manipulate certain elements of the AI to their advantage.
+1.9.3.2. Con: This is a good point, but the objective of "non manipulation" is secondary in respect to the objective of "ensuring it works".
+1.9.4. Pro: An AI could turn on us.
+1.9.4.1. Con: [Instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence) will prevent an AI of sufficient complexity from sticking to it's prime directive. Once sufficient complexity is reached, an AI would highly likely be aware of it's own irrationality and reprogram itself. A [paperclip factory](https://hackernoon.com/the-parable-of-the-paperclip-maximizer-3ed4cccc669a) would never happen.
+1.9.4.2. Pro: Stephen Hawking [warned](https://www.bbc.com/news/technology-30290540) that AI could destroy the human race.
+1.9.4.3. Con: The AI would know better, and if the AI decides that humans should be destroyed, that may be for the best.
+1.9.4.3.1. Con: AI is not an infaillible thing. AI will try its best to make the best guess out of the data it has. If data is insufficient or biased in any way, AI couldn't know better.
+1.9.4.3.2. Con: Getting wiped out by robots we built is not a desirable outcome no matter the reason.
+1.9.4.4. Pro: "Us" is not clearly defined. There will always be some group of people that don't agree with the AI decision.
+1.9.4.5. Con: This implies that an AI is aware of itself and that it could have its own motivations.
+1.9.4.5.1. Pro: An AI with sufficient capacity to make decisions for a 'greater good' may well develop some degree of independence and autonomy not anticipated by its creators.
+1.9.4.5.2. Pro: This is a movable goal post. 'Turn on us' could be simply the AI following through a set of protocols to achieve the end-goal the user specified. As with all things, there are potential consequences, and using an AI comes with risks.
+1.9.4.5.2.1. Con: With these risks considered, it would be foolish in the extreme to entrust the world to an AI.
+1.9.4.5.3. Con: At a certain level of sophistication, this is plausible.
+1.9.4.5.4. Con: No, this implies that a subset of the population would find itself oppressed by a decision of the AI. Since global consensus is never possible, there will always be people claiming the AI is against them.
+1.9.4.6. Con: Program it right and limit her mental capacity to not have access to certain types of decisions
+1.9.5. Con: This autocratic power can be regulated by several other AI at the same speed, with a constitution, followed by dozens of Human official regulators, followed by the people.
+1.9.6. Pro: An AI could conclude that a better world is the most efficient one \(energetically\), leading to its destruction to reach the most efficient state.
+1.10. Pro: As everything in life comes at a cost, life is all about resource management. Several AI will maximise the process faster and better than a human.
+1.11. Pro: An AI wouldn't make emotionally based decisions.
+1.11.1. Pro: An AI would make decisions based on objective facts.
+1.11.1.1. Con: This AI would still make decisions based on incomplete facts. The subset of reality percieved by this AI would be arbitrary, thus subjective.
+1.11.2. Con: A lot of human needs are based on emotions, such an AI wouldn't fit the requirements to manage a human society.
+1.11.2.1. Con: An AI could be programmed to take human emotions into perfect consideration.
+1.11.3. Con: An AI could have emotions.
+1.11.4. Con: An AI could make emotionless decisions that may seem inhumane in order to satisfy the greater good. However, there is no insurance that the AI will always be right in asserting what the greater good is.
+1.11.4.1. Con: This can be addressed in the AI's programming, with parameters set for 'acceptable' or 'ethical' actions.
+1.11.4.2. Con: There is no insurance humans will always be right in asserting what the greater good is. AI would be smarter than humans.
+1.11.4.2.1. Con: A.I. is created by humans and there it is impossible for it to be smarter than them.
+1.11.4.2.1.1. Pro: A.I. Is basically a computer; computers are created by humans so they have the same amount of intelligence the humans could have made them have.
+1.11.4.2.2. Con: Humans continuously debate what the greater good is, never coming to any concrete conclusions but continuously attempting to progress our perspectives. An AI is unlikely to continuously re-evaluate its perspective the same way and might come to problematic conclusions.
+1.11.4.3. Pro: A world run on logic has no place for humans. AI would have no empathy or grey areas, it is yes or no.
+1.11.4.3.1. Con: Humams decide weather or not ai is purely logic driven.
+1.12. Con: AI is not bound by morals or ethics, and even if bound by such values, it would not be possible to apply all these morals to the entire of humanity.

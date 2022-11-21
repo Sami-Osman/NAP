@@ -1,0 +1,38 @@
+Discussion Name: Is Protectionism a Bad Economic Policy?
+
+1. Protectionism is a bad economic policy.
+1.1. Pro: Protectionist policies are hard to implement consistently.
+1.1.1. Pro: It can be difficult to determine what deserves a tariff. For example, if steel is taxed but steel kegs are not then we have a conflict.
+1.2. Con: In sectors like defense and food production, self-reliance is important.
+1.2.1. Con: Alliances can help bolster a free market while not threatening the dependence of a country on a certain type of good.
+1.3. Con: If a country is trying to grow strong in a new industry, tariffs will protect it from foreign competitors.
+1.3.1. Con: While protectionist policies protect domestic industry profits, they [reduce innovation incentives](https://voxeu.org/article/innovation-trade-policy-and-globalisation).
+1.3.1.1. Pro: Costly [R&D subsidies](https://voxeu.org/article/innovation-trade-policy-and-globalisation) are required to make up for reduced innovation efforts caused by protectionism.
+1.3.2. Con: Another way to grow strong in a new industry is by being cheaper and/or better than the competition.
+1.4. Con: Protectionism can be used to avoid the import of products with negative environmental impacts, thereby stimulating sustainable \(local\) product development.
+1.4.1. Con: But the "bad" good is still produced, but now with less efficiency thus increasing pollution
+1.4.2. Con: The EU spends 37% of its budget on the Common Agricultural Policy \([CAP](https://en.wikipedia.org/wiki/Common_Agricultural_Policy)\) yet has drawn criticism on the grounds of its environmental impacts. This indicates that protectionism may not be environmentally beneficial.
+1.5. Pro: Protection of companies inside the borders will reduce competition, thus making companies less prepared for an economic recession.
+1.5.1. Pro: Protectionist economic policy made the [Great Depression](https://www.marketplace.org/2017/08/24/what-was-one-worst-pieces-us-legislation/) worse.
+1.5.2. Con: If there is less competition, then companies will enjoy a larger share of the domestic market. Therefore, their revenue may grow, financially cushioning them from a future recession.
+1.5.3. Pro: International competition encourages a more efficient allocation of economic resources on the part of firms in the economy. Under protectionist economic policy, companies do not face the same pressure to compete efficiently. As a result, the whole economy suffers.
+1.5.4. Pro: The EU has seen significant economic growth since integration which allowed companies to compete across national borders. According to one [study](https://link.springer.com/article/10.1007/s10290-005-0015-y) GDP per capita of the EU would be approximately one-fifth lower today if no integration had taken place since 1950.
+1.6. Con: The protection of tariffs, quotas or subsidies allows domestic companies to hire locally.
+1.6.1. Con: Overall, protectionism would likely cause [more lay-offs](https://www.economicshelp.org/blog/52/trade/effects-protectionism/), not fewer.
+1.6.2. Pro: When people are employed locally, their taxes go back into the domestic economy rather than being syphoned off by foreign employees' own governments.
+1.6.3. Con: Hiring locally in an industry that is better served abroad is not good economic policy.
+1.6.4. Con: The increased industry or employment would be negligible because the economy is likely to take a downturn, meaning people will have less disposable income overall.
+1.6.4.1. Con: While the statement is qualitatively true, in order to base a decision on this claim, one must have at least an implicit economic model in mind. Things like this are rarely, if ever, zero sum. It could be that 2,000 jobs are created and 10,000 are destroyed by some action, or it could be that 2,000 are created and 200 are destroyed. Gotta get rigorous and at least have a theory and a basis for it.
+1.6.5. Con: Hiring locally might be problematic if there is a lack of skilled labour.
+1.7. Pro: Protectionism raises the price of the imported goods, making them less competitive when compared to local goods.
+1.7.1. Pro: Raising prices of imported goods reduces quality of life.
+1.7.1.1. Pro: Imported goods usually represent a [large portion of GDP](https://courses.lumenlearning.com/boundless-economics/chapter/gains-from-trade/). If the price of imported goods goes up, demand will go down along with GDP. Lower GDP is [linked to low​er standards of living](https://www.investopedia.com/ask/answers/060115/how-does-gross-domestic-product-gdp-affect-standard-living.asp).
+1.7.2. Con: The [law of comparative advantage](https://www.investopedia.com/ask/answers/09/law-comparative-advantage.asp) states that even if developing countries are out competed in most areas, developing countries will still be able to export in the areas where their advantage is comparatively greater. This means that both developing and developed countries are better off, because each country is producing the goods and services which they are most efficient at producing.
+1.8. Pro: Increasing protectionism will further slow economic growth.
+1.8.1. Pro: Protectionist tariffs are susceptible to tit-for-tat [trade wars](https://www.investopedia.com/terms/t/trade-war.asp), which ultimately stall economic growth.
+1.8.1.1. Pro: Other countries typically respond to protectionist tariffs on imports with their own tariffs on exports to the protectionist country, in order to discourage and punish protectionist behaviour. This increases the price of exports abroad. As a result, demand for exports falls and jobs are lost.
+1.8.2. Pro: Prices of materials \(eg. steel and aluminum\) that rise because of tariffs will increase production costs in other industries, making those, in turn, less competitive with foreign suppliers.
+1.8.2.1. Pro: Firms are forced to increase their prices when their costs rise. This means that households have less purchasing power overall. As a result, GDP is likely [to fall.](https://www.ecb.europa.eu/press/key/date/2018/html/ecb.sp180406.en.html)
+1.8.3. Pro: [Studies](http://www.nber.org/papers/w14264.pdf) show that countries which embraced freer trade in the 1980’s-1990’s saw an acceleration in their economic growth rates while countries which did not move towards free trade saw economic stagnation.
+1.8.4. Con: -> See 1.6.
+1.8.5. Pro: Even if they are effective in the long term, protectionist policies create major uncertainty in the economy. [Uncertainty](http://www.nber.org/papers/w13385) shocks have a significant effect on economic growth as investors and consumers grow more cautious in the spending and other economic behaviour.

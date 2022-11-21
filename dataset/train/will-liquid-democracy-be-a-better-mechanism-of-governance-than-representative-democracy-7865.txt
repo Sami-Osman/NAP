@@ -1,0 +1,1012 @@
+Discussion Name: Will Liquid Democracy be a better mechanism of governance than Representative Democracy?
+
+1. Liquid Democracy would be a better mechanism of governance than current representative democracy.
+1.1. Con: Representative Democracy correlates with the most peaceful, prosperous, educated and free time in world history, so we should keep using it.
+1.1.1. Pro: According to [Forbes](https://www.forbes.com/sites/timworstall/2016/06/21/sure-the-middle-class-is-shrinking-30-of-americans-are-too-rich-to-be-middle-class-now/#14516ec421c8), the middle class is shrinking because they are becoming rich.
+1.1.2. Pro: Even if there are more overall conflicts, modern times are [far less violent](https://towardsdatascience.com/has-global-violence-declined-a-look-at-the-data-5af708f47fba) than at any other time in history.
+1.1.3. Pro: In the last hundred plus years, average life expectancy has gone from 31 to 71.5 years. [Source](https://en.wikipedia.org/wiki/Life_expectancy)
+1.1.4. Pro: The middle class exists in 2019 - where it simply did not until late-feudal times.
+1.1.4.1. Con: The middle class existed before Representative Democracy.
+1.1.4.1.1. Con: The concept of the "[middle class](https://en.m.wikipedia.org/wiki/Middle_class)" dates to 1745, although it is linked to "the middling sort" of early modern Europe, beginning in the 15th century. [Representative democracy](https://en.m.wikipedia.org/wiki/Representative_democracy#:~:text=Representative%20democracy%2C%20also%20known%20as,as%20opposed%20to%20direct%20democracy.&text=In%20it%20the%20power%20is,are%20elected%20by%20the%20people.) was a characteristic of the Roman Republic.
+1.1.5. Pro: Mature democracies are [sensitive to violence](https://www.cambridge.org/gb/academic/subjects/politics-international-relations/political-theory/violence-and-democracy?format=HB&isbn=9780521836999) and tend to encourage efforts to erase it.
+1.1.5.1. Con: A Liquid Democracy could continue these efforts.
+1.1.5.1.1. Pro: As a society, even under RD we tend to try and curb violence, and people would continue to behave as society wants them to \(the majority\) under LD.
+1.1.5.2. Con: Extremist groups could persuade through violence and corruption to terrify people into voting for them.
+1.1.6. Pro: Representative Democracy gives people [economic freedom](https://fee.org/articles/economic-freedom-and-economic-growth/) which creates prosperity.
+1.1.6.1. Pro: Improvements in economic policy that enhance economic freedom have lifted hundreds of millions out of poverty and enabled countless others to enjoy levels of prosperity never before seen -[Heritage](https://www.heritage.org/index/book/chapter-3)
+1.1.6.2. Con: Advances in technology, medicine, and science have brought these benefits, and this would have happened with or without Representative Democracy. Advances could continue to be made under a more progressive system than Representative Democracy.
+1.1.6.2.1. Pro: China is a [world leader](https://www.whatsonweibo.com/rise-china-china-as-world-leader-in-technology-live-blog/) in technology but is [Authoritarian](https://www.eiu.com/topic/democracy-index).
+1.1.6.2.2. Pro: China has high public suport for Democracy, but [the majority see it as competing against economic growth and social stability](https://www.researchgate.net/publication/232846337_Public_Support_for_Democracy_in_China), which they consider more important.
+1.1.6.2.3. Con: Measuring countries by Nobel Prizes per capita, the top of the list is primarily republican nations and the bottom is mostly authoritarian \(like Russia, China, and Iran\).
+1.1.6.2.4. Pro: [Technology favours tyranny](https://www.foreignaffairs.com/ask-the-experts/2019-02-12/does-technology-favor-tyranny).
+1.1.6.2.5. Con: There is [evidence](https://ourworldindata.org/democracy-health) of a general correlation between democracy and health outcomes.
+1.1.6.2.5.1. Con: Liquid Democracy could be the natural improvement to Representative Democracy, leading to even greater improved health as voters choose to put their taxes towards healthcare rather than the military, as an example.
+1.1.6.2.5.2. Con: The evidence cited also shows Saudi Arabia and China have similar life expectancies to the UK, Europe and USA.
+1.1.7. Con: -> See 1.1.6.2.
+1.1.8. Con: Prosperity in the countries with representative democracy has often been paid for by [exploitation](https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/confronting-root-caus-7/) and [consequences](https://www.theguardian.com/environment/2014/jan/19/co2-emissions-outsourced-rich-nations-rising-economies) outsourced to developing nations.
+1.1.9. Con: We just never tried that form of democracy, so it could totally be better or not. We just can’t criticize something never tried arguing that the statu quo could be better, while the statu quo isn’t perfect.
+1.1.10. Con: It's an evolution, not a revolution. You still have representatives, you just have more freedom in the frequency to choose them, who you choose and what part of your vote you give. Initially most people will probably not use this freedom and vote as if the current system still existed. Eventually party power will reduce because 'new' delegates have more opportunities to chip away at their votes until a new equilibrium arises with a digital parliament of 1000s instead of a physical of 100s.
+1.2. Con: Liquid Democracy represents [fulfilment of democracy's logic](http://parliaments4people.com/article/rethinking-representative-democracy/), democratising democracy and exposing its dark side, which is more susceptible to authoritarianism.
+1.2.1. Pro: The celebration of direct and unmediated citizen participation in democracy is to adopt a singular conception of The People and tends to undermine the institutions of democracy.
+1.2.2. Pro: Prioritisation of direct and unmediated citizen participation reduces democracy to a numbers game and obscures our understanding of the principles of democracy that are it's core - equality, freedom, rights and justice.
+1.2.2.1. Pro: The concept of democracy as nothing more than majority rule demonstrates a primative, reductive understanding of a system that is based on the values of quality, diversity, hospitality, solidarity and fraternity.
+1.2.2.1.1. Con: These values can be upheld, even if simplistically understood reducing things to their basic premises would have a beneficial effect for the majority of the population for the ease of voting comprehension. While problems may still arise, people would have their voices heard democratically more than under Representative Democracy.
+1.2.2.2. Con: Direct citizen participation could still be based on the principles of democracy, even if the numbers of voters are a key component.
+1.2.2.3. Con: The principles of democracy are not at their highest under Representative Democracy, where a small number of people try to pander to the majority.
+1.2.2.3.1. Con: The role of political parties in a representative democracy is to establish a set core world-view positions or principles, which individual politicians seek to convince the masses to vote for. Individuals or parties who simply pander to the masses seek power for its own sake, whereas power under representative democracy is a means to defined ends.
+1.2.3. Con: Authoritianism, as it has been performed in the past has not been under LD. Authoritarianism would only be the result if the majority of the people were swayed by a powerful authoritative force that is stronger than people's current mindset.
+1.2.4. Con: Representative Democracy has been corrupted through gerrymandering and corporate funding into an authoritarian rule. This could be avoided under a competently implemented Liquid Democracy.
+1.3. Con: Liquid Democracy relies too heavily upon the opinion of citizen voters. Voters may be even more susceptible to processes that prevent them from making rational decisions in this model.
+1.3.1. Con: Objecting to relying on the opinion of voters is tantamount to denying the essence of democracy. Rather than fear the opinion of the voter, more care should be taken to intelligently persuade the voter.
+1.3.2. Pro: Liquid Democracy would require a more robust social and traditional media which incentivized shared knowledge and consensus instead of hate, anger, alternative facts, and partisanship.
+1.3.2.1. Con: The lack of robust social and traditional media is the central cause of the current attitudes towards representative democracy and is an existential threat to any notion of democracy.
+1.3.2.2. Pro: Purposeful misinformation is an inherent part of modern society, be that [outright fake news spreading faster than real news](https://www.marketwatch.com/story/fake-news-spreads-more-quickly-on-twitter-than-real-news-2018-03-08) or the [mostly biased media](https://www.investors.com/politics/editorials/media-bias-left-study/) writing misleading or one-sided content.
+1.3.2.3. Con: If there was a more robust social and traditional media along these lines, then there wouldn't be a perceived problem with representative democracy to be "fixed" by liquid democracy.
+1.3.2.3.1. Con: Regardless of public perceptions or the state of the media, there are still [many problems with current Representative Democracies](https://www.kialo.com/there-are-many-problems-with-current-representative-democracies-7865.456?path=7865.0~7865.1_7865.448_7865.330_7865.332-7865.363-7865.456) which should be fixed.
+1.3.2.3.1.1. Con: Fixing the problems of representative democracy does not necessarily involve implementing a different system.
+1.3.3. Pro: Liquid democracy's digital space form ignores traditional factors such as geographic location, political or ideological allegiance and other external contributing factors which influence the way in which citizen voters deliberate on issues. As such, even the simplest proposition could be polarizing and potentially unsupported by an absolute majority making the process of passing legislation extremely challenging if not impossible.
+1.3.3.1. Pro: The government would become less stable.
+1.3.3.1.1. Pro: The unpredictable and volatile sway of mass public opinion would result in an inability to set, implement and deliver stable policy platforms and thus hinder beneficial outcomes.
+1.3.3.1.2. Con: Stability of executive and legislative branches can be split.
+1.3.3.1.3. Pro: Sudden changes in public opinion could cause drastic policy changes.
+1.3.3.1.3.1. Con: In the US policy sometimes does sometimes change very quickly as a new president or party takes majority.
+1.3.3.1.3.2. Pro: If policy can change on a whim then investors may be uncomfortable investing which would hurt the economy
+1.3.3.1.3.3. Pro: Regular sudden changes in policy would be hard to implement
+1.3.3.1.3.3.1. Con: Changes could be implemented by adding Importance as a rated flag \(from 1-100\) and setting a time period for discussion and voting depending on importance.
+1.3.3.1.3.4. Con: Some sudden changes in public opinion *should* cause drastic policy changes.
+1.3.3.1.3.4.1. Con: Large changes affecting the democratic set-up of a country should happen slowly not suddenly, with time given to debate and study the options once public opinion shows a desire for change. This gives time for the best option to be found.
+1.3.3.1.3.4.1.1. Con: The decisions under vote should be carefully selected in a Liquid Democracy, to ensure that only decisions appropriate for a public vote are put to the public, and the quantity of votes are appropriate.
+1.3.3.1.3.4.1.1.1. Pro: No vote should be held which is impossible or not clearly implementable, for example a sudden change of law which does not account for conflicts with other parts of law, or an unachievable goal for example "vote to cut all taxes by half".
+1.3.3.1.3.4.1.1.2. Con: A group choosing the voting agenda has potentially abusable power.
+1.3.3.1.3.4.1.1.2.1. Con: This is already an issue with Representative Democracies, where the public has no little to no input on the topics voted on by their representatives.
+1.3.3.1.3.4.1.1.2.1.1. Con: Usually the candidates publish a manifesto containing an indication of the measures they would like to progress whilst in government and the public input is in choosing one of these hopefully coherent packages.
+1.3.3.1.3.4.1.1.2.1.1.1. Con: ... [Usually](https://thebrexitparty.com/)...
+1.3.3.1.3.4.1.1.2.1.1.2. Pro: Between 1987 and 2005, [88%](https://www.bbc.co.uk/news/election-2015-32350493) of majority UK governments fufilled their manifesto pledges.
+1.3.3.1.3.4.1.1.2.2. Con: Proper checks and balances would stop this group from abusing power. Those checks would be enforceable by military/police, because this group would not have control over them.
+1.3.3.1.3.4.1.1.2.2.1. Pro: A Liquid Democracy could have a similar system of [Checks and Balances](https://www.britannica.com/topic/checks-and-balances) as existing Democracies, with seperation of power between legislative, executive, and judicial branches.
+1.3.3.1.3.4.1.1.2.2.1.1. Pro: Constituational safeguards could ensure that once an act/bill has been successsfully passed, it can not be repealed or undone by other acts/bills without exceptional circumstances. This would ensure that direction can't change frequently, and agencies and industry have stability when implementing new rules.
+1.3.3.1.3.4.1.1.2.2.1.2. Con: Without a strong cohesive party controlling the leglislative branch, existing problems with the [executive branch eroding protecitons and acquiring more power](https://www.cfr.org/article/unconstrained-presidency-checks-and-balances-eroded-long-trump) may worsen.
+1.3.3.1.3.4.1.1.2.2.1.2.1. Con: This US example is exasperated by a strongly opposed two party system, where the side with the power in the leglislative branch is most likely to also have control of executive branch. This creates incentive to allow power creep. Under Liquid Democracy the public holds the power in the leglislative branch, and do not have partisan reason to allow increased executive power.
+1.3.3.1.3.4.1.1.2.2.1.2.1.1. Con: This is only the case where too much power resides in one political party. The issues in the US are more to do with the lack of political plurality in the system, which does not require a different governance system to resolve, but a more representative range of voting options and/or greater strength of character of politicians.
+1.3.3.1.3.4.1.1.2.2.1.3. Pro: Minorities could be protected by having liquid democracy only enabled in one branch of government, say the Legislative. That way they still have access to judicial review.
+1.3.3.1.3.4.1.1.2.2.1.4. Pro: A strong constitution that limits what can be legislated would be critical to a successful implementation of Liquid Democracy.
+1.3.3.1.3.4.1.1.2.2.1.4.1. Pro: This would prevent leglislation which, for example, infringes on human rights.
+1.3.3.1.3.4.1.1.2.2.1.4.2. Pro: This would prevent the ability of voters to vote for money to be given to themselves to the point of bankrupting the government.
+1.3.3.1.3.4.1.1.2.2.1.5. Pro: Requiring a higher threshold when a vote is more important could ensure drastic changes are controlled. For example, voting to go to war or to change basic freedoms may require a minimum voter turnout and a larger supermajority to pass the vote.
+1.3.3.1.3.4.1.1.2.2.1.5.1. Pro: Using a [supermajority](https://en.wikipedia.org/wiki/Supermajority) instead of a 50% +1 majority will reduce the effects of inappropriate majority control.
+1.3.3.1.3.4.1.1.2.2.1.5.1.1. Pro: This would eradicate the problem of 51-49 votes being passed.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2. Con: A large majority may be impossible.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.1. Pro: The [2012 Egyptian election](https://en.wikipedia.org/wiki/Egyptian_presidential_election,_2012) had a 46% voter turnout and the winner had 25% of the votes cast.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2. Con: Making a decision with a small majority is a sign that the decision may well be the wrong one. Most democratic changes should require a large majority, with the exception of time-sensitive changes, which could be handled by the executive branch.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1. Pro: If there is low voter turnout and/or those who do vote are very divided, extremist measures can pass.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.1. Con: As voters can withdraw their vote at any moment, the ability of parties \(and consequentially top level delegates\) to push their agendas against the will of their voters would be fundamentally reduced, weakening their influence.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.1.1. Con: Like capitalism causes companies to die out and be replaced with stronger ones, the same may happen to parties under Liquid Democracy. If political parties begin pushing ideas that are not supported by the public then they would indeed quickly lose votes and influence, but they would just be replaced with parties which do match the political demands of the public. These new parties which do represent their voters interests could be stronger and wield more influence.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.1.1.1. Con: It seems fair that if they respect the political demands of the voters, they should be stronger. There is nothing wrong with that.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.2. Pro: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.2.1.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.3. Con: If an unpopular measure passes, then many previously unmotivated voters may change their minds and vote.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.2. Con: This may give too much power to the executive branch.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.2.1. Con: The decision of having a single leader who has lots of power to do what they want \(ie USA/Brazil - a [Presidential system](https://en.wikipedia.org/wiki/Presidential_system)\), or little power \(ie the UK/Canada/Japan - a [Westminster System](https://en.wikipedia.org/wiki/Westminster_system)\), is a separate decision to being Representative vs Liquid.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.3. Pro: This is similar to the emergency powers and executive orders that the executive branch in the US has.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.3.1. Con: US Executive orders are [often used for non-time-sensitive control](https://www.heritage.org/political-process/report/the-use-and-abuse-executive-orders-and-other-presidential-directives) of the country. An ideal system would only allow executive power to overrule/skip democratic voting if it is necessary in that moment, and cannot wait for the full democratic process.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.4. Pro: Any such decisions that turn out to be bad could be changed by the voters in the aftermath.
+1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.4.1. Pro: In the US, executive orders can [number in the thousands](http://www.presidency.ucsb.edu/data/orders.php) per President. At these quantities, they are too numerous for a finite senate to challenge them all. Liquid Democracy might be more effective at checking presidential power, as increased popular dissatisfaction with executive decisions can be met with increased numbers of empowered groups doing the work to lobby against the decision, draft/propose alternative legislation, and actually trigger a vote to change the law.
+1.3.3.1.3.4.1.1.2.2.1.5.2. Pro: This is an improvement over the status quo because it elevates the will of the people over the will of the politicians.
+1.3.3.1.3.4.1.1.2.3. Con: As the voting agenda is very public, it will be harder for this group to abuse policy direction compared to the existing groups driving policy discussion within government, without the public knowing. Mechanisms to check and remove the groups power would be available if public consensus, or the current country leader \(president, prime minister etc..\), agrees that abuse is occurring.
+1.3.3.1.3.4.1.1.3. Pro: A Liquid Democracy system could be very conservative in public votes, and keep most decisions to appropriate government bodies. A half dozen broad votes a year on hot topics \(or wider-direction decisions\) may provide the best balance between democratic will and efficient/stable governance.
+1.3.3.1.3.4.1.1.3.1. Pro: By voting a set of goals over a fixed term which is only changed in special circumstances eg war/ economic crisis, you give those responsible definite targets which they can be held accountable to.
+1.3.3.1.3.4.1.1.3.2. Con: If votes are too broad they are open to interpretation, meaning that the people implementing the decisions have free reign to control the detail unopposed. The public may feel the outcome is not what they wanted.
+1.3.3.1.3.4.1.1.3.2.1. Pro: Some examples of Direct Democracy like the [Brexit-Vote](https://www.businessinsider.com/britain-bregret-theresa-may-soft-brexit-2018-5) show that Direct Democracy can produce have highly controversial results.
+1.3.3.1.3.4.1.1.3.2.1.1. Con: Controversy might not be bad. Especially since often in Liquid Democracy models there is an option to change one's vote at any time.
+1.3.3.1.3.4.1.1.3.2.1.2. Con: Brexit may not be a good example, as it was not a legally binding referendum. If it was, a supermajority would likely have been required - removing the risk of a controversial result.
+1.3.3.1.3.4.1.1.3.3. Con: One of the benefits of a Liquid Democracy is that people vote on what interests them, otherwise they could delegate their vote to a particular member - i.e. a particular teacher has your voting power for education issues. They could do this for whatever voting areas they are ignorant of/have no interest in.
+1.3.3.1.3.4.1.1.3.4. Con: The whole point of liquid democracy is to delegate your vote to others so you aren't overwhelmed by the abundance of information.
+1.3.3.1.3.4.1.1.3.4.1. Con: They'd still have to inform themselves about policies and representatives to know which one to trust, and which ones best represent them.
+1.3.3.1.3.4.1.1.4. Con: If the citizens had a way of directly putting their concerns on the ballot \(perhaps with a certain number of signatures\) this would counterbalance the power of whatever institution "normally" decides what is voted on.
+1.3.3.1.3.4.1.1.4.1. Con: The UK has a petition system which has enabled [59](https://petition.parliament.uk/) topics to be debated in the house of commons, but none have ever resulted in a change of policy.
+1.3.3.1.3.4.1.1.4.2. Pro: Publicly suggested votes can function well. Switzerland [allows the public to suggest popular initiatives](https://en.wikipedia.org/wiki/Popular_initiative_\(Switzerland\)#Federal_popular_initiative)\(100,000 signatures required\). Issues are directly voted on, which has resulted in 22 changes in federal, cantonal and municipal law.
+1.3.3.1.3.4.2. Pro: When public opinion changes in reaction to sudden events, for example war/catastrophes, a sudden change in policy may be appropriate.
+1.3.3.1.4. Con: Only in subjects where public opinion is closer to an even split, encouraging the debate of such topics.
+1.3.3.1.5. Con: Measures can be taken to prevent this, such as an enforced refractory period after a change in policy happens.
+1.3.3.1.5.1. Con: One prime benefit of Liquid Democracy is its rapid response to society. An enforced refractory period would make it less desirable.
+1.3.3.1.5.2. Con: A refractory period will not be effective because many policies take years if not decades to see real effect. This a period is far longer than that which is reasonable for a refractory period.
+1.3.3.1.5.2.1. Con: There is no reason why the refractory period couldn't be set as years or decades, whatever is necessary for the benefits of the policy to be realised.
+1.3.3.1.5.3. Con: An enforced refractory period would ensure laws that are immediately known to be bad have to stay for a period of time.
+1.3.3.1.6. Con: -> See 1.3.3.1.3.1.
+1.3.3.1.7. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.
+1.3.3.2. Pro: Citizens could vote for contradicting or incompatible policies. For example: reducing taxes while at the same time increasing military spending. By voting for a party instead of individual measures, voters have to chose ideologies as a whole. Either communism or capitalism, but not both at the same time.
+1.3.3.2.1. Con: Policies can not be "legislatively incompatible". In current systems, policies are not proposed unless they fit with existing legislation i.e. they must be legislatively compatible with existing laws. This would not change in liquid democracy.
+1.3.3.2.2. Con: Policies might be "theologically incompatible", but this is already the case in current systems which have a mix of policies which are left leaning and right leaning.
+1.3.3.3. Pro: Physical co-location and large amounts of personal time devoted to legislation allow for building of expertise, rich conversation, and consensus-building. Discussions between distributed voters could be quite shallow, leading to bad decisions.
+1.3.3.4. Pro: More political polarization: legislative process becomes atomized \(i.e. each individual issue goes to referendum\), so it will become much more difficult to have a "package" deals where in exchange for support of a specific agenda, ruling party offers something to the opposition
+1.3.3.4.1. Con: This is a technologically solvable issue. E.g. By creating a  system where votes can be started and merged with rules on how votes are counted after merge.
+1.3.3.4.2. Con: Package deals are known for being used to sell & hide corrupted policies
+1.3.3.4.3. Con: When support for an idea is political instead of based on it's merits, something is wrong. Having more individual merit-based decisions and fewer exchanging of package deals would be beneficial.
+1.3.3.4.4. Pro: This form of compromise has been critical to the progress of politics in the US, because it allows disagreeing parties to compromise.
+1.3.3.4.4.1. Pro: An example of this was in the recent passage of the [Tax Jobs and Cuts Act of 2017](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017#Notable_opponents). They increased the child tax break to appease one senator and get his vote.
+1.3.3.4.4.2. Pro: Another example was the [Compromise of 1790](https://en.wikipedia.org/wiki/Compromise_of_1790), when Alexander Hamilton maneuvered to put the US capital in the South in return for getting his plan to consolidate the states debt past.
+1.3.3.5. Con: Liquid Democracies digital space does not ignore traditonal factors, because voters still live in a geographical location, listen to those political ideologies, and are affected by external contributing factors. Adding more digital activity does not remove any existing physical activity.
+1.3.3.6. Con: The spread of the internet is already causing democratic influence to move to digital spaces.
+1.3.3.7. Pro: Considering that the vast majority of people tend to reside in densely populated cities, tyranny of the majority would increase for less densely populated areas, that typically account for greater land area and different occupation types.
+1.3.3.7.1. Con: Every voter should have equal voting power, regardless of how near they live to their neighbors.
+1.3.3.7.1.1. Con: It has nothing to do with land ownership, rather where they are: for example, if California, with its large population, put forward a bill in congress regarding their need for western water rights, and everyone had 1 vote, all western states would not have the population to contradict that vote and would loose all of their water.
+1.3.4. Con: While individual citizens could be blackmailed, bribed or coerced otherwise into voting against their better judgments, this is more susceptible under Representative Democracy as the representatives are publically displayed and it is more difficult for lobbyists to bribe several thousand \(or million\) voters without being discovered.
+1.3.5. Con: Each time a vote is delegated, the delegater seeks to give it to one who is more intelligent. Thus, if this happens many times it will clearly trend towards maximizing intelligence and specialized intelligence.
+1.3.5.1. Pro: Since theoretically each additional delegate in the chain is more intelligent than the last, it is possible that even their ability to discern greater intelligence is increasing somewhat, barring those cases in which the delegation was made for specialization or work reduction and trustworthiness reasons.
+1.3.5.2. Pro: Whilst modern representative democracy's effectuate such extreme "candidate bottlenecking" that nearly unanimously all candidates who win are the most well connect or well funded, rather than having any significantly distinguishable higher intelligence at all.
+1.3.5.2.1. Pro: [Joe Biden was just elected in the most powerful country on earth by a "representative democracy".](https://www.youtube.com/watch?v=Slm5bvO-_5I)
+1.3.6. Con: The ability to delegate on topic allows voters to simplify the part of the political process they want to take part in and digest information when it becomes relevant or they care for it.
+1.3.7. Con: The easy ability to change votes allows voters to punish delegates if they are caught misleading or cheating the system. This is likely to lead to a less corrupt system.
+1.3.7.1. Con: Representative democracies often allow [recall of elected officials](https://en.wikipedia.org/wiki/Recall_election), which gives a mechanism for the public to change their minds after voting.
+1.3.7.1.1. Pro: In most US States, Nova Scotia, Colombia, Bavaria, Latvia, Philippines, Peru, some Swiss Cantons and Ukraine, [if enough voters change their minds](https://en.wikipedia.org/wiki/Recall_election) then an elected official can be recalled.
+1.3.7.2. Con: Misleading or cheating the system are criminal offences. They should be punished by the legal system and if they are not, the failing is with them, not representative democracy.
+1.3.8. Pro: Popular decisions, ideas and vote tend to represent a group's average and/or collective [cognitive biases](https://adweb.clarkson.edu/~awilke/Research_files/EoHB_Wilke_12.pdf) rather than its collective wisdom. Average is a synonym of mediocre.
+1.3.8.1. Con: According to Psychology, [wisdom of the crowd](https://en.wikipedia.org/wiki/Prediction_market) shows that the average of crowd decisions is good. For example [predictit](http://www.predictit.org) is often good.
+1.3.8.2. Con: Liquid democracy allows you to delegate your vote to a selection of domain experts rather than a single career politician who is not an expert at anything except campaigning.
+1.3.9. Pro: Combining traditional principle of popular mandate with civic deliberation means policy is informed both by citizens and policy-makers, thus maximising inclusion.
+1.3.10. Pro: The Media would have too much influence under Liquid Democracy.
+1.3.10.1. Con: That's a question of who runs the media.
+1.3.10.1.1. Con: Even an independent Media with good intentions could mislead people.
+1.3.10.1.2. Pro: A government run Media would be detrimental.
+1.3.10.1.3. Pro: If one independent company became a monopoly it would be too powerful and detrimental to Liquid Democracy.
+1.3.10.2. Con: Liquid Democracy moves power away from a centralised goverment, which helps prevent that government interfering in the media - ie using state press for propaganda, skewing coverage, and censorship of dissenting media.
+1.3.10.2.1. Con: The media would still be controlled by groups of individuals with vested interests, much as it is today.
+1.3.10.3. Pro: Misinformation and voter suppression campaigns such as the [Russian campaigns against the 2016 American elections](https://www.axios.com/senate-reports-russian-interference-2016-election-9d0daca6-1e2d-4617-9295-f8eec61c1719.html) are highly effective ways for foreign states to influence citizen opinion.
+1.3.10.4. Con: Internet, Social Media, Podcasting, Blockchain, and other decentralized and/or peer-to-peer applications are removing power from "The Media" which diffuses this problem.
+1.3.10.4.1. Pro: [68%](https://www.journalism.org/2018/09/10/news-use-across-social-media-platforms-2018/) of Americans now get their news from Social Media.
+1.3.10.4.1.1. Con: [Filter bubbles](https://fs.blog/2017/07/filter-bubbles/) cause the reporting users read to match their pre-existing views. This serves to re-inforce beliefs, propogate inaccurate information, and leave users infulenced by only one viewpoint on an issue.
+1.3.10.4.2. Pro: Advertising companies are increasing spend on [Infulencer Marketing](https://influencermarketinghub.com/the-rise-of-influencer-marketing/), to great success. This trend is creating/enabling a wider variety of indipendant infulencers, moving citizens away from relying on a narrow selection of powerful/influential news companies.
+1.3.10.4.2.1. Con: When social media infulencers are paid by politically motivated advertisers, they may become biased or required to push that advertisers agenda.
+1.3.10.5. Pro: Liquid democracy is far more likely to be subject to the tyranny of the few, with targeted campaigns to generate flash-interest single issue policy decisions in particular areas giving minority groups bigger sway on issue that the majority don't care enough about to be mobilised to vote against.
+1.3.10.5.1. Pro: This is true especially when you see the number of minority voices within majority communities across the globe, claiming to speak for the majority \(who happen to be politically unengaged\).
+1.3.10.5.2. Con: If a minority did pass something that the majority disliked, they could always vote against it later in time.
+1.3.10.5.3. Con: Elections result in massive concentration of manipulative media practices during shorts periods of time. Replacing them with Liquid Democracy will make these practices costlier, complex and riskier because citizens can change their vote at any time which makes investing in lies riskier.
+1.3.10.5.3.1. Con: The ruling class already publishes manipulative propaganda all year.
+1.3.10.5.3.2. Con: Those with the access to resources will [find ways](https://www.bbc.co.uk/news/uk-politics-48337499) to continuously fund the spread of their propaganda.
+1.3.10.6. Pro: -> See 1.3.2.
+1.3.10.7. Pro: Liquid democracy could increase the power of people with the media exposure required to appeal to voters directly. People with a platform in the media \(tv, large social media followings\) can directly appeal to voters for voting power on a particular issue. This might further the trend towards rule by celebrities.
+1.3.10.7.1. Con: Votes of popular figures will be effectively public, so if they cast votes that contradict their public image, support will eventually migrate.
+1.3.10.7.2. Pro: People may delegate votes to celebrities because they like them and not because they are informed.
+1.3.10.7.2.1. Con: This is already happening with the current system, with the difference that once you choose them you don't really know what they are voting for and you're stuck with them for a few years.
+1.3.10.7.2.1.1. Con: The effect is limited in current Representative Democracy, as celebrities have to choose to run for office to receive any votes. Under Liquid Democracy celebrities who have shown no interest in politics could still receive delegated votes from fans.
+1.3.10.7.2.1.1.1. Pro: Celebrities already are very active in politics, lowering the barriers to entry would surely add to that activity.
+1.3.10.7.2.1.1.1.1. Pro: Donald Trump, Arnold Schwarzenegger, and John F. Kennedy were all actors before going into politics.
+1.3.10.7.2.2. Pro: -> See 1.3.10.7.2.1.1.1.
+1.3.10.7.3. Pro: Liquid Democracy would surely add to the power of people who have a cult following, figures like [Elon Musk](https://www.theverge.com/2018/6/26/17505744/elon-musk-fans-tesla-spacex-fandom) and [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones).
+1.3.10.7.3.1. Pro: This would be a good thing because it would give the followers of these social influences political representation.
+1.3.10.7.3.2. Con: These types of people already have huge amounts of power, Liquid Democracy would make them too powerful which would lead to problems.
+1.3.10.7.3.3. Con: These types of people don't answer to anyone. They can be erratic and unpredictable, not the type of people who should be running a country.
+1.3.10.8. Pro: Liquid democracy would multiply the manipulative media practices currently only experienced during election time.
+1.3.10.8.1. Con: A lot of people pay continuous attention to politics anyway, as evidenced by the very significant media coverage of politics.
+1.3.10.8.2. Pro: Disinformation, propaganda, and Fake News will be even more powerful than they are under other forms of government because it directly affects the public who will directly affect elections.
+1.3.10.8.3. Con: -> See 1.3.10.5.3.
+1.3.10.9. Pro: Voters can easily fall prey to either the biased information, alarmist rhetoric or deliberately misleading manipulations of either the wealthy and/or influential seeking to unfairly influence citizen's votes.
+1.3.10.9.1. Pro: With the way the internet works, a well timed 'movement'  designed to foment doubt could be launched at the 11th hour and swing an enormous amount of votes away or towards a given bill. This form of voting won't necessarily make people more informed. But it might make viral marketing more toxic.
+1.3.10.9.2. Con: This problem already exists for delegative democracy during referendums, and general elections.
+1.3.10.9.2.1. Con: People being manipulated and misled in representative democracy is by logic not a reason to change to a Liquid Democracy in which the problem will still exist just the same.
+1.3.10.9.2.2. Con: Although this problem exists in other forms of democracy, it may be exacerbated by liquid democracy.
+1.3.10.10. Con: [Unbiased](https://www.allsides.com/unbiased-balanced-news) / [centrist](https://mediabiasfactcheck.com/center/) media sources exist, allowing those who care about their information intake to receive only positive influences.
+1.3.10.10.1. Con: If people don't receive relevant negative influences regarding the news, particularly the most wide-reaching negative events, then people would be unable to deal with any event that happens.
+1.3.10.10.2. Con: Nothing can be truly and entirely unbiased
+1.3.10.11. Con: Media influence can be a good thing.
+1.3.10.11.1. Pro: [Investigative journalism](https://www.brookings.edu/blog/brookings-now/2014/10/20/ten-noteworthy-moments-in-u-s-investigative-journalism/) has been used to call government and corporations to account for wrongdoing, secret practices, and even corruption, often sparking public outcry and reform.
+1.3.11. Con: Juries show that random citizens can consistently make good decisions.
+1.3.11.1. Pro: An 18 month study looking at half a million cases in the UK showed that juries are [fair, efficient and effective](https://www.theguardian.com/commentisfree/2010/feb/21/juries-work-best-research).
+1.3.12. Con: A Liquid Democracy system would allow to implement some aspects of an [Epistocracy](https://link.springer.com/chapter/10.3920/978-90-8686-752-3_3) \(eg. viewing 10 mandatory arguments before being able to vote\) in an attempt to increase the voters interest to research and understand what they are voting on.
+1.3.12.1. Con: If viewing is the only requirement, then this will not help matters as people can point their browser at the page while they make a cuppa. If there is a test, to ensure that they've read & understood then that can be used to exclude the wrong sort of voter.
+1.3.13. Pro: Referendums show the result of letting the public directly vote on ideas, and many believe that [referendums result in poor decisions](https://www.economist.com/the-economist-explains/2016/05/18/why-referendums-are-not-always-a-good-idea).
+1.3.13.1. Con: In [Switzerland](https://www.kialo.com/could-liquid-democracy-be-a-better-system-7865/7865.0=7865.1+7865.448+7865.317), people can [vote directly on policy decisions](https://en.wikipedia.org/wiki/Voting_in_Switzerland#Legislative_referendums), and Switzerland is consistently in the [top 5 countries](https://www.kialo.com/could-liquid-democracy-be-a-better-system-7865/7865.0=7865.1+7865.448+7865.317+7865.318) in the world. Therefore, It can be said that the average Swiss voters are doing a good job at getting policy decisions right.
+1.3.13.2. Pro: Voters are already overwhelmed with the odd referendum here and there \(see Brexit\), bombarding them with a multitude of highly complex topics in very diverse subjects will aggravate the problem.
+1.3.13.2.1. Con: Switzerlands Semi-Direct Democracy has well functioning voter turnouts/engagement, despite [allowing citizens to vote on topics directly](https://en.wikipedia.org/wiki/Voting_in_Switzerland#Types_of_votes).
+1.3.13.2.1.1. Pro: Switzerland is a modern semi-direct democracy which has 3-4 votes per year.  It has [average voter turnouts around 46%](https://www.swissinfo.ch/eng/silent-majority-always-wins-swiss-ballots/7746).  Big issues have high turnouts \(joining the EEA received 70% turnout\), but there are "[only a few Swiss who always vote](https://www.swissinfo.ch/eng/yes-no-or-sometimes-_most-swiss-do-actually-vote/41963568)".
+1.3.13.2.1.2. Con: Switzerland is selective on what is voted on, whereas a Liquid Democracy might choose to open all decisions to the voting public.
+
+Between January 1995 and June 2005, [Swiss citizens voted 31 times, to answer 103 questions](https://en.wikipedia.org/wiki/Voting_in_Switzerland#cite_note-Golay-2), including Elections, federal proposals, and citizen proposals.
+1.3.13.2.1.2.1. Con: -> See 1.3.3.1.3.4.1.1.
+1.3.13.2.2. Con: If anything Brexit is reason for liquid democracy. The main reason why brexit went through was a lack of voter turnout, liquid democracy would minimize the barriers to entry to gain high voting numbers as turning out to vote isn't required if you have already allocated your vote to someone else
+1.3.13.2.3. Con: -> See 1.3.3.1.3.4.1.1.3.4.
+1.3.13.3. Con: Referendums in one country are not representative of referendums in all other countries. While most democratic countries have some form of referendum or initiative, they each have a unique process of doing so.
+1.3.14. Con: It is better to rely too heavily upon the citizen, then rely on an unchangeable really small group of people for few years.
+1.3.15. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.5.
+1.3.16. Pro: The average \[voter/person\] cannot be trusted to make smart policy decisions.
+1.3.16.1. Pro: The public are susceptible to emotional voting in reaction to news stories.
+1.3.16.1.1. Con: An amount of discussion before voting could be enforced to temper emotion with logic.
+1.3.16.2. Pro: Voters might become less informed.
+1.3.16.2.1. Con: When voters are able to make an impact and change their votes more often they will feel more engaged with the political process, and get more involved in politics.
+1.3.16.2.1.1. Con: -> See 1.3.13.2.
+1.3.16.2.1.2. Pro: Many people may feel that no politician matches their own opinions, and so they do not vote. These people may become involved in politics if they are able to put forward their own opinions, instead of having to choose whichever politician aligns best with their political beliefs.
+1.3.16.2.1.3. Pro: Liquid democracy allows for gradual improvement of voter informedness instead of cycling between informedness and uninformedness every election
+1.3.16.2.1.3.1. Pro: Currently voters inform themselves with elections or referenda. Instead they could inform themselves when hearing about a specific situation they disagree with.
+1.3.16.2.1.3.1.1. Con: Voters can already inform themselves whenever they wish.
+1.3.16.2.1.3.1.2. Pro: [VoteMatrix](http://www.votematrix.com) is already developing this technology
+1.3.16.2.1.3.1.3. Pro: Because changing your vote has an impact at any time, the incentive to inform yourself is higher.
+1.3.16.2.1.3.1.4. Pro: The information needed to cast a vote is split into chunks over time instead of concentrated in a ballot, a program or a ticket.
+1.3.16.2.1.3.1.5. Con: Voters could be overwhelmed by the abundance of information, as every policy would be up for debate all the time.
+1.3.16.2.1.3.1.5.1. Con: -> See 1.3.3.1.3.4.1.1.3.4.
+1.3.16.2.1.3.1.6. Con: Because changing one's vote has an impact at any time, the incentive to disinform voters is higher.
+1.3.16.2.2. Con: Given that a voter can change their vote at any moment, there would be a larger incentive for candidates to keep voters well-informed.
+1.3.16.3. Con: The question is not just whether the average voter can make smart policy decisions -- the proposal assumes many and, realistically, most, people will not vote directly.  The question is whether they can entrust somebody else to either a\) make policy decisions or b\) delegate their vote to another party, who then can make policy decisions. They are already doing \(a\) under the current democratic system.
+1.3.16.4. Con: Most Western democracies underestimate the intelligence of citizen voters.
+1.3.16.4.1. Pro: The use of sloganeering by the political class tries to ensure that citizens only hear the 'right' sound bite in the media. Thus diminishing the quality of public debate, oversimplifying nuanced policies or topics, and often inflaming a tide of irrational public vitriol by perpetuating misconception or misinformation.
+1.3.16.5. Pro: Shorter-term thinking might increase.
+1.3.16.5.1. Pro: If the discussion period is too small for people to think and debate a vote, a lower quality decision could be the result.
+1.3.16.6. Con: Liquid democracy allows for different levels of informedness amongst voters.
+1.3.16.6.1. Pro: Discussion of an issue amongst previously ignorant voters would increase voter, and therefore society's collective knowledge. This is more likely under Liquid Democracy as people have their voices heard, and would take greater pride in increasing their knowledge to keep up with their peers.
+1.3.16.7. Pro: The vast majority of any population is not very intelligent. Any system which moves the decision making apparatus away from people who ought to know, to those who are not smart enough to recognise what they do not know would be a regressive step.
+1.3.16.7.1. Con: -> See 1.3.12.
+1.3.16.8. Con: -> See 1.3.13.1.
+1.3.16.9. Con: If true, this would be a strong argument for monarchy over democracy.
+1.3.16.10. Pro: Misinformation will have a greater effect on regional/national policy.
+1.3.16.10.1. Pro: -> See 1.3.10.3.
+1.3.16.11. Pro: While the means of voting have changed, so the complexity of government has increased. The vast majority of people do not know all the consequences and factors that go into a decision.
+1.3.16.11.1. Con: This suggests that our currently elected officials understand all the complexities - when clearly they don't. So with liquid democracy even if we let many idiots vote we won't be in any worse position that we are today.
+1.3.16.11.2. Con: The complexity of government is actually a reason to look at liquid democracy. If society has really grown x10 more complex, we might need 10x more representatives and so the delegates system is a great idea
+1.3.16.11.3. Pro: On the whole, the majority of voters are easily confused by complex political decision making to make a valid, informed choice.
+1.3.16.11.4. Pro: National/regional policy decisions are not to be taken lightly, and should only be made by experts in the relevant field\(s\).
+1.3.16.11.4.1. Con: Under liquid democracy, voters will delegate their votes to experts in the relevant fields.
+1.3.16.11.4.1.1. Pro: If votes are frequent, individuals will not have the time to research every topic and will therefore mostly choose to delegate.
+1.3.16.11.4.1.1.1. Con: This is not a bad thing, but a necessity. People can vote on the most important decisions directly, and delegate the rest.
+1.3.16.11.4.1.1.1.1. Pro: This would be like in the current situation in the US where between 2017 and 2019 congress voted on 13,556 bills. [Source](https://www.govtrack.us/congress/bills/statistics)
+1.3.16.11.4.1.1.1.2. Con: That it's a necessity does not mean that it is not a bad thing. The perceived over-representation of experts in government is one of the [stated reasons](https://www.chathamhouse.org/expert/comment/michael-gove-trouble-experts) for recent populist political surprises.
+1.3.16.11.4.1.1.1.2.1. Con: Michael Gove was referring to "organizations with acronyms saying that [they know what is best and getting it consistently wrong](https://en.wikiquote.org/wiki/Michael_Gove#On_Experts)". In Liquid Democracy experts who consistently get it wrong would loose delegations quickly, loosing influence.
+1.3.16.11.4.1.1.2. Pro: -> See 1.3.16.2.1.3.1.5.
+1.3.16.11.4.1.2. Pro: -> See 1.3.16.11.4.1.1.1.
+1.3.16.12. Pro: Liquid Democracy works best when the voter delegates their vote whenever ignorant of some topic. Most people fail to recognize their own ignorance, so in practice many people would directly vote \(or worse, use votes delegated to them\) on issues that they don't fully understand.
+1.3.16.12.1. Pro: If there are millions of people voting then of course "many" people will do this, the question is "what percentage do this?"
+1.3.16.12.2. Con: The number of decisions that must be made in a democracy is extremely high. People will find it onerous to vote on every claim, and so for practical reasons will have to delegate to somebody or else, abstain, or vote randomly. This is supported by general election voting behavior. If fifty percent of people often can't be bothered to vote in a general election, how many will realistically want to vote personally on many specific issues?
+1.3.16.12.2.1. Con: -> See 1.3.13.2.1.
+1.3.16.12.2.2. Con: -> See 1.3.3.1.3.4.1.1.
+1.3.16.12.3. Con: -> See 1.3.12.
+1.3.16.13. Con: -> See 1.3.16.2.1.3.
+1.4. Pro: Liquid Democracy prevents abuse of power, corruption, and exploitation of the political institutions at the hands of elites.
+1.4.1. Pro: Delegates \(formerly candidates/representatives\) are not incentivized with a period of power to lie with promises they can't or do not intend to keep.
+1.4.1.1. Con: Having many votes delegated to one person \(voting power\) is a form of power itself, delegates will likely want to get as much voting power as possible and are thus incentivized to lie if that may reward them with more delegated votes.
+1.4.1.1.1. Pro: People would campaign to become delegates, and this role would replace current politicians. The unscrupulous could target the easily manipulated, and there'd be a bunch of populist politicians \(delegates, in that future\) running around with thousands or millions of people backing them.
+1.4.1.2. Con: There are many ways to "incentivise" \(bribe\) delegates, not just periods of power. Money, for example.
+1.4.1.2.1. Pro: Liquid Democracy will enable widespread vote buying.
+1.4.1.2.1.1. Con: Assuming votes are kept anonymous, buying a delegates votes would be risky as you cannot check they voted as you instructed. Thus, vote buying would not be widespread.
+1.4.1.2.1.1.1. Con: Individual votes could remain private. However delegates votes are more likely to be public, [as is the case](https://www.mysociety.org/wehelpyou/how-did-my-mp-vote/?gclid=CjwKCAjwqZPrBRBnEiwAmNJsNitNL0LxFwIyqlzLOcFQVUSOUByoK30vw21qzlhzR3MBm7zrbFqHMhoCq9YQAvD_BwE) for elected officials in most current systems.
+1.4.1.2.1.2. Pro: It will be significantly cheaper for an ill-intentioned company to buy support from unpaid delegates.
+1.4.1.2.1.2.1. Pro: Policing delegates for bribery or other forms of fraud would be an enormous undertaking due to the sheer number of delegates.
+1.4.1.2.1.2.2. Con: Similarly as a delegate, a vote is worth a lot less so you will want to spend less on it or you will have to increase your budget to have the same power as you have now.
+1.4.1.2.1.2.2.1. Con: As demonstrated by Germany's Pirate Party, very few people participate in liquid democracy, so the cost of corruption would be even cheaper than with today's party politicians.
+1.4.1.2.1.2.2.1.1. Pro: Germany's Pirate Party Liquid Democracy attempt was abandoned in 2016, because [only 583 citizens of the more than 80,000 authorised users registered for the platform](https://internetunddemokratie.wordpress.com/2016/05/02/liquid-friesland-wurde-eingestellt/) by mid-2015, and votes were neither representative of the general public nor for the general will.
+1.4.1.2.1.2.2.1.1.1. Con: An effective implementation of Liquid Democracy requires high voter involvement.
+1.4.1.2.1.2.2.1.1.1.1. Pro: To achieve high voter turn out, a government or society would need to develop a sense of public duty and pride in voting within the electorate.
+1.4.1.2.1.2.2.1.2. Con: -> See 1.4.1.2.1.2.2.1.1.1.
+1.4.1.2.1.3. Pro: If their work is unpaid, delegates cannot be subjected to financial scrutiny.
+1.4.1.2.1.3.1. Pro: Attempts to influence power will disperse and far from leaving lots of evidence, would be much harder to trace.
+1.4.1.2.1.3.2. Con: There would likely still be political parties, and funding given to people running at the head of those parties. This would give many top level delegates some of the same rewards and influence of current politicians.
+1.4.1.2.1.3.2.1. Pro: Funding given to high level representatives under LD could lead to corruption and bribery.
+1.4.1.2.1.3.2.1.1. Con: Remove funding of individuals and assigning it to groups \(if necessary\) would circumvent this issue. For example, fund a group of teachers for a school, rather than the headteacher. In this example, someone could kidnap a voter's children much easier than they could an entire school of teacher's children.
+1.4.1.2.1.3.2.2. Con: Parties would form to vote on an issue, and then fade away once the vote has passed, although granted they would try to raise a vote again if dissatisfied. Parties would also be single issue rather than over a collection of issues as under representative democracy, so there's still an improvement.
+1.4.1.2.1.3.2.3. Pro: Political parties are any organised group of people with at least roughly similar political aims and opinions, working together to gain influence. This may increase under Liquid Democracy, as there is more potential for [single-issue political parties](https://en.wikipedia.org/wiki/Single-issue_politics) to actually affect change for their specific political aim, eg marijuana legalisation, environment issues, or gay rights, without having to be elected to run the whole government.
+1.4.1.2.1.3.2.3.1. Pro: -> See 1.4.1.2.1.3.2.2.
+1.4.1.2.1.3.2.4. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.1.
+1.4.1.2.1.3.3. Con: Tying a small monetary value to a vote may help increase voter participation and decrease corruption. "Politicians" would then be paid based on how many votes they cast, which is directly linked to how many people delegate to them.
+1.4.1.2.1.4. Pro: As individual voters \(those who vote directly without delegating\) hold more power, they may become targets.
+1.4.1.2.1.4.1. Pro: Influencing person by person with small amounts and favours is much easier than influencing a greedy party which needs complex mechanisms to hide large bribes.
+1.4.1.2.1.4.2. Con: Individual vote buying was commonplace in the 19th century, but has ["basically disappeared"](https://www.princeton.edu/csdp/online-community/historical-theoretical-pe/Stokes-Dunning-Nazareno-and-Brusco_Chapter-8.pdf) from UK/USA politics.
+1.4.1.2.1.5. Pro: Implementation and audit of the voting system would be more complex and insecure than the traditional system.
+1.4.1.2.1.5.1. Con: Liquid Democracy can use modern technology to achieve benefits which the status quo cannot achieve.
+1.4.1.2.1.5.1.1. Pro: Technical advances such as widespread internet access and blockchain are now available.
+1.4.1.2.1.5.1.1.1. Con: Technological advances are merely an argument for the possibility of liquid democracy, not for its desirability, when compared to better democracy innovations.
+1.4.1.2.1.5.1.1.2. Con: Technological feasibility is a requirement, not a favourable argument, not all that is technologically feasible should be done.
+1.4.1.2.1.5.1.2. Con: Liquid Democracy relies on technology that might not be accessible to all potential voters.
+1.4.1.2.1.5.1.2.1. Pro: If a democracy relies on unequal resources, then it could [never be a real democracy](https://www.democracy-international.org/human-rights) as all citizens wouldn't benefit from the same access to vote.
+1.4.1.2.1.5.1.2.2. Pro: Some developing nations and poorer countries do not have adequate access to the internet.
+1.4.1.2.1.5.1.2.3. Con: A public office can provide technology for free to be used to come and change votes at all times. Plus people could use the device of a friend or relative as long as they can authenticate with the voting service.
+1.4.1.2.1.5.1.2.4. Con: Requiring technology adoption within the population does not mean that it isn't a better system, just that there are requirements for a society to reach before it is possible.
+1.4.1.2.1.5.1.3. Con: Higher reliance on technology amounts to higher susceptibility to cyber attacks.
+1.4.1.2.1.5.1.3.1. Con: Society has proven that it can make critical systems safe from attack. Our infrastructure, financial, and defense systems would all have equally catastrophic consequences if they were hacked.
+1.4.1.2.1.5.1.3.1.1. Con: Many existing critical systems already get hacked.
+1.4.1.2.1.5.1.3.1.1.1. Pro: [Russia](https://www.forbes.com/sites/jamesconca/2018/03/16/russia-hacks-into-u-s-nuclear-power-plants/#60c53f1757b9) has hacked into many of our government entities and domestic companies in the energy, nuclear, commercial facilities, water, aviation and critical manufacturing sectors.
+1.4.1.2.1.5.1.3.1.2. Pro: These vital systems give more reward for successfully breaching them, and so would be targeted before a voting system. Terrorists wouldn't hack the voting system, they would hack nuclear reactors/weapons systems. State actors wouldn't hack the voting system in a cyber war, they would attack services like water, electricity, and transport.
+1.4.1.2.1.5.1.3.1.2.1. Con: Hacking elections in favor of preferred candidates can be very beneficial for foreign actors or non-state actors. There is an incentive for them to therefore, do so.
+1.4.1.2.1.5.1.3.1.2.2. Con: Hacking elections could be achieved subtly, whereas weapons systems and utilities would be open declarations of war. Subverting power without being noticed has benefits which can't be achieved by open attacks.
+1.4.1.2.1.5.1.3.2. Con: To alter votes by hacking such a voting system, one would not only have to succeed in breaching all layers of security, but one would have to stay undetected for the altering of votes to have any meaning.
+1.4.1.2.1.5.1.3.2.1. Pro: Even if the system is hacked and votes are forged, users can check and change their votes, which means to actually deceive users, the hack would need to maintain constant activity and is more likely to get caught.
+1.4.1.2.1.5.1.3.2.2. Con: Altering Votes may not be the most effective way to hack a liquid democracy platform.
+1.4.1.2.1.5.1.3.2.2.1. Pro: Creating users or votes that don't exist such as making dead people and cartoon characters vote may be more effective because it would not be reversed when the actual user logged in.
+1.4.1.2.1.5.1.3.2.2.2. Pro: A more effective means of hacking may be to fix the tallying mechanism. Then one target can affect the whole outcome, rather than trying to hack huge numbers of voters.
+1.4.1.2.1.5.1.3.3. Con: The system itself discourages hacks because the pay-off is low. You can steal one vote every x seconds somebody changes his/her vote instead of 10000 a second on current election day.
+1.4.1.2.1.5.1.3.3.1. Con: Current Western democratic voting systems are very hard to mass manipulate.
+1.4.1.2.1.5.1.3.3.1.1. Pro: The UK [uses paper voting and manual counting](https://theconversation.com/explainer-how-britain-counts-its-votes-41265), which has proven to be reliable.
+1.4.1.2.1.5.1.3.3.2. Pro: In the status quo, electronic voting machines are hackable, according to [Marketplace Tech](https://www.marketplace.org/2018/10/23/tech/voting-machines-are-totally-hackable-whos-going-pay-fix-them) and [The New York Times](https://www.nytimes.com/2018/02/21/magazine/the-myth-of-the-hacker-proof-voting-machine.html).
+1.4.1.2.1.5.1.3.3.2.1. Con: This is merely an indication that such machines need to be updated and upgraded; it doesn't affect their potential usefulness.
+1.4.1.2.1.5.1.3.4. Con: Blockchain technology is much [less likely to be hackable](https://www.zdnet.com/article/is-blockchain-voting-on-the-way/) because it can run on distributed heterogeneous hardware; many exploits must be combined to pull off a hack.
+1.4.1.2.1.5.1.3.4.1. Con: Blockchain technology is only useful to remove centralised control, and therefore would have to be run on the public internet. This [inreases the attack surface compared to traditional voting](https://www.technologyreview.com/s/611850/why-security-experts-hate-that-blockchain-voting-will-be-used-in-the-midterm-elections/) systems which run on closed networks.
+1.4.1.2.1.5.1.3.5. Con: If run on public blockchains with other simultaneously running applications, it makes it unlikely to detect even what to hack and the computing power being used for the actual underlying Liquid Democracy platform could be just a tiny fraction of the calculations, making it a search for a needle in a haystack.
+1.4.1.2.1.5.1.3.5.1. Pro: If liquid Democracy was implemented using blockchain, which is an open distributed ledger, then anyone can view the ledger and look for flaws, anomalies and hacks.
+1.4.1.2.1.5.1.3.5.1.1. Con: Any democratic system needs reliable voting mechanics to measure the will of the citizens, irrespective of how this requirement is technically achieved.
+1.4.1.2.1.5.1.3.6. Con: A [formal provable bug-free software](https://stackoverflow.com/questions/4065001/are-there-any-provable-real-world-languages-scala) is possible \(see processor development and [space travel](https://www.zdnet.com/article/why-todays-spacecraft-still-run-on-1990s-processors/)\). Unfortunately it limits the complexity of the software and if done only for 'critical' modules, complex hacks remain possible that target 'non-critical' modules, but achieve the same results.
+1.4.1.2.1.5.1.3.6.1. Con: [Mistakes still happen](https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw), [and not unfrequently.](http://www.itworld.com/article/2823083/enterprise-software/88716-8-famous-software-bugs-in-space.html)
+1.4.1.2.1.5.1.3.6.2. Con: Even with the absolute unhackable system, hackers can exploit the human factor.
+1.4.1.2.1.5.1.3.7. Con: [Open-source software](https://en.wikipedia.org/wiki/Open-source_software) could allow mass review of software and detect issues like heartbleed.
+1.4.1.2.1.5.1.3.8. Pro: Ransomware could block citizens from voting, unless they pay a huge fee.
+1.4.1.2.1.5.1.3.9. Con: Status Quo elections are very susceptible to hacking.
+1.4.1.2.1.5.1.3.9.1. Pro: -> See 1.4.1.2.1.5.1.3.3.2.
+1.4.1.2.1.5.1.3.9.2. Pro: Elections do get hacked, and the [goal may not be to change the outcome, but to disillusion voters](https://www.marketplace.org/shows/marketplace-tech/what-if-weakest-link-election-security-confidence).
+1.4.1.2.1.5.1.4. Pro: Current form of democracy exists, because it was unfeasible for a citizen to travel to the capital to cast a vote every time, and so representatives were sent instead.
+1.4.1.2.1.5.1.4.1. Con: We could have votes carried by messenger rather than by elected representatives, so Liquid Democracy could have been done back then.
+1.4.1.2.1.5.1.4.1.1. Con: One could reasonably move representatives to central locations. It was not feasible for large numbers of decentralised voters to participate in discussions and vote directly.
+1.4.1.2.1.5.1.4.1.2. Con: Moving votes in this manner would have been highly susceptible to voter fraud.
+1.4.1.2.1.5.1.4.2. Pro: [Representative democracy](https://en.wikipedia.org/wiki/Representative_democracy#History) came into particular general favour in post-industrial revolution \(1800s\) nation states where large numbers of citizens evinced interest in politics, but where technology and population figures remained unsuited to direct democracy.
+1.4.1.2.1.5.1.4.2.1. Con: Representative Democracy in the US was [chosen because of its merit](https://www.huffingtonpost.com/george-friedman/the-founding-fathers-never-meant-to-create_b_13051196.html) and not because [Direct Democracy was technologically infeasible.](https://en.wikipedia.org/wiki/Direct_democracy#History)
+1.4.1.2.1.5.1.5. Pro: [Zero Knowledge Proofs](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff) allow us to use cryptography to verify that a voter has followed the rules [without revealing](https://crypto.stanford.edu/pbc/notes/crypto/voting.html) their individual vote. This is a required precursor for Liquid Democracy to work in the real world.
+1.4.1.2.1.5.1.5.1. Con: There is no need to keep your identity or vote secret from the voting system unless you do not trust your government or telecoms infrastructure.
+1.4.1.2.1.5.1.5.1.1. Pro: We already trust our telecoms infrastructure with essential public \(utilities, services\) and private \(banking\) data. There is no reason not to trust communication with a well designed traditional digital voting system.
+1.4.1.2.1.5.1.5.1.2. Pro: Liquid Democracy is the people telling the government what to do - there is implicit trust in that relationship and so there is no risk to letting the government know what that vote was.
+1.4.1.2.1.5.1.5.2. Con: If voter's identities are a matter of public record, then the occurence of corruption would be lowered, as people would not want to be known to have behaved fraudulently.
+1.4.1.2.1.5.1.5.3. Con: If voter identities are public, people would like to be seen to contribute more to society to feel as valued as other citizens who contribute.
+1.4.1.2.1.5.1.5.4. Pro: If historic votes are recorded, the government could have an abusable dataset on every citizens personal opinions.
+1.4.1.2.1.5.1.5.4.1. Con: This is not specific to Liquid Democracy - A Representative Democracy could record/abuse historic votes and other intrusive data on citizens too if the technology to do so was present.
+1.4.1.2.1.5.1.5.4.2. Con: This would not happen if votes are entirely anonymous.
+1.4.1.2.1.5.1.5.4.3. Pro: If government knows the political leaning of its citizens it can abuse that to discriminate against dissenters.
+1.4.1.2.1.5.1.5.4.3.1. Pro: This has/is done by oppressive governments everywhere. Examples include: [Germany](https://en.wikipedia.org/wiki/Racial_policy_of_Nazi_Germany), [China,](https://nypost.com/2018/09/17/china-is-inventing-a-whole-new-way-to-oppress-a-people/) [North Korea](https://en.wikipedia.org/wiki/Human_rights_in_North_Korea), [and Communist U.S.S.R.](https://en.wikipedia.org/wiki/Political_repression_in_the_Soviet_Union)
+1.4.1.2.1.5.1.5.4.4. Con: Under an effective implementation of Liquid Democracy, if government started abusing citizen's data, a vote could be made to change the government or the government could be brought to court.
+1.4.1.2.1.5.1.5.4.5. Con: Under Liquid Democracy, depending on the implementation, votes could still be anonymous; like the [Pirate Party](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works).
+1.4.1.2.1.5.1.5.4.6. Pro: Anonymity and venerability might be mutually exclusive in Liquid Democracy. This is why the [Pirate Party is moving away from anonymous voting](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works).
+1.4.1.2.1.5.2. Con: [Decentralized autonomous organizations](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) \(DAOs\) being based on immutable distributed ledger technologies \(e.g. Blockchains\) can be used for that purpose. A framework to create such organizations is currently developed by several open-source collaborations \(e.g. [daostack.io](https://daostack.io/) and [aragon.one](https://aragon.one/network/)\)
+1.4.1.2.1.5.2.1. Pro: Setting up a system of incentivization for action that benefits the community is core to decentralized projects - when individuals find it in their best interest and have financial and social benefits from participation - they will vote.
+1.4.1.2.1.5.2.2. Con: DAOs are highly complex to create and require speciality skillsets, and so until proven, commonplace, and well tested they are not yet a solution for complexity.
+1.4.1.2.1.5.2.3. Con: The public [does not currently understand](https://www.coindesk.com/whats-blockchain-hsbc-survey-finds-59-consumers-dont-know/) blockchain, let alone DAOs. A voting system which is not commonly understood is unlikely to be supported/trusted by the general public.
+1.4.1.2.1.5.2.3.1. Con: The public does not need to know how it works. Not much of the public knows how the internet or computers work, and yet [86% of US households had a computer in 2015.](https://www.statista.com/statistics/214641/household-adoption-rate-of-computer-in-the-us-since-1997/)
+1.4.1.2.1.5.2.3.1.1. Pro: Not many people know the full details of current government constitutions and voting rules, but rather they understand the simple idea "we vote people into power". The simple idea of Liquid Democracy is as easily understandable: "we can vote ourselves, or vote people in our place".
+1.4.1.2.1.5.2.3.1.2. Pro: In order to use the internet and computers, a user does not need to understand underlying technology choices \(Why use TCP? Why split CPUs and GPUs?\), rather they only need to know how to use it and what it can do. The same analogy may apply to a voting system: As long as users know how to vote and the system has good usability, they do not need to know why the government chose to implement it that way.
+1.4.1.2.1.5.3. Pro: -> See 1.4.1.2.1.5.1.3.
+1.4.1.2.1.5.4. Con: We have many existing systems which are [more technologically complex](https://www.information-age.com/technology-finance-banking-sector-123471800/) than a Liquid Democracy voting platform would be, and they are still efficient and secure.
+1.4.1.2.1.5.4.1. Pro: Tax systems, which affect almost all citizens, are essential for a countries running, and cope with a complex financial system remain efficient and secure, despite [96%](https://www.pwc.com/gx/en/services/tax/publications/paying-taxes-2018/world-bank-group-commentary.html) of OECD High-income countries using digital/electronic systems.
+1.4.1.2.1.5.4.2. Con: A governments electronic voting system would gravitate more cyber attacks than imaginable, hence even the littlest mistake could alter our future.
+1.4.1.2.1.5.5. Con: Working examples of Liquid Democracy platforms have already been created, for example [Google Votes](https://www.tdcommons.org/cgi/viewcontent.cgi?article=1092&context=dpubs_series) and [LiquidFeedback](https://liquidfeedback.org/).
+1.4.1.2.1.5.6. Pro: Trillions of $/€/? could depend on state-wide Liquid Democracy votes. And in contrast to other complex systems \(e.g. in the financial sector\), such a Liquid Democracy system would have millions of individual participants that would have to be verified. There are no more complex and more high-stake systems.
+1.4.1.2.1.5.6.1. Con: There are efficient ways of verifying large groups of online individuals, like those used by Crypto and Stock exchanges online where one has to enter their SSN and pictures of drivers licence etc.
+1.4.1.2.1.5.6.2. Con: Voter fraud already exists in status quo republican and democratic government. The fact that it could also happen in Liquid Democracy is not a good argument against it.
+1.4.1.2.1.5.6.2.1. Con: In current systems, the number of people you have to pay/silence/manipulate positively correlates with the number of votes you want to manipulate. Once you are able to manipulate a digital system, manipulating 100 instead of one vote does not necessarily increase the difficulty.
+1.4.1.2.1.5.7. Con: Audits of current voting systems are often:[not done, unreliable, or even not possible due to the types of voting machines.](https://www.marketplace.org/2018/10/23/tech/texas-election-officials-years-long-quest-better-voting-machine)
+1.4.1.2.1.5.8. Con: Blockchain will enable secure voting.
+1.4.1.2.1.5.8.1. Pro: -> See 1.4.1.2.1.5.2.
+1.4.1.2.1.5.8.2. Pro: -> See 1.4.1.2.1.5.1.3.4.
+1.4.1.2.1.5.8.3. Pro: -> See 1.4.1.2.1.5.1.3.5.
+1.4.1.2.1.5.8.4. Pro: -> See 1.4.1.2.1.5.1.3.5.1.
+1.4.1.2.1.5.8.5. Pro: [Estonia](https://www.youtube.com/watch?v=cHkIfiTGmzo) and [Switzerland](http://fortune.com/2018/07/03/blockchain-voting-trial-zug/) have successfully trialled Blockchain voting systems.
+1.4.1.2.1.5.9. Con: -> See 1.4.1.2.1.5.1.5.
+1.4.1.2.1.6. Con: If you try to buy influence on delegates, it would be worth much less because their power isn't guaranteed for the next couple of years.
+1.4.1.2.1.6.1. Con: A traditional politician's power is not guaranteed either as a scandal, re-elections or a personal disease can end his stint at power any time.
+1.4.1.2.1.7. Con: The number of votes a delegate has doesn't have to be public, meaning identifying who to buy becomes more difficult.
+1.4.1.2.1.7.1. Con: As difficult as identifying who has been bought.
+1.4.1.2.1.7.2. Con: People receiving significant numbers of delegated votes will likely be public figures - and as such are unlikely to keep their voting power secret.
+1.4.1.2.1.7.2.1. Con: If they don't have to make the number of votes they're holding secret then it is neither likely or unlikely, it is purely their choice to disclose or not.
+1.4.1.2.1.7.3. Con: The number of votes does not have to be public to facilitate corruption. The person who has the votes could communicate this to the highest bidder privately.
+1.4.1.2.1.7.3.1. Con: People will generally forward their votes to people who they trust. It is unlikely that significant amounts of highly trusted individuals would sell out their constituents.
+1.4.1.2.1.7.3.1.1. Con: People may forward their votes to people they trust but at that point they lose control over who they are onward forwarded to.
+1.4.1.2.1.7.3.1.1.1. Con: Voters could be notified if their representative forwards their vote on to someone else.
+1.4.1.2.1.7.3.2. Con: This is voter fraud and would be illegal.
+1.4.1.2.1.8. Con: -> See 1.4.1.2.1.7.3.2.
+1.4.1.2.1.9. Con: Vote buying would be cumbersome to carry out wide scale because when reaching out to many voters, some would probably turn you in.
+1.4.1.3. Con: Nothing stops candidates from lying constantly.
+1.4.1.3.1. Con: Lying constantly is more costly and \(much\) more difficult than only for a limited time before elections
+1.4.1.3.1.1. Pro: When lying for an extended period of time it is much more likely that one of those deceptions will be revealed as such, because statements may turn out to be wrong over time, and more deceptive statements are being made that all carry the potential of being uncovered, both with immediate delegation withdrawal as consequence.
+In contrast, if a deceptive statement is uncovered in a system where votes can be cast only every 4 yrs, it is likely that such a statement will be forgotten before that.
+1.4.1.3.2. Con: Candidates caught lying are likely to lose support quickly.
+1.4.1.3.2.1. Con: Several current groups base their political opinions on false claims, such as anti-vaxxers.
+1.4.1.3.2.1.1. Con: Anti Vaccination groups are [over-reported](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2386034) in the media, and actually have a very small following, with a smaller section actually refusing vaccinations \([2%](https://theconversation.com/anti-vaxxer-effect-on-vaccination-rates-is-exaggerated-92630)\).
+1.4.1.3.2.2. Pro: -> See 1.3.7.
+1.4.1.3.3. Pro: Most popular figures, including popular political figures, are just professionals at maintaining their public persona and giving the people what they want, in a continuous act of dishonesty.
+1.4.1.4. Pro: There is no reward for being a delegate, aside from having more voting power than a normal voter.
+1.4.1.4.1. Con: This might mean delegates will look elsewhere for economical incentives for their work \(i.e. corruption\)
+1.4.1.4.1.1. Pro: -> See 1.4.1.2.1.2.
+1.4.1.4.2. Con: Being a delegate poses a significant burden. If there truly was no reward, no one would do it.
+1.4.1.4.2.1. Pro: Nowadays, most people already don't want the burden of being a politician, which has lots of rewards.
+1.4.1.4.2.2. Con: Delegates have no specific burdens, except a moral requirement to re-delegate or vote well.
+1.4.1.4.2.2.1. Pro: Voters do not need to be a career politician to receive delegated votes, they could have any job. A friend who knows a lot about the education system might get delegated votes from his friends who trust him in that area. There is no burden on the delegate in this instance.
+1.4.1.4.3. Con: -> See 1.4.1.2.1.3.2.
+1.4.1.4.4. Con: -> See 1.4.1.2.1.3.3.
+1.4.2. Con: -> See 1.3.10.7.
+1.4.3. Con: Liquid democracy will not prevent the abuse of power, as the vote delegation mechanism concentrates power and can be easily subverted by money. In Friesland [only 12 people of 80,000 citizens influenced liquid voting.](https://internetunddemokratie.wordpress.com/2016/05/02/liquid-friesland-wurde-eingestellt/)
+1.4.3.1. Pro: In 2010 the [German Pirate Party tried Liquid Democracy](https://www.google.co.uk/url?sa=t&source=web&rct=j&url=http://www.liquid-democracy-journal.org/issue/1/The_Liquid_Democracy_Journal-Issue001-02-Five_years_of_Liquid_Democracy_in_Germany.html&ved=2ahUKEwj1vvLUpOnbAhXpJ8AKHYs9DP0QFjACegQIABAB&usg=AOvVaw2pnLER4b0TkMx8cdIsYZha) but it was not successful.
+1.4.3.1.1. Pro: Practical experience of the Pirate Party in Germany shows the method to be ineffective due to the enormous \(and failing\) time and money effort to get citizens interested in broad liquid democracy participation. The participant percentages show a rather undemocratic activist minority dominance.
+1.4.3.1.1.1. Con: There is nothing undemocratic about an activist minority dominance. If anyone doesn't like it, they can become an activist too.
+1.4.3.1.2. Pro: Germanys Pirate Party has shown that with liquid democracy, voting is much more concentrated than with other forms of democracy. Out of 80,000 citizens in Friesland, only 583 \(0,7%\) registered for their platform at all. [Only 382 out of these 583 registered users voted](https://internetunddemokratie.wordpress.com/2016/05/02/liquid-friesland-wurde-eingestellt/) on liquid democracy decisions, and twelve users dominated each of the 76 initiatives.
+1.4.3.1.2.1. Con: This was a poorly implemented example of Liquid Democracy and so should not be extrapolated from.
+1.4.3.1.2.1.1. Pro: The version of Liquid Feedback used had no API and so it had ["an interface only a developer could love."](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works) This, less then user friendly, application made it hard for the average user to use.
+1.4.3.1.2.1.2. Pro: ["Liquid Feedback can only be accessed by registered members."](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works) This adds another barrier to entry for prospective voters.
+1.4.3.1.2.1.3. Pro: There must be a good reason why only [583 out of the 80,000](https://internetunddemokratie.wordpress.com/2016/05/02/liquid-friesland-wurde-eingestellt/) eligible voters registered. It would seem that the platform was not user friendly and not advertised well enough.
+1.4.3.1.3. Pro: -> See 1.4.1.2.1.2.2.1.1.
+1.4.3.1.4. Con: The experiment that is stated, tested the usability of liquid democracy in a setting where the stakes were negligible. If the stakes are real, people will participate. This is clearly evidenced by the interest rising in politics significantly during election time.
+1.4.3.1.4.1. Con: As the stake of any single voter in traditional elections is even more negligible, small stakes cannot explain the abysmal participation in liquid democracy.
+1.4.3.1.4.2. Con: Proponents of liquid democracy wanted it tested on a small scale first, because they thought it would be easier to mobilise a relevant number of people in a small constituency. This was clearly wrong.
+1.4.3.1.4.3. Con: As liquid democracy did not work in a test run, the test needs to be acknowledged as wrong. Before moving to a grand scale of societal importance, successful tests are a must.
+1.4.3.1.5. Con: This test was [technically sophisticated](https://www.sebastianjabbusch.de/wp-content/uploads/2011/10/Liquid-Democracy-in-der-Piratenpartei-Eine-Neue-Chance-fur-die-innerparteiliche-Demokratie-im-21-Jahrhundert-By-Sebastian-Jabbusch.pdf) and highly idealistic undertaking but the design [was poor](https://www.sebastianjabbusch.de/wp-content/uploads/2011/10/Liquid-Democracy-in-der-Piratenpartei-Eine-Neue-Chance-fur-die-innerparteiliche-Demokratie-im-21-Jahrhundert-By-Sebastian-Jabbusch.pdf). To encourage participation, usability and sophistication have to be balanced. Thus, this failure need not be a total failure of liquid democracy, but a failure of their take on it.
+1.4.3.1.5.1. Pro: [Surveys indicated](https://www.sebastianjabbusch.de/wp-content/uploads/2011/10/Liquid-Democracy-in-der-Piratenpartei-Eine-Neue-Chance-fur-die-innerparteiliche-Demokratie-im-21-Jahrhundert-By-Sebastian-Jabbusch.pdf) that the Pirate Party's test failed due to a total focus on sophisticated representation of every single detail, overwhelming and deterring most users.
+1.4.3.1.5.2. Con: This is a "[no true scotsman](https://yourlogicalfallacyis.com/no-true-scotsman)" fallacy. By this mistaken logic, communism has "not" failed in the Soviet Union because it was "not true" communism. Same in North Korea, Cuba, Venezuela, and all failed communist countries.
+1.4.3.1.5.2.1. Con: That is a bad comparison because communism has been tried many times the world over, while Liquid Democracy has only been attempted twice, once before the technology, such as computers and the internet, had advanced enough; the second time was not user friendly enough to achieve widespread adoption.
+1.4.3.1.5.2.1.1. Con: It is bad science if the falsification of a hypothesis is being brushed off, with two simplistic generalising counterclaims which do not offer falsifiability.
+1.4.3.1.5.2.1.1.1. Con: Any technology driven advancement will require many iterations. Liquid Democracy is no exception.
+1.4.3.1.5.2.1.1.2. Con: Successful modern Democracies and Republics had thousands of years of history to build on, and often went through iterations themselves \(such as the US colonies, then the Articles of Confederation, then the US Constitution, which has been added to over the years\). Making a new form of government is not likely to work on the first try.
+1.4.3.1.5.2.1.1.3. Con: The claims in the grandparent can be falsified.
+1.4.3.1.5.2.1.1.4. Con: The "No True Scotsman" fallacy is a logical claim, not a scientific hypothesis.
+1.4.3.1.5.2.1.1.5. Con: Scientific experiments usually don't work on the first try. Learning is accomplished and then, if still unsatisfied, another attempt is made.
+1.4.3.1.5.2.1.2. Con: "User friendliness" is a necessary but not a sufficient condition for the success of a man-machine system. If "usability" had been the key problem of liquid democracy, it would have been easy for the promoters to fix as this is a well known field with many capable practitioners.
+1.4.3.1.5.2.1.2.1. Pro: There is an unlimited number of other \(and more plausible\) reasons why the liquid democracy project has failed, other than simply the one "user friendliness".
+1.4.3.1.5.2.1.2.2. Con: User friendliness is being improved with the [implementations of APIs.](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works)
+1.4.3.1.5.2.1.2.2.1. Con: That quote from 2012 preceeds the failure of the liquid democracy project, hence logically it either did not improve it enough or - much more likely - the liquid variant is just a brain wave, but not a viable form of democracy. Both reasons are sufficient to make us look for better alternatives rather than ride a dead horse.
+1.4.3.1.5.2.1.3. Pro: -> See 1.4.3.1.5.2.1.1.1.
+1.4.3.1.5.2.1.4. Pro: -> See 1.4.3.1.5.2.1.1.2.
+1.4.3.1.6. Con: -> See 1.4.3.1.2.1.
+1.4.3.2. Con: Liquid Democracy reduces centralisation of power.
+1.4.3.3. Pro: -> See 1.4.1.2.1.
+1.4.4. Pro: Liquid Democracy's direct voting model would increase the transparency of legislation.
+1.4.4.1. Pro: In current democracies phrases are used like, ["We will have to pass the bill to find out what is in it."](https://www.youtube.com/watch?v=hV-05TLiiLU) Under Liquid Democracy, it would be simpler for people to be much more in the loop on the thousands of bills that officials vote on each year.
+1.4.4.2. Con: It is not clear why legislation would become more transparent. Legislation can already be looked up often, and under liquid democracy, would still need to be expressed in highly technical and complex language if it addressed complex and technical issues.
+1.4.4.3. Pro: If they were to be understood by everyone, referendums would have to be written in clear laymen's language. This would make[pork-barreling](https://en.wikipedia.org/wiki/Pork_barrel) harder.
+1.4.5. Pro: Representative democracy, by its inherent nature, creates a two-tier structure, with politicians fundamentally separate from their populace. Liquid democracy bridges this divide by allowing citizens to retract their proxy from representatives at any time if they lose their trust. Politicians go from being elites, to being trusted equals.
+1.4.6. Pro: Liquid democracy does not have the seat allocation problem present in representatives democracies \(currently solved with the [Jefferson or D'Hondt method.](https://en.wikipedia.org/wiki/D%27Hondt_method)\)
+1.4.6.1. Con: The seat allocation problem has been solved by the d'Hondt method for practical purposes.
+1.4.6.2. Pro: Combined with minimum votes to be elected, this puts a limitation on new parties being formed and the representation of all opinions.
+1.4.6.2.1. Con: There are much higher hurdles through intentional minimum votes than resulting from d'Hondt.
+1.4.7. Pro: [Political corruption](https://en.wikipedia.org/wiki/Political_corruption) in the current system is widespread, and shows [little sign of diminishing](http://ebour.com.ar/pdfs/Political_corruption.pdf) in importance.
+1.4.7.1. Con: The existence of corruption does not indicate that LD would reduce it.
+1.4.7.2. Pro: [85%](https://newatlas.com/2016-corruption-perceptions-index-our-rotten-world/47566/) of humans perceive their government as corrupt, according to [Transparency International's Corruption Perceptions Index](https://www.transparency.org/country).
+1.4.7.3. Pro: Public opinion shows widespread distrust in governments.
+1.4.7.3.1. Pro: Only [18%](http://www.people-press.org/2017/12/14/public-trust-in-government-1958-2017/) of Americans say they can trust the government in Washington to do what is right “just about always” \(3%\) or “most of the time” \(15%\).
+1.4.7.3.1.1. Pro: The same \(PEW\) poll shows [more than six in 10](https://edition.cnn.com/2018/04/26/politics/poll-number-wake-up-call-politicians-analysis/index.html) say that "significant changes" are necessary in American government.
+1.4.7.3.2. Pro: A [PEW Research poll](http://www.pewglobal.org/2017/10/16/many-unhappy-with-current-political-system/) shows a global median of 52% are "not too" or "not at all" satisfied with their government.
+1.4.7.3.3. Pro: [82%](https://diepresse.com/home/innenpolitik/5104522/82-Prozent-haben-wenig-bis-kein-Vertrauen-in-die-Politik?direct=5104727&_vl_backlink=/home/innenpolitik/5104727/index.do&selChannel=) of Germans have little to no faith in politics.
+1.4.7.3.4. Pro: [65% of people](https://ourworldindata.org/corruption) consider their political parties "corrupt or extremely corrupt", according to the Transparency International Global Corruption Index.
+1.4.7.4. Con: Corruption has succeeded due to a lack of transparency and accountability, fed in large part by voter apathy, ignorance, and propaganda. Advanced forms of crowd-sourced political analysis and anti-corruption efforts similar to [VoteMatrix](http://votematrix.com) will reduce corruption to a minimum within a short amount of time.
+1.4.8. Pro: Liquid Democracy may decrease the exploitation of tension between "Elites" and "The People" by charismatic leaders, ie. [Populism](https://en.wikipedia.org/wiki/Populism).
+1.4.8.1. Pro: Populism would be less likely under Liquid Democracy because Populist leaders usually come to power when elites are not paying attention to the needs of the people, a problem that would not arise under a functioning Liquid Democracy.
+1.4.8.2. Con: A system designed to transfer power to experts is vulnerable [when experts are not welcomed](https://www.huffingtonpost.co.uk/entry/what-happened-when-britons-had-enough-of-experts_uk_5b6ad1ebe4b08c2f0a5e10ee) by the people.
+1.4.8.3. Con: With the possibility of large numbers of people transferring their votes to a particular populist overnight, it seems like the incentive to try populist techniques could go up.
+1.4.8.4. Pro: Like influencers, people who choose a topic and try to convince you to give that part of your vote to them, will be deemed more trustworthy instead of all-topic electorates that try to manifest an opinion about everything.
+1.4.8.5. Pro: Even if a lot of people still give away their entire vote to one person, they might discover topic disagreement over time and switch for said topic to a different person.
+1.4.8.6. Pro: Even if a lot of people still choose an all-topic vote, the person they vote for might not be an end-voter, but someone who splits his vote per-topic. Effectively resulting in a distributed vote.
+1.4.8.7. Con: Topic-experts may still try populist techniques.
+1.4.8.8. Con: A populist figure under Liquid Democracy can get votes from all over a country, whereas within current systems your vote is often limited to the electorate you live in.
+1.4.8.9. Con: The biggest issue with democracies is voting. Competency and reasoning could be overshadowed by the mass of people misguided by populists. Involving more people seems to be a good idea yet it will end up in popularism.
+1.4.8.9.1. Pro: Voting is most appropriate when the goal is to explore personal feelings, not objective facts.
+1.4.8.9.1.1. Con: Policy should not be determined by personal feelings. This is why we don't have victims sentencing criminals and why justice is blind, the same logic applies to governance.
+1.4.8.9.1.2. Con: Not all objective facts will coalesce into a coherent set of policy drivers. Climate change facts are immensely difficult to square with facts about what will improve our short-term economic growth. We need people with vision and charisma - leaders - to sell us a narrative based on their prioritisation of the myriad objective facts that we can believe in and work towards.
+1.4.8.9.1.3. Pro: It is important to know which plants preferred by the local community when we plan a park. [Condorcet](https://en.m.wikipedia.org/wiki/Condorcet_method) method is preferred.
+1.4.8.9.2. Pro: Popularism gains ground where decision making is based on voting.
+1.4.8.9.3. Pro: Most of people thought that the world is flat. It is not a good idea to let the crowd make decisions. Let them participate in reasoning instead of voting.
+1.4.8.10. Con: With no “electoral college” equivilant it would be impossible to prevent populism.
+1.4.8.10.1. Con: There is no need for voting. The interest of the society cannot be derived from the interest of the individuals.
+1.4.8.10.2. Con: There is no need for an electoral college.
+1.4.8.10.2.1. Con: This is true for other forms of democracy that might be preferable to the one in debate.
+1.4.8.10.2.2. Pro: Liquid Democracy could use [Proportional Representation](http://www.fairvote.org/how_proportional_representation_elections_work), which is often considered a [better option](https://www.nytimes.com/2017/11/07/opinion/elections-electoral-college-voting.html) than electoral college style indirect votes.
+1.4.8.10.2.2.1. Pro: It is fair that the president which most citizens vote for gets the job.
+1.4.8.10.2.2.1.1. Pro: Donald Trump would [not have won](https://politics.stackexchange.com/questions/13319/who-would-have-won-the-presidency-if-all-states-electors-were-allocated-proport) if the United States [used Proportional voting](http://fivethirtyeight.com/features/under-a-new-system-clinton-could-have-won-the-popular-vote-by-5-points-and-still-lost/).
+1.4.8.10.2.3. Pro: An Electoral College system [enables gerrymandering](https://www.washingtonpost.com/news/wonk/wp/2016/11/29/how-the-electoral-college-gerrymanders-the-presidential-vote/?utm_term=.0f6c37a07378), which produces an unfair vote.
+1.4.8.10.2.3.1. Con: Gerrymandering is not related to Liquid Democracy vs. Democratic Republic, but is a separate issue.
+1.4.8.10.2.4. Con: The need for an electoral college is very subjective and may very depending on implementation, ie. in the USA the need for an electoral college will be different than that of South Africa.
+1.4.8.10.2.5. Pro: -> See discussion #2469: The Electoral College should be abolished.
+1.4.8.11. Pro: People would no longer be forced to trust a politician, as they would be able to directly influence policy.
+1.4.8.11.1. Con: In a complex world there may be but a few of the multitude of issues where people would trust their knowledge more than a politicians, once we go beyond superficial arguments.
+1.4.8.11.2. Pro: -> See 1.3.8.2.
+1.4.9. Con: -> See 1.4.1.2.1.
+1.4.10. Pro: It would make it difficult for large economic interests to influence and corrupt the system, as voting is less concentrated.
+1.4.10.1. Pro: The ability to change a vote at any time will require any influent to continuously promote their viewpoint, which is more expensive than having to do it only for specific upcoming elections/decisions.
+1.4.10.1.1. Con: The more expensive it is, the less representative it will be - ie only the very richest will be able to afford to exert influence.
+1.4.10.1.1.1. Pro: 0.02% of Americans dictate the first stage of electing candidates. -[TEDx](https://www.youtube.com/watch?v=PJy8vTu66tE)
+1.4.10.2. Pro: Liquid democracy would reduce the influence of super pacs and lobby groups.
+1.4.10.2.1. Pro: Liquid democracy could make it more expensive to [capture](https://blog.liquid.us/2017/10/23/democracy-vs-corruption/) a majority of members in the legislature since a liquid democratic system can scale to include thousands of times as many active legislative members.
+1.4.10.2.1.1. Con: The more people involved, the more opportunity there is for corruption.
+1.4.10.2.2. Con: -> See 1.4.1.2.1.3.1.
+1.4.10.2.3. Con: It is likely that power blocs would emerge coalesced around a range of related issues. These may be more susceptible to lobbying than politicians representing the full range of issues.
+1.4.10.2.3.1. Pro: A power bloc that emerges around closely-related issues may care less about unrelated issues, and those could be easily influenced.
+1.4.10.2.3.1.1. Pro: In the UK, an eurosceptic party might be more likely to accept influence from lobbying groups on healthcare, tax reform, or financial regulation, as they are concentrating on what is their main goal - leaving the EU.
+1.4.10.2.3.1.2. Con: Liquid Democracy allows delegation of votes by topic, so any power bloc may be limited to one specific area.
+1.4.10.2.3.1.2.1. Pro: A green party might become a power bloc but only hold delegated votes on a single topic: the environment.
+1.4.10.2.3.1.2.1.1. Con: "The environment" is everything.
+1.4.10.2.3.2. Con: A power bloc that concentrates on a narrow set of related issues will hold strong opinions on that topic. They are less likely to be susceptible to lobbying on those topics than a generalist.
+1.4.10.2.4. Con: Liquid democracy just puts an additional layer on top of the existing mechanisms \(media, propaganda, fear mongering, bribes, slander\) by which the powerful and rich can subvert democracy.
+1.4.10.2.4.1. Con: Liquid democracy can be seen as just replacing the voting layer, instead of adding a new one.
+1.4.10.2.4.2. Con: Becoming part of the political system does not become a 0/1 decision. Participation may include many new forms.
+1.4.10.2.4.2.1. Con: This is a non-argument, as "liquid democracy" specifically is the topic of this debate.
+1.4.10.2.4.3. Con: Such a change is a pure invention, because the delegation delegates voting power, just as the word implies.
+1.4.10.2.4.4. Pro: -> See 1.4.1.2.1.
+1.4.10.2.4.5. Con: Liquid Democracy can be an additional layer in the voting process, but would effectively reduce the distance between voter and politician, bridging the "us and them" gap
+1.4.10.2.5. Pro: Influencing person per person is much harder than influencing parties.
+1.4.10.2.5.1. Pro: Covertly influencing a larger number of delegates may be impossible compared to influencing a smaller number of politicians, as it only takes one person to reveal your actions to the public at large.
+1.4.10.2.5.1.1. Con: Influence is often overt and above-board. This kind of influence is easy to scale up, and is not that different from an advertising campaign.
+1.4.10.2.5.2. Con: Influencing [person-by-person](https://www.bbc.co.uk/news/uk-politics-44966969) is much easier than influencing parties.
+1.4.10.2.6. Pro: It reduces the power of professional politicians \(who are targets for lobbying in most current systems\), making the "key actors" you would have to control to influence the system a constantly changing group of people.
+1.4.10.2.6.1. Con: Constant change is undesirable for stable government.
+1.4.10.2.6.1.1. Pro: -> See 1.3.3.1.
+1.4.10.2.6.1.2. Pro: Lobby groups would find patterns of constancy within the system and exert influence there.
+1.4.10.2.6.1.2.1. Pro: -> See 1.4.10.2.3.
+1.4.10.2.6.1.3. Con: Liquid democracy allows for governments to adapt more quickly to drastic changes in society.
+1.4.10.2.6.1.3.1. Con: In order for adjustment to be effective, then people will have to be well informed. Fast reactions will not necessarily be good ones.
+1.4.10.2.6.1.3.1.1. Pro: -> See 1.3.
+1.4.10.2.6.1.3.1.2. Con: Liquid democracy will allow for fast changes, but will also not prevent slow changes, with long periods of public debate and study proceeding a vote.
+1.4.10.2.6.1.3.1.2.1. Pro: A Liquid Democracy may be more conservative, because a much higher percentage of the general population would have to be supportive of an issue. \(ie. a motivated few could not convince a legislature to pass laws\),
+1.4.10.2.6.1.3.2. Pro: In Liquid Democracy, a rapid change in public opinion will immiedetly affect leglislation because people will vote differently. But in representative democracy, especially with longer terms of office, that government could still choose to do what it likes regardless of any new public opinion.
+1.4.10.2.6.1.3.2.1. Con: This only applies if there is a large quantity of public votes, or the population has the ability to trigger a vote on the topic they have changed their minds on.
+1.4.10.2.6.1.3.2.1.1. Pro: -> See 1.3.3.1.3.4.1.1.
+1.4.10.2.6.1.3.2.2. Con: -> See 1.3.7.1.
+1.4.10.2.6.1.3.3. Con: Liquid democracy will slow down governments even more, as all citizens have to ponder about each and every issue and on top, if they conclude that they do not want to vote, then about all the many possible experts for each and every issue.
+1.4.10.2.6.1.3.3.1. Con: If a person likes the current representative democracy system, they can still vote in the same way under liquid democracy.  This would be done by once every 4 years choosing the leader of a major political party and delegating all votes to that person.
+1.4.10.2.6.1.3.3.1.1. Con: The existing structure around a 4-yearly election would however disappear.  This means that if you wanted to continue voting in a similar way, you might find it harder to find media coverage that is focused on the decision.
+1.4.10.2.6.1.3.3.2. Con: Looking at the partial participation, growth and continued existence of both small niches and huge groups on Reddit, Twitter, Facebook and tons of others, verified accounts and admins on these systems are probably the best examples of a delegate system. We can conclude that people will participate in the parts that interest them and delegate the rest, resulting in the desired speed-up of democracy.
+1.4.10.2.6.1.3.3.3. Con: Many current western voters identify with one of two major parties and always vote for whoever runs for that party. Under delegative/liquid democracy that kind of voting is much easier/efficient, because voters can delegate to a political party person and therefore no extra administration/work is needed.
+1.4.10.2.6.1.3.4. Pro: A problem with the common "two party" situation common in representative democracy is that they are slow to react to changes in society.
+1.4.10.2.6.1.3.4.1. Pro: With a "two party" system, the incentive for the two major parties is to not take risks. Whilst smaller parties can take risks and adapt to new changes in society, they are unlikely to get voted into power.
+1.4.10.2.6.1.3.4.2. Con: In the US, parties vote in line with their promises more than [80 percent](https://www.vox.com/2016/7/12/12060358/political-science-of-platforms) of the time. It may be better for parties to follow these election promises, rather than react quickly \(but against their party platforms\) to perceived changes in society.
+1.4.10.2.6.1.3.4.3. Con: A multi-party system is slower than a two-party system.
+1.4.10.2.6.1.3.4.3.1. Pro: Liquid democracy, with multiple, probably non-compatible ideologies, some of which are likely to be very short-lived, with no coterminosity or shared vision, is likely to make for a weak ineffective government.
+1.4.10.2.6.1.3.4.3.1.1. Pro: -> See 1.3.3.1.
+1.4.10.2.6.1.3.4.3.1.2. Pro: As the votes of different blocs can be removed at any time, overall power is likely to lack any coterminous periods of stable governance.
+1.4.10.2.6.1.3.4.3.2. Pro: A multi-party system has more actors in it and therefore would be very time-consuming.
+1.4.10.2.6.1.3.4.3.2.1. Pro: Multiparty systems require consensus to enact change, which is harder to achieve with more vested interests to consider.
+1.4.10.2.6.1.3.4.3.2.2. Pro: The amount of communication and compromising needed to come to a decision grows exponentially with the size of the group making the decision.
+1.4.10.2.6.1.3.4.3.2.2.1. Pro: A dictator could, in theory, be the most efficient decision maker possible.
+1.4.10.2.6.1.3.4.3.2.2.2. Con: Compromising and communicating is the nature of democracy.
+1.4.10.2.6.1.3.4.3.2.2.2.1. Con: The compromising that is so important in Representative Democracy may not happen when everyone can vote on issues, at least not with a majority or super-majority.
+1.4.10.2.6.1.3.4.3.2.3. Pro: More time would be required to negotiate bills, bloc positions and make coalitions.
+1.4.10.2.6.1.3.4.3.3. Con: A multi-party system can react faster to changes in society because when changes occur, new parties which represent the population can be created.
+1.4.10.2.6.1.3.4.3.3.1. Con: -> See 1.4.10.2.6.1.3.4.3.2.1.
+1.4.10.2.6.1.3.5. Con: In times of war or crisis the nimbleness of dedicated leaders would be lost, making quick response more difficult.
+1.4.10.2.6.1.3.5.1. Con: The president would still have the power to make such decisions without a vote, as in most current systems.
+1.4.10.2.6.1.3.5.2. Con: Any political system, including Liquid Democracy, still has centralised governance, meaning it can take actions without needing a public vote.
+1.4.10.2.6.1.3.5.2.1. Pro: Even direct democracies \(where all citizens vote directly on issues\) have centralised organisations. For example the [Athenian Boule/Prytaneis](https://youtu.be/pIgMTsQXg3Q?t=12m50s) or[Switzerlands Federal Council](https://en.wikipedia.org/wiki/Federal_Council_\(Switzerland\)).
+1.4.10.2.6.1.3.5.2.2. Pro: Liquid democracy could have any number of methods of choosing central governing bodies/administrations, from elected committees with strong powers, to assigned/earned positions with safeguards from abuse.
+1.4.10.2.6.2. Con: Lobbying would not go away, but would be transferred from being focused on politicians to voters in the form of media.
+1.4.10.3. Con: Corporations and other groups would likely rely on the spread of misinformation/propaganda instead of donations to representatives.
+1.4.10.4. Pro: In the US, several industries like [Big Oil](https://en.wikipedia.org/wiki/Big_Oil), [Big Pharma](https://rationalwiki.org/wiki/Big_Pharma), and [Big Ag](https://en.wikipedia.org/wiki/Corporate_farming), are believed to [benefit from the current state of politics](https://en.wikipedia.org/wiki/Crony_capitalism) in which they can lobby representatives to get large subsidies while colluding together to set prices and generally game the system.
+1.4.11. Pro: -> See 1.4.10.2.4.5.
+1.5. Pro: Liquid Democracy is more efficient and dynamic than current variations of representative democracy.
+1.5.1. Con: -> See 1.3.3.1.
+1.5.2. Pro: Liquid democracy allows for faster voting and political changes in alignment with our current technological means.
+1.5.2.1. Con: The act of entering a voting booth is generally seen as an important duty that takes great forethought. If voting is quick and impulsive due to online accessibility through liquid democracy, it will not be taken seriously.
+1.5.2.1.1. Con: This is only correct for non-compulsory voting systems. People may see voting more as a burden than a duty.
+1.5.2.1.2. Con: Psychologists would argue that any impossible to reverse decision, brings stress and bad decision-making. In effect making your vote less final would allow better decision-making.
+1.5.2.1.3. Con: After voting, this results in a lack of public interest, because people postpone on this decision to the next time to think to the next election.
+1.5.2.1.4. Con: -> See 1.3.16.2.1.
+1.5.2.2. Con: Faster voting and change could lead to chaos as direction on issues is changed frequently and dramatically. This could dramatically affect business competitiveness and international relations.
+1.5.2.2.1. Con: Faster voting is possible, but also anyone can change their vote at any time. Most things would move slowly unless it is literally 50/50 split in the mind of the public/delegates.
+1.5.2.2.2. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.1.
+1.5.2.3. Con: If voting is "too easy", say the process between seeing a proposed law for the first time and casting a vote, the selection of the proposition and the presentation of it \(in particular\) will heavily manipulate the voter's decision. This problem of influencing is more serious the shorter the period of consideration is.
+1.5.3. Pro: As with '[modern liquidity](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)' where all aspects of life are characterized by "their fragility, temporariness, vulnerability and inclination to constant change", liquid democracy could adapt better to constant change.
+1.5.4. Pro: -> See 1.3.7.
+1.5.5. Pro: -> See 1.3.16.2.1.
+1.5.6. Pro: -> See 1.4.10.2.6.1.3.
+1.5.7. Pro: Liquid democracy abolishes inefficiencies during election time.
+1.5.7.1. Pro: -> See 1.4.8.10.2.
+1.5.7.2. Pro: The focus of politics is often not on governing, but on getting \(re\)-elected.
+1.5.7.2.1. Pro: Political parties face elections typically every 4 years and therefore are only interested in policies that deliver short term results, avoiding important policies and investments that require a longer term to show results.
+1.5.7.2.2. Pro: Campaigning by elected politicians makes heavy use of emotionalising mass manipulation through propaganda, and in this way also campaigning on political topics is driven by re-election considerations. In Austria, we saw parties switching their programmatic position to the exact opposite, even multiple times, when a political opponent party switched theirs \(e.g. on CETA Agreement, on compulsory military service\)
+1.5.7.2.3. Pro: A report suggested US elected officials spend [30-70% of their time](https://represent.us/action/theproblem-3/) in office fundraising for the next election.
+1.5.7.3. Con: -> See 1.3.10.8.
+1.5.7.4. Con: -> See 1.4.1.2.1.5.
+1.5.7.5. Con: Liquid democracy could switch focus of delegates to earning voter trust 100% of the time \(rather than staying informed on current issues or coming up with novel measures\).
+1.5.7.5.1. Pro: -> See 1.3.16.10.
+1.5.7.5.2. Con: Gaining trust is at least partially correlated with being informed or achieving results.
+1.5.7.5.3. Con: If delegates are forced to spend a lot of time and energy gaining the trust of the electorate this is not bad.
+1.5.7.6. Pro: Elections are expensive.
+1.5.7.6.1. Pro: US elections [cost billions of dollars](https://www.opensecrets.org/overview/cost.php). The 2016 election cost $4,057,519,568 for congress and $2,386,733,696 for the president.
+1.5.7.6.2. Pro: The U.K.’s general election in 2017 [cost the British taxpayer](https://www.politico.eu/article/uk-election-cost-140-million/) more than £140 million.
+1.5.8. Con: Decentralisation and democratisation can \(and does, in many cases\) make it hard/impossible to reach actionable decisions.
+1.5.8.1. Con: Most votes are for or against a single bill, so the parent issue would not be a common problem.
+1.5.8.2. Con: Difficulty in making divisive decisions can be a positive - if a decision is divisive it is a sign that it might not be a good idea.
+1.5.8.3. Pro: -> See 1.4.3.1.
+1.5.8.4. Pro: -> See 1.4.10.2.6.1.3.4.3.2.2.
+1.5.8.5. Pro: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.2.
+1.5.8.6. Pro: -> See 1.4.10.2.6.1.3.4.3.2.3.
+1.6. Con: Existing examples of Liquid Democracy have often failed to achieve their goals.
+1.6.1. Pro: Liquid democracy is largely untested, certainly at nation state level.
+1.6.1.1. Con: It could be trialled on a local level, and if successful, implemented nationally, and then internationally.
+1.6.2. Pro: Test runs of the model within political parties have had little impact.
+1.6.2.1. Pro: Pirate Parties in Germany, Italy, Austria, Norway, France and the Netherlands [use liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy#Pirate_Parties) with the open-source software [LiquidFeedback](https://liquidfeedback.org/).
+1.6.2.1.1. Pro: -> See 1.4.3.1.
+1.6.2.2. Pro: The Stockholm political party Demoex used Liquid Democracy [for 12 years](https://bford.info/2014/11/16/deleg.html#:~:text=succeeded%20in%20Sweeden%20from%202002%20until%20this%20year), but [discontinued](https://pernor.wordpress.com/2010/07/12/delagated-voting-experiment-failed/) it's use.
+1.6.2.2.1. Pro: Although the number of voters increased, the number of persons controlling Demoex policy decreased due to "[lack of participation from the other parties](https://pernor.wordpress.com/2010/07/12/delagated-voting-experiment-failed/#:~:text=The%20lack%20of%20participation%20from%20the%20other%20parties%20made%20Delegated%20Voting%20inappropriate%20for%20us%20to%20use.)".
+1.6.2.3. Pro: Californian candidate [David Ernst](https://www.liquiddavid.com/about) runs as a [Liquid Candidate on liquid.us](https://liquid.us/), pledging to vote matching his voters opinions, but [only recieved 3.8%](https://ballotpedia.org/David_Ernst) of the vote.
+1.6.3. Pro: [Early Soviet Russia](https://en.wikipedia.org/wiki/Soviet_democracy#Concept) used Liquid Democracy, but it did not last.
+1.6.3.1. Con: Technological advances could make the system more workable, as it would disrupt citizen's lives less that having to go to a booth thousands of times to vote on an issue.
+1.6.4. Con: Private use of Liquid Democracy software has functioned well.
+1.6.4.1. Pro: An internal Liquid Democray project at Google, [Google Votes](https://www.youtube.com/watch?v=F4lkCECSBFw), [achieved its goals](https://www.tdcommons.org/dpubs_series/79/).
+1.6.4.1.1. Con: A limited experiment within a commercial organisation is not a good proxy for how LD might work within a nation state.
+1.6.4.1.2. Con: Google has a prejudicial interest in this research as the provider of the software being tested.
+1.6.4.2. Con: Political systems are more than software solutions.
+1.6.5. Pro: -> See 1.4.3.1.
+1.6.6. Con: Technology has improved since and may well have simplified the processes further.
+1.7. Con: Liquid Democracy can lead to low participation, and voter apathy.
+1.7.1. Pro: The constant feeling of being in elections can increase voter apathy.
+1.7.1.1. Con: Users will not feel like they are constantly in an election - they will feel like they are constantly able to choose to vote if they want to.
+1.7.1.2. Con: If a principled voter information platform like [VoteMatrix](http://www.votematrix.com) was implemented and was authorized to submit official ballots, then citizens could vote online within minutes during each election as all the research and selections would be prepared ahead of time.  The voter would just need to review, update, and approve.
+1.7.1.2.1. Con: Parliaments take time before voting on new laws for a reason: it takes a long time to think, not to vote. A system like VoteMatrix will change nothing about this underlying problem.
+1.7.1.2.1.1. Con: Parliaments have to consider many political repercussions that take unnecessary time, guessing their constituents wishes, aligning with party, adding special interest legislation, and guessing fallout. The average citizen only needs to decide if a specific action is beneficial or not. [VoteMatrix](http://votematrix.com) will utilize [trusted analysts](http://www.votematrix.com/votematrix-pvs) whose job it is to be experts in the specific issues at hand to map legislation to easy to understand principles.
+1.7.1.2.2. Con: -> See 1.5.2.3.
+1.7.2. Con: Giving voters a voice on the particular issue rather than a person who has only been cultivated as a personality pandering to the majority would decrease apathy, as the voter would have more value to society.
+1.7.3. Pro: Voters might need to be [constantly informed of the ongoing changes in society](https://medium.com/\@nerijuspotapovas/information-overload-is-plague-of-modern-society-ebf00145dd20), which could lead to frustration and low participation.
+1.7.4. Con: The ability to only vote for the topics you care for and delegate for other topics, will generally decrease apathy / increase voter informedness & activity.
+1.7.5. Con: This is not a concern in a system like the one utilized by the [International Logic Party](http://egora-ilp.org).  The ILP system bypasses this problem because it is a hybrid that combines the merits of a direct democracy \(with constantly changing inputs\) with the merits of selected and dedicated administrators of the will of the Party membership, and with the balance provided by retaining the general election open to any other candidates.
+1.7.5.1. Con: Having administrators with elevated power retains many of the problems of Representative Democracy, as these administrators could by corrupted by lobbyists and hold biases.
+1.7.6. Con: The status quo already has low participation, and voter apathy.
+1.7.6.1. Pro: Political engagement levels are low and falling.
+1.7.6.1.1. Pro: Electoral participation in Western Europe is [general falling](https://www.idea.int/sites/default/files/publications/voter-turnout-in-western-europe-since-1945.pdf), with "rising levels of public apathy or cynicism".
+1.7.6.1.2. Con: In more than two-thirds of European national elections, 75% of the electorate votes, and there is a turnout of more than 90% in almost one-third of all elections. [pg.18](https://www.idea.int/sites/default/files/publications/voter-turnout-in-western-europe-since-1945.pdf)
+1.7.6.1.3. Con: Some commentators have argued that declining turnout reflects a healthy apathy, as voters no longer see elections as a clash between rival camps but as a means of influencing all parties to adopt similar, moderate policies offering what most electors want. [pg.19](https://www.idea.int/sites/default/files/publications/voter-turnout-in-western-europe-since-1945.pdf)
+1.7.6.2. Pro: In the current system, a fraction of a percent control the power.
+1.7.6.2.1. Con: They are elected officials, as giving power to the many comes with many downsides - it's important to give a fraction of the populace the power to keep from chaos.
+1.7.6.2.1.1. Con: The problem with current democracies is not that the power is in the hands of a few elected officials, but that the power is dominated by a few unelected elites.
+1.7.6.2.1.1.1. Pro: Public opinion has [“near-zero” impact on U.S. law](https://represent.us/action/theproblem-3/), according to A Princeton University study.
+1.7.6.2.1.1.2. Pro: The predominant power in the United States belongs to those who have the money, specifically [owners of income-producing land and businesses](https://whorulesamerica.ucsc.edu/power/class_domination.html) \(Banks, corporations, agribusinesses, and big real estate developers\).
+1.7.6.2.1.1.3. Pro: -> See 1.4.10.1.1.1.
+1.7.6.2.1.2. Pro: Liquid Democracy would be susceptible to the whims of the people, which could lead to instability, lack of direction, and even chaos.
+1.7.6.2.1.2.1. Con: The reason that current democracies need limitation is that government's natural tendency is toward tyranny. Liquid Democracy is a step away from tyranny.
+1.7.6.2.1.2.1.1. Con: There is no clear understanding of the technical or structural limitations of liquid democracy and it is therefore unclear whether it is a step away from, or toward tyranny.
+1.7.6.2.1.2.1.1.1. Con: Liquid Democracy is a step away from tyranny because it fundamentally puts more power in the hands of people.
+1.7.6.2.1.2.1.1.1.1. Con: "The people" are entirely capable of exercising [tyranny](https://en.m.wikipedia.org/wiki/Tyranny_of_the_majority).
+1.7.6.2.1.2.1.1.1.1.1. Pro: [Tyranny of the majority](https://en.wikipedia.org/wiki/Tyranny_of_the_majority) shows that the majority of an electorate can and does place its own interests above, and at the expense of, those in the minority.
+1.7.6.2.1.2.1.1.1.1.1.1. Con: This is under the assumption that people put themselves first at all times. Democracy relies upon the majority vote being carried.
+1.7.6.2.1.2.1.1.1.1.1.1.1. Pro: Homosexuality was made legal even though the majority of people don't \(or didn't\) identify as homosexual. The majority followed an "if you aren't hurting me or others \(unless consensual\) go for it" mindset.
+1.7.6.2.1.2.1.1.1.1.1.2. Con: -> See 1.4.1.2.1.3.2.2.
+1.7.6.2.1.2.1.1.1.1.1.3. Con: The Tyranny of the Majority, can be limited by a constitution that sets the framework for a political system running Liquid Democracy.
+1.7.6.2.1.2.1.1.1.1.1.3.1. Pro: -> See 1.3.3.1.3.4.1.1.2.2.1.
+1.7.6.2.1.2.1.1.1.2. Pro: Generally, people are self interested, and so they value not being oppressed. A logical person will try to prevent their neighbor from being oppressed so that they will return the favor.
+1.7.6.2.1.2.1.1.1.2.1. Con: People's [self-interest](https://wilsonquarterly.com/quarterly/summer-2009-thrift-the-double-edged-virtue/who-voted-for-hitler/) does not have a great [track record](https://en.m.wikipedia.org/wiki/First_they_came_...) in preventing oppression.
+1.7.6.2.1.2.1.1.1.2.1.1. Con: Support for the Nazi Party, \[was\] less than three percent of eligible voters in 1924, rose to 31 percent in July 1932, 27 percent in November 1932, and 39 percent in March ­1933 -[Source](https://wilsonquarterly.com/quarterly/summer-2009-thrift-the-double-edged-virtue/who-voted-for-hitler/)
+1.7.6.2.1.2.1.1.1.2.1.1.1. Con: The 27% in 1932 and the 39% in 1933 made the national socialist party the most popular party in a hung parliament, with the 1933 result leading on to von Hindenburg appointing Hitler as chancellor, the seizure of power via the Reichstag Fire Decree and Enabling Act and the dismantling of democracy from there.
+1.7.6.2.1.2.1.1.1.2.1.1.1.1. Pro: Goebbels said - ‘We enter parliament in order to supply ourselves, in the arsenal of democracy, with its own weapons… If democracy is so stupid as to give us free tickets and salaries for this work, that is its affair… We flout cooperating in a stinking dung heap. We come to clear away the dung… We do not come as friends, nor even as neutrals. We come as enemies. As the wolf bursts into the flock, so we come.’
+1.7.6.2.1.2.1.1.1.2.1.1.2. Con: The nazis actions were publically supported. [Robert Gellately writes that](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198205609.001.0001/acprof-9780198205609) "the Germans generally turned out to be proud and pleased that Hitler and his henchmen were putting away certain kinds of people who did not fit in, or who were regarded as 'outsiders', 'asocials', 'useless eaters', or 'criminals'". He adds that many 'ordinary' Germans not only supported Nazi terror passively, but actually helped make it possible with a 'flood of denunciations' to the police.
+1.7.6.2.1.2.1.1.1.2.2. Con: That logic assumes some elements of 'Game Theory'. Unfortunately we have too many external influences nudging us towards selfishness.
+1.7.6.2.1.2.1.1.2. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.
+1.7.6.2.1.2.1.2. Pro: -> See 1.7.6.2.1.2.1.1.1.2.
+1.7.6.2.1.2.2. Pro: -> See 1.3.3.1.
+1.7.6.2.1.2.3. Pro: -> See 1.5.2.2.
+1.7.6.2.1.2.4. Pro: -> See 1.5.8.
+1.7.6.2.1.3. Con: Increasing the powers of a population would encourage order as people would feel like their views matter and they have the power to change things democratically.
+1.7.6.2.2. Con: There is no evidence that LD would lead to a whole-number level of political control.
+1.7.6.2.2.1. Pro: It is unclear why achieving a whole-number is important to the operation of a political system.
+1.7.6.2.3. Pro: -> See 1.7.6.2.1.1.1.
+1.7.6.2.4. Pro: -> See 1.7.6.2.1.1.2.
+1.7.6.2.5. Pro: -> See 1.4.10.1.1.1.
+1.7.6.3. Pro: -> See 1.4.1.2.1.5.1.3.9.2.
+1.7.7. Con: Mandatory voting would be much less intrusive into people's lives if they can delegate their votes. They might get a text on election day saying your delegate voted this way. One could go to their voting app if one wishes to change it.
+1.7.8. Pro: Voters may struggle to understand and use the system, which could reduce participation or exclude parts of society.
+1.7.8.1. Pro: Multiple layers of delegation would make it difficult to track and adjust said delegation.
+1.7.8.1.1. Con: Multiple layers can be easily dealt with via computer and databases. A simple online interface could address the problem.
+1.7.8.1.1.1. Con: It could be handled, but is definitely not simple.
+1.7.8.1.1.2. Pro: -> See 1.4.1.2.1.5.5.
+1.7.8.1.2. Con: Current legislation and the policy-making process is currently much more opaque and appears to exclusively favor moneyed interests.
+1.7.8.1.3. Con: There is no need to track delegation for any users, only for the system. Individual voters can see for each vote how their vote was cast and their direct delegate that caused it. Even if this delegate chose to chain his delegation, the voter shouldn't know or care. If he disagrees, he will change his delegation.
+1.7.8.1.4. Con: -> See 1.4.1.2.1.5.1.3.5.1.
+1.7.8.2. Con: -> See 1.4.1.2.1.5.2.3.1.
+1.7.8.3. Pro: Usability of the system is paramount to its successful implementation. Lack of usability is part of why the attempt in Germany failed.
+1.8. Pro: Public voting in an implemented Liquid Democracy gives citizens pride in their vote and opinion.
+1.8.1. Pro: Citizens could be rewarded either financially or through social status for voting and contributing to discussions.
+1.8.1.1. Pro: This would incentivise voter turnout.
+1.8.1.2. Pro: This would increase the wealth of a population.
+1.8.2. Con: If people's public identities are known, they could be harassed or worse by other members of the public.
+1.8.2.1. Con: A solution to this would be to photograph the harasser and report them, and downvote their online persona, which could also be implemented under Liquid Democracy.
+1.8.3. Con: People generally have far too much pride in their opinions.
+1.8.4. Pro: People would feel heard, whereas under Representative Democracy their opinions are [given very little voice.](https://www.youtube.com/watch?v=PJy8vTu66tE&t=1s)
+1.8.5. Con: -> See 1.4.1.2.1.
+1.9. Pro: Given that "Democracy" has delivered both the Trump and dePfeffel governments, both being arguably the worst governments their respective nations have ever seen, almost any alternative system is likely to be an improvement.
+1.9.1. Con: A large majority of the [common contenders](https://www.scoopwhoop.com/world/most-evil-people/) for [worst person in history](https://www.thetoptens.com/most-evil-people-in-history/) were leaders of Non-Democratic governments.
+1.9.2. Con: -> See 1.4.8.10.2.2.1.1.
+1.10. Pro: Liquid democracy allows citizens to delegate their vote in people they know, trust and feel they are more knowledgeable on the topic. This enables better qualification of votes through chains of trust.
+1.10.1. Pro: -> See 1.3.5.
+1.11. Pro: -> See 1.4.1.2.1.5.1.
+1.12. Pro: Examples show that the Direct Democracy aspects of Liquid Democracy can work successfully.
+1.12.1. Pro: Switzerland shows the Direct Democracy aspects of Liquid Democracy work successfully.
+1.12.1.1. Pro: Switzerland is a Semi-Direct Democracy, and is consistently in the top 5 countries in the world according to most indexes.
+1.12.1.1.1. Pro: Switzerland has the [5th highest quality of life](https://www.weforum.org/agenda/2016/07/these-countries-have-the-highest-quality-of-life) in the world, according to the World Economic Forum.
+1.12.1.1.2. Pro: Switzerland has the [second highest level of human development](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index), and has the [third best education system](http://hdr.undp.org/en/content/education-index) in the world, according to the United Nations UNDP.
+1.12.1.1.3. Pro: Switzerland is the [5th least corrupt country](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index), according to Transparency Internationals Corruption Perceptions Index \(CPI\).
+1.12.1.1.4. Pro: Switzerland is the [most politically neutral country in the world](https://www.quora.com/Which-are-the-most-politically-neutral-countries-in-the-world), according to general opinion.
+1.12.1.1.5. Pro: Switzerland is the [best country in the world](https://www.usnews.com/info/blogs/press-room/articles/2018-01-23/switzerland-is-the-best-country-in-the-world-says-2018-best-countries-report), according to the [2018 best countries report](https://www.usnews.com/news/best-countries).
+1.12.1.2. Pro: -> See 1.3.13.2.1.
+1.12.1.3. Con: Switzerland is only a [Semi-Direct](https://en.wikipedia.org/wiki/Semi-direct_democracy) democracy, not a [full Direct Democracy](https://en.wikipedia.org/wiki/Direct_democracy).  Depending on how it is implemented, a Liquid Democracy system could be more Direct than Switzerland currently is.
+1.12.1.3.1. Pro: -> See 1.3.13.2.1.2.
+1.12.1.3.2. Con: As with Switzerland, any country needs to make their own judgement on how much direct power to give their citizens, and how much to leave to elected \(or otherwise\) representatives.
+1.12.1.3.3. Pro: The pure form of direct democracy [exists only in the Swiss cantons](https://en.wikipedia.org/wiki/Direct_democracy#cite_note-Golay-14) of Appenzell Innerrhoden and Glarus, which covers only 0.7% of the population \(56,150 people\).
+1.12.1.4. Pro: Direct voting is a major reason for Switzerland's success.
+1.12.1.4.1. Con: Switzerland is very homogeneous. This success may not translate into more diverse countries.
+1.12.1.4.1.1. Con: People in Switzerland speak 4 different languages \([German, French, Italian and Romansh](https://en.wikipedia.org/wiki/Languages_of_Switzerland)\) and have influences from 5 different surrounding countries.
+1.12.1.4.2. Pro: Gerd Habermann says that the Swiss' genuine democracy is [one of the key reasons](http://www.helloswitzerland.ch/-/seven-secrets-to-swiss-success) that Switzerland is so successful, as "Nowhere else in the world do citizens have the voice they do in Switzerland".
+1.12.1.4.3. Con: Switzerlands success was affected more by [staying neutral during the world wars](https://www.quora.com/Why-is-Switzerland-so-successful) than by direct citizen voting.
+1.12.1.5. Con: Switzerland's system is different from Liquid Democracy again. Just because an potato is better than spinach does not imply that broccoli is better than spinach too.
+1.12.1.5.1. Con: Liquid Democracy and Direct Democracy share the key ability for all voters to vote directly.
+1.12.2. Pro: -> See discussion #8574: Representative democracies should move towards direct democracy.
+1.12.3. Pro: Liquid democracy is a [middle-ground](https://rhizomenetwork.wordpress.com/2017/03/22/between-direct-and-representative-democracy-liquid-democracy/) between Representative and Direct Democracy.
+1.12.3.1. Con: The [Argument to moderation](https://en.wikipedia.org/wiki/Argument_to_moderation) \(middle-ground fallacy\) shows that being a middle-ground is not always a good compromise between two opposite positions.
+1.12.3.1.1. Con: Direct and Representative democracies are not opposed, according to [Ian Budge](https://www.tandfonline.com/doi/abs/10.1080/00344890600583685?journalCode=rrep20).
+1.12.3.2. Pro: If both Direct Democracy and Representative democracy have been proven to work, then the middle-ground is likely to also work.
+1.12.3.2.1. Con: People would not look at liquid democracy if either representative or direct democracy worked well.
+1.12.3.2.1.1. Con: There are many problems with current Representative Democracies.
+1.12.3.2.1.1.1. Con: Liquid democracy is not likely to solve the problems with current representative democracy.
+1.12.3.2.1.1.1.1. Pro: Democracy in general is undermined by a political culture led by [image-management](https://youtu.be/dWEIoS8eV8s).
+1.12.3.2.1.1.1.2. Pro: Those entrusted with defending democracy are either unable or [unwilling](https://www.electoralcommission.org.uk/i-am-a/journalist/electoral-commission-media-centre/party-and-election-finance-to-keep/vote-leave-fined-and-referred-to-the-police-for-breaking-electoral-law) to take action to prevent [attacks](https://bylinetimes.com/2019/05/14/brexit-party-donations-an-open-invitation-to-launder-money/) on its principles.
+1.12.3.2.1.1.1.2.1. Con: This is not evidence of lack of action, becasue the electoral commission has investigated, levied fines, and escelated the case to metropolitan police and the National Crime Agency. Whilst the speed of the process can be criticised, the action itself is appropiate.
+1.12.3.2.1.1.1.2.1.1. Con: Whether it's a lack of action or not depends on whether it's done before or after brexit takes effect. The fact that brexit could have been enacted by now and an assessment, rather than an investigation, hasn't been undertaken demonstrates that effective action has not been undertaken with protecting UK democracy in mind.
+1.12.3.2.1.1.1.2.2. Pro: Groups such as the [UK in EU Challenge](https://www.ukineuchallenge.com/) claimed that these actions were "enough to declare the Referendum result null and void". This would mean that the democratic principle of fair voting was able to be diverted with only minimal consequences.
+1.12.3.2.1.1.1.3. Con: -> See 1.4.
+1.12.3.2.1.1.1.4. Con: -> See 1.4.1.2.1.5.1.
+1.12.3.2.1.1.1.5. Con: Liquid Democracy would reduce the power of political parties, lessening the negative effects of party politics.
+1.12.3.2.1.1.1.5.1. Pro: In current systems, some consider a vote for a smaller party 'wasted' because they have no chance of getting elected and effecting change. Liquid Democracy allows people to delegate to these smaller parties and flatten the playing field, as if small delegates do not gain enough support for their ideas, they can lend support to larger delegates with similar ideas.
+1.12.3.2.1.1.1.5.1.1. Con: Clubbing together to defeat a common enemy has a much stronger track record on the right than on the left, where major disputes about relatively minor policy disagreements are common.
+1.12.3.2.1.1.1.5.1.1.1. Pro: In the UK, the left [splits](https://www.conservativehome.com/thecolumnists/2017/01/lewis-baston-why-the-british-left-tends-to-split-and-the-right-doesnt.html) more often than the right.
+1.12.3.2.1.1.1.5.1.1.2. Pro: In America the [left-liberal divide](https://www.theguardian.com/news/2017/oct/26/the-liberal-left-divide-reshaping-american-politics) is splitting the Democratic party.
+1.12.3.2.1.1.1.5.2. Con: There is no evidence that LD would reduce the power of political parties.
+1.12.3.2.1.1.1.5.3. Pro: [Ranked choice voting \(RCV\)](https://ballotpedia.org/Ranked-choice_voting_\(RCV\)) has a similar effect of allowing citizens to vote specifically.[In Australia RCV allowed several more minority parties to be elected](https://www.fairvote.org/ranked_choice_voting_pr). It is likely that this effect would be increased if Liquid Democracy were implemented.
+1.12.3.2.1.1.1.5.4. Pro: -> See 1.5.7.2.
+1.12.3.2.1.1.1.5.5. Con: -> See 1.4.1.2.1.3.2.
+1.12.3.2.1.1.1.5.6. Con: -> See 1.5.7.5.
+1.12.3.2.1.1.1.5.7. Pro: -> See 1.4.10.2.6.1.3.4.
+1.12.3.2.1.1.1.5.8. Pro: In the status quo, many voters always vote for the same party, often due to the parties broad left/right spectrum. Under Liquid Democracy voters could research and delegate their vote smartly for each subject, letting them vote with more specific democratic will than a broad left/right divide.
+1.12.3.2.1.1.1.5.8.1. Pro: In the US most voters are set on one party, with swing voters \(voters who will vote for whichever party is best at the time\) [declining from 15% to 5%](https://web.archive.org/web/20160217155658/https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/03/the-astonishing-decline-of-the-american-swing-voter/).
+1.12.3.2.1.1.1.5.9. Pro: Politics would no longer be about following a party-line and networking, making it easier for everybody to become politically active. Thus, Liquid Democracy would motivate politicians to focus on the quality of propositions and to act responsibly as a representative.
+1.12.3.2.1.1.1.5.10. Con: Political parties are a vital part of society and should be encouraged, not repressed.
+1.12.3.2.1.1.1.5.10.1. Con: For many, political parties do give a sense of purpose or inclusion like religion. But if that is the only merit of parties, there are better ways to give people the same feelings and not let such negative effects influence decisionmaking.
+1.12.3.2.1.1.1.5.10.2. Con: Political parties themselves are not vital, groups of people who agree on a certain viewpoint or belief are democratically fundamental.
+1.12.3.2.1.1.1.5.10.2.1. Pro: People who are free to hold their individual opinions without towing to a party line are more faithful to the system of Democracy.
+1.12.3.2.1.1.1.5.10.2.2. Pro: People who vote for a political party typically vote on more than a single issue under Representative Democracy - this leads to people compromising their vote for whatever group of beliefs are closest to theirs, while not having their true voice heard.
+1.12.3.2.1.1.1.5.10.3. Pro: Political parties are grounded in partisanship which is not without merits. People seek out and align themselves with others who share their views. This helps people hone their views, learn from those with similar ideals, and gain courage from the knowledge that they are not alone.
+1.12.3.2.1.1.1.5.10.3.1. Con: The world is now connected like never before. Sharing of ideas and views online means that if people want to explore an idea they don't need party affiliations - they can hone their views and gain strength in their beliefs individually.
+1.12.3.2.1.1.1.5.10.3.2. Con: Banding together with others in a party does help hone and strengthen your views, but that may be a bad thing if your views are immoral. Voting directly and exposing yourself to everyones opinions under Liquid Democracy may help prevent extreme views forming when compared to surrounding yourself with those sharing similar views.
+1.12.3.2.1.1.1.5.10.3.3. Con: Life-long party members often have diverse and contradictory opinions amongst them. Large parties are an organized way to seek power by amassing money, influence, favors, attention etc. Whilst large parties may share a broad left/right world view, they often have very differing ideals on specific issues.
+1.12.3.2.1.1.1.5.10.4. Pro: Parties help to give voters a voice that would otherwise be lost in a sea of similar but diverse opinions. They provide a channel for a network of voters who want to see similar change, but have slightly differing opinions, to move forward together on a bigger topic instead of competing amongst themselves over smaller details.
+1.12.3.2.1.1.1.5.10.4.1. Con: Political parties came to prominence in the 1700s, [rising up as radical movements in European systems](https://www.theodysseyonline.com/why-political-parties-are-good-for-america), where they were the only way to affect large scale change on a government. Online networks of people now have the ability to work together to affect change in ways impossible back then - they can join voices on individual topics in a Liquid Democratic system much the way that existing political parties join voices.
+1.12.3.2.1.1.1.5.10.5. Con: Liquid Democracy would in no form repress political parties. If parties are beneficial to the voters/society they can also work in Liquid Democracy.
+1.12.3.2.1.1.1.5.10.6. Con: Partisanship divides a society.
+1.12.3.2.1.1.1.5.10.6.1. Pro: In many European Countries this is literally true, with every party being connected with their own health insurance, labor union, youth movement, sponsored events, schools, media etc. With political leaders often having careers throughout these organizations before actually running for office...
+1.12.3.2.1.1.1.5.10.7. Con: The founding fathers of the United States were strongly opposed to political parties.
+1.12.3.2.1.1.1.5.10.7.1. Pro: George Washington [said](https://context.montpelier.org/document/715) "However \[political parties\] may now and then answer popular ends, they are likely in the course of time and things...by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion.”
+1.12.3.2.1.1.1.5.10.7.2. Con: The political parties we have today look nothing like the parties that existed during Washington's time. Political parties in the late 1700s rose up as radical movements in European systems, and usually they consisted of people who wanted to overthrow and replace the current system of government so they alone were in charge. [This was the type of political party Washington was warning against, not the modern kind](https://www.theodysseyonline.com/why-political-parties-are-good-for-america) that we have today, which had not yet been invented.
+1.12.3.2.1.1.1.6. Con: Liquid Democracy reduces centralisation of power from the few, and gives it to the many.
+1.12.3.2.1.1.1.6.1. Pro: -> See 1.4.10.2.
+1.12.3.2.1.1.1.6.2. Con: [Studies](http://www.democraticaudit.com/2015/07/30/direct-democracy-is-ill-fitted-to-engaging-the-politically-disengaged-but-popular-with-more-active-citizens/) on more direct style of government show that they fail to engage wider interest in political affairs, and only serve to empower existing interest groups.
+1.12.3.2.1.1.1.6.3. Pro: This could prevent the rise of authoritarianism.
+1.12.3.2.1.1.1.6.4. Con: Liquid democracy would concentrate power and - like in elective representative "democracies" - facilitate vote buying by the rich, subverting the democratic requirement that everybody should be equal.
+1.12.3.2.1.1.1.6.4.1. Pro: In this way it resembles the councils or Soviets of the former Soviet Union. While basically democratic in nature they were not able to prevent the rise of authoritarians big and small, most famously Marshall Stalin.
+1.12.3.2.1.1.1.6.4.1.1. Con: One of the major problems with the soviets was that very few people actually could/did vote. With modern technology this problem can be minimized.
+1.12.3.2.1.1.1.6.4.1.1.1. Pro: -> See 1.4.1.2.1.2.2.1.1.1.
+1.12.3.2.1.1.1.6.4.2. Con: Moving power from elected representatives/government to a voting public means that power is spread out.
+1.12.3.2.1.1.1.6.4.2.1. Pro: The UK Government is currently controlled by [1434 individuals](http://www.notademocracy.uk/) \(650 elected MPS, 763 unelected Lords, and 21 Royals\). Under liquid democracy, power would lessen within these groups and increase within the voting public.
+1.12.3.2.1.1.1.6.4.2.2. Con: A single person may receive a large number of delegated votes, and hold huge power over voted decisions.
+1.12.3.2.1.1.1.6.4.2.2.1. Pro: Not every user will be regularly active and changing their votes. Inactive users may leave their votes with a popular delegate and forget about it, giving persistent power which would only be removed if/when the user returns to voting.
+1.12.3.2.1.1.1.6.4.2.2.1.1. Con: The Liquidfeedback Liquid Democracy platform [implemented](https://interaktive-demokratie.org/news/2011/20110206-aussetzen-von-stimmgewicht-bei-inaktivitaet.de.html) a weight-reduction for the votes of users who do not log on for a set period of time.
+1.12.3.2.1.1.1.6.4.2.2.1.1.1. Con: Reducing the weight of any person's vote is disenfranchisement and does not improve democracy.
+1.12.3.2.1.1.1.6.4.2.2.1.1.1.1. Pro: Users who log in irregularly are unlikely to vote in the future since their voter power has been reduced.
+1.12.3.2.1.1.1.6.4.2.2.1.1.2. Pro: Additionally, a reminder could be sent to those who have selected a delegate if they want to continue choosing this delegate if a voter has not logged on to the voting app in a set period of time.
+1.12.3.2.1.1.1.6.4.2.2.2. Con: If that person makes a bad decision, or gets exposed for corruption, it would be much easier and quicker to pull power from them. In most representative democracies, the [volk](https://en.wikipedia.org/wiki/Volk) has to wait years for an election until it can remove an unwanted official.
+1.12.3.2.1.1.1.6.4.2.2.3. Con: Vote concentration could be prevented by having limits on the total votes a single delegate can receive, eg 10% of all votes as a hard limit.
+1.12.3.2.1.1.1.6.4.2.2.3.1. Con: This would prevent people from sharing a common opinion/delegate's views, and would require several delegates copying each other's voting decisions.
+1.12.3.2.1.1.1.6.4.2.2.3.2. Pro: Delegates could be removed entirely, with people only voting on areas they are interested in. Voter turnout would be lower on some issues, but democracy would be maintained.
+1.12.3.2.1.1.1.6.4.2.2.3.3. Con: Political groups may be able to circumvent those limits by delegating excess votes to someone they know will vote along their party line.
+1.12.3.2.1.1.1.6.4.2.2.3.3.1. Con: This may not be bad. If all the people agree with one person's views on one subject he/she may get most of the votes delegated to him/her. If he/she crossed a line then people can change their vote or delegation at any time.
+1.12.3.2.1.1.1.6.4.2.2.4. Con: Vote concentration could be prevented by limiting vote delegation to within your existing constituency.
+1.12.3.2.1.1.1.6.4.2.2.4.1. Pro: Exceptions could be made when a public Liquid Democracy vote is used to elect the head of the executive branch, ie the President/Prime Minister.
+1.12.3.2.1.1.1.6.4.2.2.4.2. Pro: This would encourage local politics and involvement with local councils, which may be damaged otherwise if people always delegate on a national scale and give no power to those with invested interest in local issues.
+1.12.3.2.1.1.1.6.4.2.2.4.3. Con: This could bring with it all the current problems with separating votes between electorates, like [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), targeting [only swing seats](https://en.wikipedia.org/wiki/Targeting_\(politics\)), and [wasted votes](https://en.wikipedia.org/wiki/Wasted_vote#Rationale_for_wasted_votes_concept).
+1.12.3.2.1.1.1.6.4.2.2.5. Pro: Current systems have seats split between different electoral districts, which plays an important role in keeping power fairly spread out. This could be lost under Liquid Democracy.
+1.12.3.2.1.1.1.6.4.2.2.5.1. Con: Power would be spread between each voter, and their chosen representatives according to their merits in a chosen field. To suggest an alteration could also be commented, voted upon, and amended, by each voter according to their desire. Power levels would be maintained according to the voters, from local to international LD’s.
+1.12.3.2.1.1.1.6.4.2.2.5.2. Con: [Not all democratic political systems use separate districts](https://en.wikipedia.org/wiki/Electoral_district#Voting_without_constituencies) or other electoral subdivisions to conduct elections, and they still function well.
+1.12.3.2.1.1.1.6.4.2.2.6. Con: -> See 1.12.3.2.1.1.1.6.4.2.2.3.3.1.
+1.12.3.2.1.1.1.6.4.2.2.7. Con: Not necessarily. Individuals would always be able to take back their vote from their delegates at any time, and they would always have the final say in voting.
+1.12.3.2.1.1.1.6.4.3. Con: -> See 1.4.10.2.6.
+1.12.3.2.1.1.1.6.4.4. Con: -> See 1.4.1.2.1.7.3.2.
+1.12.3.2.1.1.1.6.4.5. Pro: Liquid Democracy assumes that experts offer the best representation. The natural progression towards Meritocracy is essentially a rule by the elite, which is exactly what a republic aims to avoid.
+1.12.3.2.1.1.1.6.4.5.1. Con: Meritocracy would be a fair system as long as access to education and progression within that system is ensured.
+1.12.3.2.1.1.1.6.4.5.1.1. Con: These standards are unlikely to be achieved if they are not already in place when the system converts to meritocracy.
+1.12.3.2.1.1.1.6.4.5.1.1.1. Con: A prerequisite for any form of functioning democracy is ensuring that access to high quality education, and equal opportunities for progressing within the system. This means that it would not be a unique challenge for Meritocracy to face.
+1.12.3.2.1.1.1.6.4.5.1.1.2. Pro: There's a risk that elitist power structures already existing would only be cemented further if the system is converted into a meritocracy.
+1.12.3.2.1.1.1.6.4.5.2. Con: Experts in different fields often disagree regarding policy decisions that will have an impact across several areas. This decision-making role is essentially what politicians are for.
+1.12.3.2.1.1.1.6.4.5.2.1. Pro: Experts are required to present facts and evidence. Politicians are required to make decisions on the basis of disparate information.
+1.12.3.2.1.1.1.6.4.5.2.2. Con: This is why experts can debate along with the public about an issue - to ensure that it has the best possible effects in the long run, without politicians who, in most cases, aren't experts on a particular issue.
+1.12.3.2.1.1.1.6.4.5.3. Con: In the US, the [government](https://www.youtube.com/watch?v=5tu32CCA_Ig&t=4s) is run by [elites](https://www.youtube.com/watch?v=PJy8vTu66tE). Even if Liquid Democracy is run by intellectual elites, they are at least people who have performed years of experience in their field and would have more wisdom in advising in the said field.
+1.12.3.2.1.1.1.6.4.5.4. Con: Experts do not, by definition, offer the best representation. The people must be involved in order to have democracy. A better way of ensuring informed citizen engagement in politics is [sortition](https://www.theguardian.com/politics/2016/jun/29/why-elections-are-bad-for-democracy).
+1.12.3.2.1.1.1.6.4.5.4.1. Pro: The only candidate without a fairly major cock-up or scandal to their name left in the running for the Conservative party leadership, has promised a [sortition approach](http://Rory Stewart hits out at Tory rivals over 'suicide bomber' remark https://www.theguardian.com/politics/2019/may/28/rory-stewart-hits-out-at-tory-rivals-over-suicide-bomber-remark?CMP=Share_AndroidApp_Copy_to_clipboard) to resolving the Brexit impasse.
+1.12.3.2.1.1.1.6.4.5.4.2. Con: Random choice to fill office does very poorly on Warren D. Smith's "Bayesian Regret" simulations, which attempt to model the utility \(measured negatively\) produced by different election procedures based on numerous random simulated electorates.
+1.12.3.2.1.1.1.6.4.5.5. Con: It is a foolish system that seeks to avoid consulting with the people who know.
+1.12.3.2.1.1.1.6.4.5.6. Pro: -> See 1.3.16.11.4.1.
+1.12.3.2.1.1.1.6.4.5.7. Con: This is not necessarily bad. The United States was designed as a Republic, in part, so that well educated experts are not [bound to slavishly uphold public opinion, but to exercise their judgment.](https://www.huffingtonpost.com/george-friedman/the-founding-fathers-never-meant-to-create_b_13051196.html)
+1.12.3.2.1.1.1.6.4.5.7.1. Pro: There is little base for "assuming that the effectiveness of government increases with its basis on the consent of the governed." Many things that people initially thought were good policy turned out disastrously -- the excesses of the French Revolution, the Nazi Party, Russian communism, etc.
+1.12.3.2.1.1.1.6.4.5.7.1.1. Con: The three events quoted are major turning points in history, which are usually pushed by strong willed minorities, not the majority will.
+1.12.3.2.1.1.1.6.4.5.7.1.1.1. Con: In the common "first past the post" voting system, it's normal for the ruling party to only recieve a minority of the votes.
+1.12.3.2.1.1.1.6.4.5.7.1.1.1.1. Pro: For about 90% of the time since 1935, the UK had single-party 'majority' governments, but [not one of them had the support of a majority of voters](https://www.makevotesmatter.org.uk/first-past-the-post).
+1.12.3.2.1.1.1.6.4.5.7.1.2. Con: If the will of the people were being taken care of, those events would not have been necessary.
+1.12.3.2.1.1.1.6.4.5.7.1.2.1. Pro: If the people had some amount of freedom and economic opportunity than the French Revolution and Nazi party would have had no base to gain support.
+1.12.3.2.1.1.1.6.4.5.7.1.2.1.1. Pro: -> See 1.7.6.2.1.2.1.1.1.2.1.1.
+1.12.3.2.1.1.1.6.4.5.7.1.2.1.2. Pro: When people are focused on survival, many other important aspects of society get overlooked. In the case of the Nazis and 1700s France, people were starving. There was little to no economic opportunity.
+1.12.3.2.1.1.1.6.4.5.7.1.3. Con: History does not look favorably on many historical popular opinions, but it would not be right to subject those populations to the minority perspective that we now consider correct.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1. Con: Whether an opinion is popular or not, there are [some views](https://www.theguardian.com/uk/2001/feb/17/johnezard) that are absolutely wrong.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1. Con: The only just way to ascertain moral truths upon which laws ought to be based, is through a majority vote.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1. Con: Popularity has nothing to do with morality.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1. Pro: Throughout history, popular entertainment has been morally questionable.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1.1. Pro: [Roman entertainment](https://www.historyonthenet.com/roman-entertainment) was barbaric, decadent and extremely popular.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1.2. Pro: [Victorian freak shows](https://www.bl.uk/learning/cult/bodies/freak/freakshow.html) were popular, despite exploiting people with various medical conditions.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1.3. Pro: In the [1970s](https://en.m.wikipedia.org/wiki/1970s_in_television) racism and sexism were routinely portrayed in popular entertainment.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1.4. Pro: [Reality panel shows](https://www.bbc.co.uk/news/entertainment-arts-48756290) remain popular despite being involved in exploitation.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.1.1.5. Pro: Popular reality TV shows have been shown to have negative effects on [viewers](https://www.independent.co.uk/life-style/health-and-families/love-island-2019-mental-health-body-image-reality-tv-itv-a8940856.html) and have been implicated in [participant mental health issues](https://www.theguardian.com/tv-and-radio/2019/jun/05/love-island-star-mike-thalassitis-death-was-suicide-coroner-rules). .
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.2. Con: If there is such a thing as a [moral truth](https://en.m.wikipedia.org/wiki/Moral_realism), it exists objecitvely and cannot be ascertained one way or the other by a subjective vote.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.2.1. Pro: [Public opinion changes over time](http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-36/relationships-and-gender.aspx), which is inconsistent with the concept of a moral truth.
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.3. Con: If a majority vote had been held any time before 2015, the UK would have [reintroduced the death penalty](https://www.bbc.co.uk/news/uk-32061822).
+1.12.3.2.1.1.1.6.4.5.7.1.3.1.1.4. Con: Nobody should be required to live by anyone else's standard, so laws should not be based on morality. Laws should be [based on their physical effects on other humans](https://en.wikipedia.org/wiki/Non-aggression_principle).
+1.12.3.2.1.1.1.6.4.5.7.1.3.2. Pro: History is written by the victors.
+1.12.3.2.1.1.1.6.4.5.7.1.4. Pro: Liquid Democracy might be both better, and less democratic, because all the issues that voters don't care about, can be handled intelligently, by experts in those fields, instead of by politicians.
+1.12.3.2.1.1.1.6.4.5.7.1.5. Con: -> See 1.7.6.2.1.2.1.1.1.2.1.1.
+1.12.3.2.1.1.1.6.4.5.7.1.6. Con: 'Power by central executive' has also shown bad judgements: Romanian orphanages, priestly paedophilia , welcoming Tobacco ....
+1.12.3.2.1.1.1.6.4.5.8. Con: -> See discussion #13035: Meritocracy is the best form of government.
+1.12.3.2.1.1.1.6.4.5.9. Pro: Experts in different fields often hold a particular bias towards one party or another and rarely hold the same values as the average citizen.
+1.12.3.2.1.1.1.6.4.5.9.1. Con: In liquid demcracy average citizens can select the expert they wish.
+1.12.3.2.1.1.1.6.4.5.9.2. Pro: According to a [new study](https://www.theatlantic.com/business/archive/2010/06/does-economics-breed-republicans/57846/), those who major in economics are likely to be fiscally conservative and therefore vote for right-wing parties.
+1.12.3.2.1.1.1.6.4.5.9.3. Pro: Only [6% of scientists](https://www.huffingtonpost.com/2009/07/10/only-six-percent-of-scien_n_229382.html) identify as Republicans, showing that broadly, scientists or experts in science vote for left-wing or socially liberal parties.
+1.12.3.2.1.1.1.6.4.6. Con: -> See 1.4.1.2.1.9.
+1.12.3.2.1.1.1.6.5. Con: -> See 1.4.3.1.2.
+1.12.3.2.1.1.1.6.6. Pro: Giving power to everyone is the obvious way to ensure it’s used to benefit everyone.
+1.12.3.2.1.1.1.6.6.1. Pro: Currently, those who own power are just [those who do what is needed to acquire it, even if it’s immoral.](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook)
+1.12.3.2.1.1.1.6.6.2. Con: We can’t be sure that everyone is able to take the best decisions.
+1.12.3.2.1.1.1.6.6.2.1. Con: Since decisions are directly intended to improve the situation of people, there is a big incentive to delegate votes to someone that will make better decisions. LD incentivise seriousness in recognizing if we aren’t enough educated on a topic to have a relevant opinion.
+1.12.3.2.1.1.1.6.7. Con: If liquid voting eliminates the electoral college system, then the largest cities will control all the voting.
+1.12.3.2.1.1.1.6.7.1. Con: -> See 1.4.8.10.2.
+1.12.3.2.1.1.1.6.7.2. Con: This is not a problem. Power is where the people are.
+1.12.3.2.1.1.1.6.7.2.1. Con: Communities not near the population centers would not be represented to their individual needs.
+1.12.3.2.1.1.1.6.7.2.2. Con: Where the people are could be a societal problem in itself, such as gallopping urbanisation.
+1.12.3.2.1.1.1.6.7.3. Con: There is already a city/rural voting divide under most modern representative democracies.
+1.12.3.2.1.1.1.6.7.3.1. Pro: The Donald Trump elections in the USA [highlighted](https://www.theatlantic.com/politics/archive/2016/11/clinton-trump-city-country-divide/507902/) the large [differences](https://www.theguardian.com/cities/2017/jun/19/americas-great-fallout-rural-areas-resent-cities-republican-democrat) between rural and city voters.
+1.12.3.2.1.1.1.6.7.4. Con: This is specific to the United States.
+1.12.3.2.1.1.1.6.7.4.1. Con: There are [several other countries](https://en.wikipedia.org/wiki/Electoral_college#Modern_electoral_colleges) using an Electoral Collage system.
+1.12.3.2.1.1.1.6.8. Con: Instead of power being split between geographic electorate regions \(eg one government official for each Constituency\), power within a Liquid Democracy will be centralised by ideology/class \(Environmentalist, Capitalist, Unemployed, Pro Free-Trade, Aristocracy etc..\)
+1.12.3.2.1.1.1.6.8.1. Pro: Current Democracies often elect members of government from distinct geographical areas. This means that to get elected a candidate must appeal to the many 'factions' of society \(unemployed, rich, farmers, traders, environmentalists etc..\). This encourages more balanced/neutral candidates, and discourages extremism.
+1.12.3.2.1.1.1.6.8.2. Pro: If under Liquid Democracy power is given to those whose views on subjects/their ideology benefits their social class/profession, it will lead to power being concentrated between delegates with more polarized/extreme viewpoints. Such a delegate may be able to push their own interests which may come at the expense of minorities.
+1.12.3.2.1.1.1.6.8.2.1. Pro: -> See 1.7.6.2.1.2.1.1.1.1.1.
+1.12.3.2.1.1.1.6.8.2.2. Pro: -> See 1.4.8.8.
+1.12.3.2.1.1.1.6.8.2.3. Con: Since the majority is usually going to be the middle or lower class, that may be a good thing.
+1.12.3.2.1.1.1.6.8.3. Con: In current systems, people often vote for members of parliament \(MPs\) because of the party they run under, instead of the merits of the MP him/herself. This shows people already vote by ideology \(eg a Green, Nationalist, or Conservative Party\), and not really for the candidates in each constituency.
+1.12.3.2.1.1.1.6.8.4. Con: The regional level could be kept and logically that's where a liquid democracy could be applied first, because once people have dealt with it on their local scale it is easier to understand. Once they start to appreciate it, it could be implemented at the state and nation levels.
+1.12.3.2.1.1.1.6.8.5. Con: In a society where the market and information are borderless it's useless keeping governance that works mainly on the small scale, because having wider ideology as a guide is far better then local interests.
+1.12.3.2.1.1.1.6.9. Pro: -> See 1.7.6.2.
+1.12.3.2.1.1.1.6.10. Con: -> See 1.12.3.2.1.1.1.6.4.2.2.
+1.12.3.2.1.1.1.6.11. Pro: Liquid Democracy does not stop delegates from amassing votes and gaining power over voted decisions. However, delegates can not abuse that power to forward their personal agenda as this would result in the loss of votes and power.
+1.12.3.2.1.1.1.6.11.1. Con: Liquid Democracy almost eliminates the worry about a demagogue rising to power, as there is little need for concentrating the vote power in a few people.
+1.12.3.2.1.1.1.6.11.2. Con: Delegates can abuse their power once – in the key decision they collected votes for.
+1.12.3.2.1.1.1.6.11.2.1. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.1.1.
+1.12.3.2.1.1.1.6.11.3. Pro: Voters keep their voting power at all times.
+1.12.3.2.1.1.1.6.11.3.1. Pro: When disagreeing with an upcoming vote, the voter can choose to change it from what their representative has decided.
+1.12.3.2.1.1.1.6.12. Pro: -> See 1.12.3.2.1.1.1.6.11.3.
+1.12.3.2.1.1.1.6.13. Pro: Liquid Democracy would provide the people with granular control of our governance model.
+1.12.3.2.1.1.2. Pro: -> See 1.4.8.10.2.3.
+1.12.3.2.1.1.3. Pro: -> See 1.4.10.2.6.1.3.4.
+1.12.3.2.1.1.4. Pro: -> See 1.4.7.
+1.12.3.2.1.1.5. Pro: -> See 1.4.7.3.
+1.12.3.2.1.1.6. Pro: Only 19 modern Democracies are Fully Democratic, according to the [Democracy Index by the Economist Intelligence Unit](https://www.eiu.com/topic/democracy-index).
+1.12.3.2.1.1.7. Pro: -> See 1.7.6.1.
+1.12.3.2.1.1.8. Pro: -> See 1.7.6.2.
+1.12.3.3. Pro: -> See 1.12.1.5.1.
+1.12.3.4. Pro: Liquid Democracy and Representative Democracy share the key ability for a voter to give democratic power to someone else.
+1.12.3.4.1. Con: This just restates the middle ground fallacy of the claim.
+1.12.3.5. Pro: Liquid Democracy is essentially a Direct Democracy where you pass your power to a representative if you choose to.
+1.12.4. Pro: [Athenian democracy](https://en.wikipedia.org/wiki/Athenian_democracy), the worlds [first](https://www.history.com/news/what-is-the-worlds-oldest-democracy) democracy, shows the Direct Democracy aspects of Liquid Democracy work successfully.
+1.12.4.1. Pro: Athenian Democracy was extremely successful, bringing many advancements, and often called the cradle of western civilisation.
+1.12.4.1.1. Pro: Athenian Democracy enabled Greek Philosophy, with great thinkers [such as](https://listverse.com/2011/02/19/top-10-greatest-philosophers-in-history/) Aristotle and Plato still influencing society today.
+1.12.4.1.2. Pro: Ancient Greece [had “spectacular” growth](https://qz.com/442821/greece-should-be-inspired-by-its-golden-age-of-economic-growth-1000-bc/) for the times, with “impressive rates of economic growth that were unparalleled by its contemporaries”.
+1.12.4.1.3. Pro: There is [academic consensus](https://en.wikipedia.org/wiki/Cradle_of_civilization#cite_note-187) that Classical Greece is the seminal culture which provided the foundation of modern Western culture, democracy, art, theatre, philosophy and science. For this reason it is known as the cradle of Western Civilization.
+1.12.4.2. Con: Athenian Democracy excluded Women, Slaves, and Foreign Residents, which left only an estimated [30% of the adult population](https://books.google.co.uk/books?id=iU6EAgAAQBAJ&pg=PA74&redir_esc=y#v=onepage&q&f=false) able to participate.
+1.12.4.2.1. Pro: Athenian Democracy only had 30,000 voting participants, which is nowhere near the scale that a modern Liquid Democracy would require.
+1.12.4.3. Pro: High political engagement in the Athenian democracy shows that people get involved in politics a lot more when they can vote directly on issues.
+1.12.4.3.1. Pro: Athenian public votes [required a minimum of 6000 citizens to participate](https://www.youtube.com/watch?v=pIgMTsQXg3Q&feature=youtu.be&t=5m40s), but voter turnout was thought to be tens of thousands on a regular basis.
+1.12.4.3.2. Pro: It was generally considered that every [good citizen](https://www.youtube.com/watch?v=pIgMTsQXg3Q&feature=youtu.be&t=6m17s) was involved in and had opinions on politics, showing the high level of political engagement.
+1.12.4.3.2.1. Con: [In Athenian democracy, every citizen was required to participate or suffer punishment](https://www.kialo.com/could-liquid-democracy-be-a-better-system-7865/7865.0=7865.1+7865.448+7865.451-7865.474/-7865.474)
+1.12.4.3.3. Con: -> See 1.12.4.3.2.1.
+1.12.4.4. Pro: [Virtually every government decision](https://www.youtube.com/watch?v=pIgMTsQXg3Q&feature=youtu.be&t=5m24s) ran through the assembly \(the body where the public could vote\), from military procurement, to diplomatic relations, to declarations of war.
+1.12.5. Con: There are parts of Liquid Democracy that Direct Democracy has not tested.
+1.12.5.1. Pro: The public voting directly on issues has never been tested at large scales.
+1.12.5.1.1. Pro: -> See 1.12.4.2.1.
+1.12.5.1.2. Pro: -> See 1.12.1.3.3.
+1.12.6. Con: -> See 1.3.3.1.3.4.1.1.3.2.1.
+1.13. Con: Liquid Democracy enables a majority to make decisions that benefit themselves, at the expense of minorities or greater society.
+1.13.1. Pro: Without [changes to the voting methodology](https://www.kialo.com/the-us-should-adopt-a-better-voting-system-for-single-winner-elections-4650?path=4650.0) \(eg Ranked voting\) Liquid Democracy will exasperate the existing problems with plurality voting.
+1.13.1.1. Con: The process of moving to Liquid Democracy already requires that the voting system will be redesigned to enable public and delegated votes - this provides a good oppurtunity to move to a better vote counting method at the same time.
+1.13.1.2. Pro: The [spoiler effect](https://www.electionscience.org/voting-methods/spoiler-effect-top-5-ways-plurality-voting-fails/) is when two similar parties split a majority of the votes between them, letting an opposing party with a less popular stance win. If Liquid Democracy leads to an increased number of parties, this effect may increase.
+1.13.1.2.1. Con: Under Liquid Democracy, the smaller of the two similar parties could choose to delegate all their votes to the larger one. This solves the problem.
+1.13.1.2.1.1. Con: -> See 1.12.3.2.1.1.1.5.1.1.
+1.13.1.2.2. Con: In a Democratic Republic, focus is on elected officials. In Liquid Democracy, the focus is on bills. This difference will minimize this issue.
+1.13.1.2.2.1. Con: Smaller, single issue campaigners may be less likely to compromise on detail than traditional parties, which may be more willing to put aside small single-issue differences for a wider general outcome.
+1.13.1.3. Pro: The concept of 'voting against' a hated candidate in an election is damaging, but there will be more damaging effects if people are 'voting against' topics up for vote in Liquid Democracy.
+1.13.1.3.1. Pro: [Favourite Betrayal](https://www.electionscience.org/voting-methods/spoiler-effect-top-5-ways-plurality-voting-fails/) is when you vote for someone not because you approve of them, but to make sure someone you strongly disapprove of does not win.
+1.13.1.3.2. Con: This would only apply to multi-option votes, which could be solved through 123 voting or eliminated all together.
+1.13.1.3.2.1. Pro: -> See 1.5.8.1.
+1.13.1.3.3. Con: This would actually be better in LD, because it would allow single issue voters to care about their single issue while leaving all the other policies that the politician who supports that issue cares about out.
+1.13.1.3.3.1. Con: Single-issue campaigns would win more than they do under representative democracy, simply because they care more, creating a tyranny of the few.
+1.13.1.4. Pro: With so many votes now in the hands of the public, voting from home will be necessary.
+1.13.1.4.1. Pro: Liquid Democracy as proposed would include voting from home. Home votes are vulnerable to coercion.
+1.13.1.4.1.1. Con: People can already be coerced into voting a certain way by family and housemates. As long as people still keep their votes private, this problem has no reason to worsen.
+1.13.1.4.1.1.1. Con: The current representative system provides voting booths, which provide privacy and a secret vote, making coercion difficult. I can promise my coercer that I will vote one way and in private I can vote another way.
+1.13.1.4.2. Con: -> See 1.13.1.4.1.1.1.
+1.13.1.4.3. Con: Voters could still choose to vote either via an open-source app, or if they don't have a device, voting booths.
+1.13.1.4.4. Con: -> See 1.4.1.2.1.5.1.2.
+1.13.1.4.5. Con: -> See 1.4.1.2.1.5.1.3.
+1.13.2. Con: -> See 1.3.10.5.
+1.13.3. Con: A democracy [is defined as](https://www.google.co.uk/search?q=democracy&oq=democracy&aqs=chrome..69i57j69i60l3j0l2.1685j1j7&client=ms-android-lenovo&sourceid=chrome-mobile&ie=UTF-8) "control of an organisation or group by the majority of its members." If the will of the minority was imposed on the majority, society would be worse off.
+1.13.3.1. Pro: A perfect system balances the need of the few and the many, but the current status-quo is weighted towards the few.
+1.13.3.1.1. Pro: -> See 1.7.6.2.
+1.13.4. Pro: -> See 1.7.6.2.1.2.1.1.1.1.1.
+1.13.5. Pro: It would significantly discourage unpopular measures that are necessary for objective reasons, e.g. budget adjustment in a deficit scenario.
+1.13.5.1. Con: It is impossible to say how severe these problems will be without knowing how specific procedures, such as budgeting, work. For example a balanced budget could be incorporated into the constitution of a liquid democracy.
+1.13.5.2. Con: If trusted delegates devote their time to studying a subject \(which also likely would encourage more people to entrust their vote by delegating to them\), there's no reason why they wouldn't support "necessary but unpopular" measures.
+1.13.5.2.1. Con: -> See 1.3.10.7.2.
+1.13.5.2.2. Con: This argument relies very heavily on the rationality of people, which makes it flawed. Instant gratification and self interest can easily trump \(…\) trust, hard work, and knowledge.
+1.13.6. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.
+1.13.7. Con: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.
+1.14. Pro: -> See 1.12.3.2.1.1.1.5.
+1.15. Pro: -> See 1.12.3.2.1.1.1.6.
+1.16. Con: Replacing governing bodies like those of status quo democracies with a Liquid Democracy system would create new problems as Liquid Democracy cannot replace all functions of a "regular" governing body.
+1.16.1. Pro: -> See 1.3.3.1.3.4.1.1.3.1.
+1.16.2. Pro: Effective government requires fixed terms of office to allow policies to be enacted and outcomes delivered.
+1.16.2.1. Pro: If anything, longer terms of office, with carefully negotiated break clauses, are required in order to ensure a strategic approach to government.
+1.16.2.1.1. Con: This would require a different model of government entirely.
+1.16.2.2. Con: Under LD, the government would be the citizens of a country, and therefore the government would be a constant, with policies enacted according to a timeframe that could be agreed upon and revised should enough interest be raised.
+1.16.2.3. Pro: -> See 1.5.2.2.
+1.16.3. Con: The whole point of a liquid democracy is that it is fluid, and can adapt to the circumstances. The functions of the current governing body could easily be replaced.
+1.16.4. Pro: -> See 1.13.5.
+1.16.5. Pro: Discussing and developing hundreds of propositions is a core strength of Liquid Democracy which is not realisable under time constraints.
+1.16.5.1. Con: -> See 1.3.3.1.3.4.1.1.
+1.16.6. Con: Current systems do not necessarily perform well under constraints, either.
+1.16.7. Pro: A balanced budget can be seen as constraint which could become harder to reach through Liquid Democracy.
+1.16.7.1. Pro: In many systems the ruling party creates the budget. If Liquid Democracy without a ruling party allowed public voting on individual aspects of the budget, it would descend into a [design by committee](https://marketoonist.com/2017/10/committee.html).
+1.16.7.2. Con: Positions of power currently taken by senior ministers such as the UKs [Cabinet](https://en.wikipedia.org/wiki/Cabinet_of_the_United_Kingdom) could be absorbed into the executive branch, with periodic elections to decide the members.
+1.16.7.2.1. Pro: This would enable long-term policy such as Budgets, foreign policy, etc... to have cohesive centralised leadership, whilst keeping leglislative decisions under the control of delegates and the public.
+1.16.7.2.2. Con: The idea of Liquid Democracy is to give people the option to directly have their opinions reflected in policy. Keeping more major decisions behind closed doors removes many of the benefits of Liquid Democracy.
+1.16.7.3. Pro: The system supports and promotes notions that we can "have it all" by making socially progressive decisions/delegations at the same time as making economically Conservative d/ds.
+1.16.7.3.1. Pro: Whilst traditional political parties don't always cost their manifestos, when they don't they can be held to account for it.
+1.16.7.4. Con: Multiple possible budgets could be proposed by relevant bodies, and runoff voting used to decide the winner.
+1.16.7.4.1. Con: Analysing a budget is a huge and specialised endevour, and even if people are smart enough to delegate to those who have this knowledge, those experts may struggle to fairly consider all the proposed options equally and fairly.
+1.16.7.4.2. Con: The impact on the delivery departments would effectively reduce their ability to deliver their mandate, ensuring that everyone was unhappy all of the time.
+1.16.7.4.2.1. Pro: At least when you vote for a coherent manifesto, some people have a chance of getting what they voted for.
+1.16.7.4.3. Pro: Having multiple options on the table removes the ability of the party controlling the suggested budget to push their own agenda. This, alongside the benefits of runoff voting, gives the voters more choice, increasing the chance that a centrist/balanced budget can be selected.
+1.16.7.4.3.1. Pro: Individual ministers, elected on the basis policies that are popular, not necessarily realistic, will be pitched against each other to secure the necessary funding to deliver their mandates, with those unsuccessful being failures before they start.
+1.16.8. Con: Just because the new system would have problems is not a strong argument against it.
+1.16.9. Con: Liquid Democracy could lead to improvements in the powers, and election process, of the executive branch \(eg the President/Prime Minister\).
+1.16.9.1. Pro: The President/Prime Minister could be [hired similar to how a CEO is hired](http://qr.ae/TUGYwr).
+1.16.9.1.1. Con: The direct hiring of a Prime Minister/President \(by what body, group or individual/s is unclear\) in the same manner a CEO is hired risks corruption, executive power coalescence, and dictatorship.
+1.16.9.1.2. Con: Direct hiring of a Prime Minister/President in the same manner a CEO is hired seeks to replace established democratic systems and removes the citizens from the process of electing their leader.
+1.16.9.1.3. Pro: One benefit of hiring a Prime Minister/ President like a CEO is hired is that it would prevent [populist](https://en.wikipedia.org/wiki/Populism) and other, perhaps unqualified, candidates.
+1.16.9.1.3.1. Pro: In the US, this may eliminate the need for an electoral college, which many frown upon.
+1.16.9.2. Pro: The infrastructure created for the regular public votes could also be used to directly elect the President/Prime Minister.
+1.16.9.2.1. Con: Voting directly \(as opposed to voting for a political party, who elects their already chosen leader\) could mean that a [populist](https://en.wikipedia.org/wiki/Populism) figure may find it easier to become the leader, as he/she only has to convince the public, instead of convincing the leaders of a political party first.
+1.16.9.2.2. Pro: The voting system could enable greater flexibility for voters to change their leadership vote, and see the president/prime minister be replaced much more frequently.
+1.16.9.2.2.1. Pro: -> See 1.5.2.
+1.16.9.2.2.2. Pro: Publicly initiated votes \(ie votes taken due to a percentage of the population requesting a vote\) could allow the public to trigger votes of no confidence, in the case of a bad leader.
+1.16.9.2.2.3. Con: Electronic/digital voting could [exist just as easily outside of Liquid Democracy](https://www.raconteur.net/technology/electronic-voting-democracy), so an easy and quick voting app could be developed for the status quo. Therefore the choice to allow the leader to have potentially shorter terms is a separate decision from choosing where to sit on the [Direct/Liquid/Representative spectrum](https://cdn-images-1.medium.com/max/1600/1*vMFloIdXWyCLYKvwj8eU8Q.png).
+1.16.9.2.3. Pro: The top delegates \(those with the most regular votes\) could volunteer their candidacy for leader, with a public secondary election to choose between them.
+1.16.9.3. Pro: The problem of how much power to give the executive branch could be solved by changing constitutional limits on his/her power in relation to their current number of delegated votes.
+1.16.9.3.1. Pro: This would enable timely limits on the executive power to overrule the other branches, without the disruptive process of voting no-confidence and electing a brand new leader. For example if a leader [overstepped their power](https://www.quora.com/What-are-the-top-10-worst-executive-orders-in-the-history-of-the-United-States/answer/Mithil-Kamble) public support may drop, and the leader can still rule but have less ability to do whatever they want regardless of the law.
+1.16.9.4. Con: Deciding how a society handles an executive branch has fairly little to do with Liquid Democracy vs Representative Democracy.
+1.16.9.4.1. Pro: -> See 1.3.3.1.3.4.1.1.2.2.1.5.1.2.2.2.1.
+1.16.9.4.2. Con: How an executive is hired could be very different with Liquid Democracy.
+1.16.9.4.2.1. Pro: If voters can change their vote at any time then the President/Prime Minister may not need term limits.
+1.16.9.4.2.1.1. Con: -> See 1.16.2.
+1.16.9.4.2.1.2. Con: -> See 1.16.9.2.2.3.
+1.16.9.4.2.1.3. Con: Representative democracy could theoretically also exist without term limits, but current instances choose to have terms of several years to give stability and lower voting burden.
+1.17. Con: -> See 1.12.3.2.1.1.1.6.4.5.
+1.18. Con: Liquid Democracy would require a new electronic voting system which could be complex, abusable, and unfair.
+1.18.1. Con: Existing systems such as Democracy Earth or the ones on [this post on kialo](https://www.kialo.com/make-democracy-great-again--liquid-democracy-7865/7865.0=7865.1-7865.853+7865.262-7865.935+7865.944/+7865.944) will make this possible. It is precisely because those systems exist that a Liquid Democracy is possible today.
+1.18.2. Pro: -> See 1.13.1.4.1.
+1.18.3. Con: If the voting system remained as simple as the non-digital version, it would be fair and accessible with the use of accessibility features on an app. An example of a website that could be used for Direct Democacy is [Democracy Foundation.](http://democracy.foundation)
+1.18.4. Pro: -> See 1.4.1.2.1.5.
+1.18.5. Pro: -> See 1.4.1.2.1.5.1.5.4.
+1.18.6. Con: For those who can't or won't vote online or via an app, there would be physical polling stations where they can cast their votes as usual.
+1.18.6.1. Con: They will be less likely to vote often because a physical appearance takes more time than a swing of a finger, so they would be underrepresented.
+1.18.6.1.1. Con: If they choose to delegate their votes, then they will be represented in every decision. Many countries already allow proxy voting \(eg letting a friend cast your vote for you as a one off if you cannot get to a polling place\), but this would become a permanent option in Liquid Democracy.
+1.18.7. Pro: -> See 1.7.8.
+1.18.8. Con: Electronic Voting has been shown to work.
+1.18.8.1. Pro: [Estonia](https://www.youtube.com/watch?v=cHkIfiTGmzo) has all of its voting online.
+1.18.8.1.1. Con: After putting together a replica of the Estonian voting setup, a research team found that they were [able to infiltrate the voting technology and change the result](https://www.theverge.com/2014/5/13/5714438/estonia-e-voting-system-could-easily-be-rigged-by-hackers) of an entire election — without leaving any real trace of the digital break-in.
+1.18.8.2. Con: -> See 1.4.1.2.1.5.1.3.3.2.
+1.19. Pro: Liquid Democracy is conceptually more democratic than a Representative Democracy. Assuming that the effectiveness of government increases with its basis on the consent of the governed, then Liquid Democracy is indeed a better mechanism of governance.
+1.19.1. Con: -> See 1.12.3.2.1.1.1.6.4.5.7.1.
+1.19.2. Con: -> See 1.7.6.2.1.2.
+1.19.3. Con: Democracy does not exist on a continuum, where no one voting ever is 0% and everyone voting on every issue is 100% democracy. Democracy is expressed by any functional system that enfranchises citizens in policy choices.
+1.19.3.1. Pro: The current obsession with forcing polar extremes on every issue is mindless and dangerous.
+1.19.3.2. Con: The EIU Democracy Index [ranks how democratic countries are](https://www.eiu.com/topic/democracy-index).
+1.19.3.2.1. Pro: They measure democracy based on electoral process and pluralism, civil liberties, the functioning of government, political participation, and political culture.
+1.19.3.2.2. Con: The EIU democracy index has been [criticized](https://en.m.wikipedia.org/wiki/Democracy_Index) for lacking transparency and accountability beyond the numbers.
+1.19.3.2.2.1. Pro: Transparency and accountability are key democratic principles.
+1.19.3.2.2.2. Pro: The index is created by survey of various experts, however the final report does not indicate what kinds of experts, their number, or the steps taken to prevent bias.
+1.19.3.2.3. Con: The EIU does not represent a contiuum where 0 participation equals 0% democracy and 100% participation equals 100% democracy. Turn out at elections in many of the countries at the lower end of the EIU ranking tends to be [extraordinarily high](https://www.aljazeera.com/news/2019/03/north-korea-election-turnout-9999-percent-state-media-190312061839266.html).
+1.19.4. Pro: Higher rankings on the [Democracy Index](https://www.eiu.com/topic/democracy-index) correlates with higher rankings in [Peace](http://visionofhumanity.org/indexes/global-peace-index/), [Prosperity](https://www.prosperity.com/rankings), [Education](http://hdr.undp.org/en/content/education-index), and [Freedom](https://www.cato.org/human-freedom-index-new) Indexes.
+1.19.4.1. Con: All of the highest ranked democracies are representative ones, not LD.

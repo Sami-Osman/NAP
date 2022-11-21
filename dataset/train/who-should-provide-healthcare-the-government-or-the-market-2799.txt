@@ -1,0 +1,425 @@
+Discussion Name: Who should provide healthcare: the government or the market?
+
+1. Health care should be voluntary and market provided, not mandatory, nor provided or regulated by government.
+1.1. Pro: In order for government to provide healthcare it would effectively have deep levels of access to personal information about each individual; thereby making the possibility of a police state even easier to achieve and maintain. Privacy alone is sufficient reason to keep healthcare out of the hands of the powerful.
+1.1.1. Con: Personal information is already collected by corporations, who have less obligations to keep the data safe and secure, and will sell the information to other corporations for more profit.
+1.1.1.1. Pro: Over 120 companies were force to reveal themselves as third-party data brokers by a [new law in Vermont, USA](https://www.fastcompany.com/90302036/over-120-data-brokers-inch-out-of-the-shadows-under-landmark-vermont-law). These are only some of the companies that [buy, rent or scrape data, "assemble thousands of attributes each for billions of people", match data with identities](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information), with little or no oversight or details about what they're doing with the results, or who they're selling them to. These companies work in the shadows of primary mass gatherers of personal data, like Facebook, Amazon and Google.
+1.1.1.1.1. Con: This is an argument for increased government regulation to improve transparency in a free market system, rather than government takeover of the entire health insurance sector.
+1.1.2. Con: In the US, at least, the government already [possesses or can access quite enough personal information](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_States) to facilitate a police state. Formally transferring healthcare information to government databases is not likely to make a difference, an emerging police state would get access to it one way or another if it seemed useful.
+1.1.3. Con: Elected governments in a democratic state are more accountable than privately owned corporations due to the fact that they can be removed from power periodically by a public vote. Electorates thus have the capacity to influence government policy with respect to data protection laws and the use, storage, and regulation of personal healthcare data. This same power is not extended to the general public with respect to healthcare corporations, who can be influenced only by shareholders and the law.
+1.1.4. Con: The English NHS system is managed in the public sector. Medical records are subject to a very high, even obsessive degree of privacy. It is of course essential that no commercial concern can access your health care records without your permission. I would agree with any argument that no statutory organisation should be able to do so without a specific court order, an order from a panel of three judges not one.
+1.1.5. Con: ‘Therefore a police state would be easier’ is an entirely fallacious argument. There is no necessity for this to be a result at all, in fact it is not the case in any western democracy with a public health system.
+1.1.6. Pro: It is likely that governments will use the personal information of their citizens to [keep tabs](https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy) on them.
+1.2. Pro: The freedom of choice empowers the person. An empowered person is an asset to the community.
+1.2.1. Con: This must be balanced against the cost to society of paying for the healthcare costs of people who felt empowered to choose not to buy health insurance, as well as those who never got around to buying healthcare due to inertia and apathy, rather than a definitive choice.
+1.2.2. Con: Individual freedom of choice typically does not extend to areas of broad common good: we don't create multiple options for law enforcement, military defense, infrastructure maintenance, and so forth. The need for healthcare falls in the category of a broad common good.
+1.2.3. Con: By allowing ‘freedom of choice’, young, healthy people have a low incentive to join a national scheme, effectively driving up costs for everyone, and ensuring the carrying capacity of the system is not correct. From a societal point of view, healthcare costs need to be seen as an ‘all of life’ consideration and cost. Individuals often cannot or will not take this viewpoint and it makes things worse for everyone.
+1.2.3.1. Con: It is not true that allowing freedom of choice necessarily makes things worse for everyone. When the young and healthy choose to not join a national scheme, they don't have to pay the costs of the old and sick and are therefore better off.
+1.2.4. Con: There is no direct relationship between freedom of choice in healthcare and an ‘empowered person’. This is a fallacious argument. In fact, in reality, a person who never has to worry about the cost, depth or quality of healthcare provision is far more empowered to get on with the rest of their life.
+1.3. Con: Government is needed in order to ensure citizens still have some control over healthcare in the country they reside and that healthcare continues to work in the best interest of citizens rather than in the interest of foreign investors.
+1.3.1. Con: Generally investors prioritise profit over influence and thus must still compete for the business of the consumer by increasing the quality of the service or decrease the cost.
+1.4. Pro: Due to the fact that the law of supply and demand applies to all areas of socio-economics, healthcare provided only by the government is not possible.
+1.5. Pro: The degree of influence a person has over the healthcare system is greater under free market conditions.
+1.6. Con: Insurance companies are an unnecessary intermediate charger. All they do is charge you for access to a health care provider. They don't do anything to improve your health. of all industrialized countries only the United States has a for-profit medical care system. That's why healthcare is so expensive and such low quality.
+1.7. Con: It is unethical for shareholders of private companies to derive profit from life-sustaining healthcare services.
+1.7.1. Pro: Healthcare is a human necessity, therefore it should be public.
+1.7.1.1. Con: Food is vastly more important than healthcare when it comes to sustaining life, yet we do not say that it is unethical to derive profit from life-sustaining food services.
+1.7.1.1.1. Con: The fact that society doesn't say that it is unethical to derive profit from food services doesn't prove anything. It doesn't mean that it is ethical it just means that society is taught to think so.
+1.7.1.1.1.1. Con: Nationalized or government-run food production \(as an alternative to for-profit\) have been bad for humanity.
+1.7.1.1.1.1.1. Pro: The [Ukrainian](https://en.wikipedia.org/wiki/Holodomor) famine, [Chinese](https://en.wikipedia.org/wiki/Great_Chinese_Famine) famine, [North Korean](https://en.wikipedia.org/wiki/North_Korean_famine) famine, [Ethiopian](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia) famine, [Cambodian](http://cambodialpj.org/article/justice-and-starvation-in-cambodia-the-khmer-rouge-famine/) famine, and others have occurred specifically because food production was directed by governmental planning instead of free enterprise. Avoidable famines are not good examples of ethical policies.
+1.7.1.1.2. Con: Food and healthcare are not comparable in terms of profit-seeking: food is an open and competitive market, whereas medical care is highly regulated and restricted
+1.7.1.1.2.1. Con: This claim assumes that the thesis has been answered with "no."
+1.7.1.1.3. Con: If a food is too expensive, there is an excess of alternatives. Actually, there is food in abundance in the world. One can't say the same about health.
+1.7.1.1.3.1. Pro: Food can be produced with a less expensive education, less lengthy education, and can be done in your backyard.
+1.7.2. Con: It is unethical and counter-productive to remove the incentive for efficiency and continuous improvement, from a sector as important as healthcare. The profit motive incentivizes delivery of quality care at acceptable costs, in order to maintain market share.
+1.7.3. Con: Goodbye all of the advancements in medical technology. It is commercial companies that have provided x-ray systems, MRI scanners, ultrasound scanners and linear accelerators for radiotherapy. Absent of investment and the profit motive there would be no modern medical technology. Or footprints on the moon. Or indeed this internet.
+1.7.4. Con: Shareholders provide a valuable service that entitles them to compensation.
+1.7.5. Con: -> See 1.7.1.1.
+1.7.6. Con: Non-profit organizations need money to function and provide care. Even if staff will work on voluntary basis, utilities, medicines, and gear cost money. Medical facilities providing unpaid medical service will lead them to bankruptcy. It isn't ethical to bankrupt a functioning hospital.
+1.7.7. Con: The market is not required to deliver healthcare as a for profit activity.
+1.7.8. Con: It is unethical to derive political gain from the nationalization of any industry.
+1.8. Con: Government-run healthcare systems are more cost-efficient, cover more people, and offer better outcomes than privately run systems.
+1.8.1. Con: A privatised \(i.e. market driven\) healthcare industry and government regulation are not mutually exclusive.
+1.8.2. Pro: The government can certify training programs to ensure uniform quality.
+1.8.2.1. Con: Quality standards can be imposed and enforced by the government, while still having a private-pay system for healthcare services. Training and certification in many industries are regulated by the government, without the govt paying for the services rendered in those fields \(the i.e. FDA regulates food safety in the U.S.\)
+1.8.2.2. Pro: Government certification of physicians could ensure quality for all patients in a way free markets cannot.
+1.8.2.3. Con: Markets are capable of creating quality standards. Reputation/review services, such as Consumer Reports and many news organizations, and consumer voting, such as on Amazon, are adequate to allow consumers to get a quality product and to avoid being duped.
+1.8.2.3.1. Pro: U.S. physicians are currently certified by standardized testing \("board exams"\) which are administered by their respective \(private, not-for-profit\) professional organizations, such as the [American Board of Pediatrics](https://www.abp.org/), the [American College of Surgeons](https://www.facs.org/), and the [American Board of Internal Medicine](https://www.abim.org/).
+1.8.2.4. Con: Uniform quality is not always desirable. Sometimes lower quality for much less cost is preferable, as long as it is still adequate.
+1.8.2.4.1. Pro: Generic drugs can have a [10 percent deviation](https://www.huffingtonpost.com/2015/02/22/generic-prescriptions_n_6730194.html) from name brand drugs, but for most people, this is "good enough" to justify the lower costs.
+1.8.3. Pro: Only government can ensure equality of healthcare availability, which is the only fair way to provide it.
+1.8.3.1. Pro: Government control of healthcare insurance ensures that certain high-risk groups do not have to pay more than others.
+1.8.3.2. Pro: Private companies create new treatment options in response to market demand, not social needs.
+1.8.3.3. Pro: Government healthcare can make sure that the poor are taken care of.
+1.8.3.3.1. Pro: Decent healthcare cannot be a privilege for the rich. It is the state's responsibility to protect its citizens.
+1.8.3.3.1.1. Con: It is the fellow citizens' responsibility to help through charity. Not the government's.
+1.8.3.3.1.2. Con: Healthcare isn't a right.
+1.8.3.3.1.2.1. Con: -> See discussion #7304: Health care should be considered a human right.
+1.8.3.3.1.2.2. Con: Healthcare is necessary to [survive.](https://en.wikipedia.org/wiki/Death) Without life, all other rights are meaningless.
+1.8.3.3.1.2.2.1. Con: Equal access to healthcare is no more justified than equal access to housing, food or clothing.
+1.8.3.3.1.2.2.1.1. Con: Government health care is a minimum provision. It does not prevent individuals obtaining more than minimum if they choose to do so.
+1.8.3.3.1.2.2.1.1.1. Con: [Government spending crowds out private spending.](https://en.wikipedia.org/wiki/Crowding_out_\(economics\))
+1.8.3.3.1.2.2.1.1.2. Con: Government unfairly competes with private industry.
+1.8.3.3.1.2.2.1.1.2.1. Pro: [Government programs often aren't subject to the same regulations and laws as private companies.](https://www.michamber.com/government-competition-private-sector-0)
+1.8.3.3.1.2.2.1.1.2.2. Pro: [Government programs often don't pay taxes as private entities must.](https://www.michamber.com/government-competition-private-sector-0)
+1.8.3.3.1.2.2.1.1.2.3. Pro: [Government entities have sovereign powers, such as controlling rights-of-ways or powers of condemnation.](https://www.michamber.com/government-competition-private-sector-0)
+1.8.3.3.1.2.2.1.1.2.4. Pro: [Government programs often don't fully account for its costs, but distribute them among other agencies, such as tax collection departments.](https://www.michamber.com/government-competition-private-sector-0)
+1.8.3.3.1.2.2.1.1.2.5. Pro: [Government has a conflict of interest in that it can regulate its competitors in the private markets.](https://www.michamber.com/government-competition-private-sector-0)
+1.8.3.3.1.3. Pro: In the United States, federal \(rather than state\) allocation of healthcare resources and legislation relating thereto, ushering equal and affordable healthcare access amongst all countrymen, would be far better than privatized command of the healthcare system whereby inequality, already seen throughout every aspect of the market system, would only be perpetuated.
+1.8.3.3.1.3.1. Con: The United States Constitution limits the activities of the federal government. In the United States, the individual state governments have more power to provide social services than the federal government.
+1.8.3.3.1.4. Con: Markets have the potential to dramatically decrease costs. If true, it is possible that the poorest citizens could afford much better healthcare than they receive today.
+1.8.3.3.2. Con: Government healthcare is not free. Most nations with publicly-funded socialized health care [pay much higher tax rates](http://www.taxpolicycenter.org/briefing-book/how-do-us-taxes-compare-internationally).
+1.8.3.3.2.1. Con: The efficiency of public health care is better in France [than in USA](https://www.cairn.info/revue-pratiques-et-organisation-des-soins-2009-4-page-309.htm). France has public health care management and USA a private one.
+1.8.3.4. Con: -> See 1.8.3.3.1.2.2.1.
+1.8.3.5. Pro: Markets are not geared toward good health outcomes. The laws of supply and demand are inconsistent with the single most important function of healthcare in curing illness; to supply the means by which to eradicate the demand.
+1.8.3.5.1. Con: Healthcare consumers want good health outcomes. This incentivizes them to choose providers and insurance companies that will provide this.
+1.8.3.5.1.1. Con: Healthcare consumers' decisions are, more often then not, driven by short term considerations that, in the long run, could be detrimental to their health.
+1.8.3.5.1.1.1. Con: People are not idiots. They will follow the counsel of their doctor.
+1.8.3.6. Pro: A market-run health care system goes hand in hand with the risk of health care providing companies going bankrupt. While this may be acceptable in other industries, it isn't in the health care sector.
+1.8.3.6.1. Con: Insurance providers will not pay companies that cannot provide the services, and insurance companies are already required to provide guarantees to existing policy holders if they run into financial problems.
+1.8.3.7. Pro: Supporting a market driven healthcare system means choosing underprivileged children, poor, and catastrophically ill people will suffer and die only to save money.
+1.8.3.7.1. Con: We all die. Budgets are always limited, and triage is standard when resources are insufficient. We work to improve our lives, to remove health from that equation is to lessen the value of work.
+1.8.3.7.2. Con: If wealth cannot be used in the health care system, it will seek a health care system which accepts it. It will lead to a reluctance to pay of such a system since it denies the value of work and wealth.
+1.8.3.8. Pro: The incentives for insurance companies are backwards - they make more money by denying claims. Therefore, free market forces don't work properly to provide the best products for consumers.
+1.8.3.8.1. Con: The U.S. Federal Trade Commission and other government regulatory entities don't allow false advertising. The terms of insurance must be set in clear language for consumers. Contracts in any free society cannot be violated without consequences.
+1.8.3.8.2. Con: If customers are unsatisfied with their insurance, they will switch health insurance providers. Therefore, denying claims unjustly will cause an insurer to lose money and eventually, to go out of business. Private insurers go to great lengths to ensure customer satisfaction and education.
+1.8.3.9. Pro: Even in an ideal free market system, insurance companies are disincentivized to provide care to the sickest people - some government intervention is necessary if we want to make sure the costliest people are covered.
+1.8.3.9.1. Con: -> See 1.8.3.8.1.
+1.8.3.9.2. Con: According to the law of scarcity, there will be more insurance companies attempting to make money from young, healthy people and with additional competition, this makes this strategy less profitable. Some insurance companies will try to serve inherently less profitable markets because of less competition there.
+1.8.3.9.2.1. Pro: The nature of healthcare is such that it cannot be provided by the free market alone.
+1.8.3.9.2.1.1. Pro: When employers provide healthcare, there is not a true market as individuals rarely choose their plan. Free markets require multiple competing buyers and multiple competing sellers.
+1.8.3.9.2.1.1.1. Con: The US healthcare market represents a seventh of the entire economy. There are millions of buyers and tens of thousands of sellers.
+1.8.3.9.2.1.2. Pro: Free markets require clarity of prices - this does not exist in the market for healthcare in the US.
+1.8.3.9.2.1.2.1. Pro: “The reason capitalism doesn’t work in health care is the consumer is disconnected from the product… When you connect with the consumer, and the consumer cares about the price, guess what? The consumer will shop. And when the consumer shops, competition works. But we’re not really doing that in health care.” [Rand Paul \(Republican Senator\)](https://www.thedailybeast.com/is-real-free-market-health-care-even-possible)
+1.8.3.9.2.1.3. Pro: Spending on health care is usually not a choice but a necessity. This makes health care different from a free market where consumers can chose to not spend money.
+1.8.3.9.2.1.3.1. Con: Spending on healthcare is frequently a choice, and ["elective" spending on healthcare is increasing](https://www.managedcaremag.com/archives/2003/6/drain-system-how-manage-worried-well)
+1.8.3.9.2.1.3.1.1. Pro: Un-necessary, elective doctor visits by the "worried well" cost the \(British\) NHS [over 2 billion pounds in 2010](https://www.diabetes.org.uk/about_us/news_landing_page/worried-well-cost-nhs-time-and-money)
+1.8.3.9.2.1.3.2. Con: People can anticipate emergency situations and arrange in advance for their care should such a situation arise. Insurance is a common way to mitigate this risk, for example.
+1.8.3.9.2.1.3.3. Con: It is not a necessary feature of a free market that people choose their needs. People don't choose to get hungry but there is still something of a free market in food production in the US.
+1.8.3.9.2.1.4. Pro: Neither public, nor private health centers can \(legally\) [turn away patients in emergencies](https://law.freeadvice.com/malpractice_law/hospital_malpractice/hospital-patients.htm). This doesn't happen in any other kind of business. De facto, health isn't free market.
+1.8.3.9.2.1.4.1. Con: The inability to turn away certain customers is a condition brought about by government regulation, so this argument amounts to "government *is* involved in healthcare, and therefore government *should be* involved in healthcare."
+1.8.3.9.2.1.5. Pro: The “barriers to entry” are too high to ensure competition in the health sector. Oligopolies are therefore more likely to take over and distort the free market.
+1.8.3.9.2.1.5.1. Pro: Opening up a hospital is very expensive and difficult. In addition, business risks are great and keeping profitability at high levels is hard.
+1.8.3.9.2.1.5.1.1. Pro: It's not economically viable to have more than one hospital in some places. Thus, the choices are: monopoly, two or more bad/small hospitals, or state-run hospitals.
+1.8.3.9.2.1.5.2. Pro: Pharmaceutical companies and health device manufacturers are very expensive to start up. This stifles competition.
+1.8.3.9.2.1.5.2.1. Con: Reducing or eliminating FDA regulation would likely help reduce those costs. These companies could instead turn to independent testing labs with good reputations \(like Underwriters Laboratory - UL\).
+1.8.3.9.2.1.5.3. Pro: One of the major barriers is "Certificate of Need". Local/state governments need to provide permission to open a facility. They are easily lobbied by incumbent providers to stifle competition.
+1.8.3.9.2.1.6. Con: This is by no means inevitable: if the government sets the parameters right, the healthcare market can resemble an open market more than it currently does.
+1.8.3.9.2.1.6.1. Con: The government has a proven track record of failing to adequately regulate a private healthcare market for the benefit of all citizens. It would be much simpler and more straightforward for the government to simply run the system.
+1.8.3.9.2.1.6.2. Con: If the government sets the parameters right, but still owns or controls the healthcare market, it is by definition not private anymore.
+1.8.3.9.2.1.7. Pro: In an emergency case, there is no way a person can check for choices in real time. This doesn't happen in any other market circumstance.
+1.8.3.9.2.1.7.1. Con: This is not wholly true. Emergency insurances of all kinds exist, where buyers must decide on coverage ahead of time.
+1.8.3.9.2.1.7.2. Con: Most healthcare services are not life-or-death cases.
+1.8.3.9.2.1.7.3. Con: Choosing coverage options in advance of needing them is common to anyone who has selected between healthcare plans.
+1.8.3.9.2.1.7.4. Con: Most healthcare is not undertaken in an emergency setting.
+1.8.3.9.2.1.7.4.1. Con: Insurance is complex and difficult/impossible for customers to navigate as well - many insurance providers do not give adequately coverage, or have absurd premiums/expenses.
+1.8.3.9.2.1.8. Pro: Healthcare is not a commodity like a phone or a car - you don't get to choose when you need it, and you can't elect to go without it if you can't afford it. Thus, market forces can't be relied on to provide the best outcome in the same way as with other commodities.
+1.8.3.9.2.1.8.1. Con: Apple has shown that phones are not a commodity. Some people are willing to pay more for a superior experience. In the same way, people's needs and desires for healthcare are varied and without free markets, government will be unable to provide healthcare products that satisfy everyone.
+1.8.3.9.2.1.8.2. Con: Insurance is purchased before it is needed. You choose the provider and price before you need it.
+1.8.3.9.2.1.8.3. Con: Market forces can still be in effect even if the product is a necessity rather than a commodity.
+1.8.3.9.2.1.8.3.1. Pro: If there is more than one healthcare provider in an area, this will discourage one of the providers from inflating their prices or reducing their quality, because people can get healthcare somewhere else. In this way market forces can help improve healthcare outcomes assuming there's enough competition, even if the product involved is a necessity rather than a commodity.
+1.8.4. Pro: Government can more easily regulate a government agency than a private company.
+1.8.4.1. Con: Government agencies gain just as much if not more power to wield for their benefit as private companies do. The IRS for example wields enormous power and they use it to keep as many jobs and as much power as possible. An all encompassing government healthcare agency would be just as large and just as dangerous.
+1.8.5. Con: The USA Veteran's Administration exercised complete control of healthcare for veterans. The results [were](http://www.latimes.com/nation/nationnow/la-na-nn-va-oig-wait-time-report-20140528-story.html) [disastrous](https://www.nytimes.com/2014/05/29/us/va-report-confirms-improper-waiting-lists-at-phoenix-center.html).
+1.8.5.1. Con: One isolated case does not necessarily mean the whole system is invalid.
+1.8.5.1.1. Con: The [Veterans Health Administration](https://en.wikipedia.org/wiki/Veterans_Health_Administration) is the [largest healthcare organization in the United States](https://www.darkdaily.com/nations-list-of-top-ten-largest-healthcare-systems-include-some-surprises-113), with 300,000 employees and an annual budget of $65 billion. There are 21.8 million veterans in America. By comparison, all healthcare spending in the UK is $210.55 billion annually.
+1.8.5.1.2. Con: The [Veterans Health Administration](https://en.wikipedia.org/wiki/Veterans_Health_Administration) is one of the few single-payer healthcare systems in the United States.
+1.8.5.1.2.1. Con: The U.S does not comprise all healthcare systems in the world.
+1.8.6. Pro: The U.S. has higher rates of [medical, medication, and lab errors](https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/) than comparable countries.
+1.8.6.1. Con: The [same report cited above](https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/#item-mortality-rate-for-certain-cancers-2015), concludes that the US has lower rates of post-op sepsis, post-op blood clots, and mortality from many types of cancer
+1.8.6.2. Con: The OECD "comparable countries" are vastly smaller, far less populous, and have far more homogeneous populations than the United States. The US has a far more complex problem to solve than the average OECD nation.
+1.8.6.2.1. Con: Population size has nothing to do with the efficiency of a government program. If you have a larger population, you have more paying taxes into the system, which means you have more funding to cover more people. The funding pool expands with the size of the population.
+1.8.6.2.2. Pro: One quarter of Latinos in the United States are in the country illegally, leading them to [avoid seeing a doctor](https://www.theatlantic.com/health/archive/2014/05/why-many-latinos-dread-going-to-the-doctor/361547/).
+1.8.6.2.3. Pro: African-American men [distrust doctors](https://link.springer.com/article/10.1007%2Fs11606-010-1481-z) and feel that going shows weakness.
+1.8.6.2.4. Pro: The United States has [10 times](https://data.oecd.org/pop/population.htm) the population of the average other OECD nations. It is more than twice as large as the next largest OECD nation.
+1.8.6.2.5. Con: By using this logic, you could only compare USA with a handful of other countries. Only two countries are more populated than the US: China and India.
+1.8.6.2.5.1. Con: The healthcare systems of China and India compare poorly to the state of healthcare in the United States. This shows solving a problem for a population this large is challenging.
+1.8.6.2.6. Pro: [Ethnic diversity of the United States is double the average of the other OECD nations](https://en.wikipedia.org/wiki/List_of_countries_ranked_by_ethnic_and_cultural_diversity_level#List_based_on_Alesina_et_al's_analysis).
+1.8.6.2.7. Pro: The United States has [twelve times the area of the other OECD](https://simple.wikipedia.org/wiki/List_of_countries_by_area) nations on average.
+1.8.6.2.8. Pro: One must compare the relative health behaviors of patients in different regions and not just the delivery systems to measure efficiency and cost.
+1.8.6.2.9. Pro: One must compare the relative genetics of individuals in different regions when comparing outcomes.
+1.8.7. Con: Having universal coverage does not mean access to healthcare is better.
+1.8.7.1. Pro: [2.5 million Greeks have no healthcare coverage](https://www.reuters.com/article/eurozone-greece-health/greece-scraps-hospital-visit-fee-to-hire-health-workers-idUSL6N0WZ1P420150402) in a nation that boasts universal coverage.
+1.8.7.2. Pro: Socialized healthcare wait times are usually far longer than market-provided healthcare wait times.
+1.8.7.2.1. Con: Wait times are prioritized based on patient need. For example, receiving cancer treatment is much faster than getting a hip replacement. For the most part, only elective \(non-fatal\) procedures require additional waiting time.
+1.8.7.2.2. Con: Wait times for private healthcare are only faster because it limits the number of people using the service \(fewer people have access to healthcare, so those who do can get in faster\).
+1.8.7.2.3. Pro: At many of its hospitals, England's National Health Service emergency room [wait times](https://www.nytimes.com/2018/01/03/world/europe/uk-national-health-service.html) are now over 12 hours; some have had to issue 'black warnings' signalling they cannot cope with demand; and it has been estimated that the waiting lists will contain 5 million people by 2021.
+1.8.7.2.4. Con: You might wait less in a private-pay system, but that is because a smaller group of people are able to afford to be cared for.
+1.8.7.2.4.1. Con: A free market provides more incentives for doctors to enter the profession, and so the ratio of doctors to patients is often better in a market-driven environment.
+1.8.7.2.4.1.1. Pro: In Vancouver there are only 2 spinal surgeons for the entire population. Here is a [sad tale of too few doctors in a "medicare for all" country](https://vancouversun.com/news/staff-blogs/a-public-health-system-that-failed-a-canadian-boy-the-sad-saga-of-walid-khalfalla). Compare this to just down the road in Seattle where there are 30, and spinal specialists are [advertised](https://www.yelp.com/search?cflt=spinesurgeons&find_loc=Seattle%2C+WA) every day in the free market.
+1.8.7.2.5. Con: Waiting to see a doctor may be stressful but you are seen according to your clinical need, not your ability to pay.
+1.8.7.2.5.1. Con: The [wait time](https://www.fraserinstitute.org/sites/default/files/waiting-your-turn-2017.pdf) \(p.9\) can be excessive even for diagnostic tests. As a result, the "clinical need" is often unknown.
+1.8.7.2.6. Con: There is [no clear and reliable link](https://www.thelocal.se/20150127/swedens-health-care-is-a-shame-to-the-country) between money supply and waiting times. Relatively poor countries like Albania have no waiting times.
+1.8.7.2.7. Pro: In Canada, [59%](https://expathealth.org/healthcare-news/global-patient-wait-time-statistics/) of patients wait over four weeks to see a specialist, and the average wait time is over [20 weeks](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2016).
+1.8.7.2.8. Pro: Long waiting times are less common in countries which allow their citizens some choice of healthcare provider \([Siciliani, 11](https://www.fcass-cfhi.ca/sf-docs/default-source/on-call/2015-05-19-siciliani2013waiting-time-policies-in-the-health-sector.pdf?sfvrsn=305cde44_2)\).
+1.8.7.2.9. Con: Due to the way that waiting times are calculated, it is of limited use to compare them \([Viberg, 53](https://ac.els-cdn.com/S0168851013001759/1-s2.0-S0168851013001759-main.pdf?_tid=1f2fbb54-a016-4c98-be1e-f5f80ec6c25c&acdnat=1539790302_a5b1d8611eda1d660e7a19567aeecdde)\).
+1.8.8. Con: Government regulation and restriction creates pharmaceutical monopolies which in turn creates massive price inflation and prevents open market correction - access is limited only to situations where government subsidizes payment.
+1.9. Pro: Markets are more efficient at providing healthcare than government programs and can therefore maintain a given level of healthcare quality at a lower cost.
+1.9.1. Con: Unregulated market forces will lead to 'healthcare deserts' in poor areas, and prohibitively high premiums for unhealthy people.
+1.9.1.1. Con: -> See 1.8.3.9.2.
+1.9.2. Con: There is zero evidence for this statement, in fact the available evidence shows the exact opposite.
+1.9.3. Con: Business wants always to earn more. Unnecessary services and exams will be pushed by the market \(that cartels and tries to change public opinion\) while government only does what is necessary.
+1.9.3.1. Con: Government only doing what is necessary assumes that people in government are incorruptible. This is demonstrably false.
+1.9.3.2. Con: Government doing only what is necessary assumes that government will only act in the interests of the people it represents. This is demonstrably false.
+1.9.4. Pro: If healthcare is provided for by the market the government can reduce the tax burden.
+1.9.4.1. Con: In terms of impact on the individual, as both a consumer and a taxpayer, the total cost per person is more important than whether the financing is private or public.
+1.9.4.1.1. Pro: [OECD data](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective) shows that Americans spend an average of $4,516 on private health care. This is more than countries with government funded health spend on their citizens. - the OECD average public spend is $2,598 per citizen.
+1.9.4.1.1.1. Con: Using force to reduce prices, aka price controls, is [unethical](http://thefederalist.com/2016/02/19/why-socialized-health-care-is-unjust/).
+1.9.4.1.1.1.1. Con: The primary thesis does not say that there would be prison sentences, or capital punishment, or anything like that, for failure to purchase health insurance\(or pay into the government-run system\). If the law requires a payment of money, it's a stretch to assume that the penalty would be anything more than financial---a fine of the amount you should've paid, plus penalties/ interest/ whatever.
+1.9.4.1.1.1.2. Con: Price controls are not necessarily part of a health care system run by the government.
+1.9.4.1.1.1.3. Pro: Nations with socialized medicine include [price controls](https://www.help.senate.gov/imo/media/doc/Aldonas-SenHELP-Rx-2-17-05.pdf) that move the cost burden to those countries that do not have such controls.
+1.9.4.1.1.1.3.1. Pro: Government-forced price controls for goods and services represent an uncounted tax on healthcare providers and manufacturers.
+1.9.4.1.1.1.4. Pro: Price controls lead to shortages and rationing. \([thefederalist.com](http://thefederalist.com/2016/02/19/why-socialized-health-care-is-unjust/)\)
+1.9.4.1.1.1.4.1. Pro: In the former USSR, hospitals would wheel patients near death out the door rather than treat them with their limited resources to improve their statistics for the government. \([mises.org](https://mises.org/library/socialized-medicine-wealthy-country)\)
+1.9.4.1.1.1.4.2. Pro: [Price controls for drugs lead to cuts in research and development.](https://www.nber.org/digest/may05/w11114.html)
+1.9.4.1.1.1.5. Pro: -> See 1.9.4.1.1.1.3.1.
+1.9.4.2. Con: By the same token, universal healthcare would increase taxes but eliminate insurance costs. One way or another, we pay for it.
+1.9.4.2.1. Con: The United States is consistently recognized as having some of the highest quality care available in the world, especially in specialized healthcare. Foreign dignitaries and wealthy individuals regularly travel to the United States for healthcare. To obtain this level of excellence costs money and is reflected in prices.
+1.9.4.2.1.1. Con: In [2014](http://www.commonwealthfund.org/~/media/files/publications/fund-report/2014/jun/1755_davis_mirror_mirror_2014.pdf), the Commonwealth Fund ranked the US health care system as the worst compared to commonwealth nations, repeating the claim in [2017](http://www.commonwealthfund.org/interactives/2017/july/mirror-mirror/).
+1.9.4.3. Pro: Socialized healthcare budgets costs often outstrip the ability of the host nation to pay them without massive tax increases.
+1.9.4.3.1. Pro: "Simon Stevens, the chief executive of the service in England, requested \[£4 billion in additional funding\] last year," in 2017. Instead, he was given [£1.6 billion](https://www.nytimes.com/2018/01/03/world/europe/uk-national-health-service.html), showing public healthcare cost pressures and budget constraints.
+1.9.4.3.2. Pro: More than half of the US Affordable Care Act exchanges are having [financial difficulties](https://www.washingtonpost.com/national/half-of-obamacare-co-ops-have-eroding-financial-health/2015/10/07/9cbfbc98-6d36-11e5-9bfe-e59f5e244f92_graphic.html).
+1.9.4.3.3. Pro: Greece owes international drug companies [1.1 billion](https://www.huffingtonpost.com/2015/07/03/deadly-austerity-greece-health_n_7718306.html) euros.
+1.9.4.3.4. Pro: European population trends show that socialized medicine there is under increasing [financial pressure](https://www.indexmundi.com/european_union/age_structure.html) as the population ages with fewer young healthy people paying into the system.
+1.9.4.3.5. Pro: Spanish healthcare [costs](https://www.economist.com/europe/2011/09/17/fat-trimming-needed) often exceed budgets by up to 15%: a combination of increased costs and reduced tax revenue means the system is increasingly unsustainable. Only an increase in tax revenue can close this gap.
+1.9.4.3.6. Pro: Drug and medical equipment companies serving Spain often wait over a [year](http://www.economist.com/node/21529082) for payment.
+1.9.4.4. Pro: -> See 1.8.3.3.2.
+1.9.5. Con: Markets do not account for positive externalities. Curing a person from tuberculosis is likely to be undervalued because the individual's demand for the cure doesn't take into account the protection effect for others.
+1.9.5.1. Con: Individuals through voluntary association can decide how much to pay for treatment for and how much to associate with those untreated for diseases. One community may decide to cover the cost of and require immunization for a childhood disease, including the potential ill side effects of immunization, while another may decide it's better to allow the disease to "run its course" as it is non-fatal with no permanent effects. Those who immunize may choose not to associate with those who don't.
+1.9.6. Con: Countries with government-run health care systems tend to spend less on their health care.
+1.9.6.1. Con: Where healthcare is provided by the government, the amount spent does not reflect the actual needs of the population, because of[restrictions on resources, rationing and wait-listing.](https://www.thelaurahillierstory.com/about-1)
+1.9.6.2. Pro: The U.S. lags behind other developed countries in health outcomes \(despite spending more per capita on healthcare\) primarily due to lack of [access to affordable care](http://www.commonwealthfund.org/publications/in-the-literature/2016/nov/2016-international-health-policy-survey-of-adults).
+1.9.6.2.1. Con: [The United States bears most of the drug research costs for the world.](https://www.help.senate.gov/imo/media/doc/Aldonas-SenHELP-Rx-2-17-05.pdf) Each country that regulates drug prices has a much smaller drug research industry.
+1.9.6.2.2. Con: While it is true that the US lags behind comparable counties and true that it lacks affordable care, that does not automatically mean that the lack of affordable care is the primary reason the US lags comparable countries.
+1.9.6.2.2.1. Con: -> See 1.8.6.2.
+1.9.6.3. Con: California investigated creating a single-payer state healthcare system after the plan failed in the federal government. The [estimated cost of state-funded single-payer mandatory healthcare is $400 billion](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-first-fiscal-analysis-of-single-payer-1495475434-htmlstory.html#) for a state with a [budget of $132 billion](https://californianewswire.com/calif-governor-brown-proposes-2018-19-california-state-budget/).
+1.9.6.3.1. Con: A [subsequent study](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-single-payer-health-system-costs-for-1496254510-htmlstory.html) found that the cost of single-payer would be more like $331bn. Health spending in [California in 2014](https://www.chcf.org/publication/california-health-care-spending/) was $292bn, meaning any increase in cost is likely to be small.
+1.9.6.3.1.1. Con: [The current California state budget is $132 billion](https://californianewswire.com/calif-governor-brown-proposes-2018-19-california-state-budget/). Including this coverage would inflate the state budget by three and a half times which would have to be covered by a massive increase in taxes.
+1.9.6.3.2. Con: The headline number of $400bn is misleading. Most of that money is already being spent. The money flow would change, but the total increase in cost, according to the body of the article, is $50bn to $100bn.
+1.9.6.4. Con: Ontario is an example for a health care system with a state monopoly that is unsustainable. According to calculations, by 2035 [some 85%](https://www.cbsnews.com/news/canadian-health-care-in-crisis/) of the budget must be spent on it.
+1.9.6.4.1. Con: Ontario's problem is that it doesn't collect enough tax, not that it spends too much. Ontario [collects $83.4bn](https://www.fin.gov.on.ca/en/faq/general.html) in tax, from about [14m people](https://www.fin.gov.on.ca/en/economy/ecupdates/factsheet.html), less than  $6,000 a year per person.
+1.9.6.5. Con: The British NHS is financially in a dire situation.
+1.9.6.5.1. Con: The NHS is being run into the ground by the Tory government as a pretext to privatisation, because they are a party of the neoliberal rich, not the people. The fact remains that social healthcare is cheaper and better when applied at scale.
+1.9.6.5.2. Pro: -> See 1.9.4.3.1.
+1.9.6.5.3. Con: The primary issue with NHS funding is the [cuts to funding.](https://www.theguardian.com/society/2018/may/25/better-ways-to-fund-the-nhs)
+1.9.6.6. Con: -> See 1.8.6.2.
+1.9.6.7. Pro: According to the [World Bank](https://data.worldbank.org/indicator/SH.XPD.TOTL.ZS), the US spends 17.1% of its GDP on health care. In comparison, Australia, Canada, Germany and the UK spend about 10%, and countries like South Korea and Japan even less than that.
+1.9.6.7.1. Con: This could be due to the worse lifestyle choices and [higher obesity rates](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2228rank.html) of Americans, not due to an inferior health-care model.
+1.9.6.8. Pro: According to the [OECD](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective), the US spends about 17% of its GDP on health care - which is about 50% more than the next-highest spender \(France\) and twice the share spent in the UK.
+1.9.6.8.1. Pro: Total current healthcare expenditure in the UK was [9.9% of gross domestic product](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/bulletins/ukhealthaccounts/2015) \(GDP\)
+1.9.7. Con: Health care in the United States, a market-dominant system, is generally more expensive than in other industrialized nations.
+1.9.7.1. Con: -> See 1.8.6.2.
+1.9.7.2. Con: When comparing the United States of America's costs to other nations, it's important to note that the United States doesn't impose government-mandated prices for most healthcare. This prevents forcing people to offer goods and services at lower government-set prices \(price controls.\)
+1.9.7.2.1. Pro: United States doctors are the [highest paid doctors in the world](https://economix.blogs.nytimes.com/2009/07/15/how-much-do-doctors-in-other-countries-make/).
+1.9.7.2.2. Con: The United States founding documents also include the inalienable rights to "life, liberty, and the pursuit of happiness" - which means that the preservation of life should be provided in service to that first right.
+1.9.7.2.2.1. Con: The United States founding documents refer to "negative liberties" or freedom from someone, namely government, keeping you from something, not "positive liberties" or freedom to have something you want provided to you.
+1.9.7.2.3. Con: In countries with a public health system or a single payer insurance system, doctors and nurses are free to provide services outside of the system at any price they want, and many of them do, same as, in the US, doctors are free not to accept such and such insurance plan.  This just ends up being a narrower market segment.  In addition to the fact that nobody holds a gun to your head to force you to be a doctor, you cannot claim that anybody is forced to provide a service at a set price.
+1.9.7.2.4. Pro: Many nations being compared with the United States of America use price controls to keep healthcare costs down.
+1.9.7.2.4.1. Pro: [Canada has implemented price controls to keep healthcare costs down.](https://www.qualityprescriptiondrugs.com/price_control.aspx)
+1.9.7.2.4.2. Pro: -> See 1.9.4.1.1.1.3.1.
+1.9.7.2.5. Pro: -> See 1.9.4.1.1.1.3.1.
+1.9.7.3. Con: The United States of America healthcare system is hardly entirely market based.
+1.9.7.3.1. Pro: US Medicaid drug price controls led to [decreases](https://www.cato.org/publications/commentary/problems-price-controls) in discounts from manufacturers and increases in prices for many consumers.
+1.9.7.3.1.1. Con: Other western democracies have state-empowered agencies who negotiate drug prices on behalf of everyone and they get a better deal than the US system achieves. It is a fact that drug prices are higher in the US than nearly anywhere.
+1.9.7.3.2. Pro: [One in three United States citizens received government healthcare in 2011, prior to Affordable Care Act exchanges.](http://center-forward.org/wp-content/uploads/2012/04/Medicare-Medicaid-and-the-Military-04-12-update-2.pdf)
+1.9.7.3.3. Con: While this is true, US is the country by far with the highest percentage of population relying on private insurance \(also with the highest percentage of population uncovered\)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_countries_by_health_insurance_coverage)
+1.9.7.3.3.1. Con: No person in the United States is "uncovered," as [anyone can present themselves in a hospital and be treated regardless of ability to pay.](https://law.freeadvice.com/malpractice_law/hospital_malpractice/hospital-patients.htm)
+1.9.7.3.3.1.1. Con: This does not apply to regular doctor's office visit or non-emergency care. Healthcare providers have a right to say no unless there is an emergency.
+1.9.7.3.4. Pro: -> See 1.9.7.3.3.1.
+1.9.7.4. Con: America's healthcare system is not a free market \(FDA, Health Insurance regulation, etc\) therefore the causes of it's high healthcare costs cannot be pegged to it being non-government healthcare. We would need to find a country with zero healthcare regulation to make this comparison against if we wanted to judge the effect of government on healthcare costs and quality.
+1.9.7.4.1. Pro: The United States does not have a market driven healthcare system today. Much of the costs come from heavy regulation and oversight, and complexity of a hybrid public-private system.
+1.9.7.4.1.1. Pro: [A recent analysis by Forbes of the average cost of producing a new drug in the United States was roughly $5 billion.](https://www.forbes.com/sites/matthewherper/2013/08/11/how-the-staggering-cost-of-inventing-new-drugs-is-shaping-the-future-of-medicine/#7247017c13c3)
+1.9.7.4.1.2. Pro: The complexity of the government-private company system now in the USA causes a great deal of administrative work. [There are now 10 administrators to every doctor.](https://www.healthline.com/health-news/policy-ten-administrators-for-every-one-us-doctor-092813)
+1.9.7.5. Pro: The US private healthcare system spends [2 1/2 times](https://www.pbs.org/newshour/health/health-costs-how-the-us-compares-with-other-countries) more per person than the average for OECD countries—evidence that the market cannot provide healthcare at lower cost than governments.
+1.9.7.6. Pro: The cost of procedures in hospitals and by physicians is [much higher](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective) in the US than in other countries. Bypass surgery, for example, costs more than $75.000 on average, more than $30.000 more than in the second-most expensive country.
+1.9.7.7. Pro: The prices for brand-name drugs are [generally higher](http://www.commonwealthfund.org/publications/in-the-literature/2013/apr/higher-us-branded-drug-prices-and-spending) - and sometimes twice as high or even more - in the US than in other rich countries.
+1.9.8. Pro: Competition, a key part of markets, is the [most effective way](https://med.stanford.edu/news/all-news/2014/10/competition-keeps-health-care-costs-low--researchers-find.html) to keep healthcare costs low.
+1.9.8.1. Con: Switzerland has a market provided healthcare, and the costs are getting higher every year, to the point some people have to take loans to pay their taxes and health insurance, even though they have a job. Swiss citizens must have a health insurance, so they can't choose to not take one.
+1.9.8.2. Con: Allowing a government to provide healthcare would create competition to the private sector
+1.9.9. Pro: -> See 1.9.7.3.1.
+1.9.10. Con: Health care is so expensive that the government has to regulate it to spread the costs and ensure equal access to scarce resources.
+1.9.11. Pro: Removing drug regulations would cause drug prices to drop dramatically and make it easy and inexpensive for consumers to get the drugs they need.
+1.9.11.1. Con: In a free market, nothing prevents an owner of a specific life-saving drug to set an outrageous price on it. People will face the choice of either pay or die.
+1.9.11.1.1. Pro: In September 2015, [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli) received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 \(from US$13.5 to $750 per pill\), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro".
+1.9.11.2. Con: Drug manufacturers attempt to control markets through patent protection and even by blocking generics once patents have expired. When there are monopolies on individual drugs, there is no market pressure to lower prices.
+1.9.11.3. Pro: The cost of developing an FDA approved drug is "staggering." \([www.fool.com](https://www.fool.com/investing/general/2016/04/30/the-cost-of-developing-an-fda-approved-drug-is-tru.aspx)\)
+1.9.11.3.1. Pro: Increasing competition would decrease drug prices. Increasing FDA regulation increases costs and decreases competition. \([www.washingtonpost.com](https://www.washingtonpost.com/news/in-theory/wp/2016/12/09/want-cheaper-drugs-increase-competition/)\)
+1.9.11.4. Pro: Using doctors as the gatekeepers for prescription drugs leads to pharmaceutical companies lobbying doctors. These costs are rolled back into the cost of the drugs. \([articles.latimes.com](http://articles.latimes.com/2007/aug/06/health/he-bribingthegatekeeper6) / [publications.gc.ca](http://publications.gc.ca/collections/collection_2011/ccs-hcc/H174-19-2010-eng.pdf)\)
+1.9.11.5. Pro: Forcing consumers to use doctors as gatekeepers to prescription drugs means there will always be a consultation cost in addition to the cost of the drug itself. For a recurring condition, this is an unnecessary cost. Also, in some cases, a patient may be better educated about their medical condition and appropriate treatments than a doctor.
+1.9.11.6. Pro: The cost of many medications inside countries with heavy regulation, such as the United States, is higher than the cost outside countries with heavy regulation.
+1.9.11.7. Pro: Government-granted monopolies make many prescription drug prices high. \([jamanetwork.com](https://jamanetwork.com/journals/jama/article-abstract/2545691?redirect=true)\)
+1.9.11.8. Con: Drug regulations protect the public from harm.
+1.9.11.8.1. Con: -> See 1.8.2.3.
+1.9.11.9. Con: Removing drug regulation will cause controlled substance abuse to skyrocket.
+1.9.11.9.1. Con: Since [Portugal decriminalized drugs](https://mic.com/articles/110344/14-years-after-portugal-decriminalized-all-drugs-here-s-what-s-happening#.Sfp8FmU3l), its rate of drug use has fallen. Its rate of drug overdose deaths has plummeted.
+1.9.12. Con: Medicare has [a 1.5-2% overhead](https://www.politifact.com/truth-o-meter/statements/2011/may/30/barbara-boxer/barbara-boxer-says-medicare-overhead-far-lower-pri/), whereas the insurance companies have a 11-12% overhead. The government has no need for profit, which eliminates the greed angle. The reduced overhead ensures much more taxpayer money goes to actual health care rather than expenses.
+1.9.12.1. Con: This statistic of Medicare costs removes all costs of collection and most administration costs. For example, the costs of the IRS and Congress are not included in these statistics, but would be included for private companies.
+1.9.12.1.1. Con: Private health insurance companies run an average of about 5% net profit margin. That would not be mirrored in a government run program.
+1.9.12.2. Con: If you eliminate the intermediate company providing the insurance service to the patient, you eliminate most of the overhead you are assuming when doing the usual 2 step where the recipient is not the customer of the insurance company.
+1.9.13. Con: When needed, healthcare is too expensive to be paid for directly by an individual, leading to the need for insurance. Market driven insurance as a middle-man breaks the competitive nature of healthcare as a business.
+1.9.13.1. Con: When individuals themselves pay for insurance, price information helps keeps costs down because those who pay seek value for their money. When insurance is provided by a third-party, such as an employer, employees are concerned about quality but less incentivized to seek lower-cost solutions causing prices to increase.
+1.10. Con: -> See 1.8.3.9.2.1.
+1.11. Con: It is the appropriate role of government to provide healthcare for their citizens.
+1.11.1. Pro: The government should require and regulate health insurance the same way it requires and regulates car insurance: to protect society against the cost of catastrophic events.
+1.11.1.1. Con: Car insurance is only required on public roads. There are no "roads" in healthcare.
+1.11.2. Pro: If governments view things like education, law enforcement, fire departments, parks, and infrastructure as essential services, then it is illogical not to view healthcare as equally essential. None of those other services matter if you don't have the health to utilize them.
+1.11.3. Pro: It's immoral to allow others to suffer if they have chosen not to purchase healthcare coverage in advance and have a need, so healthcare coverage must be mandatory.
+1.11.3.1. Pro: This consideration about preventing suffering where possible also informs other regulations, such as laws that mandate seatbelts in cars.
+1.11.3.2. Con: Health care could be provided by the market and be mandatory at the same time.
+1.11.3.2.1. Con: This would not be a free market then.
+1.11.3.2.1.1. Con: If there is a government mandate that everyone purchase health insurance \(similar to the current US requirement that drivers purchase car insurance\), there can still be competition among the private companies that provide it.
+1.11.3.3. Con: It is unethical to demand that others carry your financial burdens without their consent.
+1.11.3.3.1. Con: It is unethical to promote forms of autonomy that take autonomy from others. If we take into consideration the lasting effects of [redlineing](https://www.nytimes.com/2017/08/24/upshot/how-redlinings-racist-effects-lasted-for-decades.html) we can understand how a system without social supports would prevent some from having the same level of autonomy as others regardless of their efforts or merit.
+1.11.3.3.1.1. Con: By restraining people from redlining, we are taking away the autonomy of bank employees attempting to make wise financial decisions in favor of the autonomy of borrowers who may have no capacity to pay back the loans they wish to receive.
+1.11.3.3.2. Con: Financial burdens without explicit consent are carried by all tax payers for services they might not utilize themselves, for examples highways and prisons.
+1.11.3.3.2.1. Con: Those financial burdens are also immoral, taxation should be a voluntary institution, ideally with as many people consenting to the tax as possible. With a political divide, this extreme, it's clear that many people do not consent to the additional tax.
+1.11.3.4. Con: Health insurance is not the only means of paying for healthcare.
+1.11.3.4.1. Pro: Non-Profit Organizations can also make sure the poor are taken care of. For example, some chapters of the American Cancer Society [will pay for](http://www.needhelppayingbills.com/html/medical_care_for_uninsured.html) medical care for indigent cancer patients without health insurance.
+1.11.3.5. Con: Coverage does not need to be mandatory. People who are in need and uncovered can rely on charity.
+1.11.4. Pro: [Americans](http://www.pewresearch.org/fact-tank/2017/01/13/more-americans-say-government-should-ensure-health-care-coverage/) generally see the responsibility to provide healthcare with the government and as part of the common good.
+1.11.4.1. Pro: In recent years the share of Americans who believe that the government should ensure health care has risen to [about](http://www.pewresearch.org/fact-tank/2017/01/13/more-americans-say-government-should-ensure-health-care-coverage/) [60%](http://news.gallup.com/poll/4708/healthcare-system.aspx).
+1.11.4.2. Pro: Healthcare should work as a government regulated national resource, like essential infrastructure such as water supply, roads, and power.
+1.11.4.3. Con: As you can see by the study itself, the popular opinion of whether or not people should be taxed to provide healthcare for others changes on a yearly basis.
+1.11.5. Pro: Many aspects of healthcare are [public goods](https://en.wikipedia.org/wiki/Public_good) the market would not provide. This justifies government intervention and spending.
+1.11.5.1. Con: Space freight and travel used to be considered "public goods." Free markets can serve any need if given the opportunity.
+1.11.5.2. Pro: Radio or Internet based health campaigns are available to everyone but do not create revenues for private companies. These wouldn't be provided for by the market.
+1.11.5.2.1. Con: The government, and the private sector, still have an interest in public health \(which can affect things like GDP and the ability of people to provide for themselves and their families, thus reducing the need for government assistance\) even if the government is not directly covering healthcare costs.
+1.11.5.2.2. Con: Insurance companies and insurance company organizations are incentivized to do public awareness campaigns.
+1.11.5.2.3. Con: Government can still do public health awareness campaigns without providing healthcare.
+1.11.5.3. Pro: Wide area [vector](https://en.wikipedia.org/wiki/Vector_\(epidemiology\)) control is a public good as it prevents widespread damage to citizens and the agriculture but cannot be provided on a for-profit basis.
+1.11.5.3.1. Con: There are many research and data companies that are for profit or privately funded. Epidemiology is not outside this possibility.
+1.11.5.3.2. Con: The [publicly-funded Centers for Disease Control and Prevention has been accused of collusion with for-profit companies](http://www.bmj.com/content/350/bmj.h2362), so the argument for government-provided services doesn't remove the profit motive.
+1.11.5.4. Con: Non-governmental organizations can provide healthcare related "public goods" and services.
+1.11.5.5. Con: And many aspects of healthcare are private goods that the government would not provide. This justifies less government oversight and spending.
+1.11.5.6. Con: Healthcare is not a [public good](https://en.wikipedia.org/wiki/Public_good), in that individuals can be excluded from use, and use by one individual does reduce availability to others.
+1.11.6. Con: At best it is only appropriate for government to defend citizens against force and fraud either internal or external. Ideally under a voluntary funding scheme.
+1.12. Pro: Using force to implement a mandatory healthcare model is unjust and unethical.
+1.12.1. Con: When words don't work, force is the only thing that can implement anything.
+1.12.2. Con: There is no ‘force’ involved.
+1.12.3. Pro: -> See 1.9.4.1.1.1.
+1.12.4. Pro: Forcing doctors to participate in a healthcare model is [unjust and unethical](http://thefederalist.com/2016/02/19/why-socialized-health-care-is-unjust/).
+1.12.4.1. Con: They already are. The insurance providers dictate the process they follow, whether the healthcare provider realizes it or not.
+1.12.4.2. Con: The rights doctors have are often debated, such as the one surrounding doctors' [right](http://www.cmaj.ca/content/186/13/E483) to refuse medical procedures. It is therefore clear that their rights are not universally understood.
+1.12.5. Pro: -> See 1.11.3.3.
+1.12.6. Con: That anyone might die of preventable illness in a country so wealthy it could provide it to every citizen ten times apiece is far more unjust than the prerequisite increased taxation of the very wealthy.
+1.12.6.1. Con: Total U.S. healthcare spending in 2017 was approximately [18% of GDP](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nationalhealthaccountshistorical.html), or $3.6 trillion. Neither taxation of the super wealthy at a 100% tax rate nor a tax rate acceptable to all citizens would fund this.
+1.12.6.1.1. Con: The U.S. healthcare system is comparatively speaking [much more expensive](https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#item-average-wealthy-countries-spend-half-much-per-person-health-u-s-spends) than that of other first world countries. Thus, the U.S. is not a good example of a tax funded healthcare system
+1.12.7. Con: Force is not implemented in most public health systems. And in many countries the private option is available and none of the options are mandatory.
+1.12.7.1. Con: All government regulations, including health regulations, are enforced ultimately with threats of imprisonment for those who do not comply, or who work without permission.
+1.12.7.2. Con: Public healthcare is necessarily funded by taxation. Taxes are collected under threat of imprisonment \(that is, by threat of physical force\).
+1.12.7.2.1. Con: Taxes are collected in many different ways. The refusal to pay taxes usually is not punished with physical force or imprisonment, as the IRS penalties in the US illustrate \([IRS penalties](https://en.wikipedia.org/wiki/IRS_penalties)\). Imprisonment is usually reserved for tax evasion, for example when you are intentionally trying to lie to the Government to pay less tax.
+1.12.7.2.1.1. Con: The source you cite claims "Criminal penalties may include jail time"
+1.12.7.2.2. Con: -> See 1.11.3.3.2.
+1.12.7.2.3. Con: To threaten people is not something that a government would seem to do to its citizens. As a matter of fact, the Canadian Revenue Agency claims [never to use threatening language or threat of arrest](https://www.canada.ca/en/revenue-agency/corporate/security/protect-yourself-against-fraud.html).
+1.12.7.2.3.1. Con: The threats are still present, but veiled. For example according to the source, the CRA may "take legal action to recover the money you owe." Legal action is ultimately backed up by the power to imprison.
+1.12.7.2.3.2. Con: Governments around the world routinely employ arrest and imprisonment, and sometimes beatings or even death to enforce their rules.
+1.12.8. Pro: Force of this type violates the [non-aggression principle](https://en.wikipedia.org/wiki/Non-aggression_principle).
+1.12.8.1. Con: -> See 1.9.4.1.1.1.1.
+1.13. Pro: Patients and doctors should make healthcare decisions, not government agencies or government-regulated insurance companies.
+1.13.1. Con: In most existing implementations of single payer healthcare, the government does not often intervene on personal medical decisions. In contrast, financial constraints in the private healthcare system may change a person's decisions in a coercive way.
+1.13.1.1. Con: Sometimes governments block access to certain treatments, even [forbidding all healthcare resources from offering any assistance](https://en.wikipedia.org/wiki/Charlie_Gard_case).
+1.13.1.1.1. Con: The case mentionned is the Charlie Gard case, and the doctors refused an experimental treatment on the grounds that it had little to no chance of success and that it would create more suffering to the children, similar regulations exists in the USA too [The Charlie Gard Case](https://en.m.wikipedia.org/wiki/Charlie_Gard_case)
+1.13.2. Pro: People should have the flexibility to choose coverage that meets their needs, not what the government mandates.
+1.13.2.1. Con: A hybrid system such as a [public health insurance option](https://www.vox.com/2019/7/16/20694598/joe-biden-health-care-plan-public-option) in the context of a private health care market would give consumers who prefer to keep their private insurance the right to do so, while letting those who would take advantage of potential cost-savings in a public option switch over to a government-run insurance plan. Meanwhile, the actual provision of health care would stay as it is.
+1.13.2.2. Con: In most single payer healthcare systems, government has little intervention in medical decisions. While these systems in practice do not limit consumer choice, the American market insurance system limits coverage based on cost, impacting consumers choices.
+1.13.2.2.1. Con: Many countries control prices of services, salaries of doctors, buying of medication/tools, and covered operations, which keep costs down. They provide or mandate all citizens to buy insurance or have an affordable base coverage level, which necessitates a list of what doctors and patients can or cannot prescribe/do, which is the exact definition of an intervention in medical decisions. A body for which is in [Canada](http://www.slate.com/articles/news_and_politics/jurisprudence/2013/10/canada_has_death_panels_and_that_s_a_good_thing.html), [England](https://www.thenewamerican.com/world-news/europe/item/8698-healthcare-%E2%80%9Cdeath-panels%E2%80%9D-alive-and-well-in-britain), the [Netherlands](https://newrepublic.com/article/96117/health-care-reform-europe-netherlands), and many others.
+1.13.2.2.2. Con: Cost constraints exist in both private and public healthcare systems. Governments have few choices when managing costs- increasing the amount spent on healthcare requires higher taxes or deficit spending that causes inflation, or rationing or restricting access to certain procedures or drugs entirely. Either public or private, consumers choices and quality of care are impacted.
+1.13.3. Con: The only healthcare provided by the market is delivered through insurance companies who regulate healthcare based on shareholder interest and not on the basis of medical need.
+1.13.3.1. Con: Shareholders have an interest in their company providing quality care, thus avoiding bad outcomes and lawsuits. They also have an interest in the company keeping costs down by avoiding unnecessary or futile care, and offering customers coverage at competitive rates in order to gain market share. Thus shareholders' interests intersect with those of patients/ customers.
+1.13.3.1.1. Con: The degree to which the interests of insurance companies align with those of their customers seeking health care is limited.
+1.13.3.2. Con: -> See 1.8.3.8.1.
+1.13.3.3. Con: -> See 1.8.3.5.1.
+1.13.3.4. Con: In a market-based private healthcare system, some pay healthcare providers directly for services.
+1.13.4. Con: The neutrality of doctors has repeatedly been called into question, for example because of payments they receive [from the pharmaceutical industry](https://edition.cnn.com/videos/health/2017/10/05/doctor-money-drug-company-investigate-zw-lr-orig-expl.cnn). Government regulation is the best way to curb this private financial influence.
+1.13.4.1. Con: The neutrality and objectivity of legislators has repeatedly been called into question, because of the lobbying efforts of for-profit companies that stand to benefit \(or suffer\) from proposed legislation, as well as campaign contributions from those companies.
+1.13.5. Con: Keeping people healthy is not in the interests of most private health organizations.
+1.13.5.1. Con: Private health insurance companies have a vested interest in keeping people alive and paying premiums.
+1.13.5.2. Con: Health insurance companies do not make money by selling medicine. They PAY for medicine---and hospitalizations, and testing---so they have an interest in people being healthy and needing less medical care.
+1.13.5.3. Con: The market is more interested in productive, active, and shopping people than people who are unhealthy and not fully participating in the economy.
+1.13.5.3.1. Con: that's the market in general, which is unrelated to a specific health corporation, which is totally unaffected by people being shopping and healthy \(they dont shop at a hospital for example\)
+1.13.6. Con: The choice has never been between consumers and providers of health care. It has been between employers and providers, or bureaucrats and providers. The individual has been out of the loop.
+1.14. Con: It's unjust that in a market-provided health care system the poor will be unable to obtain needed health care.
+1.14.1. Con: It is unfair to tax everyone in order to provide services that not everybody needs or wants to utilize.
+1.14.2. Con: Confusion between the provision of healthcare and how it is funded? Provision should always be a public-private partnership, leveraging the best aspect of both, minimising the worst aspects of both. Funding really has to be pooled and shared by all. Also in controlling the fund one has the power to control the costs of service provision. This is pretty much what happens across Europe. Some of the cost of provision in America are completely broken, attributable to the funding methods.
+1.14.3. Pro: It's unjust that the poor \(or anyone else\) get sick in the first place, so we need to distribute the burden of taking care of them across society.
+1.14.4. Con: Not having healthcare is the natural state of all living beings and as such cannot be [unjust](https://www.lexico.com/definition/unjust).
+1.14.5. Pro: -> See 1.8.3.3.
+1.14.6. Con: -> See 1.8.3.3.1.4.
+1.14.7. Pro: Public health care is essential in "last resource cases". When all market options are closed for a patient, he would rather have an option than none.
+1.14.8. Pro: -> See 1.8.3.7.
+1.14.9. Con: Because budgets are always limited, public health care replaces delay for fair payment for services. Delay is a denial of service through process, layers of expensive bureaucracy, and complicated steps that are difficult to complete.
+1.14.9.1. Con: If the person can’t afford healthcare from the market, then waiting for public healthcare becomes better than receiving nome at all.
+1.14.9.2. Con: This makes an assumption that healthcare providers are under-compensated for their services in public health systems. This is a completely unfair generalization and it varies between healthcare systems, depending on available funding, compensation mechanisms, etc.
+1.14.9.3. Con: Public services do not necessarily go hand in hand with bureaucracy. Even if it is a general trait, efficiency can also be applied in a public service environment, unless the management rules are enabling bureaucratic behaviors.
+1.14.9.4. Pro: A bureaucracy that hands out benefits tends to place itself as a benefactor of those receiving the benefits, and tends to increase without relation to need, resulting in larger and larger administrative budgets.
+1.14.9.5. Pro: In many countries, bureaucrats treat their customers as supplicants increasing discomfort, graft and corruption. All of the above based on the ability to provide or deny services.
+1.14.9.6. Pro: Since the tensions between bureaucrats and their customers delays services, they are tacitly accepted as a brake on the cost of service. See the Veterans administration.
+1.14.10. Con: Even if the premise is accepted, this does not show that the government should provide or regulate healthcare. Perhaps it just shows that the government should redistribute wealth.
+1.15. Pro: The standard of healthcare provided is superior if it is provided by the market.
+1.15.1. Con: Even if the standard of healthcare is superior, many people are [unable to afford it](https://www.theguardian.com/us-news/2020/jan/07/americans-healthcare-medical-costs). It means that the benefits of this superior standard are not widespread.
+1.15.2. Pro: Markets have shown that they can provide [more options](https://fee.org/articles/specialization-and-wealth/) than government-run health care systems.
+1.15.2.1. Pro: Markets [are better](http://www.econlib.org/library/Enc/FreeMarket.html) at encouraging innovation. Government has little incentive to innovate.
+1.15.2.1.1. Con: Innovation does not simply require incentive, it requires funds. Government innovates by sponsoring research grants and public research universities.
+1.15.2.1.1.1. Con: Private business has innovated for centuries through venture capital, before government intervened.
+1.15.2.1.1.2. Pro: Military technology investment, NASA investment, and University investment have led to most of the innovative products we see today.
+1.15.2.1.1.2.1. Con: The successes of the military and NASA are largely related to private research and technology companies.
+1.15.2.1.1.3. Con: Private organizations can and do sponsor research.
+1.15.2.1.1.3.1. Pro: [The Bill and Melinda Gates Foundation invested $140 million in AIDS research.](https://www.ndtv.com/health/bill-gates-invests-140-million-in-groundbreaking-new-technology-for-hiv-cure-1644839)
+1.15.2.1.1.3.2. Pro: [Private capital funds fund most drug research](https://www.investopedia.com/ask/answers/060115/how-much-drug-companys-spending-allocated-research-and-development-average.asp) in the United States, the nation responsible for most drug research today.
+1.15.2.1.1.4. Con: Price controls, which are common in government healthcare systems, [limit](https://link.springer.com/article/10.1057/palgrave.jphp.3200170) funds available for research.
+1.15.2.1.1.4.1. Con: Funding for research should be separate from funding for proven treatments. The former should be determined by academics, government agencies \(like the NIH & CDC, in the US\) and corporations R&D budgets. The latter is the focus of the primary thesis.
+1.15.2.1.1.4.2. Con: Price controls redirect resources to other important areas, because pharmaceutical companies are biased towards profitability.
+1.15.2.1.1.4.2.1. Con: Government can't price services properly because price information is hidden from the consumer.
+1.15.2.1.1.5. Pro: Private initiatives are no different than the government when it comes to hinder competition, e.g. Edison vs Tesla on electricity distribution.
+1.15.2.1.2. Con: The public health care systems can utilize large numbers of cases for research and control. Whereas private-run health care organizations mostly have an incentive to not share this kind of data for competitive reasons.
+1.15.2.1.2.1. Pro: Opening health data \(in a safe way\) can be a very [positive](https://www.computerweekly.com/news/252443705/NHS-collaborates-with-private-health-on-sharing-patient-data) thing.
+1.15.2.1.3. Con: Investor-owned hospitals have [not been known](https://www.ncbi.nlm.nih.gov/books/NBK217924/) for their participation in the education of health professionals or in research.
+1.15.2.1.3.1. Con: No other industry funds education for its future members by increasing the price to consumers. Whether private or government funding would be better at supporting medical education, should not even be a talking point in this discussion.
+1.15.2.1.3.2. Con: -> See 1.15.2.1.1.3.
+1.15.2.1.3.3. Con: -> See 1.15.2.1.1.3.2.
+1.15.2.1.3.4. Con: Broad government services often [compete unfairly](https://www.michamber.com/government-competition-private-sector-0) with private companies, and by running [large deficits](http://www.ejbe.org/EJBE2016Vol09No18p099MAH-MONGALE-MUKUDDEMPETERSEN.pdf) causes the cost of borrowing money to rise.
+1.15.2.1.3.5. Pro: Private funding favours profit, which may cause them to act contrary to the interest of the consumer - for example, if there is more profit in developing symptomatic drugs that require repeated purchase vs important treatments for rare tropical diseases.
+1.15.2.1.4. Con: The private sector has a certain history of "altering" research results to fit them to their financial goals.
+1.15.2.1.4.1. Con: The Internet makes it very difficult to mislead or to keep secrets for long.
+1.15.2.1.4.1.1. Con: When it comes to health that can mean "too late" for many people and important damages can be done on a massive scale.
+1.15.2.1.4.1.1.1. Con: [Getting a new drug approved through the FDA takes 12 years.](https://www.medicinenet.com/script/main/art.asp?articlekey=9877)
+1.15.2.1.4.1.1.2. Con: [Government is generally much slower than markets to react to new situations and new needs.](http://www.newsweek.com/2015/11/13/government-gets-slower-tech-gets-faster-389073.html)
+1.15.2.1.4.2. Con: Government-funded research also has a history of falsifying information or directing results in politically convenient ways. Corruption exists in both private industry and government.
+1.15.2.1.4.2.1. Pro: [The sugar industry shaped government research for years.](http://time.com/3738706/the-sugar-industry-shaped-government-advice-on-cavities-report-finds/)
+1.15.2.1.4.2.2. Pro: [Government funding shapes research study findings to comply with politically correct idealogy.](https://www.cato.org/publications/working-paper/government-buying-science-or-support-framework-analysis-federal-funding)
+1.15.2.1.4.3. Pro: Examples of Pharma industry altering health results:
+[Big Parma play hide-the-ball with data. newsweek.com](http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html)
+[How Much Are Drug Companies Paying Your Doctor? scientificamerican.com](https://www.scientificamerican.com/article/how-much-are-drug-companies-paying-your-doctor/)
+1.15.2.1.4.4. Pro: Example of the sugar industry altering health results:
+[How the sugar industry tried to hide the health effects of its product 50 years ago. theverge.com](https://www.theverge.com/2017/11/21/16684448/sugar-industry-health-effects-research-funding-project-259-heart-disease-cancer)
+1.15.2.1.4.5. Pro: Dairy industry example of altering health results:
+[Much of the research on dairy is funded by science institutes at companies like Dannon and Nestlé. motherjones.com](https://www.motherjones.com/environment/2015/11/dairy-industry-milk-federal-dietary-guidelines/)
+1.15.2.1.4.6. Pro: Tobacco industry example of altering results:
+[Tobacco industry: smoking isn't bad for your health. independent.co.uk](https://www.independent.co.uk/news/world/americas/tobacco-industry-smoking-isnt-bad-for-your-health-404524.html)
+1.15.2.1.5. Pro: -> See 1.15.2.1.1.4.
+1.15.2.2. Con: A free market means that health insurers can pick and choose where they're going to operate, so they will provide choice and compete in those areas that offer them the largest profits. This leads to insurers avoiding old people, sick people, and difficult end of life diseases to maximize profits.
+1.15.2.2.1. Con: -> See 1.8.3.9.2.
+1.15.2.3. Con: A market providing more options is not incompatible with having a public option.
+1.15.2.3.1. Con: -> See 1.15.2.1.3.4.
+1.15.2.4. Pro: -> See 1.15.2.1.1.4.
+1.15.2.5. Con: Studies evaluated in this systematic review do not support the claim that the private sector is usually more efficient, accountable, or medically effective than the public sector; however, the public sector appears frequently to lack timeliness and hospitality towards patients. \([Basu, Sanjay et al. 2012](http://journals.plos.org)\)
+1.15.3. Con: Americans have [worse health outcomes](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective) than other OECD countries.
+1.15.3.1. Pro: [The OECD found](http://www.commonwealthfund.org/publications/issue-briefs/2015/oct/us-health-care-from-a-global-perspective) that "\[t\]he U.S. had fewer practicing physicians \[than the\] median OECD country \(2.6 versus 3.2 physicians per 1,000 population\) \[and\] fewer hospital beds".
+1.15.3.1.1. Con: -> See 1.8.6.2.
+1.15.3.1.2. Con: The number of doctors per country is a function of what they are paid. [US doctors make substantially more than those in other countries.](https://economix.blogs.nytimes.com/2009/07/15/how-much-do-doctors-in-other-countries-make/) As doctors become more expensive, the ratio of nurses to doctors increases.
+1.15.3.1.3. Con: -> See 1.9.7.4.1.2.
+1.15.3.2. Con: -> See 1.8.6.2.
+1.15.3.3. Pro: The U.S. has the highest infant mortality rate of OECD nations, at 6.1 deaths per 1,000 live births, compared to the OECD median of 3.5 deaths.
+1.15.3.3.1. Con: -> See 1.8.6.2.
+1.15.3.3.2. Con: Infant mortality is [not consistently defined and measured](https://nationalcenter.org/ncppr/2006/07/01/dont-fall-prey-to-propaganda-life-expectancy-and-infant-mortality-are-unreliable-measures-for-comparing-the-u-s-health-care-system-to-others-by-david-hogberg/) across countries, therefore the statistics are not comparable.
+1.15.3.4. Pro: Chronic diseases are more prevalent in the U.S than in other OECD countries. 68 percent of U.S. adults age 65 or older have at least two chronic conditions. In other OECD countries, this figure ranges from 33 percent \(U.K.\) to 56 percent \(Canada\).
+1.15.3.4.1. Con: -> See 1.8.6.2.
+1.15.3.5. Pro: The U.S. life expectancy of 78.8 years is lower than the OECD median of 81.2 years.
+1.15.3.5.1. Con: -> See 1.8.6.2.
+1.15.4. Pro: If a consumer is more involved in how their money spent on a service, the provider of the service will be more attuned to its quality and price.
+1.15.5. Pro: -> See 1.8.7.2.
+1.15.6. Pro: Socialized healthcare have severe quality problems not seen elsewhere.
+1.15.6.1. Pro: -> See 1.9.4.1.1.1.4.1.
+1.15.7. Pro: Research [indicates that](https://www.heritage.org/health-care-reform/report/how-competition-improves-quality-the-case-medicare-advantage) the quality provided by America's health insurance for the elderly has been improving since a marketplace from which citizens can choose a plan has been introduced in 2003.
+1.15.7.1. Con: [The issue of competition in healthcare is not clear-cut or settled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4556571/). The evidence, from a wealth of international data, is mixed and contested, and the debate is often polarised.

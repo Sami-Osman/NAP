@@ -1,0 +1,114 @@
+Discussion Name: Could adopting a discussion platform like Kialo help improve the quality of Ethereum's political + governance debates?
+
+1. Adopting a discussion platform like Kialo will help improve the quality of Ethereum's political + governance debates.
+1.1. Pro: Not having a face, a name, a follower count or a big bag of karma next to your comment pro or con levels the playing field and refocuses the issue on .... the issue, rather than the personality behind the idea.
+1.1.1. Pro: "The rich get richer" is certainly alive and well when it comes to social medial clout. Those with the most followings and biggest bravado tend to be the ones heard on Web2 social platforms.
+1.1.2. Con: People want to hear from the voices they trust and make their determination based on that.
+1.1.2.1. Con: As the points that trusted individuals want to make are very likely to already have been made by others, and as it should not matter who created a claim, the perspective feature could easily be used to see how trusted individuals voted all the arguments.
+1.1.2.2. Con: The community wants to see all arguments being represented and dealt with, not only those by the core devs.
+1.1.2.3. Con: The ideas from voices of authority should still make their way into a debate on a platform like Kialo, if it is a rational and supported one.
+1.1.3. Pro: [Mob mentality](https://www.forbes.com/sites/jeannecroteau/2019/02/01/our-society-is-broken-lets-fix-it/#686b0a20704b) and [celebrity culture](https://www.theguardian.com/lifeandstyle/2018/jul/23/social-media-and-celebrity-culture-harming-young-people) are rampant on social media. Having a discussion about an idea is likely to be clouded by these undesirable phenomenon.
+1.2. Pro: The tone of a debate and how people engage with each other on Kialo is much more levelheaded, civil and to the point than on other platforms.
+1.2.1. Pro: This will make more people read and participate as they won't be repelled by the tone, as on e.g. Reddit and Twitter.
+1.2.2. Pro: Kialo's argument trees only displays arguments, not commentary.
+1.2.2.1. Pro: And arguments are what we care about when arguing.
+1.2.2.2. Pro: Commentary, if useful, can still occur in the discussion chat/comments on claims.
+1.2.2.2.1. Con: Commentary in any form can be hijacked by users who only want to troll/annoy others, or push their own agendas with no intention of understanding other's perspectives.
+1.2.2.2.1.1. Con: These users can have their debate privileges removed if excessive, if all/most Admins on a debate agree.
+1.2.3. Pro: Given you read fewer outrageous commentary, you yourself are less prone to enrage and write similar responses.
+1.2.4. Pro: Kialo does not have room for all the personal attacks that so often happen on other forums, which allows you to focus on the subject matter at hand.
+1.3. Con: It will be difficult to determine when to use a tool like this - we can't use it for everything. Who determines this?
+1.3.1. Pro: There will be instances where people will realize that a normal chat, email thread or back and forth commenting should rather be a Kialo conversation but there is no automatic way to import it into Kialo.
+1.3.1.1. Pro: Normal conversations often, as one dives down the rabbit hole, evolve into serious design discussions.
+1.3.1.2. Con: Most parts of a conversation are actually not arguments, but clarifications and comments, the few arguments could easily be manually copied into a new Kialo discussion.
+1.3.1.3. Con: If the people having the discussion want to share their discussion with more people, then they will anyhow have to copy the relevant bits and polish them, so all that's being asked of them is to rather do this in the a format that is clearer and let's others participate.
+1.3.1.3.1. Pro: Writing a coherent long form summary of their discussion takes at least as long as copying their main points into a Kialo discussion and doesn't efficiently allow others to add their reasoning to their summary.
+1.3.1.3.1.1. Pro: You are back to making comments underneath a blog article.
+1.3.2. Con: Every EIP could have a link to a Kialo discussions to explain the pros and cons of the respective EIP.
+1.3.2.1. Pro: The reasoning for or against EIPs today is spread across many platforms and threads and thus newcomers to an EIP ask the same questions over and over again.
+1.3.3. Con: People involved in any controversial issue can just create a Kialo debate themselves and move all the other serious actors to it and then respond to any future message pertaining to the issue with a link to the debate, stating that this is where they laid out there reasoning.
+1.3.4. Con: On-chain signals can fill this role - a well-structured signaling vote on "is contentious enough" is a high enough barrier to entry for determining which debates are moved to Kialo.
+1.3.5. Con: When a discussion happening on any other medium \(conference call, Reddit, Twitter, email\) becomes too lively / controversial, it can be decided to move it to Kialo.
+1.3.5.1. Pro: Case in point, the ProgPow discussion should have happened from the beginning on Kialo, this would have probably reduced the amount of personal attacks, character assassinations and conspiracy theories the authors had to endure.
+1.3.6. Con: When a discussion about an important topic is considered to have to be preserved for future reference, a summary will have to be written anyhow in some form or another. All that's required is a rule that these summaries are to be written in Kialo instead of standard text form.
+1.4. Pro: Makes it more difficult for individuals or small groups to brigade the discussion and wield significant influence without being noticed.
+1.4.1. Pro: Moderated discussions can ensure fewer sock puppet accounts will be able to skew a debate.
+1.4.1.1. Con: Moderated discussions rely entirely on the moderators being impartial. If a biased user is able to become a moderator, they could influence the discussion.
+1.4.1.1.1. Con: The main problems with bias are not with the discussions themselves, but with the summaries that are being written later on, explaining why a certain decision was chosen, something that becomes much less of an issue with Kialo, as the decision is made and its reasoning clearly visualized in the discussion itself.
+1.4.1.1.1.1. Pro: Summaries suffer from the "history is written by the victors" problem.
+1.4.1.1.1.2. Pro: Summaries are by their very nature extremely brief and have to leave out much of reasoning as to why a certain decision was taken / abandoned.
+1.4.1.1.2. Con: A biased moderator would likely be noticed by the other moderators, and would thus be removed if found to be unacceptable.
+1.5. Con: This furthers an existing issue - there are too many forums and feeds to follow already! We don't need more!
+1.5.1. Con: Kialo does not seem to be a forum in the traditional sense, rather more like a document that everybody is contributing their bits and pieces to.
+1.5.2. Con: Kialo would not even be considered, if the other platforms worked for controversial issues like [ProgPow](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878).
+1.5.3. Con: We don't use any platform to visually depict decisions and their respective reasoning yet.
+1.5.4. Con: Ethereum enthusiasts will create them anyhow, sooner or later, as happened [here](https://www.kialo.com/should-keybase-team-names-be-locked-29494) with Keybase, so it's better to have a dedicated and official place for them.
+1.6. Pro: Kialo makes it much easier for new participants in a debate to back-track and understand where the discussion stands, what arguments have been made for and against, as well as how strong participants rate those arguments.
+1.6.1. Pro: Agreed - it is nearly impossible to track the arguments for and against the ProgPow proposal, for example. You need to read Gitter channels, Reddit posts and Twitter feeds, along with the EIP comments to stay informed. Furthermore, no platform we currently use is built around managing a debate. Kialo allows someone brand new to get read-in to a debate much more efficiently - saving us time to keep building.
+1.6.1.1. Pro: Compare that to the [ProgPow Kialo](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878) argument map, which gathers all pros and cons in one place.
+1.6.1.2. Pro: You often see people in one medium referencing another medium were "something" was said, this cross linking is just madness.
+1.6.2. Con: Part of the intrigue of informal, structureless governance is that it forces people to be truly committed to Ethereum - they have to dig to get informed and participate.
+1.6.2.1. Con: This creates a barrier to entry that skews in favor of existing stakeholders, disempowering new entrants and lesser known voices.
+1.6.2.2. Con: Following that logic we should also use acronyms that only very few understand, with explanations of what they mean hidden on the net.
+1.6.2.3. Con: This goes counter to the spirit of allowing stakeholders to understand and participate in controversial decisions and discussions and is quite exclusionist / elitist.
+1.6.2.4. Con: It's more important to inform everybody, than to have a knowledgeable elite who decides. Besides, we see with the ProgPow debacle what this can lead to. If it's a community project, Eth should involve the community and make it easy for them to understand and participate in discussions.
+1.6.3. Pro: Take as an empiric example the ongoing ProgPow debate, understanding what this debate is about, on Reddit or other mediums is extremely hard as all you see are only snapshots of individuals and the points that they want to engage with, while in Ethereum's [ProgPow Kialo debate](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878) you can see all points and fill holes wherever you see them.
+1.6.4. Pro: This is especially important, given their is a lot of misinformation out there, a lot of people with an agenda and a lot of people that are not well informed, but are chiming in. A single authoritative document will greatly help with this. A reasoning wiki if you will.
+1.6.5. Pro: Kialo allows you to amend and add to a debate over years, as new insights are gained, which is much harder in other formats.
+1.6.5.1. Pro: In traditional forums sorting and upvoting prevents new insights to percolate to the top.
+1.7. Pro: Kialo discussions would make for a nice library of decisions that could be accessed by the public, management, devs and users months/years later to see why a decision was made.
+1.7.1. Pro: As can be seen with the Kialo [ProgPow](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878) discussion. ProgPow has been discussed now for over 1.5 years and there hasn't been any complete representation of all the arguments anywhere.
+1.7.2. Pro: A library of decisions would allow the Ethereum community to defend decisions much more effectively against brigading by allowing them to point to the Kialo debate or individual arguments therein, instead of having to formulate arguments themselves, which most people are unable to or not interested to be spending their precious time on.
+1.7.3. Pro: New team members can quickly understand the reasoning for past decisions by looking at the respective decision maps.
+1.7.4. Pro: Today it is very hard to understand the reasoning for fundamental design decisions, especially the reasoning as to why certain ideas were considered to be bad.
+1.7.4.1. Pro: Case in point, ProgPow and the [discussion](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878) that now ensued gathering all claims, this should have been done long time ago. Now it's buried in Reddit, Twitter and Discord threads all over and practically undiscoverable.
+1.7.5. Pro: Instead of having to spell out a brazillion times why a decisions was taken, one could just refer people to the Kialo discussion. A bit RTFM style, "This has been explained a thousand times. Go over there and read the reasoning!"
+1.7.6. Pro: Additionally to serving as a discussion forum, Kialo also serves as a an auto-generated repository of the reasoning, so no need to write summaries of decisions, the discussion itself dual-purposes as that.
+1.8. Pro: Dramatically improves the existing signal to noise ratio within Ethereum's governance conversations online.
+1.8.1. Pro: -> See 1.6.3.
+1.8.2. Con: Moderating and structuring debates can be tricky.
+1.8.2.1. Pro: Many people are used to commenting platforms, where any kind of contribution is accepted and treated / visualized equally.
+1.8.2.1.1. Con: Then it is about time that discussion participants learn the difference between a comment and an argument.
+1.8.2.1.2. Con: Indeed they are, and these anyone can participate and brigade platforms have brought us to where we find ourselves regarding for instance the ProgPow debate, where a [few](https://www.kialo.com/as-is-always-the-case-on-the-internet-a-few-motivated-actors-can-seed-a-lot-of-fud-and-cause-a-ruckus-while-the-silent-30878.196?path=30878.0~30878.3-30878.27-30878.196&active=_30878.610) motivated actors give the impression to outsiders that there is a huge division among the ETH community, which there [isn't](https://www.kialo.com/the-community-voted-for-progpow-adoption-with-an-overwhelming-majority-the-vote-of-the-community-should-be-honored-30878.160?path=30878.0~30878.3_30878.160) and allows these individuals to cause a lot of disruption.
+1.8.2.2. Con: Over time as more people use the platform, their skills in moderating and structuring debates will improve.
+1.8.2.3. Con: The alternative are a million not connected incoherent brigading points made across ten networks. It would really be useful to not have to go through gitter, reddit, twitter and discord to follow people's lines of reasoning.
+1.8.2.4. Con: The alternative, writing for instance the Kialo Ethereum ProgPow [debate](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878) down in a report, which should have happened long time ago, sounds even more daunting.
+1.8.2.5. Pro: Debates which receive a high amount of contributions can be time-consuming to manage.
+1.8.2.5.1. Con: Additional Admins can be added to debates which are very active.
+1.8.2.5.1.1. Pro: If a debate has a lot of users contributing, it is likely that a few of those contributing will have the capability to help moderate it.
+1.8.2.5.1.2. Con: It can be difficult to find additional Admins who have the knowledge to help on very complex or technical debates.
+1.8.2.5.1.2.1. Con: At the very least they could assist in dealing with the low quality/spam/duplicate contributions which are likely to occur on very active debates.
+1.9. Pro: There will be greater community buy in when they are able to participate in decisions, at the design stage. Upcoming decisions could be sent as a Kialo RFC to members.
+1.9.1. Pro: Hard to do this today, as most mediums are just not optimized for this and there will be a huge amount of chaff additionally to claims and no way to properly moderate discussions without being called censorious.
+1.9.1.1. Pro: Kialo allows admins to "censor" based on the type of contribution, as in, pure comments like "I like this very much", "First post", "Once again a typical hater" don't have a place in Kialo discussions, as only claims are allowed.
+1.9.1.1.1. Con: You can use suggested comments for those, so those will still be made.
+1.9.1.1.1.1. Con: Unlikely as suggested comments are much less visible and there is voting to show your appreciation or your agreement with a point.
+1.9.1.1.1.2. Con: They call these suggest improvements \(for a specific point\), so very few comments will match that category.
+1.10. Con: It could been seen as disempowering to participants in Crypto Twitter conversations and Reddit threads.
+1.10.1. Pro: Everyone is already on these legacy platforms - they won't all migrate and new entrants might not easily find Kialo.
+1.10.1.1. Con: Awareness isn't hard, we saw this with the fairly rapid adoption of the Ethereum Magicians forum.
+1.10.1.2. Con: People will use Kialo, if the Ethereum Foundation or Consensys declare it as the place where these discussions are being done.
+1.10.1.2.1. Pro: People will optimize their time and effort and contribute where their contributions are read by the important people.
+1.10.1.2.1.1. Pro: Those that cannot be bothered probably do not have important points to add anyhow.
+1.10.1.3. Con: Many discussion participants were not on Reddit or Twitter and created accounts just to participate in the Ethereum discussions. Most will do the same with Kialo, as they probably are aware of the problems everybody was experiencing on the legacy platforms.
+1.10.1.4. Con: We don't need everyone - just those who actually want to have a say and can prove they are a stakeholder in the protocol.
+1.10.2. Con: All people participating in these must be aware that the discussions happening there are ephemeral and while sometimes entertaining, highly unproductive.
+1.10.3. Con: Neither platform is designed for these sorts of conversations. They are built to be optimized for Dopamine-driven social engagement, not debate and decision-making.
+1.10.3.1. Pro: Reddit and Twitter do not allow you to choose a specific experts perspective and see how they voted the decision. In fact, there is no voting of points at all. And Likes and Upvotes are often used to upvote hilarious statements.
+1.10.3.2. Pro: In order to be heard on Reddit or Twitter, everybody resorts to a more provocative writing style, which is not conducive for calm and thoughtful discussions.
+1.10.3.2.1. Pro: The sorting on Reddit and Twitter is done based on which contributions have the highest engagement and likes/upvotes, this will often result in the most evocative, not most insightful statements, appearing at the top.
+1.11. Con: Discussion participants have to learn a new tool and how to go about using it.
+1.11.1. Con: Kialo is basically a pro con list, who doesn't understand that?
+1.11.1.1. Pro: The visual aspects of Kialo add a layer of quick overview and areas of corresponding posts. In order to to make use of the conversation over a longer period of time, that seems critical to me. You firmly get the thoughts around a statement. This is valuable.
+1.11.2. Pro: Kialo is a much more complex form of interaction then writing a comment, this might repel some contributors.
+1.11.2.1. Pro: Structuring arguments sometimes requires you to first think how these are best represented, which is a bit harder than just blurting out a comment with all arguments just flowing from your pen, without any kind of structure, as is done on the Ethereum subreddits.
+1.11.2.2. Con: If they consider Kialo too complex, how do we expect them to usefully contribute to an Ethereum design discussion, when these are orders of magnitude more complex.
+1.11.2.2.1. Pro: This will improve the signal to noise ratio even further.
+1.12. Pro: Kialo, once you figured it out, makes reading and contributing to discussions much quicker and easier.
+1.12.1. Pro: -> See 1.6.3.
+1.12.2. Pro: Given the extreme pro/con threading nature of Kialo you can pause and come back later, quickly catch up with what has been said and continue contributing.
+1.12.2.1. Pro: In normal comment/email threads, when you come back later, 100 messages might have been written and it will be very hard to respond to a response to your earlier contribution, given there now are 99 messages in-between and the discussion has moved on.
+1.12.3. Pro: You can drill down as deep as you want in individual branches without derailing the rest of the participants that might not be interested in a particular branch.
+1.12.4. Pro: You can participate in one branch without having to read the whole discussion as every branch is a contained unit that makes sense on its own.
+1.12.5. Pro: It becomes unnecessary to skim all comments and tweets to find the few gems that are important.
+1.12.5.1. Pro: Given Reddit and Twitter's sorting, good points often don't make it to the top, thus you need to read all in order to not miss something important, which is especially irritating on Twitter, given it's clearly not designed with this use case in mind.

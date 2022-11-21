@@ -1,0 +1,69 @@
+Discussion Name: Combined Approval Voting is a better voting system than Approval Voting.
+
+1. Combined Approval Voting is a better voting system than Approval Voting.
+1.1. Con: There is a higher chance of manipulation as now a candidate can get a lot of disapprove votes simply because the voter wants his/her candidate to win.
+1.1.1. Pro: The [Later-no-harm criteria](https://www.electionscience.org/library/later-no-harm-criterion/) is met. By expressing their opinion on a number of candidates, less-preferred candidates' rankings may be bolstered more than the most-preferred candidate.
+1.1.2. Con: One could consider this manipulation or a form of strategical voting, in any case, it seems a byproduct baked into the system.
+1.1.2.1. Pro: This type of tactical voting also occurs in AV systems.
+1.1.2.1.1. Pro: Approval voting allows for [tactical voting](https://en.wikipedia.org/wiki/Approval_voting#Strategic_voting) such as bullet voting and compromising.
+1.2. Pro: It's [suggested \(pg. 19\)](https://halshs.archives-ouvertes.fr/halshs-01618039/document) that CAV gives lesser known candidates a more fair chance of winning.
+1.2.1. Con: A lesser known candidate is more likely to be subversive or radical than a more established candidate.
+1.2.1.1. Con: A politician can be less known because they are starting out and haven't been in politics for a long time, that does not necessarily mean they are more radical or subversive.
+1.2.1.2. Con: The reason lesser known candidates need to be more radical or subversive is because they have a worse shot of getting attention and/or winning votes. CAV would give them that shot, thus reducing the need to be subversive or radical.
+1.2.1.3. Con: CAV inherently disincentivizes subversive or radical tendencies in candidates.
+1.2.1.4. Con: If the more established candidate got a low enough approval score to allow the lesser known candidate to win, then this established candidate likely has many problems, and is less worthy of the position anyway.
+1.3. Con: The results of CAV polls tend to be similar to the results of AV polls.
+1.3.1. Pro: This coupled with the added complexity of CAV makes it not worth the hassle of replacing the AV system.
+1.3.1.1. Pro: CAV is slightly more complex than AV.
+1.3.1.1.1. Con: If the outcome is better and more representative, its benefits outweigh a little more complexity.
+1.3.1.1.1.1. Pro: If governments and local councils inform people and sufficiently educate them on the new changes ahead of any elections, the new changes shouldn't be too difficult for people to grasp.
+1.3.1.1.1.2. Pro: Research points out that for any number of voters and competing alternatives, a single voter has a smaller probability of not being decisive under AV and a larger probability of being [strongly decisive](https://onlinelibrary.wiley.com/doi/abs/10.1002/bs.3830340105) under CAV.
+1.3.1.1.1.3. Con: Due to the lack of understanding, the outcome may be less representative, since citizens might make mistakes during voting.
+1.3.1.1.2. Con: CAV is [compatible](https://en.wikipedia.org/wiki/Combined_approval_voting) with existing voting machines that can handle voting for/against ballot initiatives.
+1.3.1.1.3. Pro: The more complex a voting system is, the more people will be afraid of using it, because they'll feel like they won't understand how their vote affects the outcome, as well as a simpler system.
+1.3.1.1.3.1. Pro: If a voting system is seen as being too complex and people struggle to see the impact of their vote, they are less incentivised to commit the time and effort to becoming an informed voter because they are not certain of the pay off.
+1.3.1.1.3.1.1. Con: Being an informed voter requires vastly greater time and comprehension than understanding the choice between approval, disapproval, and indifference.
+1.3.1.1.3.2. Con: The increase in complexity is very minor, and unlikely to be an issue for most people.
+1.3.1.1.3.2.1. Con: People may already face a number of difficulties when voting - such as registering to vote, finding the time to vote, and being informed on the candidates - depending on the elections rules of their country. Even if this seems like a minor increase in complexity, coupled with these other difficulties, this may sway people into not voting.
+1.3.1.1.3.2.2. Pro: -> See 1.3.1.1.1.1.
+1.3.1.1.3.2.3. Pro: If complexity does not affect voters much, then complexity is not a reason to no implement the system.
+1.3.1.1.3.2.4. Pro: Most voters are already familiar with "approval/disapproval" voting from referendums or ballots on subject matters.
+1.3.1.1.3.2.4.1. Pro: Any new changes are largely intuitive to voters and easier to grasp.
+1.3.1.1.4. Con: -> See 1.3.1.1.3.2.
+1.3.1.1.5. Con: CAV is simpler than AV.
+1.3.1.1.5.1. Con: CAV demands two bits of information from each voter about each candidate, where AV demands only one. As such, CAV is twice as informationally complex.
+1.3.1.1.5.1.1. Con: The information demanded in CAV is straightforward enough that this is not much more complicated.
+1.3.1.1.5.2. Pro: Under AV, if you don't like a candidate, but you are ambivalent toward the other candidates, you must vote for the ones you don't care about, and not vote for the one you dislike. Under CAV, you simply vote against the one you don't like.
+1.3.1.1.5.3. Pro: Humans are extremely adept at talking about concepts in terms of Approval and Disapproval. CAV leverages that inherent capacity.
+1.3.1.1.5.3.1. Pro: There are [three options](https://en.wikipedia.org/wiki/Combined_approval_voting) for candidates to choose from. They can approximate their feelings for the candidates within very simple parameters ie approval, disapproval, or ambivalence.
+1.3.1.1.5.4. Pro: CAV is mathematically simpler. AV reduces 2 dimensions onto one dimension: the preferences of \[like, dislike\] must turn into to \[approve\]. CAV maps 2 dimensions onto 2 dimensions: \[like, dislike\] turns into to \[approve, disapprove\]. A 1:1 mapping is computationally simpler than a 2:1 reduction.
+1.3.1.1.5.4.1. Con: Human preferences are much more complex than mere like and dislike, so if we are to accept this argument, we cannot stop at 2; a true 1:1 mapping from the complexity of the utility function of every human in the electorate would however on the face of it be an absurdly complicated voting system, and as such the parent's argument is false.
+1.3.1.1.5.4.1.1. Con: The complexity of preferences need not enter into consideration. The desired effect is to empower the voter to choose between helping or hindering a candidate.
+1.3.2. Pro: In an election with just two choices, CAV will deliver the same results as AV and will thus not be worth the extra effort.
+1.3.2.1. Con: The purpose of AV systems \(including CAV\) is to enable more than just bipartisan systems, such as multiparty systems. Therefore, comparing CAV and AV in only bipartisan context misses its best use-case.
+1.3.3. Pro: It basically conforms to the approval voting system in the fact that people who aren't well-liked aren't voted in anyway and thus offers no significant advantage to improve the system in any way.
+1.3.3.1. Con: Consider a country with parties A, B, and C where they are each supported by about 30% of the population. Under AV, if constituents of A and B strongly dislike candidate C \(i.e. don't vote for her\), but constituents of C don't love candidates A and B \(i.e. don't vote for them\), then A, B, and C are all about equally likely to win. However, under CAV, the dislike for candidate C would surface, and only candidates A and B would be likely to win.
+1.3.4. Con: If CAV polls and AV polls tend to be similar, then there is little risk in upgrading from AV to CAV.
+1.4. Con: -> See 1.3.1.1.
+1.5. Pro: CAV allows a negative opinion of a candidate to matter, rather than being treated the same as having no opinion of the candidate.
+1.5.1. Pro: Under AV, it's difficult for political parties to determine if their political candidates are struggling to win seats in areas due to unpopular policies or due to lack of awareness about them, as there is no way to distinguish between disapproval or indifferent votes.
+1.5.1.1. Pro: This means that political parties find it harder to adapt and improve their polices to fit with what the voters need, as they are unable to accurately assess voting results.
+1.5.2. Pro: This will lower the likelihood of anti-voting, by giving voters a way to explicitly voice their disapproval of the candidate they dislike instead, while leaving the others as indifferent if that's how they truly feel.
+1.5.2.1. Con: In this case, the voters can just as easily vote in favor of every candidate but the one that they don't want to win, then vote against that one candidate, or vote in favor of their favorite, and against everyone else.
+1.5.2.2. Pro: Making citizens feel like they can express this opinion is likely to increase voter turnout.
+1.5.2.2.1. Pro: When candidates are unpopular or unrepresentative, many people turn to [election boycott](https://en.wikipedia.org/wiki/Election_boycott) as a way to have their opinions heard. CAV allows for their disapproval to be officially registered, preventing the percentage of disenfranchised citizens from increasing.
+1.5.2.2.2. Pro: In recent US elections, only about [60%](https://www.fairvote.org/voter_turnout#voter_turnout_101) of the voting eligible population has been voting during presidential election years.
+1.5.2.2.3. Pro: Increased voter turnout is good for democracy.
+1.5.2.2.3.1. Pro: The more people vote, the more representative the government, and the more legitimate the government is.
+1.5.3. Pro: CAV's additional option \(the disapprove option\) increases the measurable degree of preference by 50% compared to AV.
+1.5.4. Con: A negative opinion can easily matter in one's vote in approval voting; simply vote for everyone you don't have a negative opinion of.
+1.5.4.1. Con: This creates the reverse problem though, where positive opinions of a candidate don't matter, since they get approved as long as the opinion isn't negative, making a neutral opinion equivalent to a positive opinion.
+1.5.5. Pro: Combined approval voting allows for [3 options](https://en.wikipedia.org/wiki/Combined_approval_voting#Procedure); approve"/"disapprove"/"abstain", "for"/"against"/"neutral", or a similar attribution.
+1.5.6. Con: In electoral results, what matters is which politician \(or party\) better represents their citizens, thus negative opinions are not that important.
+1.5.6.1. Con: Citizens may not feel represented at all by particular politicians \(in office\). CAV is a way to express exactly that.
+1.5.6.1.1. Pro: As of July 2019, [52% of US citizens](https://www.npr.org/2019/07/22/743516166/npr-newshour-marist-poll-americans-not-sold-on-trump-or-democrats?t=1563870948130) disapprove of the job Donald Trump is doing as president.
+1.5.6.2. Con: Negative opinions matter. Imagine a country with two parties, Purple and Green, a majority group that represents 80% of the population and approves of both candidates, and a minority group \(\<20%\) that strongly dislikes the Purple candidate and has no opinion of the Green candidate. AV will elect either candidate equally. CAV will elect with preference for Green because Green is better representative of their citizens.
+1.5.7. Pro: This will better ensure that negative publicity results in negative outcomes.
+1.5.7.1. Pro: If candidates know that negative points will be accounted for, this may result in better behavior by candidates in the future.
+1.5.7.2. Con: Politicians may already by 'punished' electorally by voters not voting for them.
+1.6. Pro: -> See 1.3.1.1.5.

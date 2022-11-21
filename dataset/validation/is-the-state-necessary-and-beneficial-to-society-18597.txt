@@ -1,0 +1,166 @@
+Discussion Name: Is the state necessary and beneficial to society?
+
+1. The state is necessary and beneficial to society.
+1.1. Con: The state is inherently an instrument of domination and repression, no matter who is in control of it.
+1.1.1. Pro: If the state exists to protect its citizens from threats, then the state is founded on hypocrisy, for the authority of the state is founded on threats of violence. Hence, the state is the very thing it claims to protect us against.
+1.1.2. Con: Democracies \(in theory\) allow citizens to decide the manner in which the state governs. This is antithetical to domination and repression, where people do not have a say in the actions of the state.
+1.1.2.1. Pro: Democracies tend to have much [higher levels](https://freedomhouse.org/report/freedom-world/freedom-world-2019/map) of [human freedom](https://www.cato.org/human-freedom-index-new) than other states.
+1.1.2.2. Con: Due to [Arrow's Paradox](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), even in "theory", democratic processes cannot fully convert preferences of the voters; thus people can never perfectly participate in the state's functioning.
+1.1.2.3. Con: Democracy is inherently a means by which the majority of voters controls the government, which permits them to dominate and repress the minority of voters and any who do not or cannot vote. To weaken this ability is to limit democracy, which is to limit the ability for citizens to decide the manner in which the state governs, thus producing the less theoretical and more realistic democracies where people have little say in the actions of the state.
+1.1.2.4. Con: Many despots rose to power through the democratic process.
+1.1.3. Con: The theory of social contracts - while in some edge cases disputed - is applicable in practically all examples of modern states.
+1.1.3.1. Con: Silence, speaking out while failing to physically resist, or complying under threat of violence, does not constitute consent as normally understood, so it is implausible to assert that a nigh complete majority of people willingly accept the status quo.
+1.1.3.1.1. Pro: Tacit consent for the state is not valid since virtually everyone is born in a state.
+1.1.3.1.2. Pro: Rejecting the state's authority or legitimacy by a large group of people is viewed as a threat and punished. If consent cannot be revoked, it is not consent.
+1.1.3.2. Pro: A nigh complete majority of people willingly accepting the status quo is required for any state to continue existing. The people "dominate" themselves to not be actually dominated by predating opponents.
+1.1.3.3. Con: Most states were formed by a very privileged and selective class of society. These educated, propertied people who drafted the "social contracts" were unrepresentative of the entire population.
+1.1.3.3.1. Pro: The Founding Fathers of the United States were white, property-holding men who formed a nation built on the [exploitation](https://en.wikipedia.org/wiki/The_Racial_Contract) of non-whites \(African-Americans and Native Americans\).
+1.1.3.3.2. Con: Social contracts have been known to evolve with societal progress, and are not commonly based on the same racial and class based foundations previously seen.
+1.1.3.3.2.1. Con: Implementation of social contracts is problematic, since at no stage are they truly the will of all people. The societal progress later on is of little importance if the contracts were not valid even when they were formed.
+1.1.4. Pro: We should create a society which is without political, economic or social hierarchies. The absence of rulers is the only viable form of social system that works for the maximisation of individual liberty and social equality.
+1.1.5. Pro: Wars between states are historically one of the [largest](https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll#Wars_and_armed_conflicts_whose_highest_estimated_casualties_are_1,000,000_or_more) unnatural causes of death. With modern nuclear weapons they could potentially cause the extinction of the entire human race. Without states there could not be wars between states either. There might still be conflicts and violence but unlikely on the same scale.
+1.2. Pro: Statelessness is unfeasibly utopian; ill intentions wouldn't just disappear if oppressive force was gone, so we can't rely on the populace to manage themselves and each other morally.
+1.2.1. Con: State powers are also run by immoral people.
+1.2.2. Con: In stateless societies without the concept of property \(everyone gets based on need\), the ill-intention theft can no longer exist and envy based crimes might vanish too.
+1.2.2.1. Con: Crimes of jealousy and passion are not based on property and thus would be unaffected in a need-based society.
+1.2.3. Pro: An anarchist society can only be made up of those who have no desire to harm or oppress others. A society of people who can't be trusted to not harm or oppress others, needs to be governed. Government, the state, is a necessary evil. It is an evil that needs to be governed itself, made up, as it is, of people who can't be trusted not to harm or oppress others.
+1.2.4. Con: A state which runs via democratic processes also puts faith in the populace to manage themselves by electing a leader, who may turn out to be immoral or despotic.
+1.2.5. Con: A sole individual with ill intentions is less dangerous than an ill-intentioned individual with access to the coercive power of the state.
+1.2.6. Con: Anarchist ideals aren't necessarily utopian, many simply believe that the coercive power of the state causes more harm than good, and that a society without a central authority would be more favorable.
+1.3. Pro: The state is necessary in shepherding its citizens out of crises.
+1.3.1. Pro: The current [economic crisis](https://en.wikipedia.org/wiki/Great_Recession#Policy_responses) is proof of this.
+1.3.1.1. Con: It could be argued that the current economic crisis is largely caused by state\(s\). Without state monopoly on regulating supply of money, subsidies, bailouts and other forms of centralized control, the economy would be more decentralized and less vulnerable to bubbles and crashes.
+1.3.1.1.1. Con: Without a state there would be no such thing as complex economy to begin with.
+1.3.1.1.1.1. Pro: There is no example of a truly successful stateless economy that is able to be even remotely on par with state economy.
+1.3.2. Con: Often the crises the state must shepherd citizens out of are crises of the state, such as national debt crises, or crises of a national banking system.
+1.3.3. Con: [Disaster relief via mutual aid](https://mutualaiddisasterrelief.org/updates/) has been and continues to be effective, especially relative to the amount of economic power commanded by those participating.
+1.4. Pro: The state coordinates roles in society and the economy.
+1.4.1. Pro: The state safeguards property rights.
+1.4.1.1. Con: Individuals and communities can safeguard their own property rights.
+1.4.1.2. Con: Even if safeguarding of property rights must be outsourced to an organisation, it has yet to be shown that such an organisation must be a state.
+1.4.1.3. Con: Private security firms can safeguard property rights, as they already do.
+1.4.1.3.1. Pro: Private Security firms with too much power can lead to a mafia behaviour as they are purely motivated by monetary rewards.
+1.4.1.4. Con: The state continually violates the private property rights of its citizens through taxation, which demonstrates the state's disregard for property rights.
+1.4.2. Con: Roles in society \(such as teacher, mother...\) existed consistently long before states.
+1.4.2.1. Con: Roles in society are indicative of existing infrastructure which, in turn, is indicative of organized state of affairs. Small, loose states are still states.
+1.4.2.2. Pro: Anarchism is the abolition of unjust hierarchies, not useful organization of occupations.
+1.4.3. Con: The idea we commonly call 'state' contributes significantly to the illusion that individuals are not responsible for their actions.
+1.4.3.1. Con: The state enforces several mechanisms to hold people accountable for their actions.
+1.4.3.1.1. Pro: The state is in charge of a legal system that holds individuals accountable.
+1.4.3.2. Con: The mere presence of a state does not prohibit ideas of individual responsibility. In some cases, the state has been at the center of promoting [personal responsibility](https://tribunemag.co.uk/2021/01/how-neoliberalism-created-a-society-of-individuals).
+1.5. Pro: No society has ever survived in the long term without the presence of a state.
+1.5.1. Con: In the [List of anarchist societies](https://en.wikipedia.org/wiki/List_of_anarchist_communities) you can find some anarchist societies that lasted for many years. The ones that lasted only a few years were often forcefully ended by armies/states fearing the power of anarchist organization.
+1.5.1.1. Con: Anarchist societies are vulnerable to authoritarian violence from both within and outside the country itself due to lack of coercive authority to prevent such attacks.
+1.5.2. Con: States are less than [6,000 years old](https://en.wikipedia.org/wiki/Stateless_society#Prehistoric_peoples), meaning that for 99.8% of human history, humans lived in stateless societies.
+1.5.2.1. Con: Technology, economy, life longevity, medicine, human rights and ethics, and overall quality of life that is possible today, was not possible for 99.8% of human history.
+1.5.2.2. Con: The structure of primitive societies could only be maintained because of low populations. 7 billion people cannot be fed through hunting and gathering.
+1.5.2.2.1. Pro: Agriculture is neccessary to provide for everyone, but people will not have any incentive to grow food unless they have secure rights to it once it's grown. Those rights have only been effectively secured by states.
+1.5.2.2.1.1. Con: Rights, for the most part, can exist without a state; social norms and values are sometimes actually stronger forms of control than legislation.
+1.5.2.2.1.1.1. Con: In that case, social norms are just as threatening to individual liberty as a state would be. For instance, social norms might insist that everyone be a member of a certain religion or face ostracization. If that is a credible threat, then people would be less free than they would be if a state protected their freedom of religion.
+1.5.2.2.1.1.2. Con: There has never been a case in history where this has been true.
+1.5.2.2.1.1.2.1. Con: The [Harappa](https://en.wikipedia.org/wiki/Harappa) civilization lacked many of the qualifications for a state, and yet evidence suggests a highly [sophisticated and peaceful](http://www.ushistory.org/civ/8a.asp) culture, which is indicative of the existence of rights.
+1.6. Con: Thriving societies exist today in the absence of states.
+1.6.1. Pro: Examples include the [Kibbutz](https://en.wikipedia.org/wiki/Kibbutz), [Federation of Neighbourhood Councils-Et Alto](https://en.wikipedia.org/wiki/Fejuve), and [Popular Indigenous Council of Oaxaca "Ricardo Flores Magón](https://en.wikipedia.org/wiki/Popular_Indigenous_Council_of_Oaxaca_%22Ricardo_Flores_Mag%C3%B3n%22)".
+1.6.1.1. Con: These communities are all either incredibly homogenous, religiously united, or share other critical similarities, which work together to provide their small populations with enough commonality to function properly.
+1.6.1.2. Con: These communities are all tiny compared to the massive nation-states we have today. The state provides hierarchal structure to large populations.
+1.6.1.3. Con: These societies exist within states, and they are not fully autonomous.
+1.6.1.4. Con: These communities exhibits traits of a "state" system. E.g. there are governing bodies and degrees of infrastructure.
+1.6.2. Con: Stateless societies represent an insignificant portion of the population. States came into existence when populations reaches sizes where stateless systems were less practical.
+1.6.2.1. Con: The argument of practicality isn't compelling. It may be more efficient or even life-preserving to comply when forced to be part of a coercive state, but that doesn't mean that the devolution is beneficial for society; colonialism took over in much of the world but the compelled subservience was not good for the people.
+1.6.2.2. Con: It may be true that larger populations tend to build a state, but the more ethical and humane response is to keep working on voluntary systems through common law courts rather than to devolve into a violent enforcement of legislative fiat.
+1.7. Con: States are vulnerable to corruption.
+1.7.1. Pro: There is no single institution of power in history that has been immune to corruption. Whether it is a government, a religion, or an elected official. Even if they are established with good intentions eventually they will operate with self-preservation and self-interest as their primary purpose.
+1.7.1.1. Con: Corruption can be reduced by legal reforms, which require the stability of a state to function.
+1.7.1.1.1. Con: This is getting a little circular. We can't rely on a corrupt institution to regulate its own corruption.
+1.7.1.2. Con: While a certain level of corruption is inherent to most institutions of power, the state is the most powerful institution, and therefore its corruption causes more significant harm.
+1.7.2. Pro: The large majority of people in high leadership positions are members of the wealthy upper class. Therefore the state serves the interests of the upper class rather than equitably serving the interests of all social groups.
+1.7.2.1. Con: Leaderships roles also command higher salaries; it is unsurprising that most leaders are correspondingly wealthier.
+1.7.2.1.1. Pro: Perhaps the problem is not to do with the state but to do with distribution of wealth.
+1.7.2.2. Con: That's a problem with the composition of contemporary governments, not the concept of the state itself. This claim would not be an issue if there were simply more diversity in governments.
+1.7.2.2.1. Con: Even if, hypothetically, people from lower backgrounds reached high-ranking positions, they would either succumb to self-interest, or be forced to obey the interests of the upper class to secure their job. Thus, this problem is extremely hard to evade.
+1.7.2.3. Con: The Russian leadership is mostly someone from a poor background who worked their way up.
+1.7.2.3.1. Pro: [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin#Early_life) was born to into a family of factory workers and navy conscprits.
+1.7.2.3.2. Pro: [Nikita Khruschchev](https://en.wikipedia.org/wiki/Nikita_Khrushchev#Early_years) was born to poor peasants.
+1.7.2.3.3. Pro: When being a child [Boris Yeltzin](https://en.wikipedia.org/wiki/Boris_Yeltsin#Early_life_and_education)'s peasant family was facing such a though life that they had to move to Kazan in order to survive.
+1.7.2.3.4. Con: Although there might be particular examples of people from disadvantaged backgrounds reaching the top of social hierarchy, their interests do not always align with the class they originated from. Putin, and a number of other Russian leaders have been known to engage in [corruption](https://en.wikipedia.org/wiki/Corruption_in_Russia) and thus betrayed the interests of the common people.
+1.7.2.4. Con: The lower classes have unprecedented opportunities at governing roles. All that's required is hard work and diligence.
+1.7.2.4.1. Con: Hard work and diligence cannot overcome all obstacles. Disenfranchisement, environmental factors and access to education affect the ability to participate in government.
+1.7.2.4.1.1. Pro: People that are mentally impaired due to lead in their drinking water have had their fair chance at participation in government robbed from them by the very institution.
+1.7.3. Con: Even if there's corruption in most states that does not mean that the harm that corruption causes is greater than good those states provide for citizens.
+1.7.4. Con: While a vulnerability like corruption may materialize in a state, without the state it is the default.
+1.7.4.1. Pro: As John Locke [stated](https://oll.libertyfund.org/quotes/115), "Wherever law ends, tyranny begins"
+1.8. Pro: An anarchist society, lacking any central coercive authority, would quickly degenerate into violent chaos.
+1.8.1. Pro: Evolution of systems selects for greatest control over energy/access to resources. Government is beneficial to the society even if there is detriment to the individual.
+1.8.2. Con: Just as territorial animals fight when defending their territory, but yield when confronted on the territory of another animal, rational self-interested individuals and firms would usually find aggression a dangerous and unprofitable practice.
+1.8.2.1. Con: Criminals are not rational animals vying for territory, they are human beings intent on causing harm and chaos.
+1.8.2.1.1. Con: Criminals are made, not born. Poverty, broken prison systems, lack of access to health and education are the leading [causes of crime](https://www.bbc.co.uk/bitesize/guides/zqb2pv4/revision/2#:~:text=)(The causes of crime are complex. Poverty, parental neglect, low self-esteem, alcohol and drug abuse can be connected to why people break the law. Some are at greater risk of becoming offenders because of the circumstances into which they are born.), and also byproducts of the state's mechanisms. The absence of the state might reduce crime, since it will eliminate the major motivations of criminals.
+1.8.2.1.1.1. Con: It is far more likely the absence of a state will increase poverty and reduce access to health and education. Assuming your premise criminal activity will necessarily increase crime while removing any centralized authority to enact justice for victims.
+1.8.2.1.1.1.1. Pro: [Economic programs such as food and housing assistance, social security, and others help reduce poverty and inequality](https://www.cbpp.org/research/poverty-and-inequality/economic-security-programs-reduce-overall-poverty-racial-and-ethnic)
+1.8.2.1.1.1.2. Pro: [Minimum wage laws](https://www.washingtonpost.com/news/wonk/wp/2014/01/04/economists-agree-raising-the-minimum-wage-reduces-poverty/) reduce poverty and inequality
+1.8.2.1.1.1.3. Pro: [Public education is the biggest initiative undertaken by many governments around the world](https://www.elc-pa.org/wp-content/uploads/2011/06/BestInvestment_Full_Report_6.27.11.pdf). An absence of these governments would necessarily mean less access to education.
+1.8.2.1.1.1.4. Pro: Universal health care [Reduces financial hardship](https://www.who.int/health-topics/universal-health-coverage) and increases overall health in a population. In the US Medicare has cut [Elderly poverty rates](https://www.aarp.org/politics-society/advocacy/info-2017/why-medicare-matters-to-all-americans.html) in half in just it’s first ten years.
+1.8.2.2. Con: There are many [examples](https://www.nature.com/scitable/knowledge/library/territoriality-and-aggression-13240908) in the animal kingdom of species invading a rival's territory for personal gain and monopolization of resources. This has been mirrored in human behavior throughout history.
+1.8.2.3. Con: This assumes the animals are of equal strength. If an animal must fight to defend its territory, it necessitates that an animal would fight to invade a territory. Unbalanced aggression is profitable for the stronger individual.
+1.8.3. Pro: There's not a single example of a sizeable anarchist society that evaded degeneration into violent chaos.
+1.8.3.1. Pro: Somalia, an anarchist society lacking any central coercive authority, quickly [degenerated](https://en.wikipedia.org/wiki/Somalia#Somali_Civil_War) into violent chaos.
+1.8.3.1.1. Con: This isn't evidence against statelessness: to the contrary, it's pointing at a culture that has a history of authoritarianism, and after the central state lost most of its coercive power then those with resources worked to get the power back, often violently. This is a case demonstrating that the struggle to create monopolistic state institutions is precisely the source of violence. They are better served the more they build institutions and infrastructure without any coercive authority.
+1.8.3.1.1.1. Con: -> See 1.5.1.1.
+1.8.3.2. Con: -> See 1.5.1.
+1.8.4. Con: The distinction between the state and violent chaos is a false binary that assumes but does not prove that non-state forms of social organization are impossible.
+1.8.4.1. Pro: Very few [serious anarchists](https://www.reddit.com/r/DebateAnarchism/comments/7j2mmk/in_an_anarchist_society/) believe in the idea of 'an anarchist society' in the first place.
+1.8.5. Pro: Historical data shows a vastly lower rate of violence in state vs non-state societies. See [ourworldindata.org](https://ourworldindata.org/ethnographic-and-archaeological-evidence-on-violent-deaths)
+1.8.6. Con: Anarchist [means](https://youtu.be/tCMmGUFYxkA) "without a master or leader" \(Greek roots\). Nothing intrinsic in leaderless communities makes them violent or unstable.
+1.8.6.1. Pro: [Emma Goldman](https://www.lib.berkeley.edu/goldman/pdfs/EmmaGoldman_ANARCHISM_WHATITREALLYSTANDSFOR.pdf)(Pg.3) defines anarchism as "the philosophy of a new social order based on liberty unrestricted by man-made law; the theory that all forms of government rest on violence, and are therefore wrong and harmful, as well as unnecessary".
+1.8.7. Pro: Radical decentralization promoted by anarchists would ruin modern industrial civilization. For instance, complex technology such as railways [would fail to work](https://www.marxists.org/archive/marx/works/1872/10/authority.htm) without hierarchy.
+1.8.7.1. Con: Railways that fail to work would be quickly replaced by more efficient/better methods or competing infrastructure via the free market.
+1.8.7.2. Pro: The authority to create and enforce rules for a large population is indespensable to the maintenance of a pluralistic, highly developed technological society.
+1.8.7.2.1. Con: The creation of such rules can be done collectively by people who are impacted by them, while the enforcement can be done by technological tools \(machines\). The state would be unnecessary in a highly advanced society.
+1.8.7.3. Pro: Research shows that humans brains are "[hardwired for hierarchy](http://sciencedaily.com/releases/2008/04/080423121430.htm)". Anarchy thus seems to be against the basic human tendency to rank individuals based on their authority/social status.
+1.8.7.4. Con: Anarchists do not reject hierarchy, anarchist reject unjust hierarchy. The hierarchy of skill and experience, and deferring to those with greater earned authority is wholly legitimate under anarchism.
+1.8.7.4.1. Pro: The state legitimizes authority in the hands of people who are sometimes undeserving. This feature of the state hinders the betterment of society and is arguably ruining modern industrial civilization.
+1.8.7.5. Con: Being against the existence of the state, in particular, does not necessarily entail any specific anarchist ideology with positions on other issues, such as the existence of hierarchies in other contexts.
+1.8.8. Con: The possible chaos or violence of an anarchist society does not negate the harms caused by the state. Just because the alternative is worse, does not prove that the state is "necessary and beneficial".
+1.8.8.1. Con: The better of two options may not be necessary, but it is by definition beneficial.
+1.8.9. Con: Like many other species of animals, cooperation amongst humans is common, natural, and likely.
+1.8.9.1. Con: -> See 1.8.7.3.
+1.8.9.2. Con: Only applicable in scenarios with extremely limited group sizes. As soon as resource conflicts arise tribalism emerges, bringing violence.
+1.8.9.3. Con: Social animals that are most likely to cooperate tend towards hierarchical societies, the most populous of which resemble feudal state systems: bees, ants, termites.
+1.8.9.4. Pro: In spite of the state, the vast majority of human interactions are still voluntary. Instead of helping these interactions, the state is mostly detrimental by prohibiting or "regulating" them.
+1.8.9.4.1. Con: Rather than prohibiting or regulating actions, the state is a form of action in itself, composed of a vast network of coercion, in the sense that all state activity takes place in the form of human labour.
+1.8.9.4.1.1. Pro: These "voluntary" actions only take place in the context of a society shaped by the state which aims to provide private property, markets, and so forth.
+1.8.9.4.2. Con: The state allows higher degree of human interaction via beneficial infrastructure in communities. It would be hard to go watch a movie with your buddies when you are trying to fight off an alligator and your children keep dying of a flu virus.
+1.8.9.4.2.1. Con: The implied claim - that there is no way other than government to exterminate an alligator infestation or distribute flu vaccines - is unsupported and implausible.
+1.8.9.4.2.1.1. Con: There is a clear correlation with organized effort for health and safety of communities and the size of governing body. One must only take a look at the tribes exhibiting less traits of a state and thus less infrastructure. Their medicine and safety practices are arguably much more inferior to the more complex states.
+1.8.9.4.2.1.1.1. Con: There are far too many confounders between a "stateless" primitive tribal society and modern states for them to be a useful comparison for how well an anarchic society that replaced a modern state should be expected to function.
+1.8.9.4.2.1.2. Pro: Free market solutions are much better suited to solve both of those problems than a centrally planned solution.
+1.8.9.4.2.2. Con: Beneficial infrastructure can also be organized and coordinated by voluntary groups carrying out [mutual aid](https://en.wikipedia.org/wiki/Mutual_aid_\(organization_theory\)).
+1.8.10. Pro: Without the state, the wealthy and powerful would have unbridled power over the less powerful. Anarchy would allow corporations to fill the power vacuum replacing a system designed to serve the people with one designed for economic gain alone.
+1.8.10.1. Con: An ideal state would exist to provide critical infrastructure, security, market regulations, and wealth distribution. The description of "Anarchy," as stated above, is more akin to "Plutocracy" - which is essentially our current reality.
+1.8.10.2. Pro: The struggle to create monopolistic state institutions happens inevitably any time there is a power vacuum. There will always be people seeking power over others, and unless there is a coercive state with a system of checks and balances keeping such people in check, those people will trample everyone's rights.
+1.8.11. Con: This criticism rests upon contingent cultural assumptions arising from a competitive scarcity economy. Replace such institutions with humane and egalitarian ones; then poverty, one cause of crime and aggression, would greatly decrease.
+1.8.11.1. Con: There is absolutely no method of completely doing away with scarcity, as even time is scarce as a resource and limits all individuals' opportunities and choices.
+1.8.11.2. Con: A competitive scarcity economy is a reality for all living things. Replacing an institution for another isn't an argument against the state. Communism is egalitarian in theory but is still very much a state system.
+1.8.12. Con: Many left- anarchists envisage cooperatives and communes adopting and enforcing rules of appropriate conduct for those who wish to join.
+1.8.12.1. Con: This argument is invalid, as the wording implies the creation of another state-like social structure wherein there are rules and the enforcement of said rules.
+1.9. Pro: The state provides necessary defense against groups, both foreign and domestic, gaining power and dominating a society.
+1.9.1. Pro: No individual or non-state actor could consistently provide comparable levels of [defense](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures) or [R&D](https://en.wikipedia.org/wiki/List_of_countries_by_research_and_development_spending) spending as states do.
+1.9.2. Con: The state is itself a group that has gained power to dominate a society \(and call itself a government\). Hence, if we accept that such dominance is a bad thing that we should try to prevent, we have already accepted that states/governments are bad and should be gotten rid of if at all possible.
+1.10. Pro: To remove state institutions like democratic parliaments or courts would be to remove all barriers to despotism.
+1.10.1. Con: Alternatively, societies could teach the benefits of personal responsibility, encourage the altruistic thought pattern and remove the necessity for coercive mechanisms all together.
+1.10.2. Con: An anarchic society would still have a court system, as it provides an important function in society. Even today the market has an alternative to state courts in the form of private arbitration.
+1.10.3. Con: -> See 1.1.2.4.
+1.11. Con: The government legitimizes the existence of the state. The state is not required.
+1.11.1. Pro: The state's primary focus is expansion and power. Government's primary focus is governing a group of people and holding them to a set of standards to be considered included within the group.
+1.11.1.1. Pro: Good examples of this are non profit institutions like we have in developing engineering and safety standards, such as the [IEEE](https://www.ieee.org/), [UL](https://en.wikipedia.org/wiki/UL_\(safety_organization\)), or [ITE](https://en.wikipedia.org/wiki/ITE_Group).
+1.11.1.1.1. Con: UL is just a standards body that also does testing. It relies upon the state to enforce compliance to their standards. Incidentally, such standards bodies can be highly political - power corrupts even non-profits.
+1.11.1.1.1.1. Con: False. There is [no legal requirement to comply](https://www.festo.com/cms/en-us_us/1346.htm) with UL standards. Yet every appliance manufacturer is eager to have the UL endorsement of safety, because consumers desire safety.
+1.12. Con: -> See 1.8.9.4.
+1.13. Con: Private law is a more efficient and peaceful way of solving disputes than state enforced law. It works in practice, not only in theory.
+1.13.1. Con: This can only be true when trading parties share values and a trusting relationship.
+1.13.2. Con: Private law is still law and governance, and so is a replication of the functions of the state under the banner of non-state activity.
+1.13.2.1. Con: Private law differs from state controlled law. While states have a [monopoly on a single judicial system](https://mises.org/library/society-without-state), non-state law can offer a free market of independent, competing court systems. Plaintiffs and defenders would need to agree on which particular court they both trust, instead of having no option to resort to the state system.
+1.13.3. Pro: Private agreements, with or without a third party, are commonplace.
+1.13.3.1. Con: Those agreements are easily neglected if not enforced by a judge.
+1.13.4. Pro: Trillions of dollars are traded internationally regardless of the lack of a global monopolistic court system.
+1.13.5. Con: When a large population is subject to a private law, it is no longer a private law.
+1.13.5.1. Con: The nature of a private law system does not change according to the amount of people under it.

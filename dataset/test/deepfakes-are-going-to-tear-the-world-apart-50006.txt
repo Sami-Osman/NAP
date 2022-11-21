@@ -1,0 +1,48 @@
+Discussion Name: Deepfakes are going to tear the world apart
+
+1. Deepfake technology will be the end of liberal democratic society.
+1.1. Con: Society will develop more advanced deepfake detection so that we always know whether media is natural or faked.
+1.1.1. Con: Until such time that detection facilities are developed, the technology will continue to threaten democratic principles.
+1.1.2. Con: Even if deepfakes are identified and eventually taken down, they could still unleash a domino effect of misinformation in the meantime.
+1.1.2.1. Pro: The democratisation of content creation on platforms like Youtube means that people could disseminate misinformation originating from a deepfake even if it has since been removed.
+1.1.2.2. Pro: Cheapfakes and memes are already huge misinformation vectors
+1.1.2.2.1. Pro: Cheapfakes are still capable of stirring up political animosity, as seen between [China and Australia](https://www.technologyreview.com/2020/12/22/1015442/cheapfakes-more-political-damage-2020-election-than-deepfakes/) in 2020.
+1.1.3. Pro: Deepfake maker apps like Reface are willing to [share their API](https://www.businessinsider.com/ai-deepfake-apps-memes-misinformation-2020-9?r=US&IR=T)(Reface is willing to share its API with companies like Facebook to help build tools to detect deepfakes, and that Reface is working on its own detection tool that would let people upload media to check whether it's synthetic.) with social media companies so that they can work together to build better tools to detect deepfakes.
+1.1.3.1. Pro: With over [50 million downloads](https://sensortower.com/android/us/neocortext-inc/app/reface-face-swap-videos-and-memes-with-your-photo/video.reface.app/overview) already, Reface's dataset is likely to be huge. This will facilitate the development of its deepfake detection software.
+1.1.4. Con: It is likely that not everyone will have access to the advanced technology that allows for deepfake detection.
+1.1.4.1. Con: Deepfake making technology is already [cheap/free](https://www.wired.com/story/cheap-easy-deepfakes-closer-real-thing/). Detection technology will [probably follow suit](https://www.zerofox.com/deepstar-open-source-toolkit/), and will work for deepfakes that aren't well-ahead of their time.
+1.1.5. Pro: Younger generations are [increasingly tech-savvy](https://www.pewresearch.org/fact-tank/2019/09/09/us-generations-technology-use/), so in the intermediate future society will likely be able adjust to and acknowledge the importance of deepfake detection software.
+1.1.6. Con: Despite a huge budget, the US Defense Department’s [Defense Advanced Research Project Agency \(DARPA\)](https://futurism.com/darpa-68-million-technology-deepfakes) which is trying to detect deepfakes has admitted that it is fighting a losing battle.
+1.2. Pro: Political figures can appear to say anything.
+1.2.1. Pro: If what politicians say cannot be trusted on the most basic level, then deliberative democracy - decision-making based on fair and reasonable discussion - is impossible.
+1.2.2. Pro: Deepfake technology plays into the hands of populists who are prepared to say anything to court attention and votes.
+1.2.2.1. Pro: Since principled politicians will refuse to exploit deepfakes to smear their opponents, they will be outmatched by their unscrupulous counterparts in political campaigns and elections.
+1.2.3. Con: People decide on who to vote for not just on what they say, but their track record. Therefore, voters can still make informed decisions even if what political figures appear to say cannot be trusted.
+1.2.3.1. Pro: Voters may have directly experienced a political figure's policies, so they can form a view on them in other ways.
+1.2.3.2. Con: If voters can only trust a politician's track record, then this unfairly skews them against fresh candidates who may in fact represent them better.
+1.2.3.3. Pro: Voting track records are more demonstrably verifiable than statements and therefore harder to fake.
+1.2.3.3.1. Con: Most of the electorate do not seek out primary sources on things like voting track records, thus they are still susceptible to misinformation and deepfakes found in secondary or tertiary sources.
+1.2.3.3.1.1. Pro: A [majority of Americans](https://www.forbes.com/sites/petersuciu/2019/10/11/more-americans-are-getting-their-news-from-social-media/) regularly get their news from social media platforms, which are some of the worst offenders for deepfakes.
+1.2.4. Con: Politicians can and do tour the country to speak to voters in person. Voters could learn to treat anything they say at these events as trumping anything inconsistent they say on digital platforms.
+1.2.4.1. Con: Voters who meet politicians in person make up a tiny percentage of the electorate. Therefore, this approach is not scalable.
+1.2.5. Con: People can still see the speeches live.
+1.2.6. Con: Newspapers before video could only just type out what someone said and the extra evidence provided by video was not available. Communication will simply return to that state.
+1.3. Pro: Humans will be completely replaced in media because making deepfakes and [sock puppets](https://en.wikipedia.org/wiki/Sock_puppet_account)(An electronic pseudonym or identity) is cheaper than hiring actors and reporters.
+1.3.1. Pro: The field of ['automated journalism'](https://www.techslang.com/how-is-automated-journalism-impacting-the-media/) - AI-created news content - has exploded in recent years, and there is no sign of this stopping.
+1.3.1.1. Pro: [AI](https://thenextweb.com/news/reuters-built-a-prototype-for-automated-news-videos-using-deepfakes-tech)(Designed as a proof-of-concept, the system takes real-time scoring data from football matches and generates news reports complete with photographs and a script. Synthesia and Reuters then use a neural network similar to Deepfakes and prerecorded footage of a real news anchor to turn the script into a “live” video of the news anchor giving up-to-the-second scoring updates.) can be used to not just generate written content, but deepfake videos to accompany them.
+1.3.1.2. Pro: The automated journalism platform, Wordsmith, is able to produce news stories [15 times faster](https://metro.co.uk/2014/07/10/meet-the-robots-writing-your-news-articles-the-rise-of-automated-journalism-4792284/)(...the Wordsmith platform, developed by US firm Automated Insights, to pump out 15 times more stories than can be done by journalists’ hands.) than journalists.
+1.3.2. Con: People [prefer](https://en.ejo.ch/digital-news/human-computer-stories-readers-prefer) reading human-generated content.
+1.3.2.1. Pro: This produces financial incentives in itself because if people prefer such content, they will return, leading to more revenue from advertising.
+1.4. Con: Leading nations will legislate to prevent deepfake technology from getting out of hand.
+1.4.1. Con: Nations will prefer to develop deepfake technology to use for their own purposes rather than mutually disarm
+1.4.1.1. Con: Many nations have favored mutual disarmament to short-term self-interest in [other contexts](https://treaties.unoda.org/t/tpnw). There is no reason to think deepfake technology would be any different.
+1.4.2. Con: Deepfake technology is [already out of hand and too publicly available](https://www.wired.com/story/cheap-easy-deepfakes-closer-real-thing/)
+1.4.3. Pro: The [United States](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2021/january/U-S-Laws-Address-Deepfakes/) has already introduced various pieces of legislation designed to improve awareness, tracking, and research into deepfake technology.
+1.4.3.1. Pro: [The National Defense Authorization Act \(NDAA\)](https://www.wilmerhale.com/en/insights/client-alerts/20191223-first-federal-legislation-on-deepfakes-signed-into-law) puts deepfake technology on the national security radar by requiring a report on the weaponization of deepfakes, notification of deepfake disinformation strategies in US elections, and investment in deepfake detection software.
+1.4.3.2. Pro: In 2020, the United States introduced the [Identifying Outputs of Generative Adversarial Networks Act \(IOGAN\)](https://www.infosecurity-magazine.com/news/us-senate-approves-new-deepfake/) which requires national science agencies to research deepfakes and authenticity measures.
+1.4.4. Con: In many cases, such legislation will be difficult to enforce because perpetrators are often hard to identify and may be outside of the jurisdiction.
+1.4.5. Pro: In some cases, existing laws on [defamation, copyright, and image-based abuse](https://www.dacbeachcroft.com/en/gb/articles/2020/september/the-legal-implications-and-challenges-of-deepfakes/) can be harnessed to fight deepfake technology.
+1.4.6. Con: It can take a long time to draft and pass technology-related legislation, by which time the damage to liberal democracy may already be done.
+1.4.6.1. Pro: It took years to legislate a ban on [revenge porn](https://splinternews.com/why-did-it-take-so-long-to-ban-revenge-porn-1793848719) in the United States.
+1.4.7. Con: Preventing the use of deepfake technology will be seen as a violation of freedom of expression.
+1.5. Pro: Deepfake technology and other AI/GAN based technology will make copyright and other IP restrictions irrelevant by giving people customised entertainment, thereby allowing for more creative expression. Free expression allows people to more easily spread their ideas to persuade others toward their views and voting tendencies, and to dispel misinformation used by major parties and corporations to manipulate the vote.

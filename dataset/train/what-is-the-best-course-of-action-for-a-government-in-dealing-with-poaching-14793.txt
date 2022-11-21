@@ -1,0 +1,43 @@
+Discussion Name: What is the best course of action for a government in dealing with poaching?
+
+1. What is the best course of action for a government in dealing with poaching?
+1.1. Identify the animal by product. Take stock of its availability. If large stockpiles are available, create a licensing framework within which stockpiles can be sold to flood the market. This will reduce the cost of the item, as well as the incentive for illegal procurement. If this doesn't work, make it illegal again. By this time the government will know who many of the actors are and will be better empowered to prosecute them.
+1.1.1. Con: Corruption in government might lead to a poor execution of this policy.
+1.1.2. Con: Large stockpiles might not be available and what little is available will only serve to fuel corruption.
+1.1.3. Con: There is no guarantee that illegitimate operations will legitimize.
+1.2. Run bottom-up community-consultative co-created educational campaigns around conservation, the value to tourism, the value of the product, and economics: supply and demand.
+1.2.1. Con: Sustainable tourism doesn't reach the local population. In [Rwandan gorilla parks](http://siteresources.worldbank.org/AFRICAEXT/Resources/258643-1271798012256/Tourism_Rwanda.pdf), for example, only 5% of revenues are shared with the local population even though it creates 85% out of Gorilla tourism.
+1.2.2. Pro: Educating students at a young age will bring about a long term, generational shift in attitudes towards poaching.
+1.2.3. Pro: In South Africa, reports [indicate](https://psmag.com/education/fighting-poachers-with-education-not-guns) that educating people about the negative effects of poaching are more effective than other methods like increasing the number of armed rangers.
+1.2.4. Con: Running education campaigns to discourage poaching does not mean that those who are pro-poaching will attend.
+1.2.5. Con: Education campaigns are not guaranteed to change the opinions of those who are pro-poaching.
+1.3. Poaching or hunting generally is a textbook tragedy of the commons. There is a shared resource \(wildlife\) that belongs to nobody, so nobody has any economic incentive to defend it. Allow for the creation of private wildlife preserves that can sell hunting rights. These hunting rights are extremely valuable and will create a massive incentive \(and funding\) for locals to stop poaching.
+1.4. Spend more money on prosecution than is spent on the product that poaching is done for.
+1.4.1. Pro: It is the only efficient way to deter people
+1.4.2. Con: Spending more money on prosecution doesn't mean that the offenders will necessarily be caught in the first place.
+1.4.3. Con: This will be a strain on the government's resources.
+1.5. Spend more money on protecting and breeding the threatened resource.
+1.5.1. Pro: This might lead to a supply that will outstrip the demand.
+1.5.1.1. Con: Equally, demand could also keep up with supply.
+1.5.1.2. Pro: If there is greater supply, then a product becomes less rare. This might result in it being perceived as less desirable.
+1.5.2. Con: This might stimulate demand even further.
+1.5.2.1. Con: The demand is there whether the animal is protected or not. Having protection will at least mitigate some of this demand, but making it more difficult for poachers to kill.
+1.5.3. Pro: There are several notable [success stories](https://medium.com/taronga-conservation-society-australia/10-endangered-species-saved-from-extinction-by-zoos-682c454d0125) in which breeding programs saved species from extinction.
+1.5.3.1. Con: There are many failures as well, [resulting](https://psmag.com/environment/is-breeding-endangered-species-in-captivity-the-right-way-to-go) when species bred in captivity are reintroduced into the wild.
+1.5.4. Con: The resource might not be able to grow enough to keep up with demand.
+1.5.5. Con: The necessary budget might not be available.
+1.6. Legislate harsher sentences for violators.
+1.6.1. Pro: Poachers often commit other forms of violence besides poaching.
+1.6.1.1. Pro: Nearly 600 rangers were [murdered](https://www.nationalgeographic.com/animals/reference/poaching-animals/) by poachers in Africa between 2009 and 2016.
+1.6.1.2. Pro: Armed militant groups are often [funded](https://www.nationalgeographic.com/tracking-ivory/article.html) by the trade in poached animals.
+1.6.1.3. Con: Even if poachers do tend to commit other forms of violence, these are seperate crimes with seperate sentences.
+1.6.2. Con: This might only make the by product more sought after.
+1.6.3. Con: Increasing the severity of punishment has [minimal impact](https://nij.ojp.gov/topics/articles/five-things-about-deterrence) on whether crime occurs.
+1.6.4. Con: This might only serve to solicit a bigger reward in line with the increased risk.
+1.6.5. Pro: It might serve as a deterrent.
+1.6.5.1. Con: Kenya has [proposed](https://theconversation.com/kenyas-death-penalty-plan-for-poachers-has-stirred-a-hornets-nest-96865) the death penalty for poachers, despite little evidence that the death penalty deters crime.
+1.6.5.1.1. Con: Since enacting this penalty, elephant poaching in Kenya has decreased by 80%, and rhino poaching by 90%. This is [evidence](https://www.un.org/africarenewal/magazine/may-july-2017/conservationists-take-aim-poachers)(“Penalties for wildlife crimes in Kenya are now the harshest in the world and even include life imprisonment in some cases,” explains Paula Kahumbu of the Kenyan conservationist action group, WildlifeDirect.\n\nSince then the number of elephant deaths from poaching in the country has decreased by 80% and the number of rhino deaths from poaching by 90%. The decline can in part be attributed to the strengthening of the laws, Ms. Kahumbu wrote in an article for the Guardian, a British daily.) enough that such laws do deter poaching.
+1.6.5.2. Pro: Those who consider poaching may come to the conclusions that the potential costs of doing so outweigh the benefits.
+1.6.5.3. Pro: Poaching is [out of control](https://www.un.org/africarenewal/magazine/may-july-2017/conservationists-take-aim-poachers)(Poaching is rampant because the probability of being caught is extremely low, Ms. Swaak-Goldman told Africa Renewal in an interview at her office in The Hague.\n\nThe WJC aims to encourage the prosecution of these crimes, increase risks for perpetrators and, in the long run, generate a deterrent effect.) in some countries because poachers know they are unlikely to be caught. Without harsher sentences, there is no reason for poachers to stop.
+1.6.5.4. Pro: Weak anti-poaching laws [contribute](https://www.un.org/africarenewal/magazine/may-july-2017/conservationists-take-aim-poachers) to wildlife crime. Strengthening them will save the lives of many animals.
+1.7. Introduce a Universal Basic Income. :to address poverty in the society reducing the need for poaching for survival. :to show the society values its citizens more then just as workers, citizens who feel valued by a society are more likely to follow its laws. :to increase the value attached to those who do work and produce for the economy.

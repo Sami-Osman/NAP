@@ -1,0 +1,37 @@
+Discussion Name: Should citizens introduce and vote on their own laws?
+
+1. Citizens should introduce and vote on their own laws.
+1.1. Pro: Corporate class would have lesser influence on lawmaking
+1.1.1. Con: The corporate class would simply move away from lobbying politicians to directly lobbying the people.
+1.1.1.1. Con: its easy to lobby 1000 people than 300m people. if people get lobbied directly everyone would end up rich. end of poverty
+1.2. Con: Difficult to manage voting with massive amounts of bills
+1.2.1. Con: Modern technologies and communication tools \(internet\) could be employed to solve that.
+1.3. Con: It would be problematic to pass laws without a consensus on the definition of a required majority.
+1.3.1. Con: The people could vote on the type of majority required.
+1.3.2. Con: Laws can have a deadline \(fixed by another law\) for the people to vote, the majority can be counted from this.
+1.4. Con: People may lack the information or patience to fully understand all aspects and repercussions of a complex law and would thus vote for a sub-optimal choice.
+1.4.1. Pro: Those inadequately drafted or unconstitutional laws would be declared null and void by the courts - a massive waste of resources.
+1.4.2. Con: The citizens' representatives do or vote for what they think their electors would want.
+1.5. Con: Citizens can easily be manipulated through campaigns, disinformation or populism.
+1.5.1. Pro: [Research](https://www.washingtonpost.com/posteverything/wp/2014/06/30/psychology-explains-why-people-are-so-easily-duped/) shows that people can easily be tricked into believing something is true.
+1.5.1.1. Pro: [Photos](https://www.washingtonpost.com/posteverything/wp/2014/06/30/psychology-explains-why-people-are-so-easily-duped/) can mislead people into remembering wrong events: in one [study](https://webfiles.uci.edu/eloftus/Frenda_SlateStudy_ex_JESP2013.pdf?uniq=ei05tm), participants were shown a manipulated photo of President Obama shaking hands with former Iranian President Mahmoud Ahmadinejad, and they said they remembered the event - though it never happened.
+1.5.1.1.1. Con: People that disagree with the use of the photo can always show proof something was false or missing context.
+1.5.1.2. Con: Even if people are tricked they will still hold power to turn things around once the trickery is revealed and hold people accountable instead of feeling powerless when leaders deceive them and are forced to move on.
+1.5.1.2.1. Con: The trickery could cause damage to society that is difficult to repair.
+1.5.1.2.1.1. Pro: Modern populists, both left and right, typically manipulate sections of society, which can lead to division and hatred.
+1.5.1.2.1.2. Con: trickery only works on a fringe gullable minority. vast majority can see right through the tricks. problem we have now is not trickery but a viable option of self representation rather than political representation
+1.5.1.3. Con: Current governers can also be subject to such biases or profit from them anyways.
+1.5.2. Con: Politicians manipulate citizens as well into giving them their votes.
+1.6. Pro: Having laws come direct from the people would make them fairer
+1.6.1. Con: It might be advantageous to the majority instead.
+1.6.1.1. Con: [The majority principle](https://democracyweb.org/majority-rule-principles) is a widely accepted cornerstone of democracies.
+1.7. Pro: Switzerland successfully uses this system
+1.7.1. Con: What works well for Switzerland does not necessarily have to work for other nations, which differ greatly in terms of demographics, political systems and mentalities.
+1.8. Pro: People would have the chance to remove laws which oppresses them
+1.8.1. Con: A minority population would not be able to remove oppressive laws if the majority votes against it.
+1.8.2. Con: Conversely, the majority could pass oppressive laws as they see fit.
+1.8.2.1. Pro: Without a balancing parliament, the chances of a tyranny of the majority would increase.
+1.8.2.1.1. Pro: In Parliament, the many different currents and political parties can come together to discuss and find compromises - this would no longer be the case.
+1.8.3. Con: People can already vote for politicians \(parties\) who change the law.
+1.9. Pro: Authoritarianism would be minimized
+1.9.1. Con: -> See 1.8.2.1.

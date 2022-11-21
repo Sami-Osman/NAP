@@ -1,0 +1,46 @@
+Discussion Name: Should every country, that operated nuclear facilities care for its own nuclear waste?
+
+1. Every country, that operated nuclear facilities should care for its own nuclear waste.
+1.1. Pro: If countries are obligated to take care of the nuclear waste they produce, then they are likely to be deterred from utilizing nuclear facilities.
+1.1.1. Pro: If countries can simply send their nuclear waste away when they are finished with it, they are less likely to be careful with the amount of nuclear waste they produce, as they are not responsible for it.
+1.1.2. Pro: [Processing nuclear waste is dangerous and expensive](https://www.ucsusa.org/nuclear-power/nuclear-plant-security/nuclear-reprocessing) and countries are likelier to attempt to avoid it.
+1.2. Con: Nuclear facilities are [used by people all over the world](https://www.boell.de/en/2019/11/11/world-nuclear-waste-report). People are thus collectively responsible for producing and disposing of nuclear waste.
+1.3. Pro: Nuclear waste, if not dealt with, is extremely damaging to the environment. If countries are not made to take care of their nuclear waste then this waste may end up being damaging to the environment.
+1.3.1. Pro: There is [no long term storage solution](https://greentumble.com/7-reasons-why-nuclear-waste-is-dangerous/#no-long-term-storage) for nuclear waste, as a result of which the waste essentially piles up until it starts to have deteriorating effects on the environment. Hence countries must be mandated to take care of this waste as it is produced.
+1.3.1.1. Con: Countries do not need to mandated to take care of nuclear waste. The alternative to proper disposal is to risk the lives of citizens.
+1.4. Con: More diversity in nuclear waste disposal solutions is unsafe.
+1.4.1. Pro: Only certain places are able to properly dispose of nuclear waste safely, and thus only these places should be used.
+1.4.1.1. Pro: The scientific community has come to the consensus that nuclear waste must be placed deep underground in appropriate geology, such as clay or granite, with well engineered radiation barriers as an extra defence. Currently [only Sweden and Finland](https://theconversation.com/britain-is-sending-a-huge-nuclear-waste-consignment-to-america-why-57074) have make attempts to build such disposal places.
+1.4.2. Pro: If one waste disposal fails, impact of nuclear waste distribution [will circulate over the whole plane](https://greentumble.com/7-reasons-why-nuclear-waste-is-dangerous/)t eventually.
+1.4.2.1. Con: Any failed disposal is likely to be isolated. Due the high awareness of the potential risk with nuclear waste, nuclear plants would likely be effective in quarantining any failing disposal.
+1.4.2.1.1. Con: It is possible, that a failed disposal is not detected.
+1.4.3. Con: Higher diversity may help finding the best solution for waste storage.
+1.4.3.1. Con: In order to see which setups and designs work best, we do not need to finish extremely expensive nuclear waste storage facilities, but just prepare simple test sites and evaluate those.
+1.4.3.2. Con: While diversity in waste solutions may initially be desirable. The long-term goal should be to establish consensus over the most effective method of nuclear waste disposal and implementing a uniform standard.
+1.5. Con: The significance of a current country is meaningless compared to the obligation to save thousands of generations of humans form the dangers of nuclear waste. If you only consider the changes of nations borders in the last century, you understand, that a country is not a useful group to define how many waste disposals should be
+1.6. Con: Creating a radioactive waste repository is a huge effort, it makes sense to share the repositories, instead of each country creating its own.
+1.6.1. Pro: The Onkala nuclear waste repository in Finland is budgeted to be costing [Euro 3.5 bn](https://www.nytimes.com/2017/06/09/science/nuclear-reactor-waste-finland.html).
+1.6.2. Pro: Given the safety implications, it's better to build a couple of great radioactive waste repositories, instead of everybody building sub par ones.
+1.6.3. Pro: Building a facility that is supposed to hold extremely dangerous radioactive materials for tens of thousands of years is extremely complex.
+1.7. Pro: A country not having its own nuclear waste disposal sites will require nuclear waste to travel longer distances in order to be safely stored in such facilities. This is more dangerous.
+1.7.1. Con: The transport of hazardous waste that has occured already has occured [without any harmful radioactive releases.](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-wastes-myths-and-realities.aspx)
+1.7.1.1. Pro: Packages that store waste during transport are [designed to ensure](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-wastes-myths-and-realities.aspx) shielding from radiation and containment of waste, even under the most extreme accident conditions.
+1.7.2. Con: Often sending nuclear waste to other countries can be a safer option than disposing of them locally.
+1.7.2.1. Pro: The UK sends roughly 700kg of enriched uranium to be disposed of in the US, as it is [less likely](https://www.independent.co.uk/news/uk/home-news/transatlantic-nuclear-swap-is-a-win-win-that-will-dispose-of-enriched-uranium-and-fight-cancer-a6960751.html) to fall into the hands of terrorists.
+1.7.2.1.1. Con: A UK government source has stressed that there is no [''credible evidence''](https://www.independent.co.uk/news/uk/home-news/transatlantic-nuclear-swap-is-a-win-win-that-will-dispose-of-enriched-uranium-and-fight-cancer-a6960751.html) of terrorists targeting British facilities.
+1.8. Pro: Nuclear waste can be extremely detrimental to the environment.
+1.8.1. Con: Most of the detrimental environmental effects of nuclear waste [only apply](https://www.conserve-energy-future.com/dangers-and-effects-of-nuclear-waste-disposal.php) if it is not disposed of properly.
+1.8.2. Pro: Nuclear waste, such as uranium mill tailings, used reactor fuel and other types of waste can remain [radioactive and dangerous](https://www.eia.gov/energyexplained/nuclear/nuclear-power-and-the-environment.php) to human health for thousands of years.
+1.8.3. Pro: Nuclear waste can have [serious effects](https://www.conserve-energy-future.com/dangers-and-effects-of-nuclear-waste-disposal.php) on the environment, causing cancerous growths and genetic problems for many generations of animals and plants.
+1.9. Pro: If a country operates a nuclear power plant, it gets the revenue and therefore, it should be responsible for the waste it produced.
+1.9.1. Con: [Nuclear power plants are often owned by private entities](https://www.cairn.info/revue-annales-historiques-de-l-electricite-2003-1-page-133.htm) who utilize the profits from them, it hence does not make sense to may the country pay for them.
+1.9.1.1. Con: Countries can very simply take money from corporations that are operating these nuclear facilities in the forms of taxes. These can utilized to take care of the nuclear waste.
+1.9.1.2. Con: These countries can also regulate these corporations better in order to ensure that they take care of their own nuclear waste.
+1.9.2. Pro: Nuclear Power Plants generate nearly [$40 million](https://www.fauske.com/blog/cost-benefit-analysis-of-nuclear-power-plants) in total labor income.
+1.9.3. Pro: Countries that operate nuclear power plants benefit from them monetarily and utilize this money for many state purposes.
+1.9.3.1. Pro: There are [studies](https://www.fauske.com/blog/cost-benefit-analysis-of-nuclear-power-plants) that have gathered that the typical nuclear plant generates approximately $470 million in sales of goods and services in the local community.
+1.10. Con: The electric power, produced by the nuclear power plants is fed into a power grid, that is usually not only national limited. Therefore, the power is also used by different countries. So all the countries, that used nuclear power have to care for the waste together.
+1.10.1. Pro: [Austria](https://www.e-control.at/en/marktteilnehmer/oeko-energie/stromkennzeichnung/umweltauswirkungen) has never produced a single kWh of nuclear power but it is heavily consumed nuclear power in the past and still today. They should hence also be responsible when it comes to nuclear waste disposal.
+1.11. Con: Countries should be allowed to make use of the most appropriate systems for nuclear waste disposal even if these facilities are not avaible in their own country.
+1.11.1. Pro: The UK sends its nuclear waste to the US simply because American nuclear disposal plants have a [far greater capacity](https://www.independent.co.uk/news/uk/home-news/transatlantic-nuclear-swap-is-a-win-win-that-will-dispose-of-enriched-uranium-and-fight-cancer-a6960751.html) to dispose of dangerous material than their British counterparts.
+1.11.2. Pro: Deep geological disposal is a system used in some countries. This system of disposal is more appropriate for waste which remains radioactive for a long period of time.

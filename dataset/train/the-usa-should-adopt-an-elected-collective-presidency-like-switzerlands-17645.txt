@@ -1,0 +1,66 @@
+Discussion Name: The USA should adopt an elected collective presidency, like Switzerland's.
+
+1. The USA should adopt an elected collective presidency, like Switzerland's.
+1.1. Con: Changing a constitutional position is hard.
+1.1.1. Con: Sometimes you have to do the hard things.
+1.1.2. Con: The American constitution has been amended on various occasions. Therefore, this is not an insurmountable obstacle.
+1.1.3. Pro: Any changes to the foundations of America's political system are likely to go hand in hand with intensive public debate and have the potential to further political polarization.
+1.2. Pro: The unitary presidency, even elected, is a reminant of aristocracy, and thus fundamentally opposed to the democratic project.
+1.2.1. Con: The idea of a representative democracy isn't incompatible with electing one person into a supreme position.
+1.2.2. Con: Just because a hallmark of modern democracies has historical origins that were not particularly democratic does not mean that this feature has not proven itself as beneficial.
+1.3. Con: The reason why new presidents constantly undo the previous president's actions is because our current FPTP voting method maintains a polarizing two party system where both parties are directly opposed to each other. Switching to [approval voting](https://www.youtube.com/watch?v=rCWjioIlVis&list=PL3kfKzpcsmD-dbPosOQ8pxQuh9YAhjfaN&index=2) would break the two party domination and reduce political polarization. [More info on approval voting](https://approval.vote/)
+1.3.1. Pro: A coalition government can find a single person who would not be divisive to fill the role of the unitary president.
+1.3.2. Con: Even with approval voting a collective executive brings more views to the table, and \(if done according to the Swiss model\) forces collaboration and collegiality.
+1.4. Pro: The unitary Presidency invests too much power into just one person.
+1.4.1. Pro: Countries routinely experience crises when the one person at the head of the government dies, falls ill or is otherwise decapacitated or under duress.
+1.4.2. Pro: In Switzerland, the president has the same power as the [other members of the federal council](https://www.admin.ch/gov/en/start/federal-presidency/tasks-federal-presidency.html).
+1.4.3. Con: This single person is kept in check through a [variety of control mechanisms](https://bensguide.gpo.gov/j-check-balance).
+1.5. Pro: At any given time roughly half of the population feel completely unrepresented in the executive branch of the Federal government.
+1.5.1. Con: Roughly [half the population](https://www.theguardian.com/us-news/2016/oct/25/american-political-parties-democrats-republicans-representation-survey) feels that they are not represented by the Democrats or the Republicans. The problem is not with the electoral system, but with the the parties and candidates opting for positions within the system.
+1.5.1.1. Con: In fact, the first-past-the-post electoral system encourages this behaviour. However, the relative merits of first-past-the-post vs. other voting systems is outside the scope of this discussion.
+1.6. Pro: There are some democratic countries that have worked with such a system successfully.
+1.6.1. Pro: The one thing that [Singapore and China](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/) all have in common is that while they nominally have only one “head of state,” each is in fact a collective presidency, led by a committee of seven whose complementary portfolios bring them together in a joint management structure.
+1.6.1.1. Con: China is a one party system so there only exists one political ideology to derive policy from. In addition, Singapore, while being more democratic than China, still exists in a one party dominant system. And you can get anything done if there is little to no opposition.
+1.6.1.2. Con: The Politburo's Standing Committee in China is generally not described as anything resembling a collective presidency but rather [as a cabinet](http://news.bbc.co.uk/2/shared/spl/hi/asia_pac/02/china_party_congress/china_ruling_party/how_china_is_ruled/html/politburo.stm), just like the US already has one.
+1.6.1.3. Con: It is telling that neither of the examples mentioned here is an actual democracy. This calls into doubt whether this model has been successfully adopted by other democracies \(beyond the Swiss case\).
+1.6.1.4. Pro: [Chinese leaders](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/) do not seem to be overwhelmed, distracted, or exhausted. Their ability to get so much done during each generation’s tenure has a lot to do with China's collective leadership structure.
+1.6.2. Pro: The [system in Switzerland](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/) builds opposition permanently into the Council ,a practice known as concordance, guarantees that all perspectives are considered but without leading to stasis.
+1.6.3. Con: What works in other countries isn't necessarily instructive for the US due to its size.
+1.7. Con: Collective deliberation can be slower.
+1.7.1. Con: A hasty, ill-considered decision is overall worse than a slightly slow decision.
+1.7.2. Con: The decision-making body is likely to be aware of the time-sensitive nature of the decision being made. As competent professionals, they will adhere to the timeline and make the best possible decision within it.
+1.7.3. Pro: It can be difficult to come to a consensus among seven or more people.
+1.7.4. Con: The way this system works is one which still has one head figure at a time. This means that one person would still have the power to have the final verdict and to moderate discussions. While this may not apply to Swiss system, it can be applicable in other versions of a similar system.
+1.7.5. Pro: This is especially problematic for a country like the US that oftentimes has to make fast decisions, for example due to its commitments and presence in crisis regions.
+1.7.6. Con: The world has become so complex that no one person should be expected to handle so many decisions and topics at once. It is better to have seven minds for this.
+1.7.6.1. Pro: The [collective approach](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/) involves all top leaders in matters of regional affairs, the economy, legislation, anti-corruption, and national security, etc.
+1.7.6.1.1. Pro: [Each Standing Committee](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/) member is far more involved in national governance than a current American cabinet secretary who is only responsible for one portfolio.
+1.7.6.2. Pro: With the [inherently siloed nature of today’s cabinet](https://qz.com/876260/seven-presidents-are-better-than-one-why-the-oval-office-needs-a-round-table/), the president is virtually alone in connecting the dots despite the growing complexity of challenges, with little high-level support to consider scenarios and calculate trade-offs.
+1.7.7. Pro: This is problematic in emergency situations when fast and decisive responses are required.
+1.8. Pro: Extreme positions cannot survive the compromise required of a collegial body.
+1.8.1. Pro: Seven minds coming together to solve a crisis is better than one.
+1.8.1.1. Pro: -> See 1.7.6.
+1.8.2. Con: Depending on who sits on the body, extreme positions can prevail.
+1.8.2.1. Con: There is no real stability in a system that relies on chance. The US should not be taking such risks.
+1.8.2.1.1. Pro: Donald Trump's presidency is testament to the fact that when the wrong person sits on the body, the consequences hurt the citizens.
+1.8.2.1.1.1. Con: In fact, this is more of an argument that putting the entire executive branch in the hands of a single person is problematic.
+1.8.2.1.2. Con: Democratic elections, even with a first-past-the-post voting systems are not random. This has nothing to do with chance.
+1.8.2.2. Con: For extreme positions to prevail, an extreme party or extreme faction of a party would need to control a majority of the seats in such a counsel.
+1.9. Con: Some of the population want extreme actions from the executive. These will never happen with a collegial executive.
+1.9.1. Con: Just because a decision requires consensus does not mean that this decision cannot be strong in nature.
+1.10. Pro: High executive decisions must be carried out by functionaries in the various departments. If the council has the same distribution of opinion as those below it it will be more effective than an all-powerful president.
+1.10.1. Con: The same can be achieved with a cabinet like it exists in many countries already.
+1.11. Con: Some people want a strong-man president. It's hard to have a strong council.
+1.11.1. Con: A council instead of a president could help add a semblance of collective accountability to American politics.
+1.11.1.1. Pro: The [current atomization](https://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) of American politics makes it so that the individual politician is more important than their party. This is dangerous because it sets up politicians who do not hold any true allegiance to their parties or the citizens who elected them, but to their own particular "brand".
+1.11.1.2. Pro: Trump's [impeachment hearings](https://en.wikipedia.org/wiki/Impeachment_inquiry_against_Donald_Trump) are demonstrating how difficult it is to hold the president accountable for his actions.
+1.11.2. Pro: Especially in a time of crisis, a single person can make quick decisions and be more effective.
+1.11.3. Pro: During a time of national tragedy, a single person can better unite a country than a collective.
+1.11.4. Con: What "some people" want should not determine the system that governs all people.
+1.12. Pro: A collective works for the Supreme Court, so it could also work for the presidency.
+1.12.1. Con: The executive branch of the government has to fulfill tasks that are inherently different from those of the court. It is therefore not compatible with a collective format.
+1.12.1.1. Pro: The President acts as the commander in chief of the armed forces and might have to make quick decisions in emergencies. A collective presidency might make this more difficult, for example because it requires slow coordination.
+1.13. Pro: A collegial presidency would allow individual members to deflect the political fallout of difficult decisions.
+1.13.1. Con: This is not a desirable outcome. Political leaders should know that the decisions made by their government are associated with them.
+1.13.2. Pro: Shared responsibility might make it easier for decision makers to decide based on what they think is right and good, not based on what they think will receive the least public backlash.
+1.13.3. Con: Since the votes of individual members in the council would still be known to the public, the decisions made could still be linked to those members who supported them.

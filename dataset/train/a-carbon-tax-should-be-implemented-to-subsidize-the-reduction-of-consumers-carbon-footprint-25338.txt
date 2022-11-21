@@ -1,0 +1,33 @@
+Discussion Name: A carbon tax should be implemented to subsidize the reduction of consumers' carbon footprint.
+
+1. A carbon tax should be used to subsidize everything that reduces the carbon footprint of consumers.
+1.1. Con: During the transitional period, consumers may have an incentive to buy from companies which pollute. If a company has more customers and makes more money, it will have to pay more tax which will then go back to the consumer. For example, a coal power plant may gain more customers if those consumers eventually get back the money they spent on power bills.
+1.1.1. Con: Consumers don't typically think that far in advance. The perks of "tax and subsidize the competition" is that it creates an immediate benefit to adopting the competition and no personal benefit in the meantime. The greatest benefit will go to the early adopters, and the late adopters are loosing the most.
+1.1.2. Pro: It would relieve the guilt some people may have for buying form polluters because part of the cost will go directly to funding reduction of carbon emissions.
+1.1.3. Pro: If the point is to stop/reduce pollution, then there should not be an incentive for people to buy from polluters, including during the transitional period.
+1.1.3.1. Con: An incentive to pollute has not been established only hypothesized.
+1.2. Pro: This could enable cheaper and better public transport, thus helping those who rely on it because they cannot afford other means of transportation.
+1.3. Con: A carbon tax, and a subsidy supporting the transition off fossil fuels, are redundant, so enacting both policies would be wasteful.
+1.3.1. Pro: If a tax is the most efficient way to reduce emissions to acceptable levels, then a high carbon tax that goes to other government expenses is the most efficient solution, with no need for subsidies. Else, the reverse is true, and a strong policy of subsidies should be supported by more efficient revenue sources than a carbon tax.
+1.3.2. Con: An either or dose not apply, as funding for subsidies need to be obtained either way, weather though an income tax, property tax, carbon tax or so on.
+1.3.2.1. Con: Funding for subsidies does not need to be obtained if subsidies are a less economically efficient way to reduce emissions than a carbon tax, because any amount of emission-reduction can be better achieved with just a higher carbon tax than with the combination of tax and subsidy.
+1.3.3. Con: A tax and investments achieve [different goals for different purposes](https://thehill.com/opinion/energy-environment/429652-green-new-deal-is-good-economics). Each component serves a different purpose, neither is more efficient at doing the other's job.
+1.4. Con: A carbon tax would put financial burden on the poorest who are unable to invest in products like an electric car or solar panels.
+1.4.1. Con: Government programs could make it a priority that the poorest get the subsidies they need to transition off of fossil fuels.
+1.5. Pro: This push may spark some technological advancement, if \(along the way to achieving eco-friendly tech\) other new technologies are accidentally discovered.
+1.5.1. Pro: Tech development is inherently an expensive process. providing an excess of resources would accelerate development and provide a large pay off sooner.
+1.6. Pro: This would greatly accelerate the transition off of fossil fuels.
+1.6.1. Con: There is no reason to believe this is true. Carbon taxes have been enacted across the globe and emissions are rising.
+1.6.2. Pro: The process would accelerate because there would be [economic incentive](https://www.theguardian.com/environment/2013/jan/31/carbon-tax-cap-and-trade) for individuals and companies to reduce their carbon footprint.
+1.7. Pro: A carbon tax that directly funds the transition off of fossil fuels would be a self ending tax, giving citizens the ability to opt out of significant portions of the tax.
+1.7.1. Con: Only wealthy citizens could easily opt out, for example by buying an electric car. Not everyone has these options.
+1.8. Pro: A carbon tax would greatly increase the value of energy production like solar power and give home owners a means to earn money by selling electricity to the grid
+1.9. Con: Government shouldn't interfere with the free market.
+1.9.1. Con: The government already heavily regulates the market to protect consumers.
+1.10. Con: Subsidising renewable energy makes energy cheaper and thus increases its use.
+1.11. Con: Subsidies should only be given to positive externalities. Subsidising specific goods or services that don't have positive externalities is distortive and the money would be better spent on income reimbursements.
+1.12. Con: Not everyone has the ability to install solar panels on their roof.
+1.12.1. Con: Electricity providers could give consumers the ability to opt into a renewable energy pool.
+1.12.2. Con: People living in apartments could install panels on the roof of their building, as is [already happening on many places](https://www.researchgate.net/publication/325988881_Self-consumption_of_electricity_produced_from_PV_systems_in_apartment_buildings_-_Comparison_of_the_situation_in_Australia_Austria_Denmark_Germany_Greece_Italy_Spain_Switzerland_and_the_USA).
+1.12.3. Con: The funds could be used for creating a larger, community wide, renewable resource, rather than being used for a specific individual.
+1.12.3.1. Con: roof top solar has a lot of benefits that a community station fundamentally lacks. It simply doesn't matter who's name is on the deed.

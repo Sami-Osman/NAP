@@ -1,0 +1,98 @@
+Discussion Name: Should immigrants be monitored when settling in a new country?
+
+1. Immigrants should be monitored when settling in a new country.
+1.1. Pro: Crimes are usually associated with immigrants: this can be disqualified with data.
+1.1.1. Con: Treating someone like a criminal risks creating a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy), where immigrants may begin to commit crimes because they are already being treated like criminals.
+1.1.2. Con: There is a [dearth](https://www.vox.com/policy-and-politics/2017/4/3/14624918/the-case-for-immigration) of experts who disagree about the social and economic importance of immigrants.
+1.1.3. Pro: It could also be used to debunk racism as data will undermine racists who often claim that immigrants are all criminals.
+1.1.3.1. Con: There is already plenty of data debunking the notion that immigrants are criminals; it is unnecessary to add more data to this stockpile.
+1.1.3.1.1. Pro: A [study](https://www.tandfonline.com/doi/full/10.1080/15377938.2016.1261057) found that immigration is consistently linked to decreases in violent \(e.g. murder\) and property \(e.g. burglary\) crime for the entirely of the period i.e. 1970 to 2010 investigated.
+1.1.3.1.1.1. Pro: The Marshall Project further [extended](https://www.themarshallproject.org/2018/03/30/the-myth-of-the-criminal-immigrant) this study to 2016 and found that increases in immigrant populations were linked with decrease in crime.
+1.1.3.1.2. Pro: A [survey](https://www.annualreviews.org/doi/pdf/10.1146/annurev-criminol-032317-092026) examining research relating to the immigrant-crime connection found that an overwhelming majority of studies found either no relationship between the two or a beneficial one \(p. 63\).
+1.1.3.1.3. Pro: A [study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1745-9125.12175) found that undocumented immigration does not increase violence and that the relationship between undocumented immigration and violent crime is generally negative \(p. 370\).
+1.1.3.2. Con: A [study](https://www.pewresearch.org/fact-tank/2013/10/15/crime-rises-among-second-generation-immigrants-as-they-assimilate/) found that immigrants are actually less likely to commit crimes than citizens.
+1.1.4. Con: A need to displace the idea that immigrants engage in more crime than other groups in society does not justify monitoring them. Given crime data is already publicly available it would be easy to generate the necessary data without resorting to putting immigrants under surveillance.
+1.1.5. Pro: It would help categorize criminals from the rest of the immigrant population and therefore protect them.
+1.1.5.1. Pro: It is a responsibility of governments to protect their citizens. Monitoring policies can help bring more criminals to justice and ensure they are not a danger to society.
+1.2. Con: Monitoring immigrants would cost too much money. It is not worth the financial costs.
+1.2.1. Pro: The policy would also be cripplingly expensive. Technology for tapping communications, watching CCTV footage or physically monitoring immigrants \(e.g. using police surveillance\) would require huge budgets and teams of people employed in this monitoring project.
+1.2.1.1. Pro: This would divert resources and manpower from more important operations, or even from more effective ways of tackling migration-related issues.
+1.2.1.2. Con: In the United States, ankle monitors [cost less than $6 per day compared to](https://www.washingtonpost.com/news/theworldpost/wp/2018/09/05/trump-immigrants-2/) $208 a day for detention.
+1.2.1.2.1. Con: Many people [have to pay for their own ankle monitors.](https://www.motherjones.com/politics/2016/09/immigration-detainees-bond-ankle-monitors-libre/) This is a cost they may not be able to afford.
+1.2.1.2.1.1. Pro: For some, the cost of ankle monitors take up a significant portion of their income, [where other basic costs to cover things such as housing cannot be met.​](https://www.theguardian.com/technology/2018/aug/28/digital-shackles-the-unexpected-cruelty-of-ankle-monitors)
+1.2.1.2.2. Con: Companies such as 'Libre by Nexus' have been [accused of trapping vulnerable immigrants in debt.](https://gizmodo.com/the-ankle-monitor-business-accused-of-using-fear-to-bin-1819004652)
+1.2.1.2.3. Con: Fees for ankle monitors can [reach up to $30 per day.](https://www.theguardian.com/technology/2018/aug/28/digital-shackles-the-unexpected-cruelty-of-ankle-monitors)
+1.3. Pro: Monitoring could lead to increased interaction between citizens and the immigrants, preventing them from becoming isolated.
+1.3.1. Con: Even if interaction increases, it is not likely to be positive interaction. Instead, it would likely make immigrants feel less welcome because their neighbours are spying and reporting on them.
+1.3.2. Con: Direct monitoring sends out a message that the state believes that these immigrants are threatening. This is likely to prevent citizens from actively mingling with the immigrants, causing further isolation.
+1.3.3. Pro: Many citizens may feel detached from the process of immigration as they don't see it and cannot relate to it. By having citizens directly interact with immigrants, the immigrants will be humanized, and likely lead to a greater sympathy for their struggles when settling into a new country.
+1.4. Con: Monitoring immigrants would be an ineffective policy for increasing integration or decreasing crime.
+1.4.1. Con: There is no need to increase integration.
+1.4.1.1. Pro: In all countries, [more than 80%](https://www.oecd.org/newsroom/immigrant-integration-policies-have-improved-but-challenges-remain.htm) of immigrants have expressed a strong sense of belonging to their host-country.
+1.4.2. Con: Countries have made adequate provisions to increase integration already.
+1.4.2.1. Pro: Many countries offer [language training programs](https://www.un.org/en/development/desa/population/publications/pdf/policy/InternationalMigrationPolicies2013/Report%20PDFs/i_Ch_3.pdf) to immigrants \(p. 53\).
+1.4.2.2. Pro: Many countries conduct [informational campaigns](https://www.un.org/en/development/desa/population/publications/pdf/policy/InternationalMigrationPolicies2013/Report%20PDFs/i_Ch_3.pdf) to educate immigrants about the life and culture of the host country \(p. 53\).
+1.4.2.3. Pro: Many countries [institute provisions](https://www.un.org/en/development/desa/population/publications/pdf/policy/InternationalMigrationPolicies2013/Report%20PDFs/i_Ch_3.pdf) for the naturalization of migrants to extend equal rights and participation in the host society \(p. 53\).
+1.4.2.4. Pro: In Lithuania and Latvia, educational programmes have been designed to provide the immigrant pupils [the option](https://www.researchgate.net/publication/329064913_Language_and_Education_Orientations_in_Lithuania_A_Cross-Baltic_Perspective_Post-EU_Accession) to complete school education in their mother tongue.
+1.4.2.5. Pro: In 2011, the governments of [88 countries](https://www.un.org/en/development/desa/population/publications/pdf/policy/InternationalMigrationPolicies2013/Report%20PDFs/i_Ch_3.pdf) had policies aimed at integrating non-nationals \(p. 54\).
+1.4.3. Pro: People change their behavior when they know that they are being monitored. Therefore surveillance would not result in any beneficial data or prevent crimes after the monitoring period has ended.
+1.5. Con: The immigrants' privacy would be infringed.
+1.5.1. Pro: If immigrants feel that their rights are being violated, they may stop migrating to other countries.
+1.5.1.1. Pro: Immigrants make significant contributions to the economy of the country they are migrating to.
+1.5.1.1.1. Pro: In the US, immigrants make up as much as [one-third](https://www.cbpp.org/research/poverty-and-inequality/immigrants-contribute-greatly-to-us-economy-despite-administrations) of the work force.
+1.5.1.1.1.1. Pro: In 2018, the labor force participation rate of immigrants was [65.7%](https://www.cbpp.org/research/poverty-and-inequality/immigrants-contribute-greatly-to-us-economy-despite-administrations), higher than the 62.3% rate for the native-born adults.
+1.5.1.1.2. Pro: Immigrants make [significant contributions](https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---migrant/documents/publication/wcms_616038.pdf) to the economy of developing countries.
+1.5.1.1.3. Pro: Immigrants [increase](https://www.bushcenter.org/catalyst/north-american-century/benefits-of-immigration-outweigh-costs.html) the productive capacity of the economy and raise the country's GDP.
+1.5.1.1.4. Pro: Due to the [immigration surplus](https://www.bushcenter.org/catalyst/north-american-century/benefits-of-immigration-outweigh-costs.html), the income of natives also rises when immigrants enter the country.
+1.5.1.2. Pro: Immigrants contribute to the [cultural richness](https://www.bushcenter.org/catalyst/north-american-century/benefits-of-immigration-outweigh-costs.html) of the country they migrate to.
+1.5.1.2.1. Pro: Immigrants [add](https://www.vox.com/policy-and-politics/2017/4/3/14624918/the-case-for-immigration) new ideas, customs, arts, and expertise to a community.
+1.5.1.3. Pro: Immigrants allow for greater global connections to be fostered, which in turn [can facilitate](https://www.globalcitizen.org/en/content/how-immigrants-benefit-society-trump/) the spread of global movements against poverty, hunger, gender equality etc.
+1.5.2. Pro: Immigrants have expressed that they find being monitored quite [humiliating](https://www.texastribune.org/2018/08/10/humiliating-released-immigrants-describe-life-ankle-monitors/).
+1.5.3. Con: Privacy is not an absolute right.
+1.5.3.1. Pro: According the Supreme Court in India, the right to privacy is [not absolute](https://www.zdnet.com/article/right-to-privacy-fundamental-but-not-absolute-supreme-court-of-india/) and can be voided for matters of national security.
+1.5.3.2. Pro: The right to privacy is [not mentioned](http://law2.umkc.edu/faculty/projects/ftrials/conlaw/rightofprivacy.html) in the US Constitution.
+1.5.4. Con: A non-invasive method could be set up, such as alerts for when immigrants have run-ins with law enforcement. This would allow them to have privacy as well as allowing the government to have precautionary measures in place.
+1.5.4.1. Pro: It is possible today to monitor people through their presence on their internet or using their data. Immigrants would not even need to be aware that this is happening.
+1.5.5. Pro: The [right to privacy](https://en.wikipedia.org/wiki/Right_to_privacy) is a right the government warranties its citizens. Immigrants are included in this category.
+1.5.5.1. Con: The government is empowered to overturn the right of privacy in order to protect the rest of the population.
+1.5.6. Con: Even if the privacy of immigrants is infringed, the benefits provided by monitoring may mean that it is worth doing so.
+1.5.6.1. Pro: The citizens of a country have a right to security. In order to guarantee this right, it is acceptable for there to be some compromise on the rights of non-citizens such as immigrants \(as long as their fundamental rights are not infringed upon\).
+1.6. Pro: Using this data, the community could take action to prevent/benefit from the changes provoked by immigrants.
+1.6.1. Pro: This could help the local markets adapt in order to profit from the new cultures.
+1.6.1.1. Con: This can also be achieved by more general monitoring of demographic groups instead of monitoring specific individuals.
+1.7. Con: This policy could be used to justify racism.
+1.7.1. Pro: It is highly likely that [electronic monitoring disproportionately effects minorities.](https://www.propublica.org/article/digital-jail-how-electronic-monitoring-drives-defendants-into-debt) This could encourage negative stereotypes about minorities.
+1.7.2. Con: -> See 1.1.3.
+1.7.3. Pro: The government monitoring these immigrants shows prejudice on the state's part and that the state suspects these immigrants with no reason at all.
+1.7.3.1. Con: Many of these monitors are used for suspects who are thought to have violated immigration law. This does not equate to "no reason at all".
+1.7.4. Con: Racists can latch onto a number of ideas that they then use to justify their position. This does not mean there is a problem with the ideas themselves.
+1.8. Con: Monitoring immigrants equates to treating them like criminals. This should not be permitted.
+1.8.1. Pro: -> See 1.1.1.
+1.8.2. Pro: Under [some proposals,](https://theconversation.com/electronically-monitoring-migrants-treats-them-like-criminals-90521) migrants would be 'tagged' with ankle bracelets and placed under 24/7 surveillance. The 'tagged' migrant could be re-arrested at any time.
+1.8.2.1. Pro: In the UK, tagged ankle bracelets are placed on former criminals to [monitor](https://www.gov.uk/electronic-tags) if they are complying with court or prison orders.
+1.8.3. Pro: Treating immigrants like criminals would undermine the key legal principle of [presumption of innocence](https://www.fairtrials.org/publication/innocent-until-proven-guilty-0).
+1.8.3.1. Pro: Presumption of innocence requires that [no guilt be presumed until the charge has been proved beyond reasonable doubt.](https://www.ag.gov.au/RightsAndProtections/HumanRights/Human-rights-scrutiny/PublicSectorGuidanceSheets/Pages/Presumptionofinnocence.aspx)
+1.9. Con: Ankle monitors tend to have negative effects on those wearing them.
+1.9.1. Pro: Ankle monitors [imposes restrictions on the wearers' motion.](https://immigrationforum.org/article/fact-sheet-electronic-monitoring-devices-as-alternatives-to-detention/)
+1.9.2. Pro: Ankle monitors have [negative psychological effects on the wearer.](https://nacla.org/news/2015/01/06/no-alternative-ankle-monitors-expand-reach-immigration-detention)
+1.9.2.1. Pro: Some wearers [experience feeling shame](https://immigrationforum.org/article/fact-sheet-electronic-monitoring-devices-as-alternatives-to-detention/) when walking in public with an ankle monitor on.
+1.10. Con: There is significant social stigma surrounding those who are being monitored by their government.
+1.10.1. Pro: This could incentivize some citizens to harass immigrants.
+1.10.1.1. Con: Anti-discriminatory and anti-harassment laws are in place to dissuade citizens from harassing everyone, including immigrants.
+1.10.1.2. Pro: Many individuals who have worn ankle monitors have faced [harassment and discrimination.](https://www.theguardian.com/technology/2018/aug/28/digital-shackles-the-unexpected-cruelty-of-ankle-monitors)
+1.10.1.3. Pro: [Reports](https://www.thelocal.de/20190227/report-refugees-in-the-former-east-are-ten-times-more-likely-to-be-victims-of-hate-crimes) show that already immigrants and refugees/ asylum seekers are disproportionately targeted in hate crimes. Instead of focusing on the 'criminals' that anti-immigration rhetoric accuse migrants of being, perhaps countries should focus on their own local-grown criminals, e.g. those who engage in hate crime against immigrants.
+1.10.1.4. Con: If the policy does encourage some people to harass immigrants, they should be held accountable to the law for harassment.
+1.10.1.5. Con: A monitoring policy does not equate to the legitimisation of immigrant harrassment.
+1.10.1.5.1. Con: It does, however, make it appear as though the default actions of an immigrant are that of a criminal. By relegating them to the status of criminals, other people may begin to feel more comfortable treating them as criminals and harassing them.
+1.10.1.6. Pro: Some immigrants may be provoked to commit acts of violence/crime, this would damage the overall data.
+1.10.2. Con: Ankle monitors wouldn't be used, rather their purchase activities and phone communications would be monitored to ensure they're not potential activists
+1.10.2.1. Con: Governments would need to pass a law that would inform the general public of them taking such an action. This would inevitably associate a stigma with immigrants.
+1.10.3. Pro: Ankle monitors are usually worn by those who have committed crimes. Making innocent people wear them is not fair.
+1.10.3.1. Pro: The presumption that people are innocent until proven guilty is a fundamental principle of justice.
+1.10.4. Con: Ankle monitors are not immediately visible. It is unlikely that anyone will be significantly stigmatized by wearing one.
+1.10.5. Con: Ankle monitors [cost](https://equaljusticeunderlaw.org/thejusticereport/2018/6/12/electronic-monitoring) as much as $175 to $200 to set up. It would be a waste of resources that could be spent on more useful programs.
+1.10.5.1. Pro: The daily fee for ankle monitors can be range from [$5 to $40​.](https://equaljusticeunderlaw.org/thejusticereport/2018/6/12/electronic-monitoring)
+1.10.6. Pro: -> See 1.9.2.1.
+1.10.7. Pro: Immigrants who wear ankle monitors often struggle to [find or maintain employment](https://www.texastribune.org/2018/08/10/humiliating-released-immigrants-describe-life-ankle-monitors/) due to the stigma against ankle monitors.
+1.10.7.1. Pro: An asylum seeker was [fired](https://www.houstonpublicmedia.org/articles/news/2018/08/10/299581/its-humiliating-released-immigrants-describe-life-with-ankle-monitors/) after a pre-programmed message on his ankle monitor was revealed in the presence of his boss.
+1.10.7.2. Pro: [Rules](https://immigrationforum.org/article/fact-sheet-electronic-monitoring-devices-as-alternatives-to-detention/) surrounding the conduct of those who wear ankle monitors such as random home visits, geographical limits to where one can work and curfews, all limits the ability of an immigrant to hold down a steady job.

@@ -1,0 +1,79 @@
+Discussion Name: Is meritocracy the best form of government?
+
+1. Meritocracy is the best form of government.
+1.1. Pro: Given impartial judgement of anyone's ability to perform and the ability to move them in the direction best suited for their abilities, one would expect to get closer to the best of all possible worlds.
+1.1.1. Con: Moving people in a direction best suited to their abilities is not, on its own, necessarily going to have positive outcomes; if an individual is very able at accounting, it does not follow that they are interested in it or enjoy it. In practice, therefore, they may be just as unproductive as a less able person.
+1.1.1.1. Con: They could be incentivised to perform accounting, or else someone else could be trained to be as good as them, or better.
+1.2. Con: Meritocracy is an illusion. People start from different points and the meritocratic system doesn't address that difference. In time, it tends to elitisation.
+1.2.1. Con: A proper meritocratic system would account for this.
+1.2.1.1. Pro: Meritocracy is fundamentally about rewarding personal achievement. Personal achievement is relative to circumstance.
+1.2.2. Con: Elitisation based on performance and the ability of good leadership is not negative.
+1.2.3. Pro: A meritocratic system of government does not take into consideration systemic inequalities that may not allow certain groups to compete fairly.
+1.2.3.1. Con: Some inequality is natural, such as between a professor and a student.
+1.2.3.2. Con: Inequality between two people who have a different number of experience at a certain job is expected, therefore all inequality under a meritocracy would persist as intended.
+1.2.4. Pro: It's in human nature \(and not only human\) as a biological imperative that one will try and preserve it's genes by offering competitive advantages to its descendants. As a result, whoever is in a position of power will use it to perpetuate the privileges, and merit will only last for a generation.
+1.2.4.1. Con: Merits could be tied to an individual, and expire when the person who owns them does.
+1.2.5. Con: The current system of government has the same problem political parties have: Well-established hierarchies, the correct, true information when voting, and the ability to have their voice heard and reacted upon.
+1.2.5.1. Pro: In the US, the candidate who spends the most amount of money on [campaigning](https://www.forbes.com/sites/niallmccarthy/2016/07/28/how-much-does-money-matter-in-u-s-presidential-elections-infographic/#4bad12a6a6a1) tends to become the winner.
+1.2.5.2. Pro: People of any income bracket can rise in a meritocracy by performing well, and while it may be harder to access some of this for those in low-income brackets, they can still get equal access to education through scholarships and other forms of financial support.
+1.2.5.2.1. Pro: Ensuring funding for political campaigns is much more difficult than finding financial support for tuition.
+1.3. Pro: Meritocratic government rewards leaders who act objectively and honestly. Democratic government rewards leaders who are better able to manipulate the truth.
+1.3.1. Con: A meritocratic candidate could be adept at manipulating the truth in order to be awarded merit by gullible people.
+1.3.2. Pro: A candidate standing for election may be popular for a variety of subjective reasons, but a meritocratic candidate can be evaluated based on purely objective measures such as their professional experience.
+1.3.3. Con: Democratic governments also have checks and balances to counteract these tendencies towards manipulation of truth.
+1.3.3.1. Pro: Many democratic governments have independent committees or watchdogs tasked with overseeing that election campaigns are run fairly, such as the UK's [Electoral Commission](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/who-we-are).
+1.3.3.2. Con: Many of the systems and institutions designed to counteract manipulation of the truth are failing seeing as trust in politics is plummeting.
+1.3.3.2.1. Pro: In 2019, just [22% of Americans](https://www.courthousenews.com/poll-shows-shrinking-trust-in-government-and-each-other/) said they had a high degree of trust in government, and 75% said they thought this was declining.
+1.3.3.2.2. Pro: In the UK, [58%](https://www.electoral-reform.org.uk/new-report-shows-why-britains-campaign-rules-need-an-overhaul-before-next-may/) of people think that online campaigns are untrue or misleading.
+1.4. Pro: Performance-based distribution of power would eliminate all forms of inequality.
+1.4.1. Pro: If the system can equalize the candidates, and therefore be sure everybody has the same level of opportunities, then it will work better.
+1.4.2. Con: -> See 1.2.3.2.
+1.4.3. Con: There is room for subjectivity and error in performance-based distribution of power too.
+1.4.3.1. Pro: The evaluation of what is good performance is always to some extent left up to the person handling the performance reviews or the hiring process. Arbitrary things like general impression which is very subjective can have a large impact on the evaluation.
+1.4.4. Con: There will be always [class hierarchies and social barriers](https://www.theguardian.com/news/2018/oct/19/the-myth-of-meritocracy-who-really-gets-what-they-deserve?fbclid=IwAR2cBKPpoLK2srwW3hhJ4XuTazcO8GVWq98gMQpnuoTTFAC3b80OkfUm0zk) that would not permit a real meritocracy.
+1.4.5. Con: This assumes that people would get hired based on performance. However, this is often an arbitrary metric to go by.
+1.4.5.1. Pro: Nepotism is another method that has been used to hire people.
+1.4.5.2. Pro: There are many achievements where there's a distinct lack of certainty in whether the achievement actually came down to the performance of the person who is credited with the achievement.
+1.4.6. Pro: Factors like political propaganda or having connections would no longer have an influence on the distribution of power.
+1.4.6.1. Con: In the longer term, the influence of connections will come into play again because people in positions of power \(however meritoriously they arrived there initially\) cannot help but connect with, and be influenced by, their peers.
+1.4.6.1.1. Pro: Connecting with colleagues is often [actively encouraged](https://hbr.org/2015/09/how-to-build-the-social-ties-you-need-at-work) because it makes people happier and better at their jobs.
+1.4.6.1.2. Pro: Humans are [hard-wired](https://greatergood.berkeley.edu/article/item/why_are_we_so_wired_to_connect) to build connections with others.
+1.4.6.1.3. Pro: People in positions of power often have a role in performance reviews and promotions, allowing them - consciously or subconsciously - to influence the process and undermine meritocracy.
+1.4.6.2. Con: People are susceptible to propaganda of both a factual and emotional basis, albeit this is still an issue under the current form of government.
+1.5. Pro: Some of the most professional and well-regarded institutions in Western countries today are meritocratic, such as the military. That is a clear proof of concept and reveals the general potential of meritocracy.
+1.5.1. Pro: Promotion in the [US military](https://www.thebalancecareers.com/enlisted-promotions-made-simple-3331909) is predominantly based on competence and training.
+1.5.1.1. Con: While promotions in the US military appear meritocratic, in fact they are steeped in [bureaucracy, rankism, and personal bias](https://mwi.usma.edu/military-murders-meritocracy/).
+1.5.1.1.1. Pro: In a healthy meritocratic system, people should [feel comfortable giving honest feedback](https://mwi.usma.edu/military-murders-meritocracy/) so that the best ideas and people succeed. However, in the US military subordinates are too fearful of their seniors to do this.
+1.5.2. Con: The fact that meritocracy improves certain institutions doesn't necessarily mean that it will improve government or will indeed lead to the best form of government.
+1.5.2.1. Con: Government is an institution, and it could be improved by meritocracy.
+1.5.3. Con: Peace-loving people do not well-regard the military.
+1.5.3.1. Con: There are any number of reasons why peace-loving people do not well-regard the military that are unrelated to its meritocratic system.
+1.6. Con: There is no way of measuring and weighing 'performance' precisely enough.
+1.6.1. Con: In the absence of an objective standard for 'performance', the powers that be can tailor their definition to control who scores highest.
+1.6.2. Con: The suggestion that meritocracy cannot be the best form of government because it is not precise enough is an example of the [perfectionist fallacy](https://www.iep.utm.edu/fallacy/#Perfectionist).
+1.6.3. Con: Someone's past actions can be objectively ascertained and used to predict their effectiveness in future roles.
+1.6.3.1. Con: This method does not take into account the ability of human beings to make personality changes and therefore change modes of behavior.
+1.6.4. Pro: It is often arbitrary choosing what should be measured and how to quantify performances, specially in those fields in which personal attitudes are critical \(like politics\).
+1.6.5. Pro: In addition, there are *many* ways of measuring and weighing 'performance' that would be counter-productive, if one considers short-term vs long-term decisions.
+1.6.6. Pro: Social skills can hardly be measured.
+1.6.6.1. Con: Replacing a traditional interview format with [behavioral interviewing](https://blog.peoplefirstps.com/connect2lead/how-to-measure-soft-skills-in-the-workplace) is a useful way of gauging the candidate's social skills.
+1.6.6.2. Con: Standardised [personality tests](https://www.monster.co.uk/advertise-a-job/hr-resources/hr-strategies/employment-screening/how-can-i-evaluate-a-candidates-social-skills/) help identify a candidate's social skills, which can then be assessed in relation to the role.
+1.6.6.3. Con: If a [Liquid Democracy](https://www.kialo.com/will-liquid-democracy-be-a-better-mechanism-of-governance-than-representative-democracy-7865?path=7865.0~7865.1) is implemented, social skills would be measured by a voter's ability to persuade their community.
+1.6.7. Con: Parameters such as IQ could be taken into account.
+1.6.7.1. Con: The IQ hardly tells anything about the positive impact one can make/makes to society.
+1.7. Con: The issue comes in defining merits; merits are subjective and a true meritocracy does not exist: the person with merits is not truly in power, but instead the person deciding which merits or people should be put in charge has the most power. A meritocracy is a beautiful theory, but a dangerous practice.
+1.7.1. Con: Merits can be defined on the basis of research; candidates with different skills and attributes can be assessed on how they perform on a relevant task. This will help identify which skills and attributes are best for a given role.
+1.7.2. Con: Meritocracy is not a dangerous practice. It may be practically impossible to put into practice, and it may be dangerous to pretend there is a meritocracy where there is not, but there is no reasonable way that a real meritocracy could be considered dangerous.
+1.7.3. Pro: The Supreme Court of the United States is an example of an attempt at a meritocracy. However, the reality is that important decisions are decided by how many judges were replaced under a Democratic president and how many judges were replaced under a Republican president.
+1.7.4. Con: The judge of merit could be made by the electorate though [Liquid Democracy](https://www.kialo.com/make-democracy-great-again--liquid-democracy-7865/7865.0=7865.1/=7865.1).
+1.7.4.1. Pro: A Liquid Democracy enables the people as a collective to decide who has merit.
+1.7.4.2. Pro: The electorate could "upvote" "thank" or some other appreciation to show merit, which under [Liquid Democracy](https://www.kialo.com/will-liquid-democracy-be-a-better-mechanism-of-governance-than-representative-democracy-7865?path=7865.0~7865.1) could also be rewarded either financially or by social status.
+1.8. Con: Meritocracy favours [Social Darwinism](https://en.wikipedia.org/wiki/Social_Darwinism).
+1.8.1. Pro: Meritocracy may not necessarily include ethical decision making and values - the key ingredient to reach governance benefits all strata of people.
+1.8.1.1. Con: -> See 1.2.1.
+1.8.1.2. Pro: A meritocratic system would arbitrarily benefit those naturally and systemically advantaged.
+1.8.2. Con: Meritocracy does not favour Social Darwinism. The strong in society are often the same who care for the weak, giving them a shoulder through difficult times through [caregiving](https://www.mind.org.uk/information-support/helping-someone-else/carers-friends-family-coping-support/supporting-someone-with-a-mental-health-problem/).
+1.8.3. Con: It is not Social Darwinism if some people insist on conducting themselves in an irrational, uninformed manner and therefore find themselves out-competed and left behind.
+1.8.4. Pro: Disabled people for example are not capable of high 'performance' and would therefore not have a right to lead in a meritocratic society.
+1.8.4.1. Con: Disabled people have many abilities. The mentally handicapped could be in excellent physical shape, and vice versa.
+1.8.4.2. Con: In a true meritocracy, someone could have a physical disability and a mental pro-ability that could mean they could lead in their chosen field of pro-ability.

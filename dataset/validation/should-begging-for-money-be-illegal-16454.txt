@@ -1,0 +1,360 @@
+Discussion Name: Should begging for money be illegal?
+
+1. Begging for money should be illegal.
+1.1. Con: Banning begging would fail to reduce overall levels of poverty.
+1.1.1. Pro: Politicians often criminalize begging to push poor people out of public spaces and claim that the problem of poverty has been "solved" and requires no more attention or resources \([p. 16](https://www.nlchp.org/documents/No_Safe_Place)\).
+1.1.1.1. Con: [Homeless and poverty advocacy groups](http://politicaladvocacy.org/issue-areas/homelessness-and-poverty) are quite large, meaning they can exert a large amount of political pressure to take care of beggars.
+1.1.1.1.1. Con: There exists a great [stigma against beggars](http://www.focusglobalreporter.org/beggary-a-social-stigma-poverty-or-mindset/). It is unlikely a critical mass of voters would be willing to fight for them.
+1.1.1.1.1.1. Pro: There is a widespread trope that poverty is the fault of one's ['mindset' or incompetence](https://www.city-journal.org/html/truth-about-poverty-12995.html).
+1.1.1.1.1.2. Pro: Giving the impoverished financial support is often opposed by people who claim the poor are ['mooching off the state'](https://www.fastcompany.com/3059196/why-do-people-get-so-upset-when-the-government-helps-the-poor).
+1.1.1.1.2. Pro: Images of the powerful imposing their will on the powerless rarely look good for the powerful. If images of neglected homeless people emerge, politicians may feel pressured to provide support.
+1.1.1.2. Pro: If beggars are permitted to openly beg, they gain greater visibility for government agencies and charities, enabling them to receive targeted relief which they may not be able to seek out for themselves.
+1.1.1.2.1. Con: Beggars do not tend to sign up for long-term poverty relief programs through interactions they have on the street. These programs often require that a person comes to a resource center.
+1.1.1.2.2. Con: Beggars and those in poverty will still be visible in society, even if they cannot solicit money on the street.
+1.1.1.2.2.1. Pro: Media outlets and advocacy groups will continue to bring attention to the plight of impoverished persons.
+1.1.1.2.2.2. Con: If begging were to be illegal, it would give leverage to governments to drive beggars away from places where they are visible.
+1.1.1.2.3. Pro: Many people, including members of charitable organisations, are able to approach people they see begging to provide them with information about the services available to them.
+1.1.1.2.3.1. Con: Charities could still approach people who come to receive services at formal shelters, soup kitchens, and resource centers.
+1.1.1.2.4. Pro: Information about government welfare programmes and charitable organisations can be [difficult to find](https://nextbillion.net/welfare-schemes-dont-work-if-nobody-knows-about-them-fixing-indias-information-deficit/).
+1.1.1.2.4.1. Pro: Beggars might not have internet access to search for any services available to them.
+1.1.2. Pro: Begging generates [economic activity](https://www.rediff.com/money/2003/mar/13spec.htm) and is ultimately good for economic growth.
+1.1.2.1. Pro: The money earned from begging is entirely tax-free and is immediately spent on food/clothes/services, moving it directly back into the [economy](https://www.rediff.com/money/2003/mar/13spec.htm).
+1.1.2.1.1. Con: Most beggars still [do not make enough money](https://invisiblepeople.tv/how-much-do-panhandlers-actually-make/) to stop begging. Therefore, each beggar will be putting a marginal amount of money back into the economy.
+1.1.2.1.2. Con: Since beggars are given change, it is likely that the donors would have used that money anyway.
+1.1.2.1.3. Pro: If a few beggars in the same area are given money, that may be enough to ensure some shops can remain open and continue hiring their employees, keeping money flowing around the community.
+1.1.2.1.3.1. Con: It is highly unlikely that a few beggars would be enough to sustain even a single shop.
+1.1.2.1.4. Pro: Since beggars live hand-to-mouth, all the money they receive is immediately re-invested into the economy, which would not have been the case had the donors held onto the money.
+1.1.2.1.4.1. Pro: More affluent and middle-class people are more likely to [save a greater amount](https://www.cnbc.com/2018/08/31/heres-how-much-money-americans-have-saved.html) of their overall earnings.
+1.1.2.1.4.1.1. Con: Even [affluent people often spend large amounts](https://www.investopedia.com/articles/personal-finance/091015/why-high-earners-still-live-paychecktopaycheck.asp) of their paychecks every month. Giving beggars alms, therefore, will likely not make a great difference in overall spending.
+1.1.2.2. Con: Economic growth cannot be seen as more important than the well-being of beggars themselves.
+1.1.2.2.1. Con: If economic growth is sufficient, it could create a world where fewer people had to beg in the first place.
+1.1.2.2.1.1. Con: This would only be true if the fruits of the growth were distributed fairly and equitably in the population.
+1.1.2.2.1.1.1. Pro: In reality, much of the economic growth around the world goes into the pockets of the [super rich](https://www.forbes.com/sites/kristinstoller/2020/04/23/these-countries-have-gained-the-most-billionaires-in-the-past-decade/?sh=6810486ad1d5).
+1.1.2.2.2. Pro: Economic growth should be seen simply as a means to the end of respecting and enhancing people's rights.
+1.1.2.2.3. Con: These two ends are not necessarily mutually exclusive.
+1.1.3. Con: When people give money to beggars, they are not able to give to other causes which can more effectively help people in need.
+1.1.3.1. Pro: It remains unclear whether beggars are the ones who are most in need of help. As a result it goes against the concept of effective altruism and can be seen as immoral.
+1.1.3.1.1. Con: The possibility that the money is not allocated to the most in need beggars is an optimization issue rather than something which calls into question the morality of giving.
+1.1.3.1.1.1. Con: For people who subscribe to the moral philosophy of [effective altruism](https://www.effectivealtruism.org/), optimizing the use of resources is inherently connected to the morality of giving.
+1.1.3.2. Con: People should be allowed to give their money based on their own conscience. Criminalizing begging would take that right from the giver.
+1.1.3.2.1. Pro: Banning begging would harm those who would like to give to beggars.
+1.1.3.2.1.1. Con: It is more important for states to protect beggars than for them to uphold the right to beg.
+1.1.3.2.1.1.1. Pro: If beggars remain unemployed and on the street, they will remain dependent on the state for food and shelter.
+1.1.3.2.1.2. Pro: Beggars do not just 'take' money from individuals who donate. They enable donors to perform an act of charity, from which people often [derive happiness and satisfaction](https://www.usu.edu/science/discovery/fall-2017-stories/does-giving-make-you-happy).
+1.1.3.2.1.3. Pro: If someone did not feel good about giving money to a beggar, it is unlikely that they would do so.
+1.1.3.2.2. Con: This is not a good metric for deciding whether a law is justified: all government intervention [will infringe on someone's rights](https://medium.com/patrickdaniel/what-is-john-locke-s-theory-of-natural-rights-and-justification-for-a-limited-government-80feecdaaa27) in some way.
+1.1.3.2.3. Pro: Begging is [defined](https://www.dictionary.com/browse/begging) as the act of asking for charity. Therefore, classifying it as illegal would be violating free speech laws.
+1.1.3.3. Pro: Begging encourages people to act based on feelings and compassion, instead of acting by reason.
+1.1.3.3.1. Pro: It may be more efficient to donate to charities that aim to get people off the streets, but giving change to a person on the street gives a more immediate sense of giving aid.
+1.1.3.4. Con: It is not for anyone else to determine the value of an individual's donation to any cause.
+1.1.3.5. Pro: While giving a small amount to someone directly may produce a benefit, a greater effect can often be had by donating a greater amount to a large, established charity.
+1.1.3.5.1. Con: Giving small amounts of money to beggars would appear to have a much smaller opportunity cost to people, prompting them to donate more and more often.
+1.1.3.5.1.1. Pro: Many people never make large donations to charity because they think of it as a large sum of money that they could instead [put to use in their own life](https://www.nptechforgood.com/2018/10/10/6-reasons-why-people-do-not-give-to-charity/).
+1.1.3.5.1.2. Pro: It is better to have people give even small amounts of money by way of charity to beggars than to never give money charitably at all.
+1.1.3.5.2. Pro: Charities have greater resources, allowing them to turn donations into widespread projects to [minimize poverty and illness](https://www.vox.com/future-perfect/21728843/best-charities-donate-giving-tuesday) where it is needed most.
+1.1.4. Pro: Banning begging does not solve the problems that cause people to beg.
+1.1.4.1. Con: A ban on begging does not seek to solve the problems that cause people to beg, but instead seeks to solve the problems caused by begging. The forces which lead people to beg can be addressed by other means.
+1.1.4.1.1. Pro: For instance, the criminalisation of murder does not seek to solve the problems that cause people to murder others. Rather it seeks to stop murders, which are bad in and of themselves.
+1.1.4.1.2. Con: By banning begging, and reducing the visibility of beggars, actions to help the poor in their plight in the future will be less likely.
+1.1.4.2. Pro: It is possible to pre-empt most begging by offering sufficient social services, which is preferable to reducing begging through coercion.
+1.1.4.2.1. Con: People often [turn a blind eye](https://www.theguardian.com/world/2016/mar/22/social-experiment-shows-hundreds-ignoring-homeless-boy-in-new-zealand) to beggars on the street. Therefore, there is little political pressure on elected officials to provide for beggars.
+1.1.4.2.2. Pro: There are successful ways to solve the problem, such as the method that [Finland used to reduce homelessness](https://www.theguardian.com/housing-network/2017/mar/22/finland-solved-homelessness-eu-crisis-housing-first).
+1.1.4.2.2.1. Con: Finland's method is [very expensive](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness). Not all countries can afford similar solutions.
+1.1.4.2.2.1.1. Con: Social services would not necessarily be more expensive than the costs associated with processing beggars in the criminal justice system, and the outcomes are likely to be better.
+1.1.4.2.2.2. Pro: Finland may not have completely [solved homelessness](http://www.ara.fi/en-US/Materials/Homelessness_reports/Homelessness_in_Finland_2017\(46471\)), but has achieved a remarkably low baseline.
+1.1.4.2.3. Pro: Reducing begging through social services is morally preferable to reducing begging through criminalization.
+1.1.4.2.4. Pro: Outlawing begging would likely reroute the resources that could be put into treatment into law enforcement and incarceration.
+1.1.4.2.4.1. Con: Many contemporary politicians support [increasing funding](https://www.newsweek.com/biden-calls-increased-funding-police-fuel-reform-efforts-1523172) for both for the police and social welfare.
+1.1.4.2.4.2. Pro: Criminalizing begging would be very expensive to enforce [\(p. 42\)](https://www.law.du.edu/documents/homeless-advocacy-policy-project/2-16-16-Final-Report.pdf).
+1.1.4.2.4.2.1. Pro: Criminalizing begging would, at some point, create some expenditure on the state e.g. the costs of police monitoring the streets, court proceedings, or placing beggars in prison.
+1.1.4.2.4.2.2. Con: Policies should not be judged solely on the basis of a cost-benefit analysis.
+1.1.4.2.4.2.2.1. Con: Begging does not provide any incredibly valuable service or benefit to society. It would be legitimate to ban or allow it purely on the basis of the cost of policy enforcement.
+1.1.4.2.4.2.2.2. Pro: If this were the case, many important policies such as [social welfare](https://blogs.lse.ac.uk/europpblog/2016/04/13/the-welfare-state-in-europe-still-worth-having/) or climate-friendly [carbon taxes](https://www.vox.com/energy-and-environment/2018/7/20/17584376/carbon-tax-congress-republicans-cost-economy) would never have come into existence.
+1.1.4.2.5. Con: Governments are often unwilling to spend great amounts of money on the vulnerable and homeless.
+1.1.4.2.5.1. Pro: The hegemony of [neoliberalism](https://theconversation.com/neoliberalism-has-tricked-us-into-believing-a-fairytale-about-where-money-comes-from-113783), a doctrine which abhors government intervention, has led to governments massively restricting their welfare spending.
+1.1.4.2.5.2. Pro: The homeless and impoverished often [do not vote](https://www.streetsensemedia.org/article/homeless-vote-rights-study-united-states/), so spending money on them accrues little political benefit.
+1.1.4.2.6. Con: Even when states spend money on the poor, it is often highly ineffective.
+1.1.4.2.6.1. Pro: Many people only resort to begging after their [social assistance benefits have been used up](https://www.inquirer.com/philly/business/jobs/20130822_Standing_on_the_corner__begging_for_a_job.html).
+1.1.4.2.6.2. Pro: Particularly for the homeless, who [lack a permanent address](https://spotlightonpoverty.org/spotlight-exclusives/poorest-americans-have-the-most-difficulty-accessing-stimulus-checks/), it can be very difficult to procure welfare.
+1.1.4.2.6.2.1. Con: In the UK a [permanent address is not required](https://england.shelter.org.uk/housing_advice/homelessness/articles/get_practical_help_if_youre_on_the_streets/claiming_benefits_when_homeless) to receive welfare.
+1.1.4.2.6.3. Pro: These programs tend to be hampered by the [immense bureaucracy](https://www.nytimes.com/2015/07/24/nyregion/navigating-a-bureaucratic-maze-to-renew-food-stamp-benefits.html) required to make them work.
+1.1.4.2.6.4. Con: Even though many social services are unable to entirely solve the problems they seek to deal with, they still tend to give [remarkable benefits](https://www.cbpp.org/research/food-assistance/chart-book-snap-helps-struggling-families-put-food-on-the-table) to those who rely on them.
+1.1.4.3. Pro: Begging is necessary for some people's survival.
+1.1.4.3.1. Pro: Many people are forced to beg due to [structural economic causes](https://www.researchgate.net/publication/306094400_SOCIO-ECONOMIC_CAUSES_OF_BEGGING) such as intergenerational poverty and caste systems.
+1.1.4.3.1.1. Pro: In the United Kingdom, strict implementation of [benefit sanctions](https://www.nidirect.gov.uk/articles/benefit-sanctions), has resulted in [more](https://www.theguardian.com/society/2014/nov/30/begging-prosecutions-increase-england-wales) people begging in city centers.
+1.1.4.3.1.2. Con: It is [not common](https://invisiblepeople.tv/how-much-do-panhandlers-actually-make/) for beggars to generate sufficient income to survive. Often, they rely on other resources to supplement their needs.
+1.1.4.3.1.3. Pro: A ban on begging wouldn't stop it if there are no alternatives to survive. The root cause is poverty and this should be solved first.
+1.1.4.3.2. Con: [Research](https://www.independent.co.uk/life-style/is-begging-just-a-scam-or-a-lifeline-for-those-most-in-need-a7371516.html) in England indicates that a large number of people who beg on the street do so to fund drug use or other addictions, rather than to raise funds for necessities.
+1.1.4.3.2.1. Pro: A [survey](https://www.telegraph.co.uk/news/uknews/11681593/Police-survey-finds-just-one-in-10-beggars-are-homeless.html) conducted by the police in the UK city of Nottingham found that just 1 in 10 beggars in the city were homeless and that 16 out of 52 of the individuals surveyed had only posed as being destitute.
+1.1.4.3.2.1.1. Con: This survey refers to one city only. It would be wrong to make generalizations about all beggars from such a limited data set.
+1.1.4.3.3. Pro: Crowdsourcing is a form of digital begging and has helped save lives. 40 million dollars were raised by [JJ Watt](https://www.sbnation.com/2018/8/27/17786684/jj-watt-houston-hurricane-harvey-impact) for Houston after Hurricane Harvey.
+1.1.4.3.3.1. Pro: People who need immediate help, e.g. cancer patients, can use begging in positive ways, especially if few healthcare safety nets exist.
+1.1.4.3.3.1.1. Con: Begging is unlikely to raise sufficient funds to pay for an expensive healthcare treatment.
+1.1.4.3.3.1.1.1. Con: However, it can still be used to help people who are able to only partially pay for the treatment.
+1.1.4.3.3.2. Pro: Additionally, some great startups have cracked the door open for innovation by leveraging crowdsourcing.
+1.1.4.3.4. Con: Begging is never necessary for survival. Food, water, shelter, and air are necessary for survival.
+1.1.4.3.4.1. Pro: [Organisations](https://www.hartlepool.gov.uk/info/20006/emergencies_safety_and_crime/940/please_give_to_charity_not_to_people_begging/1) such as homeless shelters and soup kitchens exist so that people can survive without begging.
+1.1.4.3.4.1.1. Pro: Soup kitchens provide [millions of meals](https://www.masbia.org/what_we_do) every year.
+1.1.4.3.4.1.1.1. Con: While homeless people may not be starving, they are still suffering from incredible [food insecurity](https://www.futurity.org/hunger-homeless-young-adults-food-insecurity-1698702-2/) and are often hungry for days on end.
+1.1.4.3.4.1.2. Pro: Soup kitchens mean that individuals have more free money as they do not have to pay for meals.
+1.1.4.3.4.1.3. Con: There are not enough homeless shelters and soup kitchens to prevent people from begging.
+1.1.4.3.4.1.3.1. Pro: In many nations, austerity has resulted in services for the most vulnerable being [cut](https://www.independent.co.uk/news/uk/politics/homeless-shelter-theresa-may-conservatives-beds-housing-statistics-rough-sleeping-a8303391.html). This has increased the number of beggars.
+1.1.4.3.4.1.3.2. Pro: In 2017, [over a third](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-report/) of homeless people in the U.S. lived in places not meant for human habitation, such as parks, streets, and abandoned buildings.
+1.1.4.3.4.1.3.3. Con: Making begging illegal may increase the number of organizations present to help the poor since now individuals know that the poor can not beg to sustain themselves.
+1.1.4.3.4.1.4. Con: Organizations that provide food and shelter [cannot offer](https://civileats.com/2020/04/06/soup-kitchens-a-last-refuge-for-the-hungry-struggle-to-meet-demand/) a sustainable income or long-term means of survival.
+1.1.4.3.4.1.4.1. Pro: Organizations that provide food and shelter are not meant to provide for others on a permanent basis, nor should they have to.
+1.1.4.3.4.1.5. Con: [Fear of being arrested or fined](https://www.vice.com/en/article/akw7qe/homeless-people-in-alabama-live-in-fear-that-the-cops-will-arrest-them-just-for-begging) may deter many beggars from seeking support from charities or state-run services.
+1.1.4.3.4.2. Con: Food, water, and shelter cost money in most places in the world. Begging is the only way some individuals can earn money, making it a stepping stone to their survival.
+1.1.4.3.5. Pro: Beggars are [much more likely](https://www.ncbi.nlm.nih.gov/books/NBK138719/) than the general population to be homeless, victims of domestic and family violence, poor, dependent on substances, mentally ill, and long term unemployed. If begging is criminalized, these people will find it much harder to survive.
+1.1.4.3.5.1. Con: Changing the legality of begging will not impact their home, whether they are victims of violence, their financial status, their substance abuse \(or lack thereof\), their mental stability, or their employment.
+1.1.4.3.5.2. Pro: People affected by natural disasters like [earthquakes, famines, etc.](https://www.theguardian.com/cities/2018/feb/19/rome-italy-migrant-crisis-squatting-emergency-shelters-asylum-seekers) are forced into begging for survival. An entire mass of population in the affected region relies on donations.
+1.1.5. Con: Begging discourages the government from implementing more efficient social welfare programs.
+1.1.5.1. Pro: -> See 1.1.4.2.1.
+1.1.5.2. Con: Begging can give an indication of the amount of people living in extreme poverty, making a community more willing to invest in reducing poverty.
+1.1.5.2.1. Pro: Due to the nature of begging, beggars are always more visible than other poor people.
+1.1.5.2.2. Con: A multitude of beggars would likely cause a rise in [apathy](https://shmaltzandmenudo.wordpress.com/2018/01/06/famous-sayings-95-familiarity-breeds-contempt/) rather than sympathy.
+1.1.5.3. Con: Governments are [embarrassed by begging](https://www.realchangenews.org/2019/01/02/directors-corner-we-care-more-about-optics-homeless-people). This may spur them to fund outreach programs.
+1.1.5.4. Pro: If people often give in response to begging on the street, compassion fatigue may erode their political will for other charitable efforts.
+1.1.5.4.1. Pro: This, in turn, would make people less likely to vote in governments with pro-poor welfare policies.
+1.1.5.4.2. Pro: People may feel that their charitable duty has been exercised through the giving of alms to beggars.
+1.1.5.4.3. Con: Being generous makes people feel [happier](http://time.com/4857777/generosity-happiness-brain/) which may help them become more generous.
+1.1.5.4.3.1. Con: Individuals may become [desensitized](http://www.aconsciousrethink.com) and indifferent to the presence of beggars, simply walking past and ignoring them.
+1.2. Pro: Banning begging would encourage beggars to find sustainable work.
+1.2.1. Con: Some people who beg could not find work, even if they were forced to try.
+1.2.1.1. Con: The time that had previously been spent begging could be redirected to vocational education/training or applying for jobs.
+1.2.1.1.1. Con: Taking vocational qualifications cost money, both [to take the test](https://floridaliteracy.org/ged_faq.html) and to attend classes. Without begging, many people will not have the funds to take them.
+1.2.1.1.2. Pro: It does not take a particularly long time to obtain a vocational qualification. Beggars would just need to attend classes in the daytime.
+1.2.1.1.2.1. Pro: It takes only about [3 months](https://ged.com/blog/how-do-i-get-my-ged-and-how-long-does-it-take/?lang=en) for one to get a GED.
+1.2.1.1.3. Con: India has approximately [78,000](https://yourstory.com/2017/12/educated-beggars-street-hyderabad/) beggars who hold diplomas.
+1.2.1.1.3.1. Con: India is currently in a [job crisis](https://www.thenational.ae/world/asia/india-s-jobs-crisis-25-million-applicants-for-90-000-vacancies-1.718020). It is likely that most of those beggars, while qualified, are genuinely unable to find a job.
+1.2.1.1.4. Con: Many beggars do not have a permanent address, making it difficult to apply for jobs or to receive social welfare benefits which may enable them to attend training courses.
+1.2.1.1.4.1. Pro: Many beggars are [homeless](https://www.theguardian.com/society/2018/sep/04/dont-demonise-beggars-homelessness-solve-problem-humans).
+1.2.1.1.4.1.1. Pro: Innocent homeless and impoverished people are regularly arrested for vague crimes such as "vagrancy" which effectively [criminalize their very existence](https://www.theguardian.com/commentisfree/2019/jan/24/19-century-law-criminalises-homeless-vagrancy-act-rough-sleepers). A ban on begging would likely function similarly.
+1.2.1.1.4.2. Con: -> See 1.1.4.2.6.2.1.
+1.2.1.2. Con: Staffing agencies can help people find work when they cannot do so on their own.
+1.2.1.2.1. Con: The problem is not that people do not know where to look for jobs. There simply are not enough jobs for them.
+1.2.1.2.1.1. Pro: In every state in [America](https://www.axios.com/unemployment-open-jobs-every-state-48fd702c-146b-4d62-8088-16aa7c3463dc.html), the unemployed outnumber the number of available jobs.
+1.2.1.2.2. Pro: Services like [Valeo Vocation](https://www.q13fox.com/news/homeless-staffing-agency-growing-and-thriving-in-tacoma) help homeless people find temporary employment while assisting them in transitioning to full-time work. Beggars can find work in this way.
+1.2.1.3. Pro: Criminalizing begging will make it harder for convicted beggars to find work.
+1.2.1.3.1. Pro: Criminalizing begging would reinforce the notion that beggars are ["bad" and "immoral"](https://indianexpress.com/article/cities/mumbai/beggars-can-be-choosers-if-govt-gets-its-act-together/), making employers less willing to give them job opportunities.
+1.2.1.3.2. Pro: Beggars who are in prison are unable to seek work or meaningfully build their CV.
+1.2.1.3.3. Pro: People with a criminal record find it [more difficult](https://www.fastcompany.com/40448610/its-hard-for-people-with-criminal-records-to-get-a-job-this-new-job-site-can-help) to secure employment than people with no criminal record.
+1.2.1.3.3.1. Con: Begging would not necessarily be a felony offense, and therefore may not be put on offender's criminal records. It may be treated in the same way parking tickets are currently.
+1.2.1.3.4. Con: Many countries have [job programs](https://lao.ca.gov/Publications/Report/3781) for convicted criminals.
+1.2.1.3.5. Con: Banning begging may give [beggars and homeless organizations](https://nationalhomeless.org/) more leverage in their activism, as they can powerfully claim the need for more government assistance to help individuals follow the law.
+1.2.1.4. Pro: Beggars may struggle to find work as they may often be stereotyped and passed over for more 'traditional' applicants.
+1.2.1.4.1. Pro: Begging does not help develop any skills which would be useful when applying for jobs.
+1.2.1.4.1.1. Pro: Many jobs that pay a living wage require [extensive education and qualifications](https://www.bls.gov/opub/mlr/2006/article/earnings-mobility-and-low-wage-workers-in-the-united-states.htm).
+1.2.1.4.2. Pro: There is a stigma associated with homelessness which can make it difficult to find a job. Mental health problems, lack of education, an underfunded social support system, and bad luck can lead to homelessness.
+1.2.1.4.3. Pro: If someone is destitute, it is unlikely they will have professional attire appropriate for a job interview.
+1.2.1.4.3.1. Con: There exist groups who amass business clothing to [give to those in need](https://www.theguardian.com/money/2012/mar/06/homelessness-charities-job-seekers) for job interviews.
+1.2.1.4.4. Con: An increasing number of [resources](https://www.wrksolutions.com/about-us/best-practices-and-success-stories/employment-for-homeless-individuals) are being used, in many countries, to help the homeless and impoverished find jobs.
+1.2.1.4.5. Con: Many employers have started using ['blind applications'](https://www.ciphr.com/features/what-is-blind-recruitment/) where they are unable to see many of the class, gender and racial indicators of their applicants. This may help beggars find jobs.
+1.2.2. Pro: When people can receive money from begging, they have [less incentive](http://blog.practicalethics.ox.ac.uk/2012/09/dont-give-money-to-beggars/) to look for employment.
+1.2.2.1. Pro: Many beggars who choose opportune areas to beg, like [cities](https://www.nottinghampost.com/news/nottingham-news/beggars-making-up-45000-year-3149893), are able to bring in enough money to support themselves.
+1.2.2.1.1. Pro: Even if some are able to guarantee stable lives for themselves through begging, it is preferable that they find jobs.
+1.2.2.1.1.1. Pro: Income from jobs can be [taxed](https://www.taxfairness.ca/en/page/10-big-reasons-feel-good-about-taxes), which allows that money to be distributed to areas of need.
+1.2.2.1.1.2. Pro: If their income is undeclared, they will be more able to apply for things like [unemployment benefits](https://www.lifelock.com/learn-fraud-what-is-welfare-fraud.html) even if they do not need it.
+1.2.2.1.1.3. Con: This is fundamentally an issue of personal choice; arbitrarily determining that it is 'preferable' that all individuals are employed does a disservice to those who - for their own reasons - may not wish to enter formal employment.
+1.2.2.1.2. Con: While there may be some cases where beggars make large sums, [for most](https://www.independent.co.uk/life-style/begging-just-scam-or-lifeline-those-most-need-a7371516.html), begging does not give individuals enough to live comfortably.
+1.2.2.1.2.1. Pro: Beggars are "[uniquely willing](https://chicagopolicyreview.org/2020/05/14/the-economics-of-begging/)" to accept low-paying work, as they see it as an improvement over having to beg.
+1.2.2.2. Con: Beggars rarely lack an incentive to look for work.
+1.2.2.2.1. Pro: The 'professional beggar' was a trope created in the late 19th century to [shift the blame for increased homelessness away from employers](https://www.smithsonianmag.com/history/myth-professional-beggars-and-why-it-endured-centuries-180962726/) who were diminishing the job security of workers.
+1.2.2.2.2. Con: Even if beggars do not make astonishing amounts of money, [they can still make more](https://www.somersetlive.co.uk/news/somerset-news/big-issue-vendor-beggars-make-3657334) than some grueling low-wage jobs. It is only rational for some to opt for begging.
+1.2.2.2.2.1. Con: This is not an argument against begging, but one for increasing minimum wages.
+1.2.2.3. Con: Spending the day in the streets and begging is [not a comfortable activity](https://www.stuff.co.nz/national/88533530/beggars-reveal-what-life-is-like-on-the-street). Moving out of that situation is already a strong incentive.
+1.2.2.3.1. Con: Just as some see owning their own business to be preferable to working for another, some people abhor the regular job market.
+1.3. Con: Enforcing a ban against begging is likely to provoke cruelty.
+1.3.1. Pro: Since beggars will continue to beg, they will face hostility and violence from law enforcement.
+1.3.1.1. Con: Even if begging is made illegal, the obvious plight of a beggar in poverty will likely lead to police and law enforcement attempting to stop them while respecting them and preserving their dignity.
+1.3.1.1.1. Con: The discourse surrounding beggars in public policy is often [aggressive and invective](https://www.dawn.com/news/1548249) - it is unlikely that the police will be concerned with respecting beggars.
+1.3.1.1.2. Pro: Many people oppose the demonisation of beggars and instead support building a better [understanding](https://www.theguardian.com/society/2018/sep/04/dont-demonise-beggars-homelessness-solve-problem-humans) of the conditions which have brought them to their poor state.
+1.3.1.2. Pro: Beggars who are fined as punishment for begging are rarely in a position to pay those fines. As a result, they are plunged into a vicious cycle of debt and poverty \([p. 33](http://www.lawright.org.au/_dbase_upl/Parity2017_The_Crime_of_Begging_Punishing_Poverty_in_Australia.pdf)\).
+1.3.1.2.1. Pro: Fining beggars can result in some beggars accumulating high levels of debt. In some municipalities in Belgium [\(p. 4\)](https://www.feantsa.org/download/2015-02-07_draft_criminalisation_policy_statement-38703600034690521366.pdf), beggars with high levels of debt have been deemed ineligible for social housing.
+1.3.1.3. Pro: If begging is criminalized, a fear of being arrested and punished will deter beggars from reporting crimes committed against them.
+1.3.1.4. Con: Allowing begging to continue can often lead to civilian [violence against beggars](https://www.theguardian.com/society/2018/sep/04/dont-demonise-beggars-homelessness-solve-problem-humans).
+1.3.1.4.1. Con: This will happen whether or not begging is legal.
+1.3.1.4.2. Pro: The poor and disenfranchised are especially vulnerable to hate crimes and attacks. Over a 15 year period, there have been [nearly 1,500 acts of violence \(p. 4\)](http://nationalhomeless.org/wp-content/uploads/2014/06/Hate-Crimes-2013-FINAL.pdf) against homeless persons in the US, causing 375 deaths.
+1.3.2. Pro: Fining beggars places further hardship upon members of society that already experience severe disadvantages.
+1.3.2.1. Pro: -> See 1.2.1.1.4.1.
+1.3.2.2. Con: Fines are meant as a preventative measure: to ensure people don't opt to beg in the first place. The goal is not to charge beggars money.
+1.3.2.3. Pro: -> See 1.3.1.2.
+1.3.3. Con: Widespread begging often fosters [backlash](https://www.latimes.com/archives/la-xpm-1994-04-28-we-51265-story.html) from residents.
+1.3.3.1. Pro: Increasing public exposure to homeless people can [improve public attitudes](https://www.jstor.org/stable/3593074) towards them. Criminalizing begging, thereby reducing people's exposure to beggars, is likely to foster greater backlash.
+1.3.3.1.1. Pro: The [contact hypothesis](https://en.wikipedia.org/wiki/Contact_hypothesis) suggests that increasing contact between members of an "in-group" and an "out-group" improves relationships between the groups.
+1.3.3.1.1.1. Con: The contact hypothesis considers '[institutional support for the contact](https://www.thoughtco.com/contact-hypothesis-4772161)' to be an important catalyst for beneficial interaction. Governments are typically either dismissive or aggressive towards beggars.
+1.3.3.1.1.1.1. Pro: The contact hypothesis presupposes that the members of both groups have [equal status](https://www.thoughtco.com/contact-hypothesis-4772161). Beggars, however, are maligned and looked down on in society.
+1.3.3.1.1.2. Pro: Increased contact between groups can break down stereotypes and replace prior beliefs with first-hand personal experience.
+1.3.3.1.1.2.1. Pro: Forbidding begging would reinforce dominant ideas of beggars as being 'leeches' or 'dirty'. This would allow people to rationalize their selfishness.
+1.3.3.1.1.2.2. Con: Given [how prominent](https://theconversation.com/begging-professionally-doesnt-make-their-poverty-and-vulnerability-any-less-legitimate-120010) existing stereotypes against beggars are, seeing more of them may make people feel unsafe and willing to support cruel government policies against beggars.
+1.3.3.1.1.2.3. Pro: Being begged helps people keep asking themselves about what they are doing to help their poorer fellow human beings.
+1.3.3.1.2. Con: The contact time in a typical begging scenario is insufficient for beneficial interaction as per the [contact hypothesis](https://www.thoughtco.com/contact-hypothesis-4772161).
+1.3.3.1.2.1. Con: However, over the course of one's life, they are likely to have hundreds of interactions with beggars, massively increasing the overall contact time.
+1.3.3.2. Pro: Allowing begging can therefore often lead to the passing of even harsher, crueler laws against beggars.
+1.3.3.2.1. Pro: The desire to criminalize begging is sometimes fueled by prejudice against groups that are perceived to be "more likely" to engage in begging.
+1.3.3.2.1.1. Pro: For example, support for a ban on begging in Norway appears to be [influenced](http://bora.uib.no/bitstream/handle/1956/15611/150425577.pdf?sequence=1) by negative stereotypes about the Roma.
+1.3.3.2.2. Pro: In 2019, a Swedish town passed a law forcing beggars to pay 21 euros for a permit to beg. This [made life much harder](https://www.theguardian.com/world/2019/aug/05/swedish-town-launches-controversial-21-begging-permit) for the impoverished.
+1.3.3.2.3. Con: No law regulating begging can be as injurious to a beggar as a law that makes begging entirely illegal.
+1.3.3.3. Con: This backlash is often [fostered by media and politicians](https://fair.org/home/shining-a-spotlight-on-anti-homeless-reporters/) who demonize beggars and the homeless, rather than being a result of the actions of beggars themselves.
+1.3.3.4. Con: Begging would likely continue even if it was illegal, meaning that this backlash would still exist.
+1.3.3.4.1. Pro: Even if begging is criminalized, many beggars will continue begging.
+1.3.3.4.1.1. Pro: To avoid detection by the police, beggars will move to areas with less police presence - thus placing themselves at greater risk of harm.
+1.4. Pro: Begging on sidewalks and streets can pose safety issues.
+1.4.1. Pro: The [Broken Windows Theory](https://www.npr.org/2016/11/01/500104506/broken-windows-policing-and-the-origins-of-stop-and-frisk-and-how-it-went-wrong) suggests that visible signs of civil disorder and anti-social behaviour, such as begging, may create an urban environment where further crime and disorder are more likely.
+1.4.1.1. Con: The link between people's perception of safety and overall crime is indirect and difficult to measure.
+1.4.1.1.1. Pro: The increase of officers on foot patrol in Newark, New Jersey increased residents' perceptions of social order and safety but had [no discernable impact on crime rates](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=81779).
+1.4.1.2. Con: As beggars still face poverty, beggars may be forced to resort to crime or other anti-social behaviour. This is worse for the surrounding community than begging.
+1.4.1.2.1. Con: Most people who engage in forms of street crime do so because they live in [areas where others they know have done so](https://www.jrf.org.uk/report/understanding-drug-selling-local-communities). Beggars who may turn to these options are likely to do so even when begging is legal.
+1.4.1.2.2. Pro: Banning begging may force people to [engage in prostitution](https://ideas4sustainability.wordpress.com/2011/07/18/begging-crime-and-prostitution/) instead.
+1.4.1.2.2.1. Con: Not all beggars would have the opportunity to engage in prostitution. The sex work market may be saturated, or the beggars ill suited to the work.
+1.4.1.3. Pro: Begging on the street makes the area or city look deprived and thus can [affect the tourist rate](https://www.malloryontravel.com/2012/07/comment-editorials/responsible-tourism-beggars-adventure-travel-photography/) of a city as people do not want to be asked to give money from someone begging.
+1.4.1.3.1. Con: It is wrong to ban begging in tourist areas. Tourist areas are where beggars are [most likely to access potential contributors](https://www.tandfonline.com/doi/abs/10.1080/10941665.2016.1233891?scroll=top&needAccess=true&journalCode=rapt20).
+1.4.1.3.1.1. Pro: Tourists also tend to have slightly [more disposable income](http://reports.weforum.org/travel-and-tourism-competitiveness-report-2017/industry-trends/), and thus may be more willing to give.
+1.4.1.3.1.2. Con: Beggars are also more likely to [face police violence in tourist areas](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/how-police-launched-blitz-city-15469201). A ban on begging may discourage beggars from going to them, thereby minimizing this violence.
+1.4.1.3.2. Pro: Tourists often do not want to be reminded of social issues and poverty while on vacation [\(2.2\)](https://journals.openedition.org/eue/1306).
+1.4.1.3.2.1. Pro: The needs of tourists fortunate enough to be able to afford to travel should not be prioritised above an area's residents who are unfortunate enough to have to beg.
+1.4.1.3.2.1.1. Con: Oftentimes the residents of tourist areas rely on tourism as their source of income. Begging that harms tourism [impacts those residents' livelihoods](https://www.unglobalpulse.org/project/economic-crisis-tourism-decline-and-its-impact-on-the-poor-2011/).
+1.4.1.3.2.2. Con: The extent to which tourists enjoy their vacations has [little to do](https://www.tandfonline.com/doi/abs/10.1080/10941665.2016.1233891?scroll=top&needAccess=true&journalCode=rapt20) with their interactions with beggars.
+1.4.1.4. Pro: The sight of individuals begging can be distressing for citizens that encounter them.
+1.4.1.4.1. Con: Witnessing human suffering should cause distress. The distress might motivate otherwise apathetic individuals to do something to reduce inequality in society \([p. 578](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.2664&rep=rep1&type=pdf)\).
+1.4.1.4.1.1. Pro: People are less able to address a problem if they are not aware that the problem exists.
+1.4.1.4.2. Pro: Many people feel conflicted about whether or not to give beggars money. This makes them feel [guilty](https://medium.com/\@zacwierschem/what-to-do-when-a-beggar-asks-you-for-money-7198108bd3ce) independent of what action they choose.
+1.4.2. Con: Any safety problems caused by begging can be [diminished](https://www.london.gov.uk/press-releases/mayoral/full-links-between-poverty-and-violent-crime) by creating a more inclusive and balanced economy and society, where beggars can easily access assistance.
+1.4.2.1. Pro: [Finland has ended homelessness](https://www.pressenza.com/2020/07/finland-ends-homelessness-and-provides-shelter-for-all-in-need/) by guaranteeing housing for all people. This means that people can spend less time on the street and consequently face less violence.
+1.4.2.2. Con: For most countries, it would be [too expensive to build more affordable housing](https://apps.urban.org/features/cost-of-affordable-housing/) or provide more generous social programs.
+1.4.2.2.1. Con: Investments in social care are long-term investments that would be easy to pay back in the future.
+1.4.2.2.1.1. Pro: Guaranteeing [housing](https://england.shelter.org.uk/professional_resources/policy_and_research/policy_library/policy_library_folder/investment_in_housing_and_its_contribution_to_economic_growth) and healthcare would give most individuals greater disposable incomes which would allow them to put more of their money back into the economy.
+1.4.2.2.2. Pro: Such large investments would require governments to take on more debt, which may [harm their economies](https://www.investopedia.com/updates/usa-national-debt/) in the long-term.
+1.4.3. Pro: People who are begging can block access to local businesses, streets, or residences.
+1.4.3.1. Con: Regulations can be implemented to prevent begging in areas \(such as entrances\) where accessibility might be severely impacted without having to make begging illegal.
+1.4.3.1.1. Pro: Citizens are generally not allowed to [block common walkways](https://www1.nyc.gov/nycbusiness/article/sidewalk-usage-guide) as they could become a hazard.
+1.4.3.2. Pro: [Surveys](https://www.americanbanker.com/news/banks-back-proposal-for-new-york-to-ban-begging-near-atms) indicate that people support banning panhandling near ATMs because the presence of a person begging nearby makes them nervous about withdrawing money.
+1.4.3.3. Con: Even if begging on sidewalks is disruptive, it does not mean it ought to be banned.
+1.4.3.3.1. Pro: Beggars have just as much of a right to use public spaces as any other citizen.
+1.4.3.3.1.1. Pro: The [U.S. Supreme Court](https://www.huffingtonpost.com/evan-bernick/yes-the-first-amendment-p_b_9910602.html) has ruled that asking people for money is a protected form of free speech.
+1.4.4. Con: Beggars face far more [safety risks](https://www.theguardian.com/society/2018/sep/04/dont-demonise-beggars-homelessness-solve-problem-humans) than anyone else they encounter on the streets as they have to survive in a harsh environment without shelter, facing constant stress.
+1.4.4.1. Pro: Having to beg often leads to [immense mental health problems](https://www.health.harvard.edu/newsletter_article/The_homeless_mentally_ill).
+1.4.4.2. Con: These safety risks will multiply if the areas beggars are in become even less safe due to the disruptions caused by beggars.
+1.4.4.2.1. Pro: If an entire neighborhood becomes poorer, residents will not have as much money to give to beggars.
+1.5. Pro: Begging can be exploitative.
+1.5.1. Pro: Some beggars exploit the goodwill of people while not being [in need of financial help](https://www.standard.co.uk/news/crime/beggar-who-earned-50000-a-year-and-lives-in-300000-fulham-flat-is-arrested-again-8646973.html).
+1.5.1.1. Con: The fact that some individuals exploit a practice doesn't negate the fact that many individuals legitimately depend upon the practice for survival.
+1.5.1.1.1. Pro: Some individuals also commit [welfare fraud](https://time.com/4711668/history-food-stamp-fraud/) to exploit a state's welfare system, but such welfare systems are allowed to continue to exist.
+1.5.1.2. Con: Even if a beggar is suspected of unscrupulous behavior by a bystander, it is still that person's choice to give or withhold their money.
+1.5.1.3. Pro: Begging can be very profitable and tax free.
+1.5.1.3.1. Pro: -> See 1.1.4.3.2.1.
+1.5.1.3.2. Pro: A study by The Department of Justice revealed a man in NY [making $200 an hour](https://www.snopes.com/fact-check/do-panhandlers-make-50-an-hour/) with his dog.
+1.5.1.3.3. Con: -> See 1.2.2.1.2.
+1.5.1.4. Pro: Begging should be used to cover basic needs. However, money [often goes to drug abuse](https://www.telegraph.co.uk/news/uknews/1373460/More-than-80pc-of-street-beggars-are-taking-drugs.html) or other purposes.
+1.5.1.4.1. Pro: A [former addict](https://www.herefordtimes.com/news/17500135.now-former-drug-addict-urges-dont-give-cash-beggars/) urged people not to give money to beggars, citing from their own experiences that it would be used to fund a drug habit.
+1.5.1.4.2. Con: Many addicts may not be able to get entirely clean without severe physical harms. For them, to use money earned through begging on drugs is not always a bad thing.
+1.5.1.4.3. Con: Even if part of the money goes to drug abuse, some money will likely go to the basic needs of food and water, making the donation worth it.
+1.5.1.4.3.1. Pro: Everyone, [including addicts](https://www.newstatesman.com/politics/uk/2017/10/why-you-should-give-money-directly-and-unconditionally-homeless-people), deserve the bare minimum of food and water.
+1.5.1.4.4. Pro: -> See 1.1.4.3.2.
+1.5.2. Con: Banning begging will not end the exploitation of people who are forced to beg.
+1.5.2.1. Pro: Making begging illegal would not end child trafficking; it would only change what kind of labour the children were forced to do.
+1.5.2.1.1. Con: Begging is a [highly profitable](https://slate.com/human-interest/2013/09/giving-money-to-child-beggars-dont-do-it.html) form of child labour for human traffickers. Even if other forms persist, they will be less profitable and thereby reduce the incentive for the trafficking of children.
+1.5.2.1.1.1. Pro: If the children are not able to bring in money through begging, cartels will not have the profit incentive to traffic them.
+1.5.2.1.1.2. Con: Since child begging is so profitable, even if traffickers lose some income, it will still likely be worth it for them to continue using children.
+1.5.2.1.1.2.1. Pro: If child beggars continued to beg even after begging was illegal, it would lead to the children being targeted by the police. This would make life even harder for them.
+1.5.2.1.1.2.1.1. Pro: Children would end up with criminal records through no fault of their own, which would hurt their chances at having a better life.
+1.5.2.1.2. Pro: There would still be a profit incentive to traffic children for [sexual exploitation](http://www.heatwatch.org/human_trafficking/about_csec).
+1.5.2.2. Pro: -> See 1.4.1.2.2.
+1.5.2.3. Con: When begging is banned, police can be better placed to [assist beggars](https://www.thelocal.se/20190104/police-start-enforcing-swedens-first-begging-ban).
+1.5.2.3.1. Con: Police are usually not trained to deal with beggars so often interactions between the two cause [severe harm](https://scholars.org/contribution/why-cities-must-end-their-reliance-police-manage-homelessness-and-how-they-can-do-it) to beggars.
+1.5.2.3.2. Pro: As police focus on begging increased in Sweden, they were able to allocate more resources towards [busting international begging rings](https://www.thelocal.se/20171205/swedish-police-bust-international-begging-ring).
+1.5.3. Pro: Children from around the world are trafficked and brought into [forced begging schemes](http://humantraffickingsearch.org/201788forced-begging/), in violation of both human rights and child labour laws.
+1.5.3.1. Pro: In [Senegal](https://www.hrw.org/report/2014/03/19/exploitation-name-education/uneven-progress-ending-forced-child-begging-senegal), children are forced to beg by their Quranic schools.
+1.5.3.2. Pro: Studies have found that handicapped children bring in three times as much revenue as non-handicapped ones. This has led to forced [mutilations and amputations](http://humantraffickingsearch.org/201788forced-begging/) with the goal of rendering the children more profitable.
+1.5.3.2.1. Pro: Reported examples of this practice include but are not limited to: forced amputations of children's limbs, the deliberate blinding of children, and throwing acid onto a child \([p. 8](http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_310228.pdf)\).
+1.5.3.2.2. Con: These acts are still crimes irrespective of whether begging is banned. Therefore, they can be solved by other means like better policing or greater assistance for the impoverished.
+1.5.3.2.2.1. Con: It is more likely that exploiters will stop these acts when begging is made illegal, as the profit incentive of hurting children is removed.
+1.5.3.2.2.2. Pro: Child protective services are often [underfunded](https://www.theguardian.com/society/2018/jul/11/underfunding-to-blame-for-child-protection-crisis-says-report). Supporting these services could allow social workers to better protect children from such forms of violence.
+1.5.3.2.2.3. Con: It is unlikely that policing will be able to absolutely prevent these crimes.
+1.5.3.3. Pro: As of 2016, [over 300,000 children in India](http://www.dnaindia.com/india/report-300000-children-across-india-are-forced-to-beg-by-cartels-report-2218856) were controlled by human trafficking cartels for forced begging.
+1.5.3.4. Con: -> See 1.5.2.1.
+1.5.3.5. Con: Forced begging is [already illegal](https://ec.europa.eu/anti-trafficking/publications/children-trafficked-exploitation-begging-and-criminality-new-report_en) under child labour laws. Banning begging outright would not necessarily stop the practice.
+1.5.3.5.1. Con: It is easier to protect people from exploitation when all begging is banned, as opposed to having to inquire and investigate if a specific incident of begging is exploitative.
+1.5.3.5.1.1. Con: However, this runs the risk of denying some honest beggars their only ability to earn their living.
+1.5.3.5.1.1.1. Con: It is more important to prevent the exploitation of people than it is to allow people to beg.
+1.5.3.5.2. Pro: Forced begging can be [profitable](https://humantraffickingsearch.org/201788forced-begging/) for human traffickers, so it is unlikely they would give up that money if begging were banned.
+1.5.3.6. Pro: Police have estimated that, in 2011, [160 children](http://www.dailymail.co.uk/news/article-2826035/Child-exploitation-deeply-disturbing-story-Red-Ed-s-14-year-old-Roma-beggar.html) were trafficked into the UK from Romania by organised groups.
+1.5.4. Pro: Beggars are often themselves the [targets of exploitation](https://sverigesradio.se/artikel/6548604). People should not support activities that depend on exploitation.
+1.5.4.1. Con: Exploitative begging should be banned. However, it does not follow from this that all begging should be banned.
+1.5.4.1.1. Pro: It is the duty of law enforcement to track down the exploiters and protect rather than punish those being exploited.
+1.5.4.1.2. Con: -> See 1.5.3.5.1.
+1.5.4.2. Pro: The homeless are often targeted by [criminal groups](https://www.occrp.org/en/daily/2762-hungary-homeless-people-qpaid-by-crime-gangs-to-steal-carsq) and forced to do risky jobs.
+1.5.4.3. Con: Beggars are vulnerable to exploitation because of their incredible poverty. Banning begging will do nothing to change this fact.
+1.5.5. Con: Just about anything can be exploitative. Salesmen and advertisements can [manipulate](https://smallbusiness.chron.com/examples-manipulative-advertising-11668.html) customers into paying more than required. Begging's exploitative nature, therefore, cannot justify banning it.
+1.5.5.1. Pro: The capitalist system, under which most of the world operates, can be [exploitative](http://www.admin.cam.ac.uk/offices/hr/ppd/files/gdp-teach&learn_Sociology.pdf).
+1.5.5.1.1. Pro: Like beggars, many workers are exploited by their jobs.
+1.5.5.1.1.1. Pro: According to Marx's [labour theory of value](https://plato.stanford.edu/entries/exploitation/#MarxTheoExpl), the commercial economy is inherently exploitative because it requires workers to sell their labour for less than the value which it produces.
+1.5.5.1.1.1.1. Con: Many economists have [criticised](https://en.wikipedia.org/wiki/Criticisms_of_the_labour_theory_of_value) Marx's labour theory of value.
+1.5.5.1.1.2. Con: [Research](https://www.emeraldinsight.com/doi/abs/10.1108/S0161-723020170000032003) shows that in the 1990s and 2000s, there were countries where the rate of exploitation in advanced countries was decreasing as labour costs become non-exploitative.
+1.5.5.1.1.3. Con: A truly free market system cannot be exploitative as the [workers will find other employers](https://thepolicy.us/capitalism-is-not-exploitative-9207b4e70ca4) who will value their labour.
+1.5.5.1.1.3.1. Con: A truly free market [does not exist](https://www.newstatesman.com/politics/economy/2015/10/free-market-theres-no-such-thing) anywhere in the world. The version of capitalism present within the world tends to be exploitative.
+1.5.5.1.1.4. Pro: Many large corporations [maximize](https://www.prb.org/offshoring/) profits by setting up factories in poorer countries where they pay workers less than their labour is worth. Like beggars, these people are exploited as they seek to survive.
+1.5.5.1.1.4.1. Pro: Chinese factories from which many consumer products come are [known](https://www.theguardian.com/business/2016/dec/04/the-grim-truth-of-chinese-factories-producing-the-wests-christmas-toys) to be notoriously exploitative.
+1.5.5.1.1.5. Pro: In countries where unionization has increased, it has been [severely repressed](https://www.greenleft.org.au/content/how-thatcher-smashed-unions) by the government, therefore forcing people to pick between working on low wages or not working at all and falling into poverty.
+1.5.5.1.2. Con: Even if a system is prone to being exploitative, there exist varying degrees of exploitation; if begging is particularly exploitative then it should be banned.
+1.5.5.2. Con: Begging does not amount to simply a standard form of exploitation. It is uniquely exploitative because of the [extreme poverty](https://chicagopolicyreview.org/2020/05/14/the-economics-of-begging/) faced by those begging.
+1.5.5.2.1. Pro: Immense poverty denies individuals the ability to choose and pursue their own goals, thereby reducing them to their [bare human necessities](https://iep.utm.edu/sen-cap/).
+1.5.5.2.1.1. Pro: While forms of wage labour may involve some form of exploitation, many jobs allow individuals to live their own lives [once work ends](https://www.bls.gov/news.release/pdf/atus.pdf). Beggars cannot do this.
+1.5.5.2.2. Con: If poverty is the root cause of the exploitation of beggars, then banning begging is, at best, an indirect means of addressing the problem.
+1.6. Con: It would be unjust for a government to ban begging.
+1.6.1. Pro: Unless one's act is threatening or disruptive, the bar for what is made illegal should be very high.
+1.6.1.1. Con: Even if beggars are not themselves acting aggressively, if their behavior brings [long-term disruptive effects](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198260578.001.0001/acprof-9780198260578-chapter-012), then begging meets the bar to be made illegal.
+1.6.1.2. Con: States frequently ban activities with minimal harm to others if they are bad for the individual doing them.
+1.6.1.2.1. Pro: Hard drugs are [banned in most countries](https://www.bbc.com/news/uk-11001803) around the world.
+1.6.1.3. Pro: According to the [Harm Principle](https://ethics.org.au/ethics-explainer-the-harm-principle/), people should be free to act as they choose unless their behaviour hurts others.
+1.6.1.4. Pro: Begging, when not aggressive, does not pose harm to other members of society.
+1.6.1.4.1. Pro: At worst, begging can cause other people to feel uncomfortable and guilty.
+1.6.2. Pro: -> See 1.1.3.2.
+1.6.3. Con: Many states prohibit [aggressive begging](https://en.wikipedia.org/wiki/Aggressive_panhandling). Making begging illegal would be a legitimate extension of that authority.
+1.6.3.1. Con: Aggressive begging is qualitatively different from regular begging - the former actively attempts to be disruptive and pose a nuisance.
+1.6.4. Con: It is illegitimate to ask for money without doing something in return.
+1.6.4.1. Con: When people find themselves begging, it is often because they have nothing to give or do in return.
+1.6.4.1.1. Pro: Most people would [rather not beg](https://www.sfgate.com/bayarea/article/The-city-s-panhandlers-tell-their-own-stories-4929388.php) if given a choice.
+1.6.4.1.1.1. Pro: Begging offers no job security, no chance of upward mobility, and no benefits - nobody would elect to beg if they could get any normal job.
+1.6.4.1.1.2. Con: Begging allows people to earn without performing any productive labour. There will likely always be a niche group of people for whom this is an inviting prospect.
+1.6.4.2. Con: A potential donor can always choose not to give any money. If someone freely gives money to a beggar without anything in return, the act is voluntary and therefore legitimate.
+1.6.4.2.1. Pro: Birthday gifts, wedding registries, and other forms of generosity are based on the idea of giving something without receiving anything in return.
+1.6.4.2.1.1. Con: Everyone has birthdays, and many people have weddings - when someone gives gifts on these occasions, they are also expecting to receive gifts in their own lives.
+1.6.4.2.2. Pro: Non-profits, including charities and some religious organizations, fundraise and ask for money from donors and typically [certify](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contributions-written-acknowledgments) that the money was received without being in exchange for anything.
+1.6.4.2.2.1. Con: Non-profits and charities are required to have a specific goal or mission. Donations to the non-profit are seen as an exchange of money toward furthering the community.
+1.6.4.2.3. Con: For many, the choice to give is not voluntary. Instead, they give due to the [shame](https://scholar.harvard.edu/files/shai-dromi/files/dromi_penny_for_your_thoughts_website_version.pdf) they would feel if they did not give.
+1.6.4.2.3.1. Con: This shame is not a coercive force - the donation remains entirely voluntary.
+1.6.4.3. Pro: The majority of people in society work for what they have; it is unfair of beggars to ask that these people sacrifice those gains for the beggars' benefit.
+1.6.4.3.1. Pro: This is particularly true in states with social welfare programs, as the poor are already being provided for by the taxes on the rest of the population.
+1.6.4.3.2. Pro: Begging causes beggars to act as leeches who profit off of the productive labour of the rest of society.
+1.6.4.3.3. Con: Begging has strong links with [poverty](https://tribune.com.pk/story/249099/social-ills-poverty-driving-people-to-beggary/), and poverty is often [generational](https://www.huffingtonpost.ca/craig-and-marc-kielburger/poverty-inherited_b_7663842.html). Beggars are not at fault for not being born into a better situation.
+1.6.4.3.3.1. Con: [Avoiding poverty](http://graduate high school, get a job, and don't have children out of wedlock) really only requires individuals to make sure they graduate high school, get a job, and don't have children out of wedlock.
+1.6.4.3.3.1.1. Con: As of July 2020, the US had an [unemployment rate](https://www.google.com/search?client=firefox-b-d&q=unemployment+rates) of over 10%.
+1.6.4.3.3.1.2. Con: There are significant numbers of [high school dropouts](https://nces.ed.gov/fastfacts/display.asp?id=16) in the US.
+1.6.5. Pro: When governments fail to uphold their duty in protecting their citizens [from extreme poverty](https://www.theguardian.com/commentisfree/2018/jan/11/newport-begging-homelessness-public-space-invisible), it is wrong to punish these failed citizens by banning begging.
+1.6.5.1. Pro: Beggars often use the cash obtained by begging to access basic services that the state should have provided them with in the first place. Punishing beggars for this is immoral.
+1.6.5.1.1. Con: The state is under no obligation to provide people with services.
+1.6.5.1.2. Pro: For example, in some regions, beggars need to pay cash \([p. 5](https://www.feantsa.org/download/2015-02-07_draft_criminalisation_policy_statement-38703600034690521366.pdf)\) to use emergency shelters.
+1.6.5.2. Con: Nations should not be responsible for their citizenry's fiscal health.
+1.6.5.2.1. Pro: For a government to take this responsibility would be to undermine the responsibility of an individual to make the best of their own life.
+1.6.5.2.2. Con: The state owes a paternal duty to provide for its citizens.
+1.6.5.2.2.1. Con: It is difficult to put a monetary figure on when the state can be deemed to have fulfilled its obligations towards any particular individual.
+1.6.5.2.2.1.1. Pro: This is particularly true in cases where states do not have an abundance of resources and cannot meaningfully be expected to help citizens reach a comfortable, middle-class lifestyle.
+1.6.5.2.2.1.2. Con: [Poverty thresholds](https://en.wikipedia.org/wiki/Poverty_threshold) do just that. If a person is living below the poverty threshold and cannot meet their basic needs, then the government should intervene.
+1.6.5.2.2.2. Pro: The state and its citizens have an ongoing monetary relationship. The state taxes citizens and as such should provide monetary aid to them where necessary.
+1.6.5.2.2.2.1. Pro: If the state did not provide this aid, it would be acting in a purely extractive capacity and would functionally be leeching off of society.
+1.6.5.2.2.2.2. Con: The [social contract](https://legaldictionary.net/social-contract-theory/) that typifies government does not include any premise to its constituents' financial health.
+1.6.5.2.2.2.3. Con: One of the major sources of revenue of most states is income tax, which those who engage in begging, for the most part, do not pay.
+1.6.5.2.2.2.3.1. Con: People who beg still pay taxes in the form of VAT for the goods they buy with the money they earn begging.
+1.6.5.2.3. Con: -> See 1.6.4.3.3.
+1.6.5.3. Pro: If begging is criminalized, people who beg will be at risk of being put in prison or fined. This is morally wrong.
+1.6.5.3.1. Pro: If a person is starving and must break the law to survive, then banning begging would make a criminal of a starving person. Starvation should not be criminalized.
+1.6.5.3.1.1. Pro: Criminalizing starvation and desperation would make it such that people are left with no legal options to save themselves from hunger and death.
+1.6.5.3.1.2. Pro: For many people, begging is the only legal way to get money. Banning begging would unnecessarily make these people criminals.
+1.6.5.3.1.3. Con: [Dumpster diving](https://freegan.info/what-is-a-freegan/freegan-practices/urban-foraging/diving-and-the-law/) is not illegal so there is no need to steal food in order to survive. One can just wait.
+1.6.5.3.1.3.1. Con: Food extracted from a dumpster is unlikely to be safe for consumption and will likely lead to illness and disease.
+1.6.5.3.1.3.2. Pro: 30-40% of all food produced in the USA is [discarded](https://www.usda.gov/oce/foodwaste/faqs.htm) before it hits the shelves of the supermarket. Therefore, there exists enough wasted food to make dumpster diving viable.
+1.6.5.3.1.3.3. Con: Forcing people to have to rely on digging through trash in order to survive is highly immoral.
+1.6.5.3.1.3.4. Con: Dumpster diving can provide for food and clothing at best - it does nothing toward helping people find shelter and/or work their way up in life.
+1.6.5.3.2. Con: If begging is criminalized, those that continue to do so would be morally wrong, hence justifying the punishment.
+1.6.5.3.2.1. Con: Something being illegal does not necessarily mean it is immoral.

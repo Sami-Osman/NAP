@@ -1,0 +1,89 @@
+Discussion Name: Should Law and Morality be Related?
+
+1. The law should always be based on morality.
+1.1. Con: The law has no inherent relationship with metaphysical concepts \(e.g., morality, truth or justice\).
+1.1.1. Pro: The law can sometimes enforce compliance with useful social conventions that have arisen from historical happenstance rather than logic, justice or morality.
+1.1.1.1. Pro: It is the law that you drive on the left in the UK but on the right in France or the USA. This may have a possible historic basis \(supposedly authority figures fought as infantry in the UK but as cavalry in France\) but it is now perpetuated by the law as a necessary social convention rather than as a rule based upon logic, justice or morality.
+1.1.2. Pro: Large parts of the law regulate \(formal\) procedures and other amoral subject matters.
+1.1.2.1. Pro: The traffic code aims to regulate traffic participants based on efficiency and safety aspects.
+1.1.2.2. Con: Some apparent amoral procedures and subject matters, however, contain a moral core.
+1.1.2.2.1. Pro: Fiscal law, for instance, is often geared towards a just tax burden for all levels of income.
+1.1.3. Pro: You can meet the civil servants who have drafted a particular legal document at a social event and know them to be as failible as any other person. The law is therefore neither authorative nor moral but the product of human endevours.
+1.1.4. Pro: The law requires human institutions before it can be realized within society \(e.g. in the UK, the Crown Prosecution Service, emergency call handlers etc.\). The policies and priorities of such institutions can change independently from the wording of the law. In contrast, abstract moral concepts exist independently from human institutions.
+1.1.5. Pro: The legal validity of a law does not depend on whether it is in any sense good or bad or whether or not it serves any utilitarian purpose. It is merely a string of words created by human beings.
+1.1.5.1. Con: Whether something is morally correct or serves any utilitarian purposes is merely a string of words created by humans, too. This is not an exclusive feature of legal validity.
+1.1.5.2. Pro: If \(hypothetically\) a multinational healthcare company were to use its financial and legal muscle \(i.e. a floor full of patent lawyers\) to squash a start-up company that was attempting to produce a better healthcare product then the multinational could be acting in accordance with the law and due legal process but counter to the utilitarian benefit of society and what the population would be expected to consider "moral" or "just."
+1.1.6. Pro: Law does not depend upon some abstract sense of ‘rightness’. Instead, the law is a ‘negative right’, based upon the ability of an authority to apply coercive force against an individual.
+1.1.7. Con: All citizens are equal before the law. This suggests that the law is based \(inherent relationship\) [on equality](https://plato.stanford.edu/entries/equality/#PriEquJus), which is considered a constitutive feature of justice.
+1.1.7.1. Con: "Equal before the law" is a myth. Try being a small or medium sized enterprise in a patent dispute with a multinational. Money and connections counts for far more than philosophical concepts like truth or justice in a so-called "court of law"
+1.1.8. Pro: The law can be used to influence the public's morality to bring about change which is viewed as necessary for the growth of society.
+1.1.8.1. Con: Education is more efficient for that.
+1.1.8.1.1. Pro: Education is proactive, you make people understand the "why" \(moral necessity\) of the law whereas enforcement of the law is repressive.
+1.1.8.2. Con: It's not the law's position to dictate how people should feel about certain issues and influence the public's morality
+1.1.8.2.1. Con: It's the other way around...  Laws exist in the first place because people feel certain ways about certain issues.
+1.1.8.2.1.1. Con: However there are examples such as the [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) which aimed to change or influence people's viewpoint on things such as race, gender and age discrimination to name a few.
+1.1.8.2.1.1.1. Con: Viewpoints \(or opinions\) are not objectively equal to each other in the context of Morality.
+1.1.8.2.2. Con: Laws do not relate to what people may or may not "feel" but what they may or may not "do".
+1.1.8.2.2.1. Pro: In the context of "moral laws" there is a meaning of "must do" too \(ought\) but feelings are either way not concerned.
+1.1.8.2.3. Pro: It would not be moral to use the law to influence the public's  morality.
+1.1.8.2.3.1. Pro: It would be coercion.
+1.1.8.2.3.2. Con: That would still be a moral choice, so law and morality would nonetheless be related and have regard for each other.
+1.2. Con: No law could encompass every moral consideration or personal code of ethics.
+1.2.1. Pro: Moral views are constantly changing and this would impose a significant burden on organs of the state to keep the law up to date.
+1.2.1.1. Con: Laws need to be kept up-to-date anyway to deal with technological developments. Those developments are necessarily attended with new questions of morality.
+1.2.1.2. Con: The burden isn't great, especially in democratic nations, because the law-making bodies and judicial systems will update those laws naturally as new realms of thought and philosophy develop.
+1.2.1.2.1. Con: However, it does take time for cases to reach superior courts for binding precedents to be set.
+1.2.1.2.2. Con: It would impose an unfair burden on law-making bodies to have to keep up to date with changing views when their attention may be needed with other issues.
+1.2.1.2.2.1. Con: There is nothing unfair about expecting law-makers to carry out the very tasks that are in their job description.
+1.2.1.3. Con: In democratic nations, the law will do this anyway as the people and/or their representatives change.
+1.2.2. Pro: Different people have different personal morals and different collective morals \(religions, cults, social norms etc.\). As everyone has their own morals then everyone would need their own laws.
+1.2.2.1. Con: People often share or come to share certain moral values- when these values are sufficiently common, they can be enacted.
+1.2.2.2. Con: Law is all the parts that a given society agree upon by majority \(democracy\), specifically regarding actions and behaviour \(there are no laws against thoughts\).
+1.2.2.2.1. Pro: So theoretically, anyone's actions that sit outside of that legal scope is considered amoral and the criminal justice system takes over. In this way, personal morality isn't a factor; the legal system doesn't concern itself with whether a criminal thinks what they did is okay.
+1.2.3. Pro: Morality is often subjective, emotional, and circumstantial based on religious and cultural backgrounds.
+1.2.3.1. Pro: Good law is the opposite: objective, dispassionate, collective and universal.
+1.2.3.1.1. Con: Ethics is about the evaluation of human actions. The law is implicitly a evaluation of actions. If something is in a sense "bad" you will be punished by the law. Even if law makers are trying to stay as neutral as possible there will always be an evaluational component to any law. It forbids one thing because it evaluates it as bad to some degree.
+1.2.3.1.2. Con: There are some cases where the circumstances regarding a situation influence the law. I use as reference the crime of murder. Some would think that murder is in any circumstances wrong because you are taking someone's life but a person can be given a lesser sentence if the crime was not planned and/or done with the intent to kill or cause harm. A person can be completely exonerated if it was self defense.
+1.2.3.1.3. Con: Morality is not subjective, emotional, nor circumstantial. It is the learned behavior of a human that comes to understand good versus evil.
+1.2.3.1.3.1. Pro: Laws very often touch upon moral issues, such as abortion. In those cases laws should be moral.
+1.2.3.1.3.1.1. Pro: Having morality in the law for issues such as abortion allows for legal creativity. For example, in [Royal College of Nursing v DHSS \(1981\)](http://www.e-lawresources.co.uk/Royal-College-of-Nursing-v-DHSS.php), the court held nurses could carry out abortions - allowing creativity in the law in terms of keeping up with changing moral views and the necessity of safe and accessible abortions.
+1.2.3.1.3.1.2. Con: Morality is subjective; and when it comes to issues such as abortion, peoples' viewpoints are based off of different moral compasses. It is therefore difficult to judge which moral compass the law should conform to.
+1.2.3.1.3.1.2.1. Con: If the society in question is democratic, then the natural solution would be to base laws off of whichever moral values are adhered to by the majority.
+1.2.3.1.3.1.2.2. Pro: This is actually shown perfectly well in the abortion debate. One party calls itself pro-life and the other pro-choice; can you really say you are against the right to live or against the right to choose? It ends up with which right you weigh more and that is completely subjective.
+1.3. Pro: Supporters of natural law see law and morals as interlinked. A valid law would be one based on morality as it comes from a higher source - God or nature.
+1.3.1. Con: A moral choice must always consider the law but is not necessarily bound by law.
+1.3.1.1. Pro: Many of history’s most moral figures were found guilty of serious crimes: Socrates, Jesus, Thoreau, etc.
+1.3.1.2. Pro: Morality requires a positive assertion of right and wrong, absent law. Fear of sanction does not absolve moral burden.
+1.4. Pro: There is no point in immoral laws.
+1.4.1. Con: Too much connection between law and morality may lead to the imposition of morals that have no real practical/pragmatic support.
+1.4.1.1. Pro: One example is the imposition of morals regarding sex, such as laws promoting "abstinence only" education and anti-LGBT laws and policies.
+1.4.1.1.1. Con: The problem in those cases is that abstinence only education and anti-LGBT laws are actually immoral. They also have more to do with religion than with ethics.
+1.4.2. Pro: An immoral law need not be obeyed.
+1.4.2.1. Pro: This was a view taken up by [Martin Luther King, Jr.](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) during the era of the civil rights movements.
+1.4.2.2. Con: Regardless of morality, a society that disobeys its laws invites chaos and anarchy.
+1.4.2.2.1. Con: Sometimes a society must disobey its laws because they are so immoral as to create or invite harm to society's members.
+1.4.2.3. Con: -> See 1.2.3.
+1.4.3. Con: -> See 1.1.8.
+1.5. Con: Supporters of positivism see the law and morality as separate. The validity of a law should not depend on whether it is good or bad. If it has been made correctly, it should be followed.
+1.5.1. Con: It is not moral to follow a badly drafted law, even if it has been created in accordance with due process.
+1.5.2. Con: [Ronald Dworkin](https://en.wikipedia.org/wiki/Ronald_Dworkin) contends that the very distinction between facts and values in the legal domain, between what the law is and what it ought to be, is much more blurred than Legal Positivism would have it.
+1.5.3. Con: Determining what the law is in particular cases inevitably depends on moral-political considerations about what it ought to be.
+1.5.4. Con: Evaluative judgments, about the content law ought to have or what it ought to prescribe, partly determine what the law actually is.
+1.5.5. Pro: Positivism still allows for moral considerations to be part of the content of the law. Positivism simply apposes the use of morality as part of the mix of what law itself is.
+1.6. Con: The law should prohibit conduct which is considered to harm the greater good of society - regardless of whether the conduct is moral or not.
+1.6.1. Con: Basing the law on what harms society is inherently a moral stance, based on the moral system of utilitarianism.
+1.6.2. Con: With objective morality \(i.e. following an objective standard: "Human Life and Flourishing"\) it becomes possible to create laws that promote human life by protecting individual rights.
+1.6.3. Con: The "greater good" measure is a poor reason to have a law. It does not consider fairness and other moral virtues.
+1.7. Pro: The law and morality are inherently connected.
+1.7.1. Pro: Morality lays out the principles by which everyone ought to live, so it underpins law.
+1.7.1.1. Pro: If morality says the good is to obey the prophet and the bad is to disobey the law will compel citizens to do that. But if morality says that the good is to follow your rational mind honestly, justly with integrity so you can produce & live independently, the law will protect everyone's right to the liberty to pursue their happiness free of compulsion, provided they don't initiate forcefull compulsion.
+1.7.2. Con: -> See 1.1.
+1.7.3. Pro: All laws, by their very nature, declare one behavior to be right and another to be wrong; therefore, it's impossible to legislate without legislating morality.
+1.7.4. Con: XXIst century web-based social and business interactions will occur across geographical boundaries \(thereby rendering ‘the law-of-the-land’ obsolete\) and in a moral framework where interacting people adopt a selection from many faiths or none. Morality and the law will therefore become dynamic, ad hoc matters of utilitarian convenience that arise spontaneously within small groups. There will be no static or inherent relationship between law and morality.
+1.7.5. Pro: The law should try to reflect a society's views and so there must be a close link between both.
+1.7.5.1. Con: -> See 1.2.1.
+1.7.5.2. Pro: -> See 1.2.1.3.
+1.7.5.3. Con: There are societies that currently view albinos to be "magical" and "evil" and [thus deserve to die](https://www.latimes.com/world/africa/la-fg-malawi-albinos-hunted-2017-story.html). This enforced as law would be immoral.
+1.7.6. Pro: Laws are the manifestation of morals. Laws have their origin from a set of morals that are approved by the respective country, state, city, etc.
+1.7.6.1. Con: In democratic systems, laws are the expression of the majority's morals; not of everyone's morals.
+1.7.6.2. Pro: Laws are the result of a change in social values.
