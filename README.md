@@ -1,7 +1,10 @@
 # NAP
 Next Argument Prediction
+
 Step 1: download main.ipynb and open the file in google Colab
+
 step 2: Clone the project to the colab working directory
+
 step 3: main.ipynb
 	This file contains the training, validation and testing phases step by step in colab notebook.
 	
