@@ -24,7 +24,7 @@ class argument_pair:
     self.df = pd.read_pickle(self.dataframe_path)
     self.dataFrame_name = dataFrame_name
     self.dataframe_argument_pairs = []
-    self.flag = 0
+    self.flag = 1
     self.index = 0
 
   def pair_argu(self, argument1, position1, argument2, position2, idx):
@@ -80,7 +80,7 @@ class argument_pair:
           pos2 = self.df.position[n]
           arg1 = argument1
           arg2 = self.df.argument[n]
-          self.flag = 0
+          self.flag = 1
       dataframe_arg = {
           "index": self.index,
           "label": label,
