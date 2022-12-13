@@ -50,6 +50,14 @@ step 4: I put all my output error analysis on two files.
 		>> The position1 and position2 are included for inspecting the correctness of the pairing process/
 		   
 		   they can be droped during the network training process.
+		   
+		>> NOTE: I set this file to generate dataset without transpose. If you want to generate new dataset that includes transpose:
+		
+			# go to GeneralDF_SentPairDF.py
+			# find self.flag = 1 in line 27 and 83
+			# change both of them to self.flag = 0
+			# do not change self.flag = 1 in line 75
+			# or simply you can use the dataset which I have already provided in the repo.
 
 3. output.py  I defined the classes in this file to use the new loaded model to predict the output independently.
 
