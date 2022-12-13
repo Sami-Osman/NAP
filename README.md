@@ -8,6 +8,12 @@ step 2: Clone the project to the colab working directory
 step 3: main.ipynb
 	This file contains the training, validation and testing phases step by step in colab notebook.
 	
+step 4: I put all my output error analysis on two files.
+
+	>> NAP_Error_Analysis_with_Transposed_Dataset.pdf
+	
+	>> NAP_Error_Analysis_without_Transposed_Dataset.pdf
+	
 # Files:
 1. kialo_GeneralDF.py
    
